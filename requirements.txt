@@ -1,7 +1,0 @@
-streamlit
-requests
-python-dotenv
-sentence-transformers
-torch
-transformers
-chromadb

@@ -1,0 +1,2497 @@
+[
+    {
+        "Instruction": "What are Ayurvedic practices for healthy skin?",
+        "Response": "Oil massage, triphala, and pitta-balancing food promote clear skin.",
+        "Context": "skin"
+    },
+    {
+        "Instruction": "Why is ghee so revered in Ayurveda?",
+        "Response": "It nourishes all tissues, sharpens intellect, and improves digestion.",
+        "Context": "ghee"
+    },
+    {
+        "Instruction": "How does Ayurveda approach weight loss?",
+        "Response": "Balance kapha, eat light, use triphala and daily exercise.",
+        "Context": "weight loss"
+    },
+    {
+        "Instruction": "What's a natural Ayurvedic pain reliever?",
+        "Response": "Turmeric, castor oil, and warm ginger compresses help.",
+        "Context": "pain relief"
+    },
+    {
+        "Instruction": "Which food increases ojas?",
+        "Response": "Milk, almonds, dates, ghee, and spiritual practice build ojas.",
+        "Context": "ojas"
+    },
+    {
+        "Instruction": "How can Ayurveda prevent hair graying?",
+        "Response": "Use bhringraj oil, amalaki, and cool the pitta dosha.",
+        "Context": "hair graying"
+    },
+    {
+        "Instruction": "What are natural Ayurvedic mouth cleansers?",
+        "Response": "Oil pulling, tongue scraping, and triphala mouth rinse.",
+        "Context": "oral hygiene"
+    },
+    {
+        "Instruction": "Why is warm water favored in Ayurveda?",
+        "Response": "It supports digestion, detox, and pacifies vata/kapha.",
+        "Context": "warm water"
+    },
+    {
+        "Instruction": "What's an Ayurvedic treatment for lethargy?",
+        "Response": "Stimulate energy with spicy herbs, deep breathing, and light meals.",
+        "Context": "lethargy"
+    },
+    {
+        "Instruction": "How does Ayurveda view sleep problems?",
+        "Response": "Sleep is vital; insomnia is due to vata or pitta imbalance.",
+        "Context": "sleep"
+    },
+    {
+        "Instruction": "What is trikatu used for?",
+        "Response": "Trikatu enhances digestion, metabolism, and clears mucus.",
+        "Context": "trikatu"
+    },
+    {
+        "Instruction": "What causes skin irritation in Ayurveda?",
+        "Response": "Pitta imbalance, ama buildup, and poor blood purification.",
+        "Context": "skin irritation"
+    },
+    {
+        "Instruction": "Which dosha causes cold hands and feet?",
+        "Response": "Vata imbalance leads to poor circulation and dryness.",
+        "Context": "vata"
+    },
+    {
+        "Instruction": "What should I eat for weak digestion?",
+        "Response": "Try ginger tea, rice, mung dal, and avoid raw/cold food.",
+        "Context": "digestion"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to aging?",
+        "Response": "Support dhatus with rasayana, herbs, and spiritual discipline.",
+        "Context": "anti-aging"
+    },
+    {
+        "Instruction": "Why is copper water advised in Ayurveda?",
+        "Response": "It improves immunity, digestion, and balances all doshas.",
+        "Context": "copper water"
+    },
+    {
+        "Instruction": "Whats a typical vata-pacifying breakfast?",
+        "Response": "Oatmeal with ghee, stewed fruits, and warming spices.",
+        "Context": "vata food"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing back pain?",
+        "Response": "Soothe back pain with massage oils, stretching, and proper posture.",
+        "Context": "back pain"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing eczema?",
+        "Response": "Use neem, turmeric, and a pitta-reducing regimen for skin healing.",
+        "Context": "eczema"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing fever?",
+        "Response": "Reduce fever with cooling teas, coriander, and light fasting.",
+        "Context": "fever"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing cough?",
+        "Response": "Soothe cough with licorice tea, sitopaladi, and warm turmeric milk.",
+        "Context": "cough"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing indigestion?",
+        "Response": "Improve digestion with ginger, cumin tea, and eating mindfully.",
+        "Context": "indigestion"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing weak immunity?",
+        "Response": "Boost ojas with rasayana herbs like chyawanprash and ashwagandha.",
+        "Context": "immunity"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing weight gain?",
+        "Response": "Reduce kapha with light diet, triphala, and daily exercise.",
+        "Context": "weight gain"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing hair fall?",
+        "Response": "Use bhringraj oil, iron-rich foods, and reduce stress.",
+        "Context": "hair fall"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing dry skin?",
+        "Response": "Nourish dry skin with sesame oil massage and vata-reducing foods.",
+        "Context": "dry skin"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing oily skin?",
+        "Response": "Balance oily skin with neem, amalaki, and pitta-pacifying diet.",
+        "Context": "oily skin"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing dandruff?",
+        "Response": "Treat dandruff with antifungal oils like neem and regular scalp care.",
+        "Context": "dandruff"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing gas?",
+        "Response": "Relieve gas with ajwain seeds, fennel tea, and avoid incompatible foods.",
+        "Context": "gas"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing bloating?",
+        "Response": "Use warm carminative teas and vata-soothing diet to reduce bloating.",
+        "Context": "bloating"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing acidity?",
+        "Response": "Balance pitta with aloe vera juice, coconut water, and cooling herbs.",
+        "Context": "acidity"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing ulcers?",
+        "Response": "Soothe ulcers with licorice, shatavari, and cooling pitta diet.",
+        "Context": "ulcers"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing nausea?",
+        "Response": "Use ginger tea, lime, and pitta-balancing measures to control nausea.",
+        "Context": "nausea"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing fatigue?",
+        "Response": "Boost energy with nourishing foods, adaptogens, and good sleep.",
+        "Context": "fatigue"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing low libido?",
+        "Response": "Enhance vitality with ashwagandha, shilajit, and rasayana herbs.",
+        "Context": "libido"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing depression?",
+        "Response": "Uplift mood with vata-balancing routine, sun, and herbal tonics.",
+        "Context": "depression"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing memory loss?",
+        "Response": "Sharpen memory with brahmi, meditation, and daily mental clarity rituals.",
+        "Context": "memory"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing cold?",
+        "Response": "Ease cold with ginger tea, tulsi, and kapha-reducing treatments.",
+        "Context": "cold"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing sore throat?",
+        "Response": "Soothe throat with licorice, warm water gargles, and turmeric milk.",
+        "Context": "sore throat"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing sinus congestion?",
+        "Response": "Use steam inhalation, nasya oil, and kapha-clearing herbs.",
+        "Context": "sinus"
+    },
+    {
+        "Instruction": "How to handle sore muscles in Ayurveda?",
+        "Response": "Massage with warm sesame oil and use turmeric paste.",
+        "Context": "muscle soreness"
+    },
+    {
+        "Instruction": "What is a sattvic diet?",
+        "Response": "Fresh, seasonal, vegetarian, non-spicy food that uplifts mind and body.",
+        "Context": "sattvic"
+    },
+    {
+        "Instruction": "What are Ayurvedic tips for better concentration?",
+        "Response": "Meditate, use brahmi, and eat light food.",
+        "Context": "concentration"
+    },
+    {
+        "Instruction": "What are good herbs for blood purification?",
+        "Response": "Manjistha, neem, and turmeric cleanse and cool the blood.",
+        "Context": "blood"
+    },
+    {
+        "Instruction": "Can Ayurveda help with varicose veins?",
+        "Response": "Yes, use massage, gotu kola, and improve circulation.",
+        "Context": "varicose veins"
+    },
+    {
+        "Instruction": "Why is digestion called the root of health?",
+        "Response": "Strong agni prevents ama and supports immunity.",
+        "Context": "agni"
+    },
+    {
+        "Instruction": "What are signs of a healthy agni?",
+        "Response": "Good appetite, lightness, and enthusiasm after meals.",
+        "Context": "digestion"
+    },
+    {
+        "Instruction": "What dosha imbalance causes nausea?",
+        "Response": "Usually pitta or vata excess causes queasiness.",
+        "Context": "nausea"
+    },
+    {
+        "Instruction": "What's an Ayurvedic view of anger issues?",
+        "Response": "It stems from high pitta; manage with cooling foods and meditation.",
+        "Context": "anger"
+    },
+    {
+        "Instruction": "Which herbs are best for liver detox?",
+        "Response": "Kutki, bhumyamalaki, and turmeric support liver health.",
+        "Context": "liver"
+    },
+    {
+        "Instruction": "What can I do to improve eyesight naturally?",
+        "Response": "Wash eyes with triphala water, blink often, and rest them.",
+        "Context": "eyes"
+    },
+    {
+        "Instruction": "What is the benefit of a sattvic lifestyle?",
+        "Response": "It leads to peace, purity, and spiritual clarity.",
+        "Context": "lifestyle"
+    },
+    {
+        "Instruction": "How to avoid ama accumulation?",
+        "Response": "Eat only when hungry, don't overeat, and avoid cold leftovers.",
+        "Context": "ama"
+    },
+    {
+        "Instruction": "What time should I wake up in Ayurveda?",
+        "Response": "Wake before sunrise during Brahma Muhurta for clarity.",
+        "Context": "daily routine"
+    },
+    {
+        "Instruction": "What's a good Ayurvedic breakfast for kapha?",
+        "Response": "Light porridge with ginger, clove, and less oil.",
+        "Context": "kapha food"
+    },
+    {
+        "Instruction": "What foods balance pitta during summer?",
+        "Response": "Cucumber, coconut, rose, and sweet juicy fruits.",
+        "Context": "pitta summer"
+    },
+    {
+        "Instruction": "What causes emotional instability in Ayurveda?",
+        "Response": "Disturbed vata or rajasic lifestyle affects emotions.",
+        "Context": "emotions"
+    },
+    {
+        "Instruction": "Can I use Ayurveda for chronic sinus?",
+        "Response": "Yes, nasya, steam, and kapha-reducing diet help.",
+        "Context": "chronic sinus"
+    },
+    {
+        "Instruction": "What is an Ayurvedic view of cravings?",
+        "Response": "Cravings may reflect dosha imbalances or emotional gaps.",
+        "Context": "cravings"
+    },
+    {
+        "Instruction": "What helps sluggish metabolism?",
+        "Response": "Use trikatu, warm water, and exercise after meals.",
+        "Context": "metabolism"
+    },
+    {
+        "Instruction": "What's an Ayurvedic cure for dry eyes?",
+        "Response": "Use castor oil externally, ghee internally, and rest well.",
+        "Context": "dry eyes"
+    },
+    {
+        "Instruction": "What's a herbal tonic for female health?",
+        "Response": "Shatavari, ashok, and licorice support hormone balance.",
+        "Context": "female health"
+    },
+    {
+        "Instruction": "How does Ayurveda view allergies?",
+        "Response": "Due to low ojas, ama, and weak digestion; treat root cause.",
+        "Context": "allergies"
+    },
+    {
+        "Instruction": "What is a useful detox method in Ayurveda?",
+        "Response": "Panchakarma or daily triphala tea with warm water.",
+        "Context": "detox"
+    },
+    {
+        "Instruction": "What helps regulate menstrual cycle?",
+        "Response": "Use aloe vera, sesame oil, and avoid heavy-to-digest food.",
+        "Context": "menstrual health"
+    },
+    {
+        "Instruction": "What are symptoms of excess kapha?",
+        "Response": "Heaviness, mucus, dullness, and slow digestion.",
+        "Context": "kapha symptoms"
+    },
+    {
+        "Instruction": "What is panchakarma therapy?",
+        "Response": "A detox program that removes deep toxins and rejuvenates tissues.",
+        "Context": "panchakarma"
+    },
+    {
+        "Instruction": "What is the role of ashwagandha?",
+        "Response": "It relieves stress, improves stamina, and builds immunity.",
+        "Context": "ashwagandha"
+    },
+    {
+        "Instruction": "Can Ayurvedic herbs support adrenal health?",
+        "Response": "Yes, herbs like ashwagandha and licorice rejuvenate adrenal glands.",
+        "Context": "adrenal"
+    },
+    {
+        "Instruction": "What's the link between vata and aging?",
+        "Response": "As vata increases with age, dryness, anxiety, and instability rise.",
+        "Context": "vata"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend starting your morning?",
+        "Response": "Wake before sunrise, tongue scrape, drink warm water, and meditate.",
+        "Context": "morning"
+    },
+    {
+        "Instruction": "What's a natural Ayurvedic remedy for hiccups?",
+        "Response": "Hold warm water with honey in the mouth or use fennel seeds.",
+        "Context": "hiccups"
+    },
+    {
+        "Instruction": "What does Ayurveda say about overthinking?",
+        "Response": "It is a vata imbalance; calm with routine, oil massage, and meditation.",
+        "Context": "mental health"
+    },
+    {
+        "Instruction": "What causes skin dullness in Ayurveda?",
+        "Response": "Low ojas and pitta imbalance due to toxins and overwork.",
+        "Context": "skin"
+    },
+    {
+        "Instruction": "How to treat cracked lips the Ayurvedic way?",
+        "Response": "Apply ghee or honey, and increase internal hydration.",
+        "Context": "lips"
+    },
+    {
+        "Instruction": "Why is dinner recommended to be light in Ayurveda?",
+        "Response": "Agni weakens in the evening; heavy food causes ama formation.",
+        "Context": "dinner"
+    },
+    {
+        "Instruction": "What spices improve digestion naturally?",
+        "Response": "Cumin, ginger, fennel, ajwain all boost digestive fire.",
+        "Context": "spices"
+    },
+    {
+        "Instruction": "What are Ayurvedic alternatives to coffee?",
+        "Response": "Try tulsi tea, ginger tea, or warm lemon water.",
+        "Context": "stimulants"
+    },
+    {
+        "Instruction": "How does Ayurveda treat dry cough?",
+        "Response": "Use warm honey water with licorice or vasaka syrup.",
+        "Context": "dry cough"
+    },
+    {
+        "Instruction": "Can Ayurveda help with bedwetting in kids?",
+        "Response": "Yes, feed warm milk with nutmeg and support vata with oils.",
+        "Context": "bedwetting"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing pitta?",
+        "Response": "Balance pitta using cooling herbs, diet changes, and mindful practices.",
+        "Context": "pitta"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing vata?",
+        "Response": "Balance vata using grounding foods, warm herbs, and daily routine.",
+        "Context": "vata"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing kapha?",
+        "Response": "Balance kapha with light foods, stimulation, and detox herbs.",
+        "Context": "kapha"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing anxiety?",
+        "Response": "Soothe anxiety using vata-pacifying herbs, warm baths, and meditation.",
+        "Context": "anxiety"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing acne?",
+        "Response": "Control acne with pitta-balancing diet, neem paste, and aloe juice.",
+        "Context": "acne"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing allergies?",
+        "Response": "Identify doshic cause and balance it with herbs, diet, and nasya.",
+        "Context": "allergies"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing asthma?",
+        "Response": "Support asthma relief through kapha-cleansing and lung tonics.",
+        "Context": "asthma"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing arthritis?",
+        "Response": "Reduce arthritis by clearing ama and using dosha-specific oils.",
+        "Context": "arthritis"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing constipation?",
+        "Response": "Use triphala, warm water, and vata-soothing diet to relieve constipation.",
+        "Context": "constipation"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing insomnia?",
+        "Response": "Calm the nervous system with ashwagandha, warm milk, and oil massage.",
+        "Context": "insomnia"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing anger?",
+        "Response": "Cool down pitta with meditation, sandalwood, and pitta diet.",
+        "Context": "anger"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing stress?",
+        "Response": "Relieve stress with pranayama, adaptogens, and sattvic living.",
+        "Context": "stress"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing headache?",
+        "Response": "Treat headaches based on doshic origin using herbs and lifestyle.",
+        "Context": "headache"
+    },
+    {
+        "Instruction": "What is kitchari and why is it healing?",
+        "Response": "A rice-lentil dish easy to digest and balancing for all doshas.",
+        "Context": "kitchari"
+    },
+    {
+        "Instruction": "What is the best Ayurvedic herb for stamina?",
+        "Response": "Ashwagandha strengthens muscles and boosts energy.",
+        "Context": "stamina"
+    },
+    {
+        "Instruction": "How to remove white coating from tongue?",
+        "Response": "Use tongue scraper and reduce ama-forming foods.",
+        "Context": "tongue"
+    },
+    {
+        "Instruction": "What is the role of bhringaraj?",
+        "Response": "It promotes hair growth, supports liver, and cools the mind.",
+        "Context": "bhringaraj"
+    },
+    {
+        "Instruction": "Why avoid cold food in Ayurveda?",
+        "Response": "It weakens agni and causes bloating, ama, and sluggishness.",
+        "Context": "cold food"
+    },
+    {
+        "Instruction": "What are signs of excess pitta?",
+        "Response": "Irritability, ulcers, rashes, and sensitivity to heat.",
+        "Context": "pitta signs"
+    },
+    {
+        "Instruction": "What does Ayurveda say about fasting?",
+        "Response": "Fasting kindles agni and removes toxins if done properly.",
+        "Context": "fasting"
+    },
+    {
+        "Instruction": "What is the function of ojas in Ayurveda?",
+        "Response": "It is the essence of immunity, strength, and vitality.",
+        "Context": "ojas"
+    },
+    {
+        "Instruction": "How to build muscle naturally with Ayurveda?",
+        "Response": "Eat nourishing foods, do abhyanga, and take ashwagandha.",
+        "Context": "muscle building"
+    },
+    {
+        "Instruction": "What is garshana massage?",
+        "Response": "Dry brushing that boosts circulation and removes kapha stagnation.",
+        "Context": "garshana"
+    },
+    {
+        "Instruction": "What oils reduce pitta in the body?",
+        "Response": "Coconut, sunflower, and brahmi oils are cooling.",
+        "Context": "pitta oils"
+    },
+    {
+        "Instruction": "What time is best for pranayama?",
+        "Response": "Early morning, in clean air and empty stomach.",
+        "Context": "breathwork"
+    },
+    {
+        "Instruction": "What is a tridoshic remedy for general balance?",
+        "Response": "Triphala is great for all doshas and promotes digestion.",
+        "Context": "tridosha"
+    },
+    {
+        "Instruction": "Which foods are considered sattvic?",
+        "Response": "Milk, fruits, whole grains, ghee, and fresh vegetables.",
+        "Context": "sattvic"
+    },
+    {
+        "Instruction": "Why is silence important in Ayurveda?",
+        "Response": "It calms vata and builds inner awareness for healing.",
+        "Context": "mindfulness"
+    },
+    {
+        "Instruction": "Can Ayurveda support post-COVID recovery?",
+        "Response": "Yes, use chyawanprash, rasayanas, and pranayama.",
+        "Context": "recovery"
+    },
+    {
+        "Instruction": "What causes hair thinning in Ayurveda?",
+        "Response": "Pitta aggravation and stress lead to hair issues.",
+        "Context": "hair loss"
+    },
+    {
+        "Instruction": "What helps eliminate ama quickly?",
+        "Response": "Use warm water, fasting, and trikatu or triphala.",
+        "Context": "toxins"
+    },
+    {
+        "Instruction": "What does Ayurveda suggest for heart health?",
+        "Response": "Arjuna bark, meditation, and pitta-balancing lifestyle.",
+        "Context": "heart"
+    },
+    {
+        "Instruction": "How to improve complexion naturally?",
+        "Response": "Use manjistha, drink water, and eat clean pitta-friendly food.",
+        "Context": "complexion"
+    },
+    {
+        "Instruction": "What is the Ayurvedic take on jealousy?",
+        "Response": "It's excess pitta; reduce heat with rose, coconut, and reflection.",
+        "Context": "emotions"
+    },
+    {
+        "Instruction": "How can Ayurveda treat motion sickness?",
+        "Response": "Ginger, lemon, and calming the vata help.",
+        "Context": "motion sickness"
+    },
+    {
+        "Instruction": "What is dhatu in Ayurveda?",
+        "Response": "The seven body tissues that sustain and nourish the body.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "What's an Ayurvedic post-meal ritual?",
+        "Response": "Sit calmly, sip warm water, and walk 100 steps.",
+        "Context": "digestion"
+    },
+    {
+        "Instruction": "Which practice keeps vata grounded?",
+        "Response": "Oil massage, warmth, regular meals, and early bedtime.",
+        "Context": "vata control"
+    },
+    {
+        "Instruction": "What foods cool internal heat fast?",
+        "Response": "Aloe, rose, cucumber, coriander, and pomegranate.",
+        "Context": "pitta diet"
+    },
+    {
+        "Instruction": "What is a simple anti-aging ritual?",
+        "Response": "Daily abhyanga, rasayana, and sattvic meals.",
+        "Context": "longevity"
+    },
+    {
+        "Instruction": "How does Ayurveda view eczema in children?",
+        "Response": "It relates to pitta and ama; use gentle detox and diet.",
+        "Context": "pediatrics"
+    },
+    {
+        "Instruction": "What causes mood swings in Ayurveda?",
+        "Response": "Vata or pitta aggravation due to stress, food, or sleep issues.",
+        "Context": "mood"
+    },
+    {
+        "Instruction": "Which dosha dominates winter season?",
+        "Response": "Vata dominates early winter; kapha dominates late winter.",
+        "Context": "seasonal"
+    },
+    {
+        "Instruction": "What is recommended to soothe ulcers?",
+        "Response": "Aloe juice, licorice, and milk reduce pitta fire.",
+        "Context": "ulcers"
+    },
+    {
+        "Instruction": "What role does mind play in healing?",
+        "Response": "A sattvic, calm mind accelerates all levels of recovery.",
+        "Context": "healing"
+    },
+    {
+        "Instruction": "What is the first sign of dosha imbalance?",
+        "Response": "Loss of appetite, irritability, or lethargy may signal it.",
+        "Context": "imbalance"
+    },
+    {
+        "Instruction": "How does Ayurveda approach joint stiffness?",
+        "Response": "Kapha-vata dosha are pacified by warm oils and spices.",
+        "Context": "joints"
+    },
+    {
+        "Instruction": "What's a good bedtime drink in Ayurveda?",
+        "Response": "Nutmeg milk or turmeric milk soothes vata and supports sleep.",
+        "Context": "bedtime"
+    },
+    {
+        "Instruction": "What helps reduce emotional burnout?",
+        "Response": "Meditation, journaling, adaptogens, and nourishing diet.",
+        "Context": "burnout"
+    },
+    {
+        "Instruction": "Which herb sharpens intellect?",
+        "Response": "Brahmi enhances memory, clarity, and creativity.",
+        "Context": "intellect"
+    },
+    {
+        "Instruction": "What are Ayurvedic eye care tips?",
+        "Response": "Triphala eye wash, rose water, and blinking breaks.",
+        "Context": "vision"
+    },
+    {
+        "Instruction": "What's a common cause of dark circles?",
+        "Response": "Poor sleep, pitta heat, and nutrient deficiency.",
+        "Context": "under eyes"
+    },
+    {
+        "Instruction": "What is srotas in Ayurveda?",
+        "Response": "The body's channels or systems that transport energy and fluids.",
+        "Context": "srotas"
+    },
+    {
+        "Instruction": "How do you keep your agni balanced?",
+        "Response": "Eat only when hungry, chew well, avoid overeating.",
+        "Context": "digestion"
+    },
+    {
+        "Instruction": "How to manage stress eating naturally?",
+        "Response": "Balance vata, eat mindfully, and address emotional hunger.",
+        "Context": "eating"
+    },
+    {
+        "Instruction": "Why is fermented food avoided in pitta imbalance?",
+        "Response": "It increases heat and acidity, disturbing pitta further.",
+        "Context": "fermentation"
+    },
+    {
+        "Instruction": "What is a morning detox drink in Ayurveda?",
+        "Response": "Warm lemon water or cumin-coriander-fennel tea.",
+        "Context": "detox drinks"
+    },
+    {
+        "Instruction": "What supports reproductive health in men?",
+        "Response": "Ashwagandha, shilajit, and proper sleep.",
+        "Context": "reproductive"
+    },
+    {
+        "Instruction": "How does Ayurveda improve fertility?",
+        "Response": "By balancing shukra dhatu with ashwagandha, ghee, and detox.",
+        "Context": "fertility"
+    },
+    {
+        "Instruction": "What should I avoid during seasonal detox?",
+        "Response": "Cold foods, dairy, excess stimulation, and late nights.",
+        "Context": "seasonal detox"
+    },
+    {
+        "Instruction": "What is the Ayurvedic cure for itchy scalp?",
+        "Response": "Apply neem oil, massage with brahmi oil, and avoid hot water.",
+        "Context": "itchy scalp"
+    },
+    {
+        "Instruction": "What are signs of healthy digestion?",
+        "Response": "Clear burp, lightness, good appetite, and regular elimination.",
+        "Context": "digestion signs"
+    },
+    {
+        "Instruction": "What does Ayurveda recommend for anemia?",
+        "Response": "Eat iron-rich foods, use punarnava and pomegranate juice.",
+        "Context": "anemia"
+    },
+    {
+        "Instruction": "What is the best Ayurvedic tea for kapha?",
+        "Response": "Dry ginger, cinnamon, clove, and black pepper tea.",
+        "Context": "kapha tea"
+    },
+    {
+        "Instruction": "How to ease mental fatigue with Ayurveda?",
+        "Response": "Use brahmi, sleep well, and avoid overstimulation.",
+        "Context": "mental fatigue"
+    },
+    {
+        "Instruction": "What helps relieve bloating post-meals?",
+        "Response": "Fennel seeds, warm water, and avoiding incompatible food combos.",
+        "Context": "bloating"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on sleep quality?",
+        "Response": "Deep, dreamless sleep rebuilds ojas and supports healing.",
+        "Context": "sleep quality"
+    },
+    {
+        "Instruction": "What practices remove excess kapha?",
+        "Response": "Dry brushing, hot spices, skipping naps, and warm baths.",
+        "Context": "kapha clearing"
+    },
+    {
+        "Instruction": "What causes heaviness after meals?",
+        "Response": "Weak agni, heavy food, and poor food combinations.",
+        "Context": "heaviness"
+    },
+    {
+        "Instruction": "Which oil is best for daily abhyanga?",
+        "Response": "Sesame oil for vata, coconut for pitta, mustard for kapha.",
+        "Context": "massage oils"
+    },
+    {
+        "Instruction": "What foods disturb vata dosha?",
+        "Response": "Cold, dry, raw foods, and irregular eating habits.",
+        "Context": "vata food"
+    },
+    {
+        "Instruction": "What strengthens the immune system in Ayurveda?",
+        "Response": "Ojas-rich foods, rasayana herbs, and stress-free lifestyle.",
+        "Context": "immunity"
+    },
+    {
+        "Instruction": "What's the Ayurvedic approach to indigestion?",
+        "Response": "Kindle agni with ginger, avoid leftovers, and chew thoroughly.",
+        "Context": "indigestion"
+    },
+    {
+        "Instruction": "What helps relieve gas quickly?",
+        "Response": "Ajwain with rock salt or warm water with hing.",
+        "Context": "gas"
+    },
+    {
+        "Instruction": "What is an Ayurvedic colon cleanse?",
+        "Response": "Triphala at night or castor oil therapy under guidance.",
+        "Context": "colon"
+    },
+    {
+        "Instruction": "Why should you avoid ice-cold drinks?",
+        "Response": "They weaken digestive fire and lead to ama.",
+        "Context": "cold drinks"
+    },
+    {
+        "Instruction": "What does Ayurveda say about over-exercising?",
+        "Response": "It increases vata, depletes ojas, and should be balanced.",
+        "Context": "exercise"
+    },
+    {
+        "Instruction": "How to prepare Ayurvedic detox water?",
+        "Response": "Boil cumin, coriander, fennel in water and sip warm.",
+        "Context": "detox water"
+    },
+    {
+        "Instruction": "How to relieve sore throat with Ayurveda?",
+        "Response": "Gargle with turmeric salt water and sip warm licorice tea.",
+        "Context": "sore throat"
+    },
+    {
+        "Instruction": "Why is copper vessel used for drinking water?",
+        "Response": "It balances tridoshas and kills bacteria naturally.",
+        "Context": "copper water"
+    },
+    {
+        "Instruction": "What can I eat to improve mental clarity?",
+        "Response": "Fresh fruits, soaked almonds, ghee, and brahmi.",
+        "Context": "brain food"
+    },
+    {
+        "Instruction": "What is the use of guduchi in Ayurveda?",
+        "Response": "It boosts immunity, reduces fever, and purifies blood.",
+        "Context": "guduchi"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on IBS?",
+        "Response": "Vata-pitta disorder; manage with diet, herbs, and routine.",
+        "Context": "ibs"
+    },
+    {
+        "Instruction": "What reduces excessive salivation?",
+        "Response": "Chew clove, avoid sugar, and reduce kapha in diet.",
+        "Context": "salivation"
+    },
+    {
+        "Instruction": "How does Ayurveda treat body odor?",
+        "Response": "Use neem, wear cotton, and detox the liver.",
+        "Context": "body odor"
+    },
+    {
+        "Instruction": "What causes dryness in Ayurveda?",
+        "Response": "Excess vata, dehydration, poor fat intake, and lack of oil massage.",
+        "Context": "dryness"
+    },
+    {
+        "Instruction": "What helps with night sweats?",
+        "Response": "Balance pitta using aloe juice, sandalwood, and rose water.",
+        "Context": "night sweats"
+    },
+    {
+        "Instruction": "What are cooling spices for pitta?",
+        "Response": "Fennel, coriander, cardamom, and mint.",
+        "Context": "cooling spices"
+    },
+    {
+        "Instruction": "What's a natural laxative in Ayurveda?",
+        "Response": "Triphala, psyllium husk, or castor oil under supervision.",
+        "Context": "laxative"
+    },
+    {
+        "Instruction": "What to eat during menstrual cycle?",
+        "Response": "Warm, grounding, iron-rich foods with gentle herbs.",
+        "Context": "menstruation"
+    },
+    {
+        "Instruction": "What is a good evening routine in Ayurveda?",
+        "Response": "Disconnect early, oil massage, nutmeg milk, light dinner.",
+        "Context": "evening routine"
+    },
+    {
+        "Instruction": "How does Ayurveda define health?",
+        "Response": "A balanced state of doshas, agni, dhatus, and content mind.",
+        "Context": "health"
+    },
+    {
+        "Instruction": "Which herb calms pitta emotions?",
+        "Response": "Rose, brahmi, and jatamansi pacify emotional heat.",
+        "Context": "pitta emotion"
+    },
+    {
+        "Instruction": "What can Ayurveda do for acne scars?",
+        "Response": "Use turmeric, manjistha, and sandalwood paste regularly.",
+        "Context": "acne scars"
+    },
+    {
+        "Instruction": "What causes foggy brain in Ayurveda?",
+        "Response": "Kapha accumulation or ama blocking mental channels.",
+        "Context": "mental fog"
+    },
+    {
+        "Instruction": "What to do when you feel sluggish?",
+        "Response": "Drink ginger tea, dry brush, and go for a brisk walk.",
+        "Context": "sluggishness"
+    },
+    {
+        "Instruction": "What's the best way to start Ayurvedic living?",
+        "Response": "Begin with dinacharya: morning rituals, meals, sleep hygiene.",
+        "Context": "lifestyle"
+    },
+    {
+        "Instruction": "Which oil balances all three doshas?",
+        "Response": "Jatamansi oil or balanced tridoshic blends.",
+        "Context": "tridosha oil"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to allergies?",
+        "Response": "Strengthen digestion, cleanse ama, and build ojas.",
+        "Context": "allergies"
+    },
+    {
+        "Instruction": "What causes foul breath in Ayurveda?",
+        "Response": "Ama, indigestion, and poor oral hygiene.",
+        "Context": "bad breath"
+    },
+    {
+        "Instruction": "What's a quick tip to boost mood?",
+        "Response": "Smell rose or sandalwood, do 5 deep breaths, and sip tulsi tea.",
+        "Context": "mood"
+    },
+    {
+        "Instruction": "Which practice cools the mind instantly?",
+        "Response": "Sheetali pranayama or meditation with rose water drops.",
+        "Context": "mind cooling"
+    },
+    {
+        "Instruction": "What is yoga's role in Ayurvedic health?",
+        "Response": "It balances doshas, strengthens ojas, and improves clarity.",
+        "Context": "yoga"
+    },
+    {
+        "Instruction": "How to reduce sugar cravings?",
+        "Response": "Balance vata, use cinnamon, and eat naturally sweet fruits.",
+        "Context": "cravings"
+    },
+    {
+        "Instruction": "What tea helps with cold digestion?",
+        "Response": "Ginger-cinnamon-clove tea warms the digestive system.",
+        "Context": "cold digestion"
+    },
+    {
+        "Instruction": "What can I do for clear skin naturally?",
+        "Response": "Hydrate, detox with manjistha, and avoid spicy food.",
+        "Context": "clear skin"
+    },
+    {
+        "Instruction": "How to regulate metabolism with Ayurveda?",
+        "Response": "Eat on time, use ginger, and avoid overeating or snacking.",
+        "Context": "metabolism"
+    },
+    {
+        "Instruction": "Can Ayurveda help with hot flashes?",
+        "Response": "Yes, use shatavari, aloe, and cooling pranayama.",
+        "Context": "hot flashes"
+    },
+    {
+        "Instruction": "How to transition between seasons with Ayurveda?",
+        "Response": "Cleanse gently, adjust diet, and honor circadian rhythms.",
+        "Context": "season change"
+    },
+    {
+        "Instruction": "What's the Ayurvedic approach to overwork?",
+        "Response": "Balance with rest, tonics like ashwagandha, and abhyanga.",
+        "Context": "burnout"
+    },
+    {
+        "Instruction": "How does Ayurveda support health related to digestion?",
+        "Response": "Ayurveda enhances digestion with spices like ginger, cumin, and mindful eating.",
+        "Context": "digestion"
+    },
+    {
+        "Instruction": "What Ayurvedic herbs help with respiratory issues?",
+        "Response": "Tulsi, vasaka, and licorice are commonly used for respiratory support.",
+        "Context": "respiratory"
+    },
+    {
+        "Instruction": "How does Ayurveda treat poor circulation?",
+        "Response": "Warm oil massage, garlic, and exercise improve circulation.",
+        "Context": "circulation"
+    },
+    {
+        "Instruction": "What helps with emotional balance in Ayurveda?",
+        "Response": "Brahmi, meditation, and sattvic diet help stabilize emotions.",
+        "Context": "emotional health"
+    },
+    {
+        "Instruction": "What is an Ayurvedic approach to managing anxiety?",
+        "Response": "Calming vata with warm food, oil massage, and herbs like ashwagandha is key.",
+        "Context": "anxiety"
+    },
+    {
+        "Instruction": "How does Ayurveda manage weight naturally?",
+        "Response": "Kapha balancing diet, daily exercise, and triphala support weight loss.",
+        "Context": "weight"
+    },
+    {
+        "Instruction": "What boosts immunity according to Ayurveda?",
+        "Response": "Ojas-building foods, chyawanprash, and good digestion are vital.",
+        "Context": "immunity"
+    },
+    {
+        "Instruction": "Which Ayurvedic practice helps with brain fog?",
+        "Response": "Using brahmi and maintaining a sattvic lifestyle supports mental clarity.",
+        "Context": "brain fog"
+    },
+    {
+        "Instruction": "What's a common remedy for acid reflux in Ayurveda?",
+        "Response": "Aloe vera juice and a pitta-reducing diet can soothe acid reflux.",
+        "Context": "acid reflux"
+    },
+    {
+        "Instruction": "How can Ayurveda assist with menstrual irregularities?",
+        "Response": "Shatavari, sesame oil massage, and grounding routines support cycles.",
+        "Context": "menstrual"
+    },
+    {
+        "Instruction": "What helps balance hormones in Ayurveda?",
+        "Response": "Rasayana herbs like shatavari and a calm lifestyle aid hormone balance.",
+        "Context": "hormones"
+    },
+    {
+        "Instruction": "How to support deep sleep Ayurvedically?",
+        "Response": "Nutmeg milk, oil massage, and early bedtime promote restful sleep.",
+        "Context": "sleep"
+    },
+    {
+        "Instruction": "How can Ayurveda reduce inflammation?",
+        "Response": "Use turmeric, manjistha, and cooling foods to calm inflammation.",
+        "Context": "inflammation"
+    },
+    {
+        "Instruction": "What helps improve focus according to Ayurveda?",
+        "Response": "Brahmi, routine, and minimal distractions are key.",
+        "Context": "focus"
+    },
+    {
+        "Instruction": "Which foods increase ojas?",
+        "Response": "Ghee, almonds, dates, and warm milk nourish ojas.",
+        "Context": "ojas"
+    },
+    {
+        "Instruction": "What does Ayurveda recommend for detoxifying the liver?",
+        "Response": "Kutki, aloe vera, and a clean pitta diet help detox the liver.",
+        "Context": "liver detox"
+    },
+    {
+        "Instruction": "How to manage sinus pressure Ayurvedically?",
+        "Response": "Apply nasya oil, use steam, and reduce kapha-rich foods.",
+        "Context": "sinus"
+    },
+    {
+        "Instruction": "Which daily routine keeps vata in balance?",
+        "Response": "Wake early, stay warm, eat regular meals, and do oil massage.",
+        "Context": "vata routine"
+    },
+    {
+        "Instruction": "How to handle dryness in the body?",
+        "Response": "Increase oil intake, use sesame oil massages, and hydrate well.",
+        "Context": "dryness"
+    },
+    {
+        "Instruction": "What is a key Ayurvedic tip for balanced metabolism?",
+        "Response": "Eat warm meals on time and use digestive spices.",
+        "Context": "metabolism"
+    },
+    {
+        "Instruction": "What is recommended for hair growth in Ayurveda?",
+        "Response": "Use bhringraj, amalaki, and scalp massage with herbal oils.",
+        "Context": "hair growth"
+    },
+    {
+        "Instruction": "How can Ayurveda help reduce skin allergies?",
+        "Response": "Detox with neem and manjistha and follow a clean diet.",
+        "Context": "skin allergy"
+    },
+    {
+        "Instruction": "Which practices aid emotional healing in Ayurveda?",
+        "Response": "Meditation, journaling, and calming teas like chamomile.",
+        "Context": "emotions"
+    },
+    {
+        "Instruction": "What is an Ayurvedic solution for fatigue?",
+        "Response": "Use ashwagandha, proper sleep, and reduce excess stimulation.",
+        "Context": "fatigue"
+    },
+    {
+        "Instruction": "What are good herbs for managing diabetes?",
+        "Response": "Bitter melon, methi seeds, and amalaki are effective.",
+        "Context": "diabetes"
+    },
+    {
+        "Instruction": "How to relieve constipation naturally with Ayurveda?",
+        "Response": "Use triphala, drink warm water, and add fiber-rich foods.",
+        "Context": "constipation"
+    },
+    {
+        "Instruction": "What reduces bloating instantly in Ayurveda?",
+        "Response": "Sip cumin-fennel tea and avoid cold or raw food.",
+        "Context": "bloating"
+    },
+    {
+        "Instruction": "What is the Ayurvedic treatment for cold hands and feet?",
+        "Response": "Balance vata with warm oils, spices, and nourishing meals.",
+        "Context": "circulation"
+    },
+    {
+        "Instruction": "What oil is good for scalp health?",
+        "Response": "Bhringraj and coconut oil nourish the scalp and reduce dryness.",
+        "Context": "scalp care"
+    },
+    {
+        "Instruction": "What improves mood quickly in Ayurveda?",
+        "Response": "Smell rose, take deep breaths, and sip tulsi-ginger tea.",
+        "Context": "mood"
+    },
+    {
+        "Instruction": "What is the Ayurvedic remedy for fever?",
+        "Response": "Use cooling herbs and spices in teas and meals. Coriander, cumin, and fennel can help.",
+        "Context": "Fever"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on healthy eating habits?",
+        "Response": "Focus on eating fresh, whole foods that are appropriate for your dosha. Eat mindfully and avoid processed foods.",
+        "Context": "Healthy Eating"
+    },
+    {
+        "Instruction": "How does Ayurveda view the gut-brain connection?",
+        "Response": "Ayurveda recognizes a strong connection between the gut and the brain. A healthy digestive system is essential for mental clarity and emotional well-being.",
+        "Context": "Gut-Brain Connection"
+    },
+    {
+        "Instruction": "What are the best Ayurvedic practices for detoxification?",
+        "Response": "Panchakarma is the ultimate detoxification process. It involves a series of therapies to eliminate toxins from the body.",
+        "Context": "Detoxification"
+    },
+    {
+        "Instruction": "What is the importance of Ojas in Ayurveda?",
+        "Response": "Ojas is the vital energy that supports immunity and overall health. It is essential for longevity and vitality.",
+        "Context": "Ojas"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to managing stress and anxiety?",
+        "Response": "Practice meditation, pranayama, and engage in activities that bring you joy. Herbal remedies like Ashwagandha and Brahmi can also help.",
+        "Context": "Stress and Anxiety"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on weight management?",
+        "Response": "Focus on balancing Kapha dosha through diet, exercise, and herbal remedies. Regular physical activity is crucial.",
+        "Context": "Weight Management"
+    },
+    {
+        "Instruction": "How does Ayurveda view sleep and its importance?",
+        "Response": "Sleep is essential for physical and mental restoration. Aim for a regular sleep schedule and create a relaxing bedtime routine.",
+        "Context": "Sleep"
+    },
+    {
+        "Instruction": "What is the role of Agni (digestive fire) in Ayurveda?",
+        "Response": "Agni is responsible for digesting food, absorbing nutrients, and eliminating waste. A strong Agni is essential for good health.",
+        "Context": "Agni"
+    },
+    {
+        "Instruction": "What are some Ayurvedic herbs to boost immunity?",
+        "Response": "Tulsi, Ginger, and Turmeric are effective in boosting immunity. Regular consumption can help prevent illness.",
+        "Context": "Immunity"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to skincare?",
+        "Response": "Use natural oils and herbs to nourish the skin. Avoid harsh chemicals and protect the skin from sun damage.",
+        "Context": "Skincare"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on hair care?",
+        "Response": "Oil your hair regularly with nourishing oils. Follow a diet rich in nutrients to support healthy hair growth.",
+        "Context": "Haircare"
+    },
+    {
+        "Instruction": "How does Ayurveda view mental health and well-being?",
+        "Response": "Mental health is closely linked to the balance of doshas. Engage in activities that promote mental clarity and emotional stability.",
+        "Context": "Mental Health"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to promote longevity?",
+        "Response": "Follow a balanced lifestyle, eat a healthy diet, and engage in regular physical activity. Herbal remedies can also support longevity.",
+        "Context": "Longevity"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on joint health?",
+        "Response": "Maintain a healthy weight, exercise regularly, and use herbal remedies to reduce inflammation and pain.",
+        "Context": "Joint Health"
+    },
+    {
+        "Instruction": "How does Ayurveda view heart health?",
+        "Response": "Manage stress, eat a heart-healthy diet, and engage in regular physical activity. Herbal remedies like Arjuna can help.",
+        "Context": "Heart Health"
+    },
+    {
+        "Instruction": "What are some Ayurvedic remedies for digestive disorders?",
+        "Response": "Ginger, cumin, and fennel can help improve digestion. Avoid processed foods and eat mindfully.",
+        "Context": "Digestive Disorders"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to respiratory health?",
+        "Response": "Practice pranayama, avoid allergens, and use herbal remedies to clear congestion and support lung function.",
+        "Context": "Respiratory Health"
+    },
+    {
+        "Instruction": "How does Ayurveda view women's health?",
+        "Response": "Women's health is closely linked to hormonal balance. Follow a balanced lifestyle and use herbal remedies to support hormonal health.",
+        "Context": "Women's Health"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to support men's health?",
+        "Response": "Follow a balanced lifestyle, eat a healthy diet, and engage in regular physical activity. Herbal remedies can also support men's health.",
+        "Context": "Men's Health"
+    },
+    {
+        "Instruction": "How does Ayurveda view children's health?",
+        "Response": "Children's health requires special attention to diet and lifestyle. Gentle herbal remedies can support their growth and development.",
+        "Context": "Children's Health"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on aging gracefully?",
+        "Response": "Maintain a balanced lifestyle, eat a healthy diet, and engage in regular physical activity. Herbal remedies can also support healthy aging.",
+        "Context": "Aging Gracefully"
+    },
+    {
+        "Instruction": "How can Ayurveda help with chronic pain management?",
+        "Response": "Identify the root cause of pain, balance doshas, and use herbal remedies to reduce inflammation and pain.",
+        "Context": "Chronic Pain"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to enhance fertility?",
+        "Response": "Follow a balanced lifestyle, manage stress, and use herbal remedies to support reproductive health.",
+        "Context": "Fertility"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of daily routines?",
+        "Response": "Daily routines are essential for maintaining balance and promoting health. Follow a consistent schedule for meals, sleep, and exercise.",
+        "Context": "Daily Routines"
+    },
+    {
+        "Instruction": "What are the Ayurvedic guidelines for seasonal living?",
+        "Response": "Adjust your diet and lifestyle according to the seasons to maintain balance. Eat seasonal foods and engage in appropriate activities.",
+        "Context": "Seasonal Living"
+    },
+    {
+        "Instruction": "What are some Ayurvedic remedies for skin allergies?",
+        "Response": "Identify allergens, balance doshas, and use herbal remedies to soothe the skin.",
+        "Context": "Skin Allergies"
+    },
+    {
+        "Instruction": "How does Ayurveda view the role of emotions in health?",
+        "Response": "Emotions can significantly impact health. Manage stress, practice mindfulness, and cultivate positive emotions.",
+        "Context": "Emotions"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to enhance mental clarity?",
+        "Response": "Practice meditation, pranayama, and engage in activities that stimulate the mind.",
+        "Context": "Mental Clarity"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on food combining?",
+        "Response": "Avoid incompatible food combinations to prevent digestive issues. Eat foods that complement each other for optimal digestion.",
+        "Context": "Food Combining"
+    },
+    {
+        "Instruction": "How can Ayurveda help with insomnia and sleep disorders?",
+        "Response": "Balance Vata dosha, create a relaxing bedtime routine, and use herbal remedies to promote sleep.",
+        "Context": "Insomnia"
+    },
+    {
+        "Instruction": "What are the best Ayurvedic practices for boosting energy levels?",
+        "Response": "Balance doshas, eat a nutritious diet, and engage in regular physical activity.",
+        "Context": "Energy Levels"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to managing diabetes naturally?",
+        "Response": "Follow a low-glycemic diet, exercise regularly, and use herbal remedies to support healthy blood sugar levels.",
+        "Context": "Diabetes"
+    },
+    {
+        "Instruction": "How can Ayurveda support thyroid health naturally?",
+        "Response": "Balance doshas, manage stress, and use herbal remedies to support thyroid function.",
+        "Context": "Thyroid Health"
+    },
+    {
+        "Instruction": "What are the Ayurvedic guidelines for maintaining liver health?",
+        "Response": "Avoid alcohol and processed foods, eat a healthy diet, and use herbal remedies to support liver function.",
+        "Context": "Liver Health"
+    },
+    {
+        "Instruction": "How does Ayurveda view kidney health and how to maintain it?",
+        "Response": "Stay hydrated, avoid excessive salt, and use herbal remedies to support kidney function.",
+        "Context": "Kidney Health"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve eyesight naturally?",
+        "Response": "Eat a nutritious diet, protect your eyes from strain, and use herbal remedies to support eye health.",
+        "Context": "Eyesight"
+    },
+    {
+        "Instruction": "How can Ayurveda help with common cold and flu symptoms?",
+        "Response": "Use herbal remedies to boost immunity, relieve congestion, and soothe a sore throat.",
+        "Context": "Cold and Flu"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices for healthy teeth and gums?",
+        "Response": "Brush your teeth regularly, use herbal mouthwashes, and maintain good oral hygiene.",
+        "Context": "Oral Health"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of self-care?",
+        "Response": "Self-care is essential for maintaining balance and promoting health. Prioritize your well-being and engage in activities that nourish your mind and body.",
+        "Context": "Self-Care"
+    },
+    {
+        "Instruction": "What are some Ayurvedic remedies for hair loss and thinning?",
+        "Response": "Oil your hair regularly with nourishing oils, follow a healthy diet, and manage stress.",
+        "Context": "Hair Loss"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to managing high blood pressure?",
+        "Response": "Manage stress, eat a heart-healthy diet, and engage in regular physical activity. Herbal remedies can also help.",
+        "Context": "High Blood Pressure"
+    },
+    {
+        "Instruction": "How can Ayurveda help with allergies naturally?",
+        "Response": "Identify allergens, balance doshas, and use herbal remedies to relieve symptoms.",
+        "Context": "Allergies"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to enhance creativity and inspiration?",
+        "Response": "Engage in activities that stimulate your mind, practice meditation, and connect with nature.",
+        "Context": "Creativity"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on gratitude and its benefits?",
+        "Response": "Gratitude promotes happiness, reduces stress, and enhances overall well-being. Practice gratitude daily.",
+        "Context": "Gratitude"
+    },
+    {
+        "Instruction": "How does Ayurveda view the use of colors for healing?",
+        "Response": "Colors can impact doshas and influence health. Use colors in your environment and clothing to promote balance.",
+        "Context": "Colors for Healing"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to promote restful sleep?",
+        "Response": "Create a relaxing bedtime routine, balance Vata dosha, and use herbal remedies to promote sleep.",
+        "Context": "Restful Sleep"
+    },
+    {
+        "Instruction": "How can Ayurveda help with weight gain in a healthy way?",
+        "Response": "Focus on building Ojas, eat a nutritious diet, and engage in strength training exercises.",
+        "Context": "Weight Gain"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to understanding and managing pain?",
+        "Response": "Identify the root cause of pain, balance doshas, and use herbal remedies to reduce inflammation and pain.",
+        "Context": "Pain Management"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of healthy relationships?",
+        "Response": "Healthy relationships are essential for emotional well-being. Cultivate positive relationships and manage stress.",
+        "Context": "Healthy Relationships"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve digestion naturally?",
+        "Response": "Eat mindfully, avoid processed foods, and use herbal remedies to support digestion.",
+        "Context": "Improved Digestion"
+    },
+    {
+        "Instruction": "How can Ayurveda help with PMS symptoms naturally?",
+        "Response": "Balance doshas, manage stress, and use herbal remedies to support hormonal health.",
+        "Context": "PMS Symptoms"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on menopause and how to manage it?",
+        "Response": "Support hormonal balance, manage stress, and use herbal remedies to alleviate symptoms.",
+        "Context": "Menopause"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to support joint flexibility?",
+        "Response": "Exercise regularly, maintain a healthy weight, and use herbal remedies to reduce inflammation.",
+        "Context": "Joint Flexibility"
+    },
+    {
+        "Instruction": "How can Ayurveda help with skin conditions like eczema and psoriasis?",
+        "Response": "Identify triggers, balance doshas, and use herbal remedies to soothe the skin.",
+        "Context": "Skin Conditions"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to managing asthma naturally?",
+        "Response": "Avoid allergens, practice pranayama, and use herbal remedies to support respiratory health.",
+        "Context": "Asthma"
+    },
+    {
+        "Instruction": "How does Ayurveda view the connection between mind and body?",
+        "Response": "Mind and body are interconnected. A healthy mind is essential for a healthy body, and vice versa.",
+        "Context": "Mind-Body Connection"
+    },
+    {
+        "Instruction": "What are some Ayurvedic remedies for headaches and migraines?",
+        "Response": "Balance doshas, manage stress, and use herbal remedies to relieve pain.",
+        "Context": "Headaches"
+    },
+    {
+        "Instruction": "How can Ayurveda help with reducing stress and promoting relaxation?",
+        "Response": "Practice meditation, pranayama, and engage in activities that bring you joy.",
+        "Context": "Stress Reduction"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to managing arthritis naturally?",
+        "Response": "Reduce inflammation, manage pain, and use herbal remedies to support joint health.",
+        "Context": "Arthritis"
+    },
+    {
+        "Instruction": "How can Ayurveda help with improving energy flow in the body?",
+        "Response": "Practice yoga, pranayama, and use herbal remedies to balance doshas.",
+        "Context": "Energy Flow"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on spiritual well-being?",
+        "Response": "Spiritual well-being is essential for overall health. Engage in practices that connect you with your inner self.",
+        "Context": "Spiritual Well-Being"
+    },
+    {
+        "Instruction": "How can Ayurveda help with balancing hormones naturally?",
+        "Response": "Follow a balanced lifestyle, manage stress, and use herbal remedies to support hormonal health.",
+        "Context": "Hormonal Balance"
+    },
+    {
+        "Instruction": "What are some Ayurvedic remedies for common skin infections?",
+        "Response": "Use herbal remedies to fight infection and soothe the skin.",
+        "Context": "Skin Infections"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of lymphatic drainage?",
+        "Response": "Lymphatic drainage is essential for detoxification and immune function. Practice massage and engage in physical activity.",
+        "Context": "Lymphatic Drainage"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve circulation naturally?",
+        "Response": "Exercise regularly, massage your body, and use herbal remedies to support circulation.",
+        "Context": "Circulation"
+    },
+    {
+        "Instruction": "How can Ayurveda help with reducing inflammation in the body?",
+        "Response": "Eat an anti-inflammatory diet, manage stress, and use herbal remedies to reduce inflammation.",
+        "Context": "Inflammation"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to promoting healthy aging?",
+        "Response": "Maintain balance, practice self-care, and follow a healthy lifestyle.",
+        "Context": "Healthy Aging"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to enhance mental focus and concentration?",
+        "Response": "Practice meditation, pranayama, and use herbal remedies to improve focus.",
+        "Context": "Mental Focus"
+    },
+    {
+        "Instruction": "How can Ayurveda help with preventing and managing chronic diseases?",
+        "Response": "Balance doshas, follow a healthy lifestyle, and use herbal remedies to prevent disease.",
+        "Context": "Chronic Diseases"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on the use of fasting for health?",
+        "Response": "Fasting can help detoxify the body and improve digestion. Follow appropriate guidelines for fasting.",
+        "Context": "Fasting"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of social connections?",
+        "Response": "Social connections are essential for emotional well-being. Cultivate positive relationships and engage in community activities.",
+        "Context": "Social Connections"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve sleep quality naturally?",
+        "Response": "Create a relaxing bedtime routine, balance Vata dosha, and use herbal remedies to promote sleep.",
+        "Context": "Sleep Quality"
+    },
+    {
+        "Instruction": "How can Ayurveda help with improving gut health and digestion?",
+        "Response": "Eat mindfully, avoid processed foods, and use herbal remedies to support digestion.",
+        "Context": "Gut Health"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to managing food cravings?",
+        "Response": "Balance doshas, manage stress, and choose foods that satisfy your needs without causing imbalance.",
+        "Context": "Food Cravings"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of water intake for health?",
+        "Response": "Stay hydrated by drinking plenty of water throughout the day. Warm water is preferred for optimal digestion.",
+        "Context": "Water Intake"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to promote healthy skin?",
+        "Response": "Use natural oils and herbs to nourish the skin. Avoid harsh chemicals and protect the skin from sun damage.",
+        "Context": "Healthy Skin"
+    },
+    {
+        "Instruction": "How can Ayurveda help with boosting your immune system naturally?",
+        "Response": "Eat a nutritious diet, manage stress, and use herbal remedies to support immune function.",
+        "Context": "Immune System"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on the use of spices for healing?",
+        "Response": "Spices can impact doshas and influence health. Use spices in your cooking to promote balance.",
+        "Context": "Spices for Healing"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of laughter for health?",
+        "Response": "Laughter reduces stress, boosts immunity, and enhances overall well-being. Cultivate joy and laughter in your life.",
+        "Context": "Laughter"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to enhance your intuition?",
+        "Response": "Practice meditation, connect with nature, and listen to your inner voice.",
+        "Context": "Intuition"
+    },
+    {
+        "Instruction": "How can Ayurveda help with creating a balanced lifestyle?",
+        "Response": "Prioritize diet, sleep, and lifestyle for mind-body balance.",
+        "Context": "Balanced Lifestyle"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to managing food sensitivities?",
+        "Response": "Identify food sensitivities, balance doshas, and avoid foods that trigger symptoms.",
+        "Context": "Food Sensitivities"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of forgiveness for health?",
+        "Response": "Forgiveness reduces stress, heals emotional wounds, and enhances overall well-being. Practice forgiveness daily.",
+        "Context": "Forgiveness"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve bone health?",
+        "Response": "Eat a nutritious diet, exercise regularly, and use herbal remedies to support bone health.",
+        "Context": "Bone Health"
+    },
+    {
+        "Instruction": "How can Ayurveda help with managing seasonal allergies?",
+        "Response": "Identify allergens, balance doshas, and use herbal remedies to relieve symptoms.",
+        "Context": "Seasonal Allergies"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on the use of affirmations for healing?",
+        "Response": "Affirmations promote positive thoughts and beliefs, enhancing overall well-being. Use affirmations daily.",
+        "Context": "Affirmations"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of sunlight for health?",
+        "Response": "Sunlight provides Vitamin D, boosts mood, and enhances overall well-being. Spend time outdoors safely.",
+        "Context": "Sunlight"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve your relationship with yourself?",
+        "Response": "Practice self-compassion, engage in self-care activities, and cultivate positive self-talk.",
+        "Context": "Self-Relationship"
+    },
+    {
+        "Instruction": "How can Ayurveda help with creating a supportive community?",
+        "Response": "Connect with like-minded individuals, engage in community activities, and offer support to others.",
+        "Context": "Supportive Community"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to managing grief and loss?",
+        "Response": "Allow yourself to grieve, seek support from loved ones, and engage in healing practices.",
+        "Context": "Grief and Loss"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of creativity for health?",
+        "Response": "Creativity stimulates the mind, promotes emotional expression, and enhances overall well-being. Engage in creative activities regularly.",
+        "Context": "Creativity"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve your relationship with nature?",
+        "Response": "Spend time outdoors, connect with natural elements, and appreciate the beauty of nature.",
+        "Context": "Nature Relationship"
+    },
+    {
+        "Instruction": "How can Ayurveda help with promoting emotional resilience?",
+        "Response": "Manage stress, practice mindfulness, and cultivate positive emotions.",
+        "Context": "Emotional Resilience"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on the use of music for healing?",
+        "Response": "Music can impact doshas and influence health. Listen to soothing music to promote balance.",
+        "Context": "Music for Healing"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of mindfulness for health?",
+        "Response": "Mindfulness reduces stress, enhances self-awareness, and promotes overall well-being. Practice mindfulness daily.",
+        "Context": "Mindfulness"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve your relationship with your body?",
+        "Response": "Practice self-compassion, engage in physical activity, and nourish your body with healthy foods.",
+        "Context": "Body Relationship"
+    },
+    {
+        "Instruction": "How can Ayurveda help with creating a more meaningful life?",
+        "Response": "Live in accordance with your values, contribute to society, and engage in activities that bring you joy.",
+        "Context": "Meaningful Life"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to promoting healthy communication?",
+        "Response": "Listen actively, speak with kindness, and express your needs clearly.",
+        "Context": "Healthy Communication"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of playfulness for health?",
+        "Response": "Playfulness reduces stress, enhances creativity, and promotes overall well-being. Engage in playful activities regularly.",
+        "Context": "Playfulness"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve your relationship with time?",
+        "Response": "Manage your time effectively, prioritize your tasks, and make time for relaxation.",
+        "Context": "Time Relationship"
+    },
+    {
+        "Instruction": "How can Ayurveda help with creating a more harmonious world?",
+        "Response": "Practice compassion, promote peace, and contribute to the well-being of others.",
+        "Context": "Harmonious World"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on the use of silence for healing?",
+        "Response": "Silence reduces stress, enhances self-awareness, and promotes overall well-being. Practice silence regularly.",
+        "Context": "Silence"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of service for health?",
+        "Response": "Service reduces selfishness, enhances compassion, and promotes overall well-being. Engage in acts of service regularly.",
+        "Context": "Service"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve your relationship with technology?",
+        "Response": "Use technology mindfully, limit screen time, and prioritize human connection.",
+        "Context": "Technology Relationship"
+    },
+    {
+        "Instruction": "How can Ayurveda help with creating a more sustainable lifestyle?",
+        "Response": "Reduce waste, conserve resources, and support eco-friendly practices.",
+        "Context": "Sustainable Lifestyle"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to promoting healthy boundaries?",
+        "Response": "Set clear boundaries, communicate your needs assertively, and respect the boundaries of others.",
+        "Context": "Healthy Boundaries"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of ritual for health?",
+        "Response": "Rituals provide structure, enhance self-awareness, and promote overall well-being. Create meaningful rituals in your life.",
+        "Context": "Rituals"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve your relationship with your mind?",
+        "Response": "Practice meditation, challenge negative thoughts, and cultivate positive self-talk.",
+        "Context": "Mind Relationship"
+    },
+    {
+        "Instruction": "How can Ayurveda help with creating a more resilient mindset?",
+        "Response": "Manage stress, practice mindfulness, and cultivate positive emotions.",
+        "Context": "Resilient Mindset"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on the use of visualization for healing?",
+        "Response": "Visualization promotes positive thoughts and beliefs, enhancing overall well-being. Use visualization daily.",
+        "Context": "Visualization"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of gratitude journaling for health?",
+        "Response": "Journaling promotes self-reflection, enhances self-awareness, and promotes overall well-being. Journal regularly.",
+        "Context": "Gratitude Journaling"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve your relationship with your emotions?",
+        "Response": "Acknowledge your emotions, express them healthily, and seek support when needed.",
+        "Context": "Emotion Relationship"
+    },
+    {
+        "Instruction": "How can Ayurveda help with creating a more fulfilling career?",
+        "Response": "Align your career with your values, use your strengths, and find work that brings you joy.",
+        "Context": "Fulfilling Career"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to promoting healthy finances?",
+        "Response": "Manage your money wisely, save for the future, and give generously.",
+        "Context": "Healthy Finances"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of community involvement for health?",
+        "Response": "Community involvement reduces isolation, enhances social connections, and promotes overall well-being. Get involved in your community.",
+        "Context": "Community Involvement"
+    },
+    {
+        "Instruction": "What are some Ayurvedic practices to improve your relationship with your dreams?",
+        "Response": "Reflect on your dreams, explore their meanings, and use them as guidance for your life.",
+        "Context": "Dream Relationship"
+    },
+    {
+        "Instruction": "How can Ayurveda help with creating a more peaceful world?",
+        "Response": "Practice compassion, promote peace, and contribute to the well-being of others.",
+        "Context": "Peaceful World"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on the use of storytelling for healing?",
+        "Response": "Storytelling promotes self-expression, enhances empathy, and promotes overall well-being. Share your stories with others.",
+        "Context": "Storytelling"
+    },
+    {
+        "Instruction": "How does Ayurveda view the importance of lifelong learning for health?",
+        "Response": "Learning stimulates the mind, enhances self-awareness, and promotes overall well-being. Learn something new every day.",
+        "Context": "Lifelong Learning"
+    },
+    {
+        "Instruction": "How can Ayurveda help in managing addictions?",
+        "Response": "Address the underlying imbalances and support detoxification to help manage addictions.",
+        "Context": "Addictions"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to enhancing immunity in the elderly?",
+        "Response": "Support Ojas and balance Vata to enhance immunity in the elderly.",
+        "Context": "Elderly Immunity"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with autoimmune conditions?",
+        "Response": "Address the root cause of the imbalance, reduce inflammation, and support immunity.",
+        "Context": "Autoimmune"
+    },
+    {
+        "Instruction": "What are some Ayurvedic recommendations for healthy travel?",
+        "Response": "Balance Vata, stay hydrated, and eat warm, easily digestible foods.",
+        "Context": "Healthy Travel"
+    },
+    {
+        "Instruction": "How does Ayurveda help in managing the symptoms of fibromyalgia?",
+        "Response": "Address the pain, reduce inflammation, and support the nervous system.",
+        "Context": "Fibromyalgia"
+    },
+    {
+        "Instruction": "What Ayurvedic practices are beneficial for students during exams?",
+        "Response": "Enhance mental clarity, reduce stress, and support memory with appropriate herbs.",
+        "Context": "Exams"
+    },
+    {
+        "Instruction": "How does Ayurveda approach the treatment of skin pigmentation issues?",
+        "Response": "Balance Pitta, improve liver function, and use herbs for skin health.",
+        "Context": "Pigmentation"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for individuals working night shifts?",
+        "Response": "Balance Vata, maintain a regular routine, and support digestion.",
+        "Context": "Night Shifts"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to hormonal imbalance in women?",
+        "Response": "Support hormonal balance, reduce stress, and use herbs for reproductive health.",
+        "Context": "Hormonal Imbalance"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving bladder control?",
+        "Response": "Strengthen the pelvic floor, balance Vata, and use herbs for bladder health.",
+        "Context": "Bladder Control"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals dealing with anxiety disorders?",
+        "Response": "Balance Vata, calm the mind, and use herbs for nervous system support.",
+        "Context": "Anxiety Disorders"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help in managing symptoms of PCOS?",
+        "Response": "Support hormonal balance, improve metabolism, and use herbs for reproductive health.",
+        "Context": "PCOS"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to male infertility?",
+        "Response": "Enhance reproductive health, reduce stress, and use herbs for sperm production.",
+        "Context": "Male Infertility"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving circulation in the legs?",
+        "Response": "Exercise regularly, massage the legs, and use herbs for circulation.",
+        "Context": "Leg Circulation"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with Irritable Bowel Syndrome (IBS)?",
+        "Response": "Improve digestion, reduce inflammation, and balance Vata dosha.",
+        "Context": "IBS"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for individuals with high cholesterol?",
+        "Response": "Balance Kapha, improve liver function, and use herbs for cholesterol management.",
+        "Context": "High Cholesterol"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to chronic sinusitis?",
+        "Response": "Reduce inflammation, clear congestion, and support respiratory health.",
+        "Context": "Chronic Sinusitis"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving flexibility and range of motion?",
+        "Response": "Exercise regularly, stretch the body, and use herbs for joint health.",
+        "Context": "Flexibility"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with chronic bronchitis?",
+        "Response": "Reduce inflammation, clear congestion, and support lung function.",
+        "Context": "Chronic Bronchitis"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with anemia?",
+        "Response": "Improve iron absorption, balance Pitta, and use herbs for blood health.",
+        "Context": "Anemia"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to enlarged prostate?",
+        "Response": "Reduce inflammation, improve urinary flow, and use herbs for prostate health.",
+        "Context": "Enlarged Prostate"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving posture?",
+        "Response": "Strengthen the back muscles, align the body, and practice yoga.",
+        "Context": "Posture"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with carpal tunnel syndrome?",
+        "Response": "Reduce inflammation, relieve pressure on the nerve, and use herbs for nerve health.",
+        "Context": "Carpal Tunnel"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with gallstones?",
+        "Response": "Improve liver function, reduce cholesterol, and use herbs for gallbladder health.",
+        "Context": "Gallstones"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to vertigo?",
+        "Response": "Balance Vata, improve circulation, and use herbs for nervous system support.",
+        "Context": "Vertigo"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving balance and coordination?",
+        "Response": "Exercise regularly, practice yoga, and engage in balance-enhancing activities.",
+        "Context": "Balance"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with multiple sclerosis?",
+        "Response": "Reduce inflammation, support the nervous system, and improve immunity.",
+        "Context": "Multiple Sclerosis"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with food allergies?",
+        "Response": "Identify food allergens, improve digestion, and balance doshas.",
+        "Context": "Food Allergies"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to underactive thyroid?",
+        "Response": "Support thyroid function, improve metabolism, and use herbs for thyroid health.",
+        "Context": "Underactive Thyroid"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving lymphatic drainage?",
+        "Response": "Massage the body, exercise regularly, and stay hydrated.",
+        "Context": "Lymphatic Drainage"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with lupus?",
+        "Response": "Reduce inflammation, balance immunity, and support overall health.",
+        "Context": "Lupus"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with edema (swelling)?",
+        "Response": "Improve circulation, support kidney function, and reduce salt intake.",
+        "Context": "Edema"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to gout?",
+        "Response": "Reduce uric acid levels, reduce inflammation, and balance Pitta dosha.",
+        "Context": "Gout"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with reducing leg cramps?",
+        "Response": "Stay hydrated, stretch the legs, and balance electrolytes.",
+        "Context": "Leg Cramps"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with Parkinson's disease?",
+        "Response": "Support the nervous system, improve mobility, and enhance mental clarity.",
+        "Context": "Parkinson's Disease"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with Raynaud's syndrome?",
+        "Response": "Improve circulation, stay warm, and avoid triggers.",
+        "Context": "Raynaud's Syndrome"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to tinnitus (ringing in the ears)?",
+        "Response": "Balance Vata, improve circulation, and support nervous system health.",
+        "Context": "Tinnitus"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with reducing varicose veins?",
+        "Response": "Improve circulation, elevate the legs, and use herbs for vein health.",
+        "Context": "Varicose Veins"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with endometriosis?",
+        "Response": "Balance hormones, reduce inflammation, and manage pain.",
+        "Context": "Endometriosis"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with hemorrhoids?",
+        "Response": "Improve digestion, reduce constipation, and reduce pressure on the rectum.",
+        "Context": "Hemorrhoids"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to bedwetting in children?",
+        "Response": "Strengthen the bladder, balance Vata, and address any underlying emotional issues.",
+        "Context": "Bedwetting"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving focus and concentration in children?",
+        "Response": "Enhance mental clarity, reduce distractions, and support brain health.",
+        "Context": "Focus in Children"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with arthritis?",
+        "Response": "Reduce inflammation, manage pain, and improve joint health.",
+        "Context": "Arthritis"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with osteoporosis?",
+        "Response": "Improve bone density, balance calcium levels, and strengthen the body.",
+        "Context": "Osteoporosis"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to insomnia?",
+        "Response": "Balance Vata dosha, calm the mind, and establish a relaxing bedtime routine.",
+        "Context": "Insomnia"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving balance in elderly individuals?",
+        "Response": "Strengthen the body, improve coordination, and reduce fall risk.",
+        "Context": "Balance in Elderly"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with celiac disease?",
+        "Response": "Improve digestion, reduce inflammation, and avoid gluten-containing foods.",
+        "Context": "Celiac Disease"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with chronic headaches?",
+        "Response": "Identify triggers, balance doshas, and manage stress.",
+        "Context": "Chronic Headaches"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to night sweats?",
+        "Response": "Balance Pitta, cool the body, and manage stress.",
+        "Context": "Night Sweats"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving memory and cognitive function in elderly?",
+        "Response": "Enhance mental clarity, reduce stress, and support brain health.",
+        "Context": "Cognitive Function"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with GERD (gastroesophageal reflux disease)?",
+        "Response": "Improve digestion, reduce acidity, and soothe the digestive tract.",
+        "Context": "GERD"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with chronic fatigue syndrome?",
+        "Response": "Enhance energy levels, reduce stress, and support adrenal function.",
+        "Context": "Chronic Fatigue"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to menstrual cramps?",
+        "Response": "Balance Vata, reduce inflammation, and soothe the uterus.",
+        "Context": "Menstrual Cramps"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving sleep quality?",
+        "Response": "Balance Vata, calm the mind, and establish a relaxing bedtime routine.",
+        "Context": "Sleep Quality"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with depression?",
+        "Response": "Uplift the mood, reduce stress, and balance doshas.",
+        "Context": "Depression"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with high blood pressure?",
+        "Response": "Manage stress, eat a heart-healthy diet, and exercise regularly.",
+        "Context": "High Blood Pressure"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to stress-induced hair loss?",
+        "Response": "Manage stress, nourish the hair follicles, and balance doshas.",
+        "Context": "Stress-Induced Hair Loss"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving stamina and endurance?",
+        "Response": "Enhance energy levels, support adrenal function, and strengthen the body.",
+        "Context": "Stamina"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with asthma?",
+        "Response": "Reduce inflammation, clear congestion, and support respiratory health.",
+        "Context": "Asthma"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with chronic skin conditions?",
+        "Response": "Identify triggers, balance doshas, and use herbs for skin health.",
+        "Context": "Chronic Skin"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to seasonal allergies?",
+        "Response": "Reduce inflammation, improve immunity, and avoid allergens.",
+        "Context": "Seasonal Allergies"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving energy levels during pregnancy?",
+        "Response": "Nourish the body, balance doshas, and manage stress.",
+        "Context": "Pregnancy Energy"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with Irritable Bowel Disease (IBD)?",
+        "Response": "Reduce inflammation, heal the digestive tract, and support immunity.",
+        "Context": "IBD"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with an enlarged thyroid (goiter)?",
+        "Response": "Balance thyroid function, reduce inflammation, and use herbs for thyroid health.",
+        "Context": "Enlarged Thyroid"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to bloating and gas?",
+        "Response": "Improve digestion, reduce inflammation, and balance Vata dosha.",
+        "Context": "Bloating and Gas"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving mental clarity and focus?",
+        "Response": "Enhance mental clarity, reduce stress, and support brain health.",
+        "Context": "Mental Clarity"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with anxiety?",
+        "Response": "Balance Vata, calm the mind, and use herbs for nervous system support.",
+        "Context": "Anxiety"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with chronic constipation?",
+        "Response": "Improve digestion, hydrate the body, and increase fiber intake.",
+        "Context": "Chronic Constipation"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to weak immunity?",
+        "Response": "Strengthen Agni, nourish Ojas, and use immunomodulatory herbs.",
+        "Context": "Weak Immunity"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving joint flexibility?",
+        "Response": "Apply warm oils, perform gentle stretches, and use anti-inflammatory herbs.",
+        "Context": "Joint Flexibility"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals recovering from surgery?",
+        "Response": "Enhance healing, reduce inflammation, and restore balance.",
+        "Context": "Post-Surgery Recovery"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for those with chronic pain?",
+        "Response": "Identify the root cause of pain, reduce inflammation, and balance doshas.",
+        "Context": "Chronic Pain"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to PMS?",
+        "Response": "Balance hormones, reduce inflammation, and soothe the body and mind.",
+        "Context": "PMS Symptoms"
+    },
+    {
+        "Instruction": "What Ayurvedic practices can help with improving fertility?",
+        "Response": "Balance doshas, reduce stress, and use fertility-enhancing herbs.",
+        "Context": "Fertility"
+    },
+    {
+        "Instruction": "How does Ayurveda support individuals with cancer?",
+        "Response": "Enhance immunity, reduce side effects of treatment, and improve quality of life.",
+        "Context": "Cancer Support"
+    },
+    {
+        "Instruction": "What Ayurvedic advice is given for maintaining healthy vision?",
+        "Response": "Protect eyes from strain, nourish them with proper nutrition, and balance Pitta dosha.",
+        "Context": "Healthy Vision"
+    },
+    {
+        "Instruction": "How does Ayurveda address issues related to diabetes management?",
+        "Response": "Regulate blood sugar levels, improve metabolism, and support pancreatic function.",
+        "Context": "Diabetes Management"
+    },
+    {
+        "Instruction": "What difference does beautiful oil make to salads, vegetables, and dips?",
+        "Response": "Beautiful oil greatly enhances salads, vegetables, and dips.",
+        "Context": "Enhancement"
+    },
+    {
+        "Instruction": "What type of sesame oil does the author use?",
+        "Response": "The author uses toasted black extra virgin sesame oil by Carwari.",
+        "Context": "Sesame"
+    },
+    {
+        "Instruction": "What are the characteristics of Carwari black sesame oil?",
+        "Response": "Carwari black sesame oil is smooth, nutty, and has a divine smell.",
+        "Context": "Carwari"
+    },
+    {
+        "Instruction": "How can sesame oil be used?",
+        "Response": "It can be drizzled on salad leaves, stir-fried veggies, sauces, and Japanese-style dressings.",
+        "Context": "Drizzle"
+    },
+    {
+        "Instruction": "What are the health benefits of sesame oil?",
+        "Response": "It\u2019s high in antioxidants and anti-inflammatory compounds that support heart health and joint pain relief.",
+        "Context": "Antioxidants"
+    },
+    {
+        "Instruction": "Why is pumpkin seed oil a favorite?",
+        "Response": "It has a smooth, earthy flavor and is great for salads and baked vegetables.",
+        "Context": "Pumpkin"
+    },
+    {
+        "Instruction": "What are the health benefits of pumpkin seed oil?",
+        "Response": "It helps protect against inflammation, heart and prostate issues, and bladder disorders.",
+        "Context": "Inflammation"
+    },
+    {
+        "Instruction": "What other organic cold-pressed oils does the author use in dressings?",
+        "Response": "White chia seed, avocado, macadamia, and walnut oils.",
+        "Context": "Chia"
+    },
+    {
+        "Instruction": "What oils does the author use in smoothies?",
+        "Response": "Hemp oil and MCT coconut oil.",
+        "Context": "Smoothies"
+    },
+    {
+        "Instruction": "When does the author use black cumin seed oil?",
+        "Response": "When feeling rundown.",
+        "Context": "Cumin"
+    },
+    {
+        "Instruction": "What is the second essential ingredient for making beautiful dressings?",
+        "Response": "Vinegar.",
+        "Context": "Vinegar"
+    },
+    {
+        "Instruction": "What is the 'mother' in vinegar?",
+        "Response": "A byproduct of fermentation containing enzymes and beneficial bacteria.",
+        "Context": "Mother"
+    },
+    {
+        "Instruction": "What do organic, unpasteurized fruit vinegars offer?",
+        "Response": "They offer antioxidants, nutritional compounds, and probiotic benefits.",
+        "Context": "Probiotics"
+    },
+    {
+        "Instruction": "Which fruit vinegar is the most well-known?",
+        "Response": "Apple cider vinegar.",
+        "Context": "Apple"
+    },
+    {
+        "Instruction": "Which Australian small business is recommended for apple cider vinegar?",
+        "Response": "Wild Mother Tasmania.",
+        "Context": "Tasmania"
+    },
+    {
+        "Instruction": "What does apple cider vinegar pair beautifully with in vinaigrette dressings?",
+        "Response": "Olive oil, garlic, herbs, mustard, pepper, and lemon.",
+        "Context": "Vinaigrette"
+    },
+    {
+        "Instruction": "Which other Australian small business creates organic fruit vinegars?",
+        "Response": "Nim-Veda.",
+        "Context": "Nimveda"
+    },
+    {
+        "Instruction": "What types of fruit vinegars do they produce?",
+        "Response": "Raspberry, blueberry, cherry, and quince.",
+        "Context": "Fruits"
+    },
+    {
+        "Instruction": "Are there any additives in Nim-Veda's range of fruit vinegars?",
+        "Response": "No additives like coloring, flavoring, or preservatives.",
+        "Context": "Additives"
+    },
+    {
+        "Instruction": "How are Nim-Veda's fruit vinegars made?",
+        "Response": "By handpicking and curing fruit in vats with the mother culture.",
+        "Context": "Fermentation"
+    },
+    {
+        "Instruction": "How long are the fruit vinegars aged before being bottled?",
+        "Response": "1\u20132 years in oak barrels.",
+        "Context": "Aging"
+    },
+    {
+        "Instruction": "How can fruit vinegars be used?",
+        "Response": "In salad dressings, quinoa salads, dips, and dessert recipes.",
+        "Context": "Usage"
+    },
+    {
+        "Instruction": "Which vinegar is the author's most used dressing ingredient?",
+        "Response": "Balsamic vinegar.",
+        "Context": "Balsamic"
+    },
+    {
+        "Instruction": "What are the flavor characteristics of balsamic vinegar?",
+        "Response": "Sweeter, fruitier, and less acidic than others.",
+        "Context": "Flavor"
+    },
+    {
+        "Instruction": "How can balsamic vinegar be used?",
+        "Response": "Over salads, vegetables, soups, risotto, fruits, or as a glaze.",
+        "Context": "Application"
+    },
+    {
+        "Instruction": "What are the health benefits of balsamic vinegar?",
+        "Response": "It lowers cholesterol, balances blood sugar, and supports digestion.",
+        "Context": "Health"
+    },
+    {
+        "Instruction": "What should you do before buying balsamic vinegar?",
+        "Response": "Read the label.",
+        "Context": "Labels"
+    },
+    {
+        "Instruction": "What should you ensure about the balsamic vinegar you buy?",
+        "Response": "Ensure it's pure and free from added sugar or preservatives.",
+        "Context": "Purity"
+    },
+    {
+        "Instruction": "What is the author's favorite culinary treasure?",
+        "Response": "Handmade organic balsamic vinegar.",
+        "Context": "Treasure"
+    },
+    {
+        "Instruction": "How long is the author's favorite balsamic vinegar aged?",
+        "Response": "Eight years.",
+        "Context": "Eight"
+    },
+    {
+        "Instruction": "Where is the author's favorite balsamic vinegar made?",
+        "Response": "Modena, Italy.",
+        "Context": "Modena"
+    },
+    {
+        "Instruction": "What is the author's opinion on spending money on good vinegar?",
+        "Response": "It\u2019s worth the cost like a good bottle of wine.",
+        "Context": "Value"
+    },
+    {
+        "Instruction": "What type of balsamic vinegar does the author recommend buying to avoid additives?",
+        "Response": "Buy organic balsamic vinegar.",
+        "Context": "Organic"
+    },
+    {
+        "Instruction": "Are sulphites found in organic vinegars?",
+        "Response": "Yes.",
+        "Context": "Sulphites"
+    },
+    {
+        "Instruction": "How do naturally occurring sulphites compare to added sulphites?",
+        "Response": "They\u2019re in smaller amounts than added ones.",
+        "Context": "Comparison"
+    },
+    {
+        "Instruction": "What can sulphite intolerance cause?",
+        "Response": "Wheezing, hay fever, or hives.",
+        "Context": "Reactions"
+    },
+    {
+        "Instruction": "What does the author advise regarding food labels?",
+        "Response": "Always check food labels.",
+        "Context": "Advice"
+    },
+    {
+        "Instruction": "What is the most essential thing to do when you're cooking?",
+        "Response": "Taste testing.",
+        "Context": "Tasting"
+    },
+    {
+        "Instruction": "Why is taste testing important?",
+        "Response": "To balance the flavors.",
+        "Context": "Balance"
+    },
+    {
+        "Instruction": "What is present in every culture regarding flavor in their dishes?",
+        "Response": "Each culture has its own way.",
+        "Context": "Culture"
+    },
+    {
+        "Instruction": "How many flavors either balance or enhance one another?",
+        "Response": "Five.",
+        "Context": "Five"
+    },
+    {
+        "Instruction": "What are the five flavors?",
+        "Response": "Sweet, sour, salty, bitter, and umami.",
+        "Context": "Taste"
+    },
+    {
+        "Instruction": "How many flavor groups does the author like to have present and balanced in their meals?",
+        "Response": "All five.",
+        "Context": "Harmony"
+    },
+    {
+        "Instruction": "What does sweet add to flavors?",
+        "Response": "It adds richness and balances other flavors.",
+        "Context": "Sweet"
+    },
+    {
+        "Instruction": "What are some sweet notes the author uses in dressings and salads?",
+        "Response": "Raw honey, maple syrup, sweet fruits, dates.",
+        "Context": "Sweeteners"
+    },
+    {
+        "Instruction": "What does sour do to flavors?",
+        "Response": "It brightens and balances other flavors.",
+        "Context": "Sour"
+    },
+    {
+        "Instruction": "What are some examples of sour foods?",
+        "Response": "Lemon, lime, vinegar, pickles, raspberries, yogurt, feta.",
+        "Context": "Sources"
+    },
+    {
+        "Instruction": "What does salt enhance and balance?",
+        "Response": "It enhances sweetness and balances bitterness.",
+        "Context": "Salt"
+    },
+    {
+        "Instruction": "What salty foods does the author use?",
+        "Response": "Celtic sea salt and capers in brine.",
+        "Context": "Capers"
+    },
+    {
+        "Instruction": "What does bitter balance and add?",
+        "Response": "It balances sweetness and salt and adds richness.",
+        "Context": "Bitter"
+    },
+    {
+        "Instruction": "What should you always think about when you cook?",
+        "Response": "Think about the ingredients' flavour, intensity, and how they combine.",
+        "Context": "Flavor-profile"
+    },
+    {
+        "Instruction": "What can you do if a dish has too much of one flavour?",
+        "Response": "Balance it with other flavours.",
+        "Context": "Harmony"
+    },
+    {
+        "Instruction": "What kind of vegetables are rocket and arugula?",
+        "Response": "Cruciferous (bitter).",
+        "Context": "Cruciferous"
+    },
+    {
+        "Instruction": "What kind of taste does rocket have?",
+        "Response": "Bitter.",
+        "Context": "Bitterness"
+    },
+    {
+        "Instruction": "What can you use to balance bitter flavours?",
+        "Response": "Salt, sweet, sour, and umami.",
+        "Context": "Basic-tastes"
+    },
+    {
+        "Instruction": "Name three sweet ingredients that can be used to balance bitterness.",
+        "Response": "Fresh pear, blueberries, strawberries.",
+        "Context": "Fresh-fruit"
+    },
+    {
+        "Instruction": "What umami ingredient is mentioned for balancing salads?",
+        "Response": "Walnuts (umami).",
+        "Context": "Nutty-umami"
+    },
+    {
+        "Instruction": "What two tastes does balsamic vinegar provide?",
+        "Response": "Sweet and sour.",
+        "Context": "Contrast"
+    },
+    {
+        "Instruction": "What kind of oil adds umami richness to a salad?",
+        "Response": "Pumpkin seed oil.",
+        "Context": "Seed-oil"
+    },
+    {
+        "Instruction": "What salty ingredient can you add to finish a salad?",
+        "Response": "Chopped capers (salt).",
+        "Context": "Salty"
+    },
+    {
+        "Instruction": "What should you remember about flavour and food taste?",
+        "Response": "Flavour and taste is personal.",
+        "Context": "Subjectivity"
+    },
+    {
+        "Instruction": "What should you do while you're cooking to ensure you love the balance of flavours?",
+        "Response": "Taste test and adjust.",
+        "Context": "Tweaking"
+    },
+    {
+        "Instruction": "What kind of lives are drizzle dressings ideal for?",
+        "Response": "Busy lives and weeknight dinners.",
+        "Context": "Convenience"
+    },
+    {
+        "Instruction": "What kind of vegetables are good to prep for salads?",
+        "Response": "Baked veggies.",
+        "Context": "Roasted"
+    },
+    {
+        "Instruction": "Name two things you can prep along with baked veggies.",
+        "Response": "Black wild rice/quinoa, tofu/beans.",
+        "Context": "Whole-grains"
+    },
+    {
+        "Instruction": "How many days ahead does the author usually prep ingredients?",
+        "Response": "Three days.",
+        "Context": "Batch-cooking"
+    },
+    {
+        "Instruction": "Name three types of fillings or protein you can prep for during the week.",
+        "Response": "Curry, burrito/taco fillings, marinated protein.",
+        "Context": "Plant-protein"
+    },
+    {
+        "Instruction": "What two things do you add to a salad or Buddha bowl when you get home?",
+        "Response": "Balsamic/fruit vinegar, pumpkin seed oil.",
+        "Context": "Acidity"
+    },
+    {
+        "Instruction": "Should you heavily drown a salad with dressing?",
+        "Response": "No.",
+        "Context": "Rejection"
+    },
+    {
+        "Instruction": "What do you want to create with your salad dressing?",
+        "Response": "Hints and layers of flavour.",
+        "Context": "Complexity"
+    },
+    {
+        "Instruction": "What does the author usually add first to the salad?",
+        "Response": "Vinegar.",
+        "Context": "Dressing-base"
+    },
+    {
+        "Instruction": "How does the author determine if the salad needs more vinegar?",
+        "Response": "Taste test.",
+        "Context": "Trial"
+    },
+    {
+        "Instruction": "What does the author swirl on top of the salad as a finishing touch?",
+        "Response": "Oil, nuts, seeds, capers, olives, herbs.",
+        "Context": "Crunch"
+    },
+    {
+        "Instruction": "Name three gorgeous salad toppings.",
+        "Response": "Cashews, walnuts, pine nuts.",
+        "Context": "Tree-nuts"
+    },
+    {
+        "Instruction": "What else can you dress your salads with?",
+        "Response": "Berries or fresh fruit slices.",
+        "Context": "Sweetness"
+    },
+    {
+        "Instruction": "When is life much easier and healthier?",
+        "Response": "When you prep for the week.",
+        "Context": "Advance-prep"
+    },
+    {
+        "Instruction": "What can a beautiful vinaigrette dressing do to a simple bowl of salad?",
+        "Response": "Gourmet level.",
+        "Context": "Elevation"
+    },
+    {
+        "Instruction": "Traditionally, what is the ratio of oil to vinegar in a vinaigrette?",
+        "Response": "3 parts oil to 1 part vinegar (3:1).",
+        "Context": "Standard-ratio"
+    },
+    {
+        "Instruction": "What is the basic ratio most people are taught for a well-balanced dressing?",
+        "Response": "3.01",
+        "Context": "Numerical"
+    },
+    {
+        "Instruction": "In a traditional vinaigrette, how many tablespoons of oil and vinegar are used?",
+        "Response": "6 tbsp oil to 2 tbsp vinegar.",
+        "Context": "Precision"
+    },
+    {
+        "Instruction": "What can you add to dilute the flavour of vinegar if it's too acidic?",
+        "Response": "Boiled water.",
+        "Context": "Hot-water"
+    },
+    {
+        "Instruction": "What do you start with when making vinaigrettes?",
+        "Response": "Vinegar and seasonings.",
+        "Context": "Flavoring"
+    }
+]

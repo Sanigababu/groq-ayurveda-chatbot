@@ -1,0 +1,2497 @@
+[
+    {
+        "Instruction": "What is Vata dosha?",
+        "Response": "Vata governs movement, communication, and circulation. It is light, dry, cold, and quick.",
+        "Context": "Ayurveda, Vata, Dosha"
+    },
+    {
+        "Instruction": "What are Vata traits?",
+        "Response": "Creativity, talkativeness, restlessness, dry skin, and thin build are common Vata traits.",
+        "Context": "Ayurveda, Vata, Personality"
+    },
+    {
+        "Instruction": "What causes Vata imbalance?",
+        "Response": "Irregular routines, cold weather, raw food, and overexertion can aggravate Vata.",
+        "Context": "Ayurveda, Vata, Causes"
+    },
+    {
+        "Instruction": "Symptoms of Vata imbalance?",
+        "Response": "Anxiety, constipation, insomnia, cold hands, dry skin, and fatigue are common.",
+        "Context": "Ayurveda, Vata, Symptoms"
+    },
+    {
+        "Instruction": "How to balance Vata?",
+        "Response": "Warm foods, oil massage, regular routine, and calming activities help balance Vata.",
+        "Context": "Ayurveda, Vata, Remedies"
+    },
+    {
+        "Instruction": "What is Pitta dosha?",
+        "Response": "Pitta governs digestion, metabolism, and body temperature. It is hot, sharp, and oily.",
+        "Context": "Ayurveda, Pitta, Dosha"
+    },
+    {
+        "Instruction": "What are Pitta traits?",
+        "Response": "Focused, intelligent, ambitious, with strong digestion and warm body temperature.",
+        "Context": "Ayurveda, Pitta, Personality"
+    },
+    {
+        "Instruction": "What causes Pitta imbalance?",
+        "Response": "Heat, spicy foods, overwork, and competition can aggravate Pitta.",
+        "Context": "Ayurveda, Pitta, Causes"
+    },
+    {
+        "Instruction": "Symptoms of Pitta imbalance?",
+        "Response": "Anger, acidity, rashes, burning sensations, and inflammation are common signs.",
+        "Context": "Ayurveda, Pitta, Symptoms"
+    },
+    {
+        "Instruction": "How to balance Pitta?",
+        "Response": "Cool foods, calming activities, rest, and avoiding direct heat help reduce Pitta.",
+        "Context": "Ayurveda, Pitta, Remedies"
+    },
+    {
+        "Instruction": "What is Kapha dosha?",
+        "Response": "Kapha provides stability, structure, lubrication, and immunity. It is heavy and cool.",
+        "Context": "Ayurveda, Kapha, Dosha"
+    },
+    {
+        "Instruction": "What are Kapha traits?",
+        "Response": "Calm, caring, slow, loyal, with a solid body frame and strong immunity.",
+        "Context": "Ayurveda, Kapha, Personality"
+    },
+    {
+        "Instruction": "What causes Kapha imbalance?",
+        "Response": "Lack of activity, excess sleep, dairy, and sweets aggravate Kapha.",
+        "Context": "Ayurveda, Kapha, Causes"
+    },
+    {
+        "Instruction": "Symptoms of Kapha imbalance?",
+        "Response": "Lethargy, weight gain, congestion, swelling, and depression may occur.",
+        "Context": "Ayurveda, Kapha, Symptoms"
+    },
+    {
+        "Instruction": "How to balance Kapha?",
+        "Response": "Exercise, light spicy food, dry brushing, and reduced sugar help balance Kapha.",
+        "Context": "Ayurveda, Kapha, Remedies"
+    },
+    {
+        "Instruction": "What are the five elements in doshas?",
+        "Response": "Vata = air + space, Pitta = fire + water, Kapha = earth + water.",
+        "Context": "Ayurveda, Doshas, Elements"
+    },
+    {
+        "Instruction": "What is the role of doshas in the body?",
+        "Response": "Doshas control bodily functions: Vata moves, Pitta transforms, Kapha builds.",
+        "Context": "Ayurveda, Doshas, Functions"
+    },
+    {
+        "Instruction": "How do I find my body type?",
+        "Response": "You can identify your dosha by analyzing physical and mental traits or using a body-type quiz.",
+        "Context": "Ayurveda, Body Type, Assessment"
+    },
+    {
+        "Instruction": "What happens when doshas go out of balance?",
+        "Response": "Dosha imbalance leads to physical and emotional issues like poor digestion, mood swings, and fatigue.",
+        "Context": "Ayurveda, Doshas, Imbalance"
+    },
+    {
+        "Instruction": "What\u2019s the link between doshas and diet?",
+        "Response": "Foods can balance or aggravate doshas. Eating per your dosha supports health and harmony.",
+        "Context": "Ayurveda, Diet, Doshas"
+    },
+    {
+        "Instruction": "What does Vata dosha control?",
+        "Response": "Vata controls all movement in the body including circulation, breathing, elimination, and nerve impulses.",
+        "Context": "Ayurveda, Vata, Functions"
+    },
+    {
+        "Instruction": "What are signs of Vata imbalance?",
+        "Response": "Dry skin, anxiety, constipation, cold hands, fatigue, and insomnia are signs of Vata imbalance.",
+        "Context": "Ayurveda, Vata, Symptoms"
+    },
+    {
+        "Instruction": "How to balance Vata dosha?",
+        "Response": "Follow a routine, stay warm, eat cooked foods, practice calming yoga, and avoid loud or cold environments.",
+        "Context": "Ayurveda, Vata, Balance"
+    },
+    {
+        "Instruction": "What is the Vata balancing diet?",
+        "Response": "Eat warm, moist, oily foods with sweet, sour, and salty tastes. Avoid raw, dry, and cold foods.",
+        "Context": "Ayurveda, Vata, Diet"
+    },
+    {
+        "Instruction": "Which fruits are best for Vata?",
+        "Response": "Favour sweet, juicy, ripe fruits like mangoes and bananas. Avoid dry fruits unless soaked and cooked.",
+        "Context": "Ayurveda, Vata, Fruits"
+    },
+    {
+        "Instruction": "Which vegetables reduce Vata?",
+        "Response": "Favour root vegetables like carrots, beets, and squash. Avoid raw cabbage, cauliflower, and sprouts.",
+        "Context": "Ayurveda, Vata, Vegetables"
+    },
+    {
+        "Instruction": "What spices help calm Vata?",
+        "Response": "Spices like cinnamon, ginger, fennel, and cardamom are warming and help balance Vata.",
+        "Context": "Ayurveda, Vata, Spices"
+    },
+    {
+        "Instruction": "What oils are good for Vata types?",
+        "Response": "Ghee, sesame oil, and flax oil nourish and ground Vata. Use them in cooking and massage.",
+        "Context": "Ayurveda, Vata, Oils"
+    },
+    {
+        "Instruction": "What are traits of Pitta dosha?",
+        "Response": "Pitta is made of fire and water. It governs metabolism, digestion, vision, and body temperature.",
+        "Context": "Ayurveda, Pitta, Traits"
+    },
+    {
+        "Instruction": "What are symptoms of Pitta imbalance?",
+        "Response": "Signs include irritability, acne, heartburn, sweating, and a sharp appetite with frequent thirst.",
+        "Context": "Ayurveda, Pitta, Imbalance"
+    },
+    {
+        "Instruction": "How to balance excess Pitta?",
+        "Response": "Avoid spicy, sour, or fried foods. Stay cool, avoid direct sun, and engage in calming activities.",
+        "Context": "Ayurveda, Pitta, Remedies"
+    },
+    {
+        "Instruction": "What is the ideal Pitta diet?",
+        "Response": "Eat cool, slightly heavy foods with sweet, bitter, and astringent tastes. Avoid acidic and fermented items.",
+        "Context": "Ayurveda, Pitta, Diet"
+    },
+    {
+        "Instruction": "Which fruits cool Pitta?",
+        "Response": "Fruits like figs, pomegranate, watermelon, and sweet peaches are good for reducing Pitta.",
+        "Context": "Ayurveda, Pitta, Fruits"
+    },
+    {
+        "Instruction": "Which vegetables should Pitta types eat?",
+        "Response": "Eat leafy greens, cucumbers, zucchini, squash, and asparagus. Avoid garlic and tomatoes.",
+        "Context": "Ayurveda, Pitta, Vegetables"
+    },
+    {
+        "Instruction": "What foods should Pitta avoid?",
+        "Response": "Avoid sour fruits, alcohol, pickles, vinegar, spicy dressings, and citrus that aggravate Pitta.",
+        "Context": "Ayurveda, Pitta, Avoid"
+    },
+    {
+        "Instruction": "What are traits of Kapha dosha?",
+        "Response": "Kapha provides body structure, stability, immunity, and lubrication. It controls growth and fluid balance.",
+        "Context": "Ayurveda, Kapha, Traits"
+    },
+    {
+        "Instruction": "What are symptoms of Kapha imbalance?",
+        "Response": "Signs include sluggishness, weight gain, congestion, bloating, and water retention.",
+        "Context": "Ayurveda, Kapha, Symptoms"
+    },
+    {
+        "Instruction": "How to balance Kapha dosha?",
+        "Response": "Eat spicy, bitter, and astringent foods. Stay active, wake early, and use bright colors and warm showers.",
+        "Context": "Ayurveda, Kapha, Balance"
+    },
+    {
+        "Instruction": "What is the Kapha balancing diet?",
+        "Response": "Eat warm, dry, light foods with minimal oil. Avoid cold, heavy, and sweet foods.",
+        "Context": "Ayurveda, Kapha, Diet"
+    },
+    {
+        "Instruction": "Which vegetables are good for Kapha?",
+        "Response": "Vegetables like asparagus, broccoli, cabbage, and peppers are ideal for Kapha.",
+        "Context": "Ayurveda, Kapha, Vegetables"
+    },
+    {
+        "Instruction": "What fruits should Kapha reduce?",
+        "Response": "Avoid heavy fruits like bananas, coconuts, and dates. Prefer lighter fruits like apples and pears.",
+        "Context": "Ayurveda, Kapha, Fruits"
+    },
+    {
+        "Instruction": "What drinks help with Kapha digestion?",
+        "Response": "Hot water with lemon, ginger, and post-meal teas with cumin and coriander help digest food.",
+        "Context": "Ayurveda, Kapha, Drinks"
+    },
+    {
+        "Instruction": "Why is honey good for Kapha?",
+        "Response": "Honey helps reduce Kapha due to its heating and scraping qualities. Other sugars should be minimized.",
+        "Context": "Ayurveda, Kapha, Remedies"
+    },
+    {
+        "Instruction": "What foods balance Kapha dosha?",
+        "Response": "Kapha balancing foods are warm, light, dry, spicy, and cooked with minimal oil. Avoid cold, heavy, oily dishes.",
+        "Context": "Ayurveda, Kapha, Diet"
+    },
+    {
+        "Instruction": "Which tastes should Kapha dominant people favor?",
+        "Response": "Kapha types benefit from bitter, pungent, and astringent tastes to reduce heaviness and stimulate metabolism.",
+        "Context": "Ayurveda, Kapha, Tastes"
+    },
+    {
+        "Instruction": "What is a suitable breakfast for Kapha types?",
+        "Response": "Stewed fruit or toast with honey is a better breakfast option than cold cereals or fried foods for Kapha types.",
+        "Context": "Ayurveda, Kapha, Breakfast"
+    },
+    {
+        "Instruction": "Which fruits should Kapha types avoid?",
+        "Response": "Kapha should reduce bananas, oranges, dates, avocados, melons, coconuts, and other heavy or sour fruits.",
+        "Context": "Ayurveda, Kapha, Fruits"
+    },
+    {
+        "Instruction": "Which vegetables should Kapha types eat?",
+        "Response": "Vegetables like broccoli, cabbage, cauliflower, and asparagus are good for Kapha. Avoid turnips and mashed potatoes.",
+        "Context": "Ayurveda, Kapha, Vegetables"
+    },
+    {
+        "Instruction": "What herbs help reduce Kapha?",
+        "Response": "Spices like black pepper, ginger, cinnamon, cumin, and turmeric help reduce Kapha. Avoid salty condiments.",
+        "Context": "Ayurveda, Kapha, Herbs"
+    },
+    {
+        "Instruction": "Why should Kapha avoid sweet and salty foods?",
+        "Response": "Sweet, salty, and sour tastes aggravate Kapha by increasing water retention, heaviness, and lethargy.",
+        "Context": "Ayurveda, Kapha, Dietary Caution"
+    },
+    {
+        "Instruction": "What causes Kapha weight gain?",
+        "Response": "Low digestive fire and slow metabolism cause Kapha-related weight gain even with small food intake.",
+        "Context": "Ayurveda, Kapha, Weight Management"
+    },
+    {
+        "Instruction": "How to improve digestion for Kapha body type?",
+        "Response": "Drink hot water with lemon and ginger, add digestive spices like cumin, coriander, and fennel during meals.",
+        "Context": "Ayurveda, Kapha, Digestion"
+    },
+    {
+        "Instruction": "What kind of exercise is good for Kapha?",
+        "Response": "Kapha types benefit from daily walking, dancing, swimming, or light strength training to boost energy.",
+        "Context": "Ayurveda, Kapha, Exercise"
+    },
+    {
+        "Instruction": "How to deal with emotional eating in Kapha types?",
+        "Response": "Yoga, meditation, walking in nature, and pranayama help control emotional eating in Kapha imbalance.",
+        "Context": "Ayurveda, Kapha, Emotional Health"
+    },
+    {
+        "Instruction": "What is a good herbal drink for Kapha?",
+        "Response": "Boil water with ginger, basil, cloves, cumin, and licorice for a Kapha-reducing drink. Sip warm during the day.",
+        "Context": "Ayurveda, Kapha, Herbal Remedies"
+    },
+    {
+        "Instruction": "What is the six-taste principle in Ayurveda?",
+        "Response": "Ayurveda says every meal should contain sweet, sour, salty, bitter, pungent, and astringent tastes.",
+        "Context": "Ayurveda, Six Tastes, Nutrition"
+    },
+    {
+        "Instruction": "What tastes do Vata types need more of?",
+        "Response": "Vata types benefit from more sweet, sour, and salty tastes, especially in colder seasons.",
+        "Context": "Ayurveda, Vata, Diet"
+    },
+    {
+        "Instruction": "What foods are best for Pitta body type?",
+        "Response": "Pitta types need more sweet, bitter, and astringent foods to cool and soothe body heat.",
+        "Context": "Ayurveda, Pitta, Diet"
+    },
+    {
+        "Instruction": "What does Ayurveda say about digestion timing?",
+        "Response": "Midday is the best time to eat the heaviest meal since digestive fire (agni) is strongest then.",
+        "Context": "Ayurveda, Digestion, Timing"
+    },
+    {
+        "Instruction": "How can I avoid post-meal bloating?",
+        "Response": "Avoid eating when angry or stressed. Sit calmly in a quiet environment to reduce gas and bloating.",
+        "Context": "Ayurveda, Digestion, Environment"
+    },
+    {
+        "Instruction": "Why avoid cold drinks during meals?",
+        "Response": "Cold drinks extinguish digestive fire. Avoid iced beverages during meals for better digestion.",
+        "Context": "Ayurveda, Digestion, Cold Drinks"
+    },
+    {
+        "Instruction": "How can I stimulate digestion before eating?",
+        "Response": "Eat a small slice of ginger with lemon juice and salt before meals to stimulate appetite and digestion.",
+        "Context": "Ayurveda, Digestion, Appetite"
+    },
+    {
+        "Instruction": "What is Triphala used for?",
+        "Response": "Triphala supports detox, digestion, and elimination. Take 2\u20133 tablets at night for best results.",
+        "Context": "Ayurveda, Herbs, Digestion"
+    },
+    {
+        "Instruction": "Why should sweet desserts be eaten first?",
+        "Response": "Sweet desserts help reduce appetite and should be eaten at the beginning of the meal, not at the end.",
+        "Context": "Ayurveda, Diet, Dessert Order"
+    },
+    {
+        "Instruction": "What is a good drink for better sleep?",
+        "Response": "A warm drink with milk, ghee, ginger, cardamom, and nutmeg helps relax the body and improve sleep.",
+        "Context": "Ayurveda, Sleep, Remedy"
+    },
+    {
+        "Instruction": "Why is chewing food well important?",
+        "Response": "Chewing well stimulates enzymes in saliva and improves food breakdown before it enters the stomach.",
+        "Context": "Ayurveda, Digestion, Chewing"
+    },
+    {
+        "Instruction": "Why should meals be eaten calmly?",
+        "Response": "Eating in a calm setting helps the body absorb nutrients and prevents digestive issues like bloating.",
+        "Context": "Ayurveda, Digestion, Mindful Eating"
+    },
+    {
+        "Instruction": "What is the ideal meal composition by volume?",
+        "Response": "Each meal should fill one-third with food, one-third with liquid, and one-third left as empty space.",
+        "Context": "Ayurveda, Digestion, Meal Volume"
+    },
+    {
+        "Instruction": "What are Ayurveda's dietary principles?",
+        "Response": "Eat fresh, organic, cooked meals with spices; avoid processed foods; align with dosha",
+        "Context": "Core dietary rules from Ayurvedic texts"
+    },
+    {
+        "Instruction": "Why eat 9 servings of fruits/vegetables?",
+        "Response": "Natural cleansers, prevent disease, provide antioxidants - 9 servings ensure daily detox",
+        "Context": "Nutritional cleansing properties"
+    },
+    {
+        "Instruction": "How to cook Ayurvedic vegetables?",
+        "Response": "Steam then add spiced ghee OR saut\u00e9 spices first then cook veggies slowly with minimal water",
+        "Context": "Traditional cooking methods"
+    },
+    {
+        "Instruction": "Why avoid microwaved food?",
+        "Response": "Destroys nutrients, creates toxins, removes prana - linked to long-term health issues",
+        "Context": "Research on nutrient destruction"
+    },
+    {
+        "Instruction": "Best water for digestion?",
+        "Response": "Hot water with ginger/lemon; herbal teas tailored to dosha (e.g., ginger for Kapha)",
+        "Context": "Digestive fire (Agni) principles"
+    },
+    {
+        "Instruction": "How should Vata types eat greens?",
+        "Response": "Cook with ghee + warming spices (cumin, fennel) - never raw to avoid Vata imbalance",
+        "Context": "Vata's cold/dry nature requires warming foods"
+    },
+    {
+        "Instruction": "What does Triphala do?",
+        "Response": "Gentle detox, boosts digestion/immunity, taken at bedtime for optimal cleansing",
+        "Context": "Classic Ayurvedic herbal formula"
+    },
+    {
+        "Instruction": "Which oils are Ayurveda-approved?",
+        "Response": "Cold-pressed ghee, olive, flaxseed - never refined/processed oils",
+        "Context": "Fat digestion guidelines"
+    },
+    {
+        "Instruction": "Daily detox routine?",
+        "Response": "Herbal teas, mung soup, Triphala, warm water - supports natural toxin removal",
+        "Context": "Seasonal cleansing practices"
+    },
+    {
+        "Instruction": "Proper Ayurvedic exercise?",
+        "Response": "Yoga/walking at 50% capacity until nose-breathing becomes difficult - no exhaustion",
+        "Context": "Movement for dosha balance"
+    },
+    {
+        "Instruction": "Is meat allowed in Ayurveda?",
+        "Response": "Red meat is toxic; occasional organic chicken/fish okay; plants preferred",
+        "Context": "Meat's heavy, tamasic qualities"
+    },
+    {
+        "Instruction": "Why avoid table salt?",
+        "Response": "Refined salt hardens arteries, causes water retention; use rock salt or seaweed instead",
+        "Context": "Mineral absorption issues"
+    },
+    {
+        "Instruction": "Dangers of processed foods?",
+        "Response": "Lose 95% nutrients, contain additives, create toxins that overwhelm digestion",
+        "Context": "Modern food processing dangers"
+    },
+    {
+        "Instruction": "Best carb sources?",
+        "Response": "Whole grains, fruits, veggies (slow-release); avoid white sugar/flour",
+        "Context": "Energy sustainability concepts"
+    },
+    {
+        "Instruction": "Benefits of leafy greens?",
+        "Response": "Purify blood, balance Pitta/Kapha, nourish skin - high in minerals for vitality",
+        "Context": "Greens' impact on shrotas (channels)"
+    },
+    {
+        "Instruction": "Why oppose GMO foods?",
+        "Response": "Disrupts nature's intelligence in DNA - may cause chronic imbalances",
+        "Context": "Ancient vs. modern food manipulation"
+    },
+    {
+        "Instruction": "Ideal sleep schedule?",
+        "Response": "Sleep by 10pm, wake early - maintains hormone balance for digestion/stress relief",
+        "Context": "Circadian rhythm alignment"
+    },
+    {
+        "Instruction": "Ayurvedic relationship advice?",
+        "Response": "Balance your emotions first; understand others' dosha types for harmony",
+        "Context": "Sadhaka Pitta (emotional health)"
+    },
+    {
+        "Instruction": "Best dairy choices?",
+        "Response": "Fresh, organic milk/ghee; avoid processed/pasteurized dairy",
+        "Context": "Dairy's Rajasic/Tamasic effects"
+    },
+    {
+        "Instruction": "How to cool Pitta?",
+        "Response": "Coriander, fennel, mint, aloe vera - cooling foods/herbs for Pitta types",
+        "Context": "Pitta's heat management"
+    },
+    {
+        "Instruction": "What is Dinacharya in Ayurveda?",
+        "Response": "Daily routine aligning with natural cycles (Vata/Pitta/Kapha periods) for optimal health",
+        "Context": "Foundation of preventive Ayurveda"
+    },
+    {
+        "Instruction": "Why wake up before 6am in Ayurveda?",
+        "Response": "Absorbs Vata's alertness/clarity (4-6am is most Sattvic time for spiritual practice)",
+        "Context": "Vata time qualities (dawn energy)"
+    },
+    {
+        "Instruction": "What's the first morning ritual in Dinacharya?",
+        "Response": "Drink warm lemon water to flush toxins and stimulate digestion",
+        "Context": "Stimulates Samana Vayu (digestive air)"
+    },
+    {
+        "Instruction": "How to cleanse senses in morning routine?",
+        "Response": "Splash face, oil ears, neti pot, tongue scraping, gargle with turmeric water",
+        "Context": "Sensory detox for heightened awareness"
+    },
+    {
+        "Instruction": "What are benefits of Abhyanga?",
+        "Response": "Nourishes body, improves sleep, reduces Vata, boosts circulation",
+        "Context": "Classic oil massage therapy"
+    },
+    {
+        "Instruction": "Best fabrics for clothing in Ayurveda?",
+        "Response": "Natural fibers (cotton/wool/silk) - avoid used clothes carrying others' energy",
+        "Context": "Energy field (Prana) protection"
+    },
+    {
+        "Instruction": "When should herbs be taken?",
+        "Response": "Empty stomach for maximum potency, same time daily for consistency",
+        "Context": "Herbal bioavailability principles"
+    },
+    {
+        "Instruction": "Best exercise time for Vata types?",
+        "Response": "Kapha time (7-10am) to counter Vata's instability with grounding exercises",
+        "Context": "Dosha-balancing through timing"
+    },
+    {
+        "Instruction": "Why meditate daily per Ayurveda?",
+        "Response": "Clears mental clutter, builds emotional resilience, balances nervous system",
+        "Context": "Mind-body purification"
+    },
+    {
+        "Instruction": "Ideal time for aerobic exercise?",
+        "Response": "Kapha period (7-10am) when body naturally handles vigorous activity",
+        "Context": "Kapha's natural endurance"
+    },
+    {
+        "Instruction": "Best work period according to doshas?",
+        "Response": "Pitta time (10am-2pm) - peak mental focus for problem-solving tasks",
+        "Context": "Pitta's metabolic intelligence"
+    },
+    {
+        "Instruction": "Why eat largest meal at noon?",
+        "Response": "Sun/Agni strongest then - ensures complete digestion and nutrient absorption",
+        "Context": "Solar cycle synchronization"
+    },
+    {
+        "Instruction": "What's ideal evening meal timing?",
+        "Response": "Light meal before sunset, 3hrs before bed (soup/milk) to prevent ama buildup",
+        "Context": "Evening Kapha heaviness"
+    },
+    {
+        "Instruction": "How to prepare for sleep in Ayurveda?",
+        "Response": "Foot/scalp massage with oil, Triphala tea, bedtime by 10pm for detox sleep",
+        "Context": "Circadian rhythm alignment"
+    },
+    {
+        "Instruction": "Why avoid late-night Pitta period?",
+        "Response": "Body wakes at 11pm if active - disrupts toxin removal and causes morning ama",
+        "Context": "Pitta's secondary metabolic phase"
+    },
+    {
+        "Instruction": "How does seasonal routine differ?",
+        "Response": "Vata: Winter (warm routines), Pitta: Summer (cooling), Kapha: Spring (light foods)",
+        "Context": "Ritucharya (seasonal cycles)"
+    },
+    {
+        "Instruction": "What are nature's daily dosha cycles?",
+        "Response": "Pitta (noon/midnight), Kapha (morning/evening), Vata (dawn/afternoon)",
+        "Context": "Dosha chronobiology"
+    },
+    {
+        "Instruction": "How to structure a perfect Ayurvedic day?",
+        "Response": "Kapha AM: cleanse/exercise, Pitta noon: eat/work, Vata PM: create, Kapha night: rest",
+        "Context": "Dinacharya principles"
+    },
+    {
+        "Instruction": "What's the ideal morning Kapha routine?",
+        "Response": "Wake at dawn, lemon water, oil massage, yoga, light breakfast",
+        "Context": "Kapha's earthy qualities"
+    },
+    {
+        "Instruction": "Why is noon Pitta's peak time?",
+        "Response": "Pitta governs metabolism - strongest digestion/mental focus at midday",
+        "Context": "Solar-agni correlation"
+    },
+    {
+        "Instruction": "How to balance Vata in afternoon?",
+        "Response": "Creative work + light snack (nuts/fruit) to ground Vata's mobility",
+        "Context": "Vata's creative nature"
+    },
+    {
+        "Instruction": "What's unique about evening Kapha?",
+        "Response": "Heavy/stabilizing energy - ideal for yoga, early dinner, relaxation",
+        "Context": "Kapha's grounding force"
+    },
+    {
+        "Instruction": "Best nighttime routine per Ayurveda?",
+        "Response": "Sleep by 10pm (before Pitta's 2nd wind), foot massage, Triphala tea",
+        "Context": "Pitta's metabolic phase"
+    },
+    {
+        "Instruction": "What is Abhyanga massage?",
+        "Response": "Warm oil massage penetrating 7 tissue layers (dhatus) for detox/rejuvenation",
+        "Context": "Classic Panchakarma"
+    },
+    {
+        "Instruction": "How does oil reach deep tissues?",
+        "Response": "15-min massage pushes oil to deepest dhatus (marrow/reproductive tissues)",
+        "Context": "Dhatu nourishment"
+    },
+    {
+        "Instruction": "What are Abhyanga's anti-aging benefits?",
+        "Response": "Delays greying, reduces wrinkles, boosts skin radiance, strengthens muscles",
+        "Context": "Charaka Samhita texts"
+    },
+    {
+        "Instruction": "Which oils for body vs. head massage?",
+        "Response": "Sesame oil (body), coconut oil (head/face) - never mixed",
+        "Context": "Oil therapeutic properties"
+    },
+    {
+        "Instruction": "How to \"cure\" sesame oil properly?",
+        "Response": "Heat to 100\u00b0C until crackling stops (removes water content)",
+        "Context": "Traditional oil ripening"
+    },
+    {
+        "Instruction": "Step-by-step self-massage technique?",
+        "Response": "Start head\u2192face\u2192arms\u2192torso\u2192legs\u2192feet; circular on joints, long strokes on limbs",
+        "Context": "Marma point stimulation"
+    },
+    {
+        "Instruction": "Essential oils for Abhyanga?",
+        "Response": "Max 10 drops lavender/sandalwood per 100ml base oil",
+        "Context": "Synergistic herbology"
+    },
+    {
+        "Instruction": "Post-massage shower tips?",
+        "Response": "Warm water, minimal soap, 20-min oil absorption before rinsing",
+        "Context": "Transdermal absorption"
+    },
+    {
+        "Instruction": "Weekly massage plan options?",
+        "Response": "Alternate days: full-body (Mon/Thu/Sun), feet-only (Wed), aromatherapy baths (Tue/Fri)",
+        "Context": "Customizable self-care"
+    },
+    {
+        "Instruction": "How to scrape tongue correctly?",
+        "Response": "4-5 gentle steel scraper strokes to remove ama (white coating)",
+        "Context": "Jihva prakshalana"
+    },
+    {
+        "Instruction": "What is So-hum meditation?",
+        "Response": "Breath-focused technique transcending thoughts effortlessly",
+        "Context": "Vedic meditation science"
+    },
+    {
+        "Instruction": "Why meditate before breakfast?",
+        "Response": "Capitalizes on dawn's sattvic energy for mental clarity",
+        "Context": "Brahma muhurta timing"
+    },
+    {
+        "Instruction": "How does meditation differ from sleep?",
+        "Response": "Provides deeper rest than sleep - repairs stress at cellular level",
+        "Context": "Conscious rest vs. sleep"
+    },
+    {
+        "Instruction": "What is So-Hum meditation?",
+        "Response": "A mantra-based meditation using natural breath sounds (\"So\" on inhale, \"Hum\" on exhale) to calm the mind.",
+        "Context": "Mantra meditation for stress release"
+    },
+    {
+        "Instruction": "How to practice So-Hum meditation?",
+        "Response": "Sit comfortably, notice breath sounds without forcing, return to \"So-Hum\" when distracted. Practice 15-20 mins twice daily.",
+        "Context": "Vedic meditation technique"
+    },
+    {
+        "Instruction": "Best times for meditation?",
+        "Response": "Dawn (4-6am) and dusk - when mind is naturally calm yet alert.",
+        "Context": "Brahma muhurta & sandhya kala"
+    },
+    {
+        "Instruction": "What is Nadi Shodhana?",
+        "Response": "Alternate nostril breathing that balances brain hemispheres and reduces stress.",
+        "Context": "Vata-balancing pranayama"
+    },
+    {
+        "Instruction": "How to do alternate nostril breathing?",
+        "Response": "Close right nostril, inhale left. Close left, exhale right. Inhale right, exhale left. Repeat 5-10 mins.",
+        "Context": "Nadi purification (energy channels)"
+    },
+    {
+        "Instruction": "Which pranayama cools Pitta?",
+        "Response": "Left-nostril breathing (inhale left, exhale right) cools body and mind.",
+        "Context": "Pitta = heat \u2192 cooling remedy"
+    },
+    {
+        "Instruction": "Which pranayama warms Kapha?",
+        "Response": "Right-nostril breathing (inhale right, exhale left) boosts energy and warmth.",
+        "Context": "Kapha = cold \u2192 warming remedy"
+    },
+    {
+        "Instruction": "What is Kapalabhati breathing?",
+        "Response": "\"Skull-shining breath\" - rapid exhales through nose to detox lungs (start with 20 pumps).",
+        "Context": "Lung detoxification"
+    },
+    {
+        "Instruction": "Ayurvedic view on exercise?",
+        "Response": "Move daily at 50% capacity. Stop if mouth breathing starts or forehead sweats.",
+        "Context": "\"Balaardha\" (50% capacity rule)"
+    },
+    {
+        "Instruction": "How to know you're overexercising?",
+        "Response": "When you must breathe through mouth or sweat appears on forehead/nose tip.",
+        "Context": "Dosha-specific warning signs"
+    },
+    {
+        "Instruction": "Best exercise for Vata types?",
+        "Response": "Gentle activities like walking, yoga (30-40 mins max). Avoid exhaustion.",
+        "Context": "Vata = delicate \u2192 grounding"
+    },
+    {
+        "Instruction": "Best exercise for Pitta types?",
+        "Response": "Moderate activities like swimming, cycling (45 mins). Skip if overheated.",
+        "Context": "Pitta = fiery \u2192 non-competitive"
+    },
+    {
+        "Instruction": "Best exercise for Kapha types?",
+        "Response": "Intense activities like running (60 mins) to counter sluggishness.",
+        "Context": "Kapha = heavy \u2192 stimulating"
+    },
+    {
+        "Instruction": "Why nose breathing during exercise?",
+        "Response": "Filters air, uses full lungs, prevents stress response.",
+        "Context": "Prana optimization"
+    },
+    {
+        "Instruction": "How to start an exercise routine?",
+        "Response": "Start with 10-min walks using only nose breaths. Increase speed only if nose breathing stays easy.",
+        "Context": "Gradual progression (sanatan krama)"
+    },
+    {
+        "Instruction": "Essential oils for workout massage?",
+        "Response": "Vata: Lavender (pre), Marjoram (post). Pitta: Lemon (pre), Chamomile (post). Kapha: Eucalyptus (pre), Rosemary (post).",
+        "Context": "Dosha-specific aromatherapy"
+    },
+    {
+        "Instruction": "What is the meaning of the mantra \u201cSo-Hum\u201d?",
+        "Response": "\u201cSo-Hum\u201d means \u201cI am that\u201d \u2013 it connects the individual with universal consciousness.",
+        "Context": "Mantra meaning \u2013 universal connection"
+    },
+    {
+        "Instruction": "Is So-Hum meditation suitable for beginners?",
+        "Response": "Yes \u2013 it\u2019s simple, natural, and doesn\u2019t require prior experience.",
+        "Context": "Beginner-friendly \u2013 effortless method"
+    },
+    {
+        "Instruction": "Do I need a teacher to learn So-Hum meditation?",
+        "Response": "No \u2013 it can be self-taught and practiced with basic guidance.",
+        "Context": "Self-taught \u2013 universal applicability"
+    },
+    {
+        "Instruction": "Should I meditate with eyes open or closed?",
+        "Response": "Eyes should remain closed to encourage inward attention and relaxation.",
+        "Context": "Eyes closed \u2013 inner awareness"
+    },
+    {
+        "Instruction": "Can So-Hum be practiced after eating?",
+        "Response": "Avoid immediately after a large meal \u2013 wait 1\u20132 hours.",
+        "Context": "Avoid post-meal \u2013 body alertness"
+    },
+    {
+        "Instruction": "What is \u201cfavouring the mantra\u201d?",
+        "Response": "Gently bringing attention back to the mantra when thoughts arise.",
+        "Context": "Favouring mantra \u2013 gentle redirection"
+    },
+    {
+        "Instruction": "Is it normal to feel bored during meditation?",
+        "Response": "Yes \u2013 boredom comes from trying too hard or resisting thoughts.",
+        "Context": "Strain = boredom \u2013 effortless approach"
+    },
+    {
+        "Instruction": "How do I know if I\u2019m meditating correctly?",
+        "Response": "If thoughts are present but you return to the mantra, you're doing it right.",
+        "Context": "Thoughts = stress release"
+    },
+    {
+        "Instruction": "What if I fall asleep during meditation?",
+        "Response": "Yes \u2013 it's okay. It\u2019s a sign of deep rest. Try to sit up next time.",
+        "Context": "Deep rest \u2013 natural stillness"
+    },
+    {
+        "Instruction": "Can I meditate lying down?",
+        "Response": "Better to sit \u2013 lying down may lead to sleep or reduced awareness.",
+        "Context": "Upright posture \u2013 alert awareness"
+    },
+    {
+        "Instruction": "Can So-Hum meditation be done anywhere?",
+        "Response": "Yes \u2013 as long as the environment is calm and undisturbed.",
+        "Context": "Flexible practice \u2013 minimal conditions"
+    },
+    {
+        "Instruction": "Why is effort discouraged in So-Hum meditation?",
+        "Response": "Effort blocks the natural settling of the mind \u2013 meditation should be easy.",
+        "Context": "Effortless \u2013 non-doing principle"
+    },
+    {
+        "Instruction": "What happens if I don\u2019t hear the mantra?",
+        "Response": "Let it go \u2013 if it doesn't appear, introduce it gently as a vague thought.",
+        "Context": "Mantra fades \u2013 natural settling"
+    },
+    {
+        "Instruction": "Should I control my breathing during So-Hum?",
+        "Response": "No \u2013 the breath should be natural, relaxed, and not controlled.",
+        "Context": "Breath awareness \u2013 not control"
+    },
+    {
+        "Instruction": "Can meditation help with anxiety and stress?",
+        "Response": "Yes \u2013 it calms the mind, reduces cortisol, and promotes emotional balance.",
+        "Context": "Stress relief \u2013 cortisol reduction"
+    },
+    {
+        "Instruction": "How does So-Hum meditation affect the nervous system?",
+        "Response": "Balances the nervous system and improves stress resilience.",
+        "Context": "Nervous system \u2013 harmony + clarity"
+    },
+    {
+        "Instruction": "What are signs of deep meditation?",
+        "Response": "Stillness, loss of time awareness, and deep relaxation are common signs.",
+        "Context": "Signs of transcendence \u2013 stillness"
+    },
+    {
+        "Instruction": "Why is rest important after meditation?",
+        "Response": "Allows the body to process and absorb the benefits fully.",
+        "Context": "Post-meditation rest \u2013 integration"
+    },
+    {
+        "Instruction": "Can children practice So-Hum meditation?",
+        "Response": "Yes \u2013 with gentle guidance and short duration, it's safe for children.",
+        "Context": "Child-friendly \u2013 gentle exposure"
+    },
+    {
+        "Instruction": "What is the role of intention in meditation?",
+        "Response": "Having the intention prepares the mind and supports a deeper experience.",
+        "Context": "Intention \u2013 meditative mindset"
+    },
+    {
+        "Instruction": "What happens if active at 11pm?",
+        "Response": "Disrupts toxin removal, causes morning ama",
+        "Context": "Detox disruption"
+    },
+    {
+        "Instruction": "Seasonal routines for doshas?",
+        "Response": "Vata:warm, Pitta:cooling, Kapha:light foods",
+        "Context": "Dosha balancing"
+    },
+    {
+        "Instruction": "Peak activity times for doshas?",
+        "Response": "Pitta:noon/midnight, Kapha:morning/evening, Vata:dawn/afternoon",
+        "Context": "Bio-rhythms"
+    },
+    {
+        "Instruction": "Ideal daily rhythms by dosha?",
+        "Response": "KaphaAM:cleanse, PittaNoon:eat/work, VataPM:create, KaphaNight:rest",
+        "Context": "Circadian alignment"
+    },
+    {
+        "Instruction": "Ideal morning routine?",
+        "Response": "Dawn wake, lemon water, oil massage, yoga, light breakfast",
+        "Context": "Brahma muhurta"
+    },
+    {
+        "Instruction": "Pitta's metabolic role?",
+        "Response": "Strongest digestion/mental focus at midday",
+        "Context": "Digestive fire"
+    },
+    {
+        "Instruction": "Vata-balancing work/snack?",
+        "Response": "Creative work + nuts/fruit snack",
+        "Context": "Grounding practices"
+    },
+    {
+        "Instruction": "Kapha time benefits?",
+        "Response": "Best for yoga, early dinner, relaxation",
+        "Context": "Structural energy"
+    },
+    {
+        "Instruction": "Optimal bedtime prep?",
+        "Response": "Sleep by 10pm, foot massage, Triphala tea",
+        "Context": "Pitta avoidance"
+    },
+    {
+        "Instruction": "Abhyanga penetration depth?",
+        "Response": "Penetrates 7 dhatus (tissue layers)",
+        "Context": "Tissue nutrition"
+    },
+    {
+        "Instruction": "Massage duration for deep tissues?",
+        "Response": "15 mins reaches marrow/reproductive tissues",
+        "Context": "Marrow nourishment"
+    },
+    {
+        "Instruction": "Abhyanga beauty benefits?",
+        "Response": "Anti-aging, radiant skin, muscle strength",
+        "Context": "Dhatu nourishment"
+    },
+    {
+        "Instruction": "Oils by body part?",
+        "Response": "Sesame:body, Coconut:head/face (never mix)",
+        "Context": "Dosha-specific"
+    },
+    {
+        "Instruction": "Oil heating method?",
+        "Response": "Heat to 100\u00b0C until crackling stops",
+        "Context": "Purification process"
+    },
+    {
+        "Instruction": "Massage sequence/technique?",
+        "Response": "Head\u2192face\u2192arms\u2192torso\u2192legs\u2192feet; circles on joints, long strokes limbs",
+        "Context": "Energetic flow"
+    },
+    {
+        "Instruction": "What is Yoga Nidra?",
+        "Response": "A state of conscious deep sleep maintaining awareness",
+        "Context": "Psychic sleep"
+    },
+    {
+        "Instruction": "What are the physiological effects of Yoga Nidra?",
+        "Response": "Stimulates brain centers corresponding to body parts",
+        "Context": "Neural mapping"
+    },
+    {
+        "Instruction": "How does Yoga Nidra affect the mind-body connection?",
+        "Response": "Creates inseparable relaxation of body and mind",
+        "Context": "Holistic integration"
+    },
+    {
+        "Instruction": "What is the \"rotation of awareness\" technique?",
+        "Response": "Rapid shifting of awareness through body parts",
+        "Context": "Brain stimulation"
+    },
+    {
+        "Instruction": "How does Yoga Nidra help with subconscious reprogramming?",
+        "Response": "Plants positive intentions in the subconscious mind",
+        "Context": "Subconscious planting"
+    },
+    {
+        "Instruction": "What are the steps to practice Yoga Nidra?",
+        "Response": "Physical relaxation \u2192 sankalpa \u2192 rotation \u2192 breath \u2192 visualization",
+        "Context": "Systematic unwinding"
+    },
+    {
+        "Instruction": "What is the purpose of the sankalpa (resolve)?",
+        "Response": "To embed positive affirmations in the subconscious",
+        "Context": "Mental blueprint"
+    },
+    {
+        "Instruction": "How does the visualization phase work?",
+        "Response": "Uses nature images to develop self-awareness",
+        "Context": "Symbolic imagery"
+    },
+    {
+        "Instruction": "What are the benefits of the breath awareness phase?",
+        "Response": "Completes physical relaxation and concentrates the mind",
+        "Context": "Autonomic balance"
+    },
+    {
+        "Instruction": "How should one conclude a Yoga Nidra session?",
+        "Response": "Gradually awaken body, repeat sankalpa, sit up slowly",
+        "Context": "Gradual transition"
+    },
+    {
+        "Instruction": "What is the ideal bedtime in Ayurveda and why?",
+        "Response": "Before 10pm - aligns with Kapha time for deep rest and allows Pitta phase (10pm-2am) for optimal liver detoxification.",
+        "Context": "Circadian alignment"
+    },
+    {
+        "Instruction": "How does morning oil massage support detox?",
+        "Response": "Stimulates lymphatic drainage and loosens fat-soluble toxins through warm oil application on skin (largest detox organ).",
+        "Context": "Lymphatic activation"
+    },
+    {
+        "Instruction": "What are the 3 main signs of toxin accumulation?",
+        "Response": "White tongue coating, morning stiffness, and persistent fatigue/lethargy.",
+        "Context": "Toxin markers"
+    },
+    {
+        "Instruction": "Why is ghee used in Panchakarma?",
+        "Response": "Its lipid-soluble properties bind with and pull out deep-seated toxins from tissues and nervous system.",
+        "Context": "Lipid-soluble cleansing"
+    },
+    {
+        "Instruction": "What's the first stage of Panchakarma?",
+        "Response": "Palliation (shamana) - light diet and herbs to prepare digestion for deeper cleansing.",
+        "Context": "Pre-cleanse phase"
+    },
+    {
+        "Instruction": "How long should a full Panchakarma last?",
+        "Response": "10-14 days for maintenance; up to 2 months for chronic conditions.",
+        "Context": "Treatment duration"
+    },
+    {
+        "Instruction": "What are the 5 main actions of Panchakarma?",
+        "Response": "Therapeutic vomiting, purgation, enemas, nasal cleansing, and blood purification.",
+        "Context": "Five actions"
+    },
+    {
+        "Instruction": "Why cleanse in spring/fall?",
+        "Response": "Aligns with natural seasonal transitions when the body is primed for renewal.",
+        "Context": "Seasonal syncing"
+    },
+    {
+        "Instruction": "How does tongue diagnosis work?",
+        "Response": "Thick white coating = ama; specific zones correspond to different organs' toxicity levels.",
+        "Context": "Oral diagnosis"
+    },
+    {
+        "Instruction": "What's the most important Panchakarma therapy?",
+        "Response": "Basti (medicated enema) - cleanses colon (root of disease) and nourishes tissues.",
+        "Context": "Colonic therapy"
+    },
+    {
+        "Instruction": "What foods should be avoided during detox?",
+        "Response": "Heavy foods like meat, dairy, processed items, and leftovers that create ama.",
+        "Context": "Ama-forming foods"
+    },
+    {
+        "Instruction": "How does detox improve mental health?",
+        "Response": "Removes emotional toxins stored in tissues and clears channels for proper prana flow.",
+        "Context": "Emotional release"
+    },
+    {
+        "Instruction": "What's the role of sweating in detox?",
+        "Response": "Svedana (herbal steam) opens channels and helps expel toxins through skin.",
+        "Context": "Dermal elimination"
+    },
+    {
+        "Instruction": "Why is post-detox care important?",
+        "Response": "Gradual reintroduction of foods prevents shocking the system and maintains benefits.",
+        "Context": "Reintroduction protocol"
+    },
+    {
+        "Instruction": "How often should one do Panchakarma?",
+        "Response": "Twice yearly for maintenance; more frequently for health conditions",
+        "Context": "Maintenance frequency"
+    },
+    {
+        "Instruction": "What is the purpose of snehana (oleation) therapy?",
+        "Response": "Lubricates tissues and dissolves fat-soluble toxins through internal ghee consumption and external oil massage.",
+        "Context": "Channel lubrication"
+    },
+    {
+        "Instruction": "Which dosha benefits most from vamana (therapeutic vomiting)?",
+        "Response": "Kapha - clears excess mucus and toxins from upper GI tract and respiratory system.",
+        "Context": "Kapha purification"
+    },
+    {
+        "Instruction": "Why avoid cold drinks during detox?",
+        "Response": "Cold weakens digestive fire (agni) and causes toxins to re-congeal in channels.",
+        "Context": "Agni protection"
+    },
+    {
+        "Instruction": "What's the role of triphala in detox?",
+        "Response": "Balances all three doshas, gently cleanses colon, and supports liver detoxification.",
+        "Context": "Tri-doshic herb"
+    },
+    {
+        "Instruction": "How does nasya (nasal therapy) help detox?",
+        "Response": "Clears toxins from head/sinus region and improves neurological function.",
+        "Context": "Neurological cleansing"
+    },
+    {
+        "Instruction": "What indicates successful toxin removal?",
+        "Response": "Clear tongue coating, light body feeling, improved digestion and mental clarity.",
+        "Context": "Success indicators"
+    },
+    {
+        "Instruction": "Why is proper hydration important during detox?",
+        "Response": "Warm water maintains flow through channels and prevents toxin reabsorption.",
+        "Context": "Channel hydration"
+    },
+    {
+        "Instruction": "Which therapy is best for Pitta detox?",
+        "Response": "Virechana (purgation) - clears excess heat and toxins from liver/small intestine.",
+        "Context": "Pitta pacification"
+    },
+    {
+        "Instruction": "How does detox affect skin health?",
+        "Response": "Removes deep toxins causing acne/eczema and reveals natural glow as channels clear.",
+        "Context": "Dermal detox"
+    },
+    {
+        "Instruction": "What's the minimum preparation time for Panchakarma?",
+        "Response": "7 days of light diet and oleation to properly loosen toxins before elimination.",
+        "Context": "Prep timeframe"
+    },
+    {
+        "Instruction": "What is the \"rain barrel\" analogy explaining?",
+        "Response": "Illustrates how the body can manage toxins if regularly flushed, but overflows (disease) when overloaded.",
+        "Context": "Toxin capacity analogy"
+    },
+    {
+        "Instruction": "Which body systems are first affected by poor digestion?",
+        "Response": "Immune, nervous and endocrine systems malfunction initially from malabsorption.",
+        "Context": "Primary system disruption"
+    },
+    {
+        "Instruction": "What childhood comparison shows toxin levels?",
+        "Response": "Newborns' pink tongues (no coating) versus adults' white-coated tongues indicate toxicity.",
+        "Context": "Baseline health indicator"
+    },
+    {
+        "Instruction": "How does late-night eating create ama?",
+        "Response": "Undigested food residues permeate tissues when eaten after digestive capacity diminishes in evening.",
+        "Context": "Circadian digestion limits"
+    },
+    {
+        "Instruction": "What two energy systems need rest before detox?",
+        "Response": "Mind and digestive system - the body's most energy-demanding functions.",
+        "Context": "Energy conservation priority"
+    },
+    {
+        "Instruction": "Which three elimination routes does Panchakarma use?",
+        "Response": "GI tract (enemas), skin (sweating), and upper channels (nasal/oral therapies).",
+        "Context": "Elimination pathways"
+    },
+    {
+        "Instruction": "What are the seven tissue layers targeted?",
+        "Response": "Plasma, blood, muscle, fat, bone, marrow/nerves, and reproductive tissues.",
+        "Context": "Tissue layer targeting"
+    },
+    {
+        "Instruction": "Why is day 1 of snehana focused on colon?",
+        "Response": "Initial ghee consumption cleanses colon (pakvashaya) - the root site of ama accumulation.",
+        "Context": "Colonic root cleansing"
+    },
+    {
+        "Instruction": "What false sensation occurs during oleation?",
+        "Response": "\"False hunger\" caused by ghee circulation, best addressed with hot water sips.",
+        "Context": "Metabolic false signals"
+    },
+    {
+        "Instruction": "How does ghee create osmotic pressure?",
+        "Response": "Pure ghee in bloodstream draws out toxin-laden cellular fluids through membrane gradients.",
+        "Context": "Lipid osmotic action"
+    },
+    {
+        "Instruction": "Which vitamins in ghee support detox?",
+        "Response": "A, D, E and K - all fat-soluble vitamins that enhance toxin mobilization.",
+        "Context": "Fat-soluble nutrition"
+    },
+    {
+        "Instruction": "What psychological factors hinder detox?",
+        "Response": "Anger, excessive talking, and stress during Panchakarma disrupt subtle energy flows.",
+        "Context": "Subtle energy disruptors"
+    },
+    {
+        "Instruction": "Which weather conditions disrupt treatment?",
+        "Response": "Extreme heat/cold, wind exposure, and cold baths constrict detoxification channels.",
+        "Context": "Channel constriction factors"
+    },
+    {
+        "Instruction": "How does ama physically affect muscles?",
+        "Response": "Forms sticky mucus between fibers causing morning stiffness and reduced mobility.",
+        "Context": "Ama adhesions"
+    },
+    {
+        "Instruction": "What modern detox methods miss oil-soluble toxins?",
+        "Response": "Coffee enemas and colonic irrigation only address water-soluble toxins, unlike Panchakarma.",
+        "Context": "Solubility limitation"
+    },
+    {
+        "Instruction": "What is the purpose of shamana (palliation) stage?",
+        "Response": "Prepares digestion with light foods/herbs to clear ama before main detox.",
+        "Context": "Pre-cleanse priming"
+    },
+    {
+        "Instruction": "Why is ghee used in purvakarma?",
+        "Response": "Penetrates all 7 tissues to dissolve fat-soluble toxins via osmotic action.",
+        "Context": "Lipid solvent action"
+    },
+    {
+        "Instruction": "How does snehana target different tissues daily?",
+        "Response": "Day-by-day focus: colon\u2192vata\u2192pitta\u2192kapha\u2192bones\u2192marrow\u2192reproductive.",
+        "Context": "Tissue-specific sequencing"
+    },
+    {
+        "Instruction": "What indicates \"false hunger\" during oleation?",
+        "Response": "Cravings despite ghee consumption, eased by hot water sips.",
+        "Context": "Metabolic illusion"
+    },
+    {
+        "Instruction": "Why is virechana done at pitta time?",
+        "Response": "Aligns with natural toxin accumulation in liver/small intestine (10am-2pm).",
+        "Context": "Circadian synergy"
+    },
+    {
+        "Instruction": "What confirms successful virechana?",
+        "Response": "3-15 bowel movements ending with liquid/mucus, followed by mental clarity.",
+        "Context": "Purge completion"
+    },
+    {
+        "Instruction": "How does post-virechana diet progress?",
+        "Response": "Rice water\u2192thin gruel\u2192kichari over 3-10 meals based on dosha.",
+        "Context": "Digestive rekindling"
+    },
+    {
+        "Instruction": "Why is basti called \"50% cure\" in Ayurveda?",
+        "Response": "Colon cleansing indirectly nourishes all tissues via vata balance.",
+        "Context": "Holistic leverage"
+    },
+    {
+        "Instruction": "What's the difference between anuvasana/niruha basti?",
+        "Response": "Oil-based (nourishing) vs decoction-based (cleansing) enemas.",
+        "Context": "Dual-action therapy"
+    },
+    {
+        "Instruction": "How does basti sequence target tissues?",
+        "Response": "8 enemas progressively cleanse: colon\u2192vata\u2192pitta\u2192kapha\u2192bones\u2192marrow\u2192reproductive.",
+        "Context": "Systemic unraveling"
+    },
+    {
+        "Instruction": "What makes kichari ideal post-detox?",
+        "Response": "Balances all doshas, easy to digest, and nourishes all dhatus.",
+        "Context": "Universal nutrition"
+    },
+    {
+        "Instruction": "Why is rasayana timed after Panchakarma?",
+        "Response": "Herbs absorb fully only after channels are cleared of ama.",
+        "Context": "Post-purification saturation"
+    },
+    {
+        "Instruction": "How does chywanaprash function as rasayana?",
+        "Response": "50-herb formula with high vitamin C that balances all doshas.",
+        "Context": "Polyherbal synergy"
+    },
+    {
+        "Instruction": "What are key post-PK restrictions?",
+        "Response": "Avoid stress, travel, sex, cold, and heavy foods for 1 week.",
+        "Context": "Energy consolidation"
+    },
+    {
+        "Instruction": "Why gradual return post-detox?",
+        "Response": "Allows nervous system recalibration and tissue rebuilding.",
+        "Context": "Physiological reset"
+    },
+    {
+        "Instruction": "What contra-indications disrupt PK?",
+        "Response": "Cold exposure, excessive talking, or daytime sleeping.",
+        "Context": "Energy diversion"
+    },
+    {
+        "Instruction": "How does virechana help skin conditions?",
+        "Response": "Removes pitta toxins from blood/liver causing inflammation.",
+        "Context": "Dermatological rootcare"
+    },
+    {
+        "Instruction": "Why ginger tea post-virechana?",
+        "Response": "Counters nausea from toxin release and reignites agni.",
+        "Context": "Digestive first aid"
+    },
+    {
+        "Instruction": "What indicates incomplete virechana?",
+        "Response": "<3 bowel movements with abdominal hardness/metallic taste.",
+        "Context": "Purge insufficiency"
+    },
+    {
+        "Instruction": "How does basti treat neurological issues?",
+        "Response": "Oil enemas nourish majja dhatu (marrow/nerves).",
+        "Context": "Neural nourishment"
+    },
+    {
+        "Instruction": "Why avoid cold post-therapies?",
+        "Response": "Constricts srotas (channels) and weakens vata further.",
+        "Context": "Channel preservation"
+    },
+    {
+        "Instruction": "What's the bonfire analogy for digestion?",
+        "Response": "Start with \"kindling\" (light foods) before \"logs\" (heavy meals).",
+        "Context": "Agni rebuilding"
+    },
+    {
+        "Instruction": "How long for full PK benefits?",
+        "Response": "1 week minimum; chronic conditions need months/years.",
+        "Context": "Temporal alignment"
+    },
+    {
+        "Instruction": "Why dashamula in niruha basti?",
+        "Response": "10-root formula clears deep vata toxins from bones/nerves.",
+        "Context": "Vata-specific cleansing"
+    },
+    {
+        "Instruction": "What makes ghee anti-carcinogenic?",
+        "Response": "Linoleic acid content provides antioxidant properties.",
+        "Context": "Lipid protection"
+    },
+    {
+        "Instruction": "How does PK address autoimmunity?",
+        "Response": "Removes ama confusing immune cells via rasayanas like chywanaprash.",
+        "Context": "Molecular identity"
+    },
+    {
+        "Instruction": "Why midday largest meal?",
+        "Response": "Aligns with peak pitta (digestive fire) at noon.",
+        "Context": "Circadian nutrition"
+    },
+    {
+        "Instruction": "What distinguishes PK from fasting?",
+        "Response": "Targeted toxin removal vs systemic starvation stress.",
+        "Context": "Strategic purification"
+    },
+    {
+        "Instruction": "How does basti help osteoporosis?",
+        "Response": "Medicated oils nourish asthi dhatu (bone tissue).",
+        "Context": "Skeletal rejuvenation"
+    },
+    {
+        "Instruction": "Why monitor tongue post-PK?",
+        "Response": "Pink coating confirms ama clearance; white indicates residual toxicity.",
+        "Context": "Biomarker tracking"
+    },
+    {
+        "Instruction": "Why is it important to gradually return to a normal lifestyle after Panchakarma treatments?",
+        "Response": "Gradually return to a normal lifestyle post-Panchakarma to avoid over-stimulating the nervous system and to allow tissues to rebuild.",
+        "Context": "Gradual return"
+    },
+    {
+        "Instruction": "What can happen if one fails to gradually return to a normal lifestyle post-Panchakarma?",
+        "Response": "Failure to do so can drain energy and strain the immune system.",
+        "Context": "Drains energy"
+    },
+    {
+        "Instruction": "What are some elements of the 'Ideal Daily Routine' mentioned in the text?",
+        "Response": "The 'Ideal Daily Routine' includes proper timing of waking, sleeping, and eating, right foods for body-type, exercise, yoga, massage, herbal teas, and meditation.",
+        "Context": "Daily routine"
+    },
+    {
+        "Instruction": "What does the text say about immediately returning to a stressful situation after a detox?",
+        "Response": "Returning to stress immediately after detox halts renewal.",
+        "Context": "Halts renewal"
+    },
+    {
+        "Instruction": "According to the text, what is the result of fully understanding and completing the Panchakarma process?",
+        "Response": "Completing Panchakarma fully transforms resources into strength and resilience.",
+        "Context": "Strength, resilience"
+    },
+    {
+        "Instruction": "How long does the text recommend to gradually return to a normal routine after Panchakarma?",
+        "Response": "Take at least a week to return to normal routine after.",
+        "Context": "One week"
+    },
+    {
+        "Instruction": "What should be avoided for at least a week following the last Panchakarma treatment?",
+        "Response": "Avoid stress, late nights, travel, strenuous activity, sun, cold, and sexual activity for a week after.",
+        "Context": "Avoid stress"
+    },
+    {
+        "Instruction": "What kind of diet is recommended after Panchakarma?",
+        "Response": "Follow a light, nutritious, vegetarian diet.",
+        "Context": "Light diet"
+    },
+    {
+        "Instruction": "What is the importance of restoring the digestive system to maximum efficiency?",
+        "Response": "Restoring digestion efficiently prevents toxin deposits.",
+        "Context": "Efficient digestion"
+    },
+    {
+        "Instruction": "What is the real goal of Panchakarma?",
+        "Response": "Panchakarma's real goal is to eliminate disease cause.",
+        "Context": "Eliminate cause"
+    },
+    {
+        "Instruction": "What does the text say about the time it takes to obtain a complete cure from a disease?",
+        "Response": "Reversing long-term disease damage takes time.",
+        "Context": "Takes time"
+    },
+    {
+        "Instruction": "What else needs to be reviewed and altered for real long-lasting change?",
+        "Response": "Change diet, lifestyle, stress, and negative patterns for lasting change.",
+        "Context": "Change habits"
+    },
+    {
+        "Instruction": "What general category of items should be avoided during a Panchakarma detox?",
+        "Response": "Avoid foods/drinks that hinder detoxification.",
+        "Context": "Avoids harm"
+    },
+    {
+        "Instruction": "List five specific types of food or drink to avoid during the detox program.",
+        "Response": "Avoid alcohol, coffee, milk, refined food, and sugar.",
+        "Context": "Avoid foods"
+    },
+    {
+        "Instruction": "Why should these foods be avoided?",
+        "Response": "These are hard to digest during detox.",
+        "Context": "Hard to digest"
+    },
+    {
+        "Instruction": "What is the benefit of starting a light diet before a Panchakarma detox?",
+        "Response": "Pre-detox light diet rests digestion and cleanses toxins.",
+        "Context": "Rests digestion"
+    },
+    {
+        "Instruction": "Give an example of a breakfast recommendation for days 1-3 of the pre-detox period.",
+        "Response": "Pre-detox breakfast: porridge oats with hot milk.",
+        "Context": "Porridge"
+    },
+    {
+        "Instruction": "What is a recommended drink (am) during the pre-detox period?",
+        "Response": "Pre-detox drink (am): ginger tea.",
+        "Context": "Ginger tea"
+    },
+    {
+        "Instruction": "What is a recommended evening meal during the pre-detox period?",
+        "Response": "Pre-detox evening meal: red lentil soup.",
+        "Context": "Lentil soup"
+    },
+    {
+        "Instruction": "What is taken before bed during the pre and post-detox period?",
+        "Response": "Before bed: Triphala tablets.",
+        "Context": "Triphala"
+    },
+    {
+        "Instruction": "How many days before a Panchakarma detox is it beneficial to start graduating towards a light diet?",
+        "Response": "Start light diet twelve days before detox.",
+        "Context": "Twelve days"
+    },
+    {
+        "Instruction": "What is the purpose of the post-detox meal routine?",
+        "Response": "Post-detox routine restarts digestion.",
+        "Context": "Restarts digestion"
+    },
+    {
+        "Instruction": "Give an example of a breakfast recommendation for days 1-3 of the post-detox period.",
+        "Response": "Post-detox breakfast: vegetable juice.",
+        "Context": "Vegetable juice"
+    },
+    {
+        "Instruction": "Where is the castor plant native to?",
+        "Response": "Castor plant is from Africa and India.",
+        "Context": "Africa, India"
+    },
+    {
+        "Instruction": "How is castor oil classified in Ayurveda?",
+        "Response": "Castor oil is sweet, astringent, anti-rheumatic, analgesic, and anti-inflammatory.",
+        "Context": "Sweet, astringent"
+    },
+    {
+        "Instruction": "What are some of the properties of castor oil?",
+        "Response": "It pacifies vata, liquefies kapha, alleviates pitta, and softens skin.",
+        "Context": "Pacifies"
+    },
+    {
+        "Instruction": "What are some conditions in which castor oil should not be used?",
+        "Response": "Don't use with diverticulitis, colitis, diarrhea, Crohn's, or pregnancy.",
+        "Context": "Contraindications"
+    },
+    {
+        "Instruction": "How does castor oil help improve the condition and strength of nerve tissue?",
+        "Response": "It improves nerve tissue, intellect, clarity, and calms.",
+        "Context": "Improves nerves"
+    },
+    {
+        "Instruction": "What are some external uses of castor oil?",
+        "Response": "Used on skin for rejuvenation and bruises.",
+        "Context": "Heals skin"
+    },
+    {
+        "Instruction": "What is castor oil mixed with to help with hiccups?",
+        "Response": "With honey, it helps hiccups.",
+        "Context": "Helps hiccups"
+    },
+    {
+        "Instruction": "How can castor oil packs or compresses on the abdomen help?",
+        "Response": "Abdomen packs tone the colon and aid menstruation.",
+        "Context": "Tones colon"
+    },
+    {
+        "Instruction": "What can castor oil mixed with flax oil and mustard oil be used for?",
+        "Response": "With flax and mustard oil, it reduces fibrocystic accumulations.",
+        "Context": "Reduces accumulations"
+    },
+    {
+        "Instruction": "What benefit does castor oil provide after childbirth?",
+        "Response": "It aids breast milk production.",
+        "Context": "Milk production"
+    },
+    {
+        "Instruction": "How does castor oil help with joint problems?",
+        "Response": "With ginger tea, it helps joints.",
+        "Context": "Helps joints"
+    },
+    {
+        "Instruction": "How often is it recommended to cleanse the colon using castor oil?",
+        "Response": "Cleanse colon with it every three months.",
+        "Context": "Cleanses colon"
+    },
+    {
+        "Instruction": "What are the instructions for taking castor oil?",
+        "Response": "Warm oil, bathe, drink oil, drink ginger tea, and eat rice soup later.",
+        "Context": "Taking oil"
+    },
+    {
+        "Instruction": "What is ghee?",
+        "Response": "Ghee is cow's butter with water and milk solids removed.",
+        "Context": "Refined butter"
+    },
+    {
+        "Instruction": "What are some of the benefits of ghee?",
+        "Response": "Ghee pacifies doshas, strengthens tissue, and aids digestion.",
+        "Context": "Promotes health"
+    },
+    {
+        "Instruction": "How is ghee used in Ayurveda?",
+        "Response": "It's a vehicle for herbs in Ayurveda.",
+        "Context": "Carries herbs"
+    },
+    {
+        "Instruction": "What does the text say about the fatty acids in ghee?",
+        "Response": "Ghee has healthy fatty acids.",
+        "Context": "Healthy fats"
+    },
+    {
+        "Instruction": "Why is it recommended to eat the main meal at midday?",
+        "Response": "Because digestion is strong and enzymatic activity is high at this time, ensuring maximum nutritional value from food.",
+        "Context": "Strong digestion time"
+    },
+    {
+        "Instruction": "What kind of food is advised for maintaining good health?",
+        "Response": "Organic, wholesome food which is high in nutritional value and energy.",
+        "Context": "Wholesome, organic"
+    },
+    {
+        "Instruction": "Why should one eat lightly in the evening?",
+        "Response": "To allow the body to process and eliminate toxins during the night.",
+        "Context": "Evening digestion"
+    },
+    {
+        "Instruction": "What should one drink in sufficient quantities to aid digestion?",
+        "Response": "Water, especially hot water.",
+        "Context": "Drink water"
+    },
+    {
+        "Instruction": "What should be reduced in the diet?",
+        "Response": "Refined white sugar, salt, and white flour.",
+        "Context": "Reduce sugar/salt"
+    },
+    {
+        "Instruction": "What types of food should be eaten less often?",
+        "Response": "Hard cheese, red meat, confectionary, processed food, refined food, and microwaved food.",
+        "Context": "Eat less"
+    },
+    {
+        "Instruction": "What beverages should be reduced?",
+        "Response": "Tea, coffee, and alcohol.",
+        "Context": "Reduce intake"
+    },
+    {
+        "Instruction": "How much time should be left between meals?",
+        "Response": "At least three hours.",
+        "Context": "Three hours"
+    },
+    {
+        "Instruction": "How often should one meditate?",
+        "Response": "Twice a day.",
+        "Context": "Meditate daily"
+    },
+    {
+        "Instruction": "What kind of physical activity is recommended?",
+        "Response": "Yoga asanas and daily exercise.",
+        "Context": "Practice yoga"
+    },
+    {
+        "Instruction": "Why is oil massage recommended?",
+        "Response": "To pacify vata, balance the nervous system, and remove waste products.",
+        "Context": "Oil massage benefits"
+    },
+    {
+        "Instruction": "Is daytime sleep advised?",
+        "Response": "No, as it causes the body to store toxins.",
+        "Context": "Avoid daytime sleep"
+    },
+    {
+        "Instruction": "How soon before bed should one avoid eating?",
+        "Response": "Within three hours of retiring.",
+        "Context": "Avoid late eating"
+    },
+    {
+        "Instruction": "What is the recommended bedtime?",
+        "Response": "Before 10 pm.",
+        "Context": "Bedtime 10pm"
+    },
+    {
+        "Instruction": "When is the recommended time to awake?",
+        "Response": "At dawn.",
+        "Context": "Awake at dawn"
+    },
+    {
+        "Instruction": "What could result from waking up after dawn?",
+        "Response": "Tiredness and sluggishness.",
+        "Context": "Avoid late rising"
+    },
+    {
+        "Instruction": "What can poor sleep quality lead to?",
+        "Response": "Low energy levels and ama buildup.",
+        "Context": "Poor sleep effects"
+    },
+    {
+        "Instruction": "What is the benefit of walking in nature?",
+        "Response": "It renews energy depleted by the urban environment.",
+        "Context": "Walk in nature"
+    },
+    {
+        "Instruction": "Why is quiet time recommended?",
+        "Response": "To settle the mind and balance the nervous system.",
+        "Context": "Quiet time"
+    },
+    {
+        "Instruction": "What kind of company is advised?",
+        "Response": "Like-minded people; reduce contact with stressful people.",
+        "Context": "Positive company"
+    },
+    {
+        "Instruction": "What is generally involved in Panchakarma therapies?",
+        "Response": "Application of warm, herbalized oil through massage.",
+        "Context": "Herbalized oil massage"
+    },
+    {
+        "Instruction": "How many therapists usually administer the massage therapies?",
+        "Response": "Two, working in tandem.",
+        "Context": "Two therapists"
+    },
+    {
+        "Instruction": "What do the aromatic oils help to do?",
+        "Response": "Loosen and dislodge toxins and impurities.",
+        "Context": "Loosen toxins"
+    },
+    {
+        "Instruction": "What two treatments may follow massage therapies?",
+        "Response": "Svedana (herbal steam therapy) or Shirodhara.",
+        "Context": "Follow-up treatments"
+    },
+    {
+        "Instruction": "What is the primary oil used in massage treatment?",
+        "Response": "Sesame oil.",
+        "Context": "Sesame oil"
+    },
+    {
+        "Instruction": "According to the text, what are the sites of disease?",
+        "Response": "The dhatus (bodily tissues).",
+        "Context": "Dhatus are sites"
+    },
+    {
+        "Instruction": "What are tissues produced from?",
+        "Response": "The food we eat.",
+        "Context": "From food"
+    },
+    {
+        "Instruction": "How does each tissue develop?",
+        "Response": "From the previous one in a progressive cycle from gross to subtle.",
+        "Context": "Progressive cycle"
+    },
+    {
+        "Instruction": "How long does it take for food to become reproductive tissue?",
+        "Response": "Thirty-five days.",
+        "Context": "Thirty-five days"
+    },
+    {
+        "Instruction": "What is Rasa composed of?",
+        "Response": "Mainly water.",
+        "Context": "Mainly water"
+    },
+    {
+        "Instruction": "What does properly maintained Rasa help to do?",
+        "Response": "Nourish all the other tissues, providing hydration and electrolyte balance.",
+        "Context": "Nourishes tissues"
+    },
+    {
+        "Instruction": "What is Rasa the container for?",
+        "Response": "Kapha.",
+        "Context": "Container for Kapha"
+    },
+    {
+        "Instruction": "What are the main sites of Rasa?",
+        "Response": "Skin, heart, blood vessels, lymphatic system, and mucus membranes.",
+        "Context": "Main sites"
+    },
+    {
+        "Instruction": "What can an excess of plasma lead to?",
+        "Response": "Accumulations of saliva and phlegm, loss of appetite, nausea, congestion, cysts, and benign tumors.",
+        "Context": "Excess plasma"
+    },
+    {
+        "Instruction": "What are the effects of deficient plasma?",
+        "Response": "Rough skin, cracked lips, dehydration, lethargy, tremors, palpitations, pain, and feelings of emptiness.",
+        "Context": "Deficient plasma"
+    },
+    {
+        "Instruction": "What are the characteristics of optimal plasma?",
+        "Response": "Healthy, glowing complexion, soft, smooth skin, luxurious hair, vitality, stamina, compassion, contentment, pleasure, and a happy disposition.",
+        "Context": "Optimal plasma"
+    },
+    {
+        "Instruction": "How can plasma be strengthened?",
+        "Response": "Drinking adequate liquids (especially fruit/vegetable juices, lemon/lime juice with salt), and organic dairy products.",
+        "Context": "Strengthen plasma"
+    },
+    {
+        "Instruction": "What is Rakta composed of?",
+        "Response": "Fire and water.",
+        "Context": "Fire and water"
+    },
+    {
+        "Instruction": "What is Rakta the container for?",
+        "Response": "Pitta.",
+        "Context": "Container for Pitta"
+    },
+    {
+        "Instruction": "What does excess blood create?",
+        "Response": "Skin diseases, abscesses, fevers, inflammation, bleeding disorders, enlarged liver/spleen, hypertension, jaundice, weak digestion, and burning/redness in eyes/skin/urine.",
+        "Context": "Excess blood"
+    },
+    {
+        "Instruction": "What type of tissue is fat (meda) in Ayurveda?",
+        "Response": "Kapha tissue.",
+        "Context": "Kapha tissue"
+    },
+    {
+        "Instruction": "What is one of the functions of fat in the body?",
+        "Response": "To lubricate the body, especially muscles and tendons.",
+        "Context": "Lubricates body"
+    },
+    {
+        "Instruction": "What can obesity often result from?",
+        "Response": "Feeling unloved or uncared for.",
+        "Context": "Feeling unloved"
+    },
+    {
+        "Instruction": "Name three effects of excess fat in the body.",
+        "Response": "Fatigue, asthma, sexual debility.",
+        "Context": "Fatigue, asthma, debility"
+    },
+    {
+        "Instruction": "What emotional state can excess fat lead to?",
+        "Response": "Greed and attachment.",
+        "Context": "Greed, attachment"
+    },
+    {
+        "Instruction": "Name three effects of deficient fat in the body.",
+        "Response": "Brittle hair, teeth, and nails.",
+        "Context": "Brittle hair, teeth"
+    },
+    {
+        "Instruction": "What are three benefits of balanced fat tissue?",
+        "Response": "Ideal body weight, mild oiliness of skin, hair, and muscles.",
+        "Context": "Ideal body weight"
+    },
+    {
+        "Instruction": "How is fat kept in balance?",
+        "Response": "Through ghee and organic, unrefined vegetable oils.",
+        "Context": "Ghee, oils"
+    },
+    {
+        "Instruction": "What elements mainly compose bone tissue?",
+        "Response": "Earth and air.",
+        "Context": "Earth, air"
+    },
+    {
+        "Instruction": "What is the function of bone tissue?",
+        "Response": "To support and uphold other tissues.",
+        "Context": "Supports tissues"
+    },
+    {
+        "Instruction": "What dosha is bone the container for?",
+        "Response": "Vata.",
+        "Context": "Container for Vata"
+    },
+    {
+        "Instruction": "Name three effects of excess bone tissue.",
+        "Response": "Bone spurs, extra teeth, pain in the joints.",
+        "Context": "Bone spurs, arthritis"
+    },
+    {
+        "Instruction": "Name three effects of deficient bone tissue.",
+        "Response": "Dwarfism, poor bone and teeth formation, low energy.",
+        "Context": "Dwarfism, poor formation"
+    },
+    {
+        "Instruction": "What are three benefits of balanced bone tissue?",
+        "Response": "Stability, confidence, patience.",
+        "Context": "Stability, confidence"
+    },
+    {
+        "Instruction": "How is bone tissue maintained?",
+        "Response": "Eating foods with high proportions of calcium, iron, and zinc.",
+        "Context": "Calcium, iron, zinc"
+    },
+    {
+        "Instruction": "What type of tissue is bone marrow and nerve tissue (majja)?",
+        "Response": "Kapha tissue.",
+        "Context": "Kapha tissue"
+    },
+    {
+        "Instruction": "What is the main composition of majja?",
+        "Response": "A refined form of water.",
+        "Context": "Refined water"
+    },
+    {
+        "Instruction": "What does majja provide for?",
+        "Response": "Secretion of synovial fluid and lubrication of eyes, stool, and skin.",
+        "Context": "Lubrication"
+    },
+    {
+        "Instruction": "What are two effects of excess majja?",
+        "Response": "Heaviness in the eyes and limbs.",
+        "Context": "Heaviness in limbs"
+    },
+    {
+        "Instruction": "What are two effects of majja deficiency?",
+        "Response": "Weakness or porosity of bones and pain in the joints.",
+        "Context": "Weak bones, pain"
+    },
+    {
+        "Instruction": "What are three benefits of balanced majja?",
+        "Response": "A sense of fulfillment and compassion, clear and sharp mind, strong memory.",
+        "Context": "Fulfillment, clear mind"
+    },
+    {
+        "Instruction": "How is majja best maintained?",
+        "Response": "Through the oils of butter, ghee, nuts, and seeds.",
+        "Context": "Butter, ghee, oils"
+    },
+    {
+        "Instruction": "What type of tissue is reproductive tissue (shukra)?",
+        "Response": "Kapha tissue.",
+        "Context": "Kapha tissue"
+    },
+    {
+        "Instruction": "What is the essential form of shukra?",
+        "Response": "Water.",
+        "Context": "Water"
+    },
+    {
+        "Instruction": "Name two effects of excess shukra.",
+        "Response": "Anger and unhealthy sexual desires.",
+        "Context": "Anger, desires"
+    },
+    {
+        "Instruction": "Name two effects of shukra deficiency.",
+        "Response": "Lack of vigor and lack of sexual desire.",
+        "Context": "Lack of vigor"
+    },
+    {
+        "Instruction": "What are three benefits of balanced shukra?",
+        "Response": "Clear eyes, lustrous and strong hair, well-formed sexual organs.",
+        "Context": "Clear eyes, strong hair"
+    },
+    {
+        "Instruction": "How is shukra maintained?",
+        "Response": "Taking milk, raw sugar, ghee, nuts, seeds, and eggs.",
+        "Context": "Milk, ghee, etc."
+    },
+    {
+        "Instruction": "Why should one gradually return to a normal lifestyle after Panchakarma?",
+        "Response": "To allow the body to adjust and restore balance gradually.",
+        "Context": "Gradual transition"
+    },
+    {
+        "Instruction": "What can result from failing to gradually transition after Panchakarma?",
+        "Response": "It may cause imbalance and strain the body\u2019s rejuvenation process.",
+        "Context": "Imbalance, strain"
+    },
+    {
+        "Instruction": "What type of daily routine is recommended after Panchakarma?",
+        "Response": "A calm and gentle routine with adequate rest.",
+        "Context": "Calm, gentle routine"
+    },
+    {
+        "Instruction": "How long should you ideally take to progress back to your normal routine after Panchakarma?",
+        "Response": "Ideally one to two weeks.",
+        "Context": "1-2 weeks"
+    },
+    {
+        "Instruction": "What types of stress should be avoided for at least a week following the last Panchakarma treatment?",
+        "Response": "Physical and mental stress.",
+        "Context": "Physical, mental stress"
+    },
+    {
+        "Instruction": "What kind of diet is recommended after Panchakarma?",
+        "Response": "A light, nutritious, and easily digestible diet.",
+        "Context": "Light, nutritious diet"
+    },
+    {
+        "Instruction": "What does a light, nutritious, vegetarian diet help to ensure?",
+        "Response": "It helps maintain the balance and healing achieved through Panchakarma.",
+        "Context": "Maintaining balance"
+    },
+    {
+        "Instruction": "Why is it important to avoid certain foods during Panchakarma?",
+        "Response": "To prevent the intake of foods that can disturb the body\u2019s detox process.",
+        "Context": "Prevent disruptive foods"
+    },
+    {
+        "Instruction": "Name five types of food or drinks to avoid during Panchakarma.",
+        "Response": "Alcohol, caffeine, processed foods, heavy meats, and dairy.",
+        "Context": "Alcohol, caffeine, processed foods"
+    },
+    {
+        "Instruction": "What is the purpose of a light diet before a Panchakarma detox?",
+        "Response": "To prepare the digestive system for the detox process.",
+        "Context": "Prepares digestive system"
+    },
+    {
+        "Instruction": "Give an example of a breakfast recommendation for the pre-detox period.",
+        "Response": "Warm porridge or a light fruit smoothie.",
+        "Context": "Light breakfast options"
+    },
+    {
+        "Instruction": "What kind of lunch is typically recommended during the pre-detox?",
+        "Response": "A light soup or vegetable stew with rice.",
+        "Context": "Light vegetable lunch"
+    },
+    {
+        "Instruction": "What is a recommended evening meal during the pre-detox?",
+        "Response": "Simple vegetable stew or khichdi.",
+        "Context": "Simple vegetable stew"
+    },
+    {
+        "Instruction": "What is taken before bed during the pre-detox period?",
+        "Response": "Warm water or herbal teas.",
+        "Context": "Herbal teas, warm water"
+    },
+    {
+        "Instruction": "How does the post-detox diet differ from the pre-detox diet?",
+        "Response": "The post-detox diet is slightly heavier and more nourishing to rebuild strength.",
+        "Context": "Rebuilding strength post-detox"
+    },
+    {
+        "Instruction": "What are some of the properties of castor oil according to Ayurveda?",
+        "Response": "Castor oil is warming, purgative, and lubricating.",
+        "Context": "Castor oil properties"
+    },
+    {
+        "Instruction": "What are some conditions in which castor oil should not be used?",
+        "Response": "Castor oil should not be used during pregnancy or for those with intestinal obstructions.",
+        "Context": "Contraindications for castor oil"
+    },
+    {
+        "Instruction": "How does castor oil help nerve tissue?",
+        "Response": "It helps nourish and lubricate nerve tissues, reducing pain and inflammation.",
+        "Context": "Nourishes, lubricates nerve tissue"
+    },
+    {
+        "Instruction": "What are some external uses of castor oil?",
+        "Response": "It can be used for massage, treating dry skin, and joint pain.",
+        "Context": "External uses of castor oil"
+    },
+    {
+        "Instruction": "How can castor oil be used for hiccups?",
+        "Response": "By massaging a small amount of castor oil on the abdomen.",
+        "Context": "Castor oil for hiccups"
+    },
+    {
+        "Instruction": "What are the benefits of castor oil packs or compresses?",
+        "Response": "They help reduce inflammation, relieve pain, and detoxify the body.",
+        "Context": "Benefits of castor oil packs"
+    },
+    {
+        "Instruction": "How can castor oil be used to massage mastic tissue?",
+        "Response": "By gently massaging it into the area, improving circulation and lubrication.",
+        "Context": "Castor oil for massage"
+    },
+    {
+        "Instruction": "What is the benefit of ingesting castor oil after childbirth?",
+        "Response": "It helps cleanse the body and support digestion.",
+        "Context": "Post-childbirth benefits of castor oil"
+    },
+    {
+        "Instruction": "How does castor oil help with joint problems?",
+        "Response": "It reduces inflammation and lubricates the joints, easing stiffness and pain.",
+        "Context": "Joint pain relief with castor oil"
+    },
+    {
+        "Instruction": "How does castor oil aid in improving digestion?",
+        "Response": "By stimulating the digestive system and promoting regular bowel movements.",
+        "Context": "Castor oil for digestion"
+    },
+    {
+        "Instruction": "Briefly outline the instructions for taking castor oil.",
+        "Response": "Take it in small doses with warm water, as directed by an Ayurvedic practitioner.",
+        "Context": "Castor oil instructions"
+    },
+    {
+        "Instruction": "What is ghee?",
+        "Response": "Ghee is clarified butter made from cow's milk.",
+        "Context": "What is ghee?"
+    },
+    {
+        "Instruction": "What are some of the health benefits of ghee?",
+        "Response": "Ghee aids digestion, enhances memory, and promotes vitality.",
+        "Context": "Health benefits of ghee"
+    },
+    {
+        "Instruction": "How does ghee affect digestion?",
+        "Response": "It improves the digestive fire (Agni) and helps in the absorption of nutrients.",
+        "Context": "Ghee\u2019s effect on digestion"
+    },
+    {
+        "Instruction": "How is ghee used in Ayurveda to carry herbs?",
+        "Response": "Ghee acts as a carrier to enhance the effectiveness of herbs.",
+        "Context": "Ghee in Ayurveda"
+    },
+    {
+        "Instruction": "According to Ayurveda, when is the best time to eat the main meal?",
+        "Response": "At midday, when digestion is strongest.",
+        "Context": "Best time for main meal"
+    },
+    {
+        "Instruction": "What kind of food is recommended for optimal health?",
+        "Response": "Organic, fresh, and seasonal foods with high nutritional value.",
+        "Context": "Recommended food for health"
+    },
+    {
+        "Instruction": "What should be reduced in the diet to maintain good health?",
+        "Response": "Refined sugar, salt, and processed foods.",
+        "Context": "Reducing harmful foods"
+    },
+    {
+        "Instruction": "How long should you leave between meals?",
+        "Response": "At least three hours.",
+        "Context": "Time between meals"
+    },
+    {
+        "Instruction": "What are the benefits of meditating twice a day?",
+        "Response": "It helps calm the mind, reduce stress, and balance the nervous system.",
+        "Context": "Meditation benefits"
+    },
+    {
+        "Instruction": "What are the benefits of oil massage?",
+        "Response": "It helps detoxify the body, relax muscles, and nourish the skin.",
+        "Context": "Benefits of oil massage"
+    },
+    {
+        "Instruction": "What are the Ayurvedic recommendations for bedtime and waking up?",
+        "Response": "Sleep before 10 p.m. and wake up at dawn.",
+        "Context": "Bedtime and waking routine"
+    },
+    {
+        "Instruction": "Why is spending time in nature important?",
+        "Response": "Nature renews energy and helps to balance the body and mind.",
+        "Context": "Importance of nature"
+    },
+    {
+        "Instruction": "What is the primary cause of disease and stress, according to the text?",
+        "Response": "An imbalance in the body's systems, often caused by poor lifestyle choices.",
+        "Context": "Primary cause of disease"
+    },
+    {
+        "Instruction": "What is the Dhal Detox described as in the text?",
+        "Response": "A simple and effective Ayurvedic detox using mung dhal soup.",
+        "Context": "Ayurvedic mung dhal detox"
+    },
+    {
+        "Instruction": "How often can the Dhal Detox be followed?",
+        "Response": "Once a week or as needed for cleansing.",
+        "Context": "Weekly or as needed"
+    },
+    {
+        "Instruction": "How does the Dhal Detox diet help the body?",
+        "Response": "It cleanses the digestive system and removes toxins.",
+        "Context": "Cleanses digestive system"
+    },
+    {
+        "Instruction": "What practices can greatly enhance the Dhal Detox?",
+        "Response": "Gentle yoga, meditation, and pranayama (breathwork).",
+        "Context": "Yoga, meditation, pranayama"
+    },
+    {
+        "Instruction": "What is recommended regarding rest and workload during the Dhal Detox?",
+        "Response": "Reduce workload and ensure proper rest.",
+        "Context": "Rest, reduce workload"
+    },
+    {
+        "Instruction": "What is the timing for the morning Lemon tea in the Dhal Detox schedule?",
+        "Response": "At 6:30 am.",
+        "Context": "6.30 AM"
+    },
+    {
+        "Instruction": "What drink is recommended at 8:00 am during the Dhal Detox?",
+        "Response": "Herbal tea like cumin, coriander, and fennel tea.",
+        "Context": "Cumin, coriander, fennel tea"
+    },
+    {
+        "Instruction": "What is the recommended lunch during the Dhal Detox?",
+        "Response": "Mung dhal soup with vegetables and rice.",
+        "Context": "Mung dhal soup"
+    },
+    {
+        "Instruction": "What can be added to the Dhal soup for taste?",
+        "Response": "Herbs and spices like ginger, turmeric, and cumin.",
+        "Context": "Ginger, turmeric, cumin"
+    },
+    {
+        "Instruction": "What is the recommended evening meal during the Dhal Detox?",
+        "Response": "The same mung dhal soup or a light vegetable broth.",
+        "Context": "Mung dhal or broth"
+    },
+    {
+        "Instruction": "What is the optional extra that can be added to the Dhal Detox routine, and under what condition?",
+        "Response": "A ghee cleanse, if recommended by an Ayurvedic practitioner.",
+        "Context": "Ghee cleanse (optional)"
+    },
+    {
+        "Instruction": "How should the ghee be prepared for consumption during the Dhal Detox?",
+        "Response": "Melted and taken on an empty stomach.",
+        "Context": "Melted, on empty stomach"
+    },
+    {
+        "Instruction": "What are the instructions for taking the ghee during the Dhal Detox?",
+        "Response": "Begin with a small amount, increasing gradually each day.",
+        "Context": "Gradually increase daily"
+    },
+    {
+        "Instruction": "What can be drunk to ease nausea when taking ghee?",
+        "Response": "Warm water with lemon or ginger tea.",
+        "Context": "Lemon or ginger tea"
+    },
+    {
+        "Instruction": "What kind of diet is the Lemon Detox?",
+        "Response": "A liquid mono-diet using lemon detox tea.",
+        "Context": "Liquid mono-diet"
+    },
+    {
+        "Instruction": "What are some of the benefits of the Lemon Detox?",
+        "Response": "Detoxification, weight loss, and improved digestion.",
+        "Context": "Detox, weight loss"
+    },
+    {
+        "Instruction": "How often can the Lemon Detox be undertaken?",
+        "Response": "Once a month or as needed.",
+        "Context": "Once a month"
+    },
+    {
+        "Instruction": "Why is the Lemon Detox effective for detox and weight loss?",
+        "Response": "It gives rest to the digestive system while providing energy.",
+        "Context": "Restores digestive energy"
+    },
+    {
+        "Instruction": "What does the Lemon Detox provide to keep the mind and body in peak condition?",
+        "Response": "Essential nutrients and hydration.",
+        "Context": "Nutrients and hydration"
+    },
+    {
+        "Instruction": "What are the ingredients of the Lemon Detox Tea?",
+        "Response": "Lemon juice, maple syrup, cayenne pepper, and warm water.",
+        "Context": "Lemon juice, maple syrup, cayenne"
+    },
+    {
+        "Instruction": "When should the Lemon Detox Tea be consumed?",
+        "Response": "Multiple times a day, especially before meals.",
+        "Context": "Multiple times daily"
+    },
+    {
+        "Instruction": "What should be avoided for two days before starting the Lemon Detox?",
+        "Response": "Caffeine, alcohol, and processed foods.",
+        "Context": "Avoid caffeine, alcohol"
+    },
+    {
+        "Instruction": "What detox should be followed on the day before the Lemon Detox?",
+        "Response": "A light mono-diet like khichdi or dhal soup.",
+        "Context": "Khichdi, dhal soup"
+    },
+    {
+        "Instruction": "What else can be drunk during the Lemon Detox to aid cleansing?",
+        "Response": "Herbal teas and warm water.",
+        "Context": "Herbal teas, warm water"
+    },
+    {
+        "Instruction": "What should be followed on the day after the Lemon Detox?",
+        "Response": "A light and nourishing vegetarian meal.",
+        "Context": "Light vegetarian meal"
+    },
+    {
+        "Instruction": "What is the timing for the first Lemon Detox Tea of the day?",
+        "Response": "Around 6:30 am.",
+        "Context": "6.30 AM"
+    },
+    {
+        "Instruction": "When is Vata tea consumed during the Lemon Detox schedule?",
+        "Response": "Around mid-morning or mid-afternoon.",
+        "Context": "Mid-morning or afternoon"
+    },
+    {
+        "Instruction": "When are Triphala tablets taken during the Lemon Detox?",
+        "Response": "At night before bed.",
+        "Context": "Before bed"
+    },
+    {
+        "Instruction": "What does the Combination Detox involve?",
+        "Response": "A mix of Dhal, Lemon, and Mono-diet detoxes.",
+        "Context": "Dhal, Lemon, Mono detox"
+    },
+    {
+        "Instruction": "How often can the Combination Detox be undertaken?",
+        "Response": "Monthly or seasonally, depending on need.",
+        "Context": "Monthly or seasonally"
+    },
+    {
+        "Instruction": "What detox is followed on Day 1 of the 5-day Combination Detox?",
+        "Response": "Lemon Detox.",
+        "Context": "Lemon Detox"
+    },
+    {
+        "Instruction": "What detox is followed on Day 3 of the 5-day Combination Detox?",
+        "Response": "Dhal Detox.",
+        "Context": "Dhal Detox"
+    },
+    {
+        "Instruction": "What detoxes are followed on Days 2 and 4 of the 10-day Combination Detox?",
+        "Response": "Lemon Detox.",
+        "Context": "Lemon Detox"
+    },
+    {
+        "Instruction": "How often should the Mini Detox, Dhal Detox, or Lemon Detox be followed according to the weekly detox options?",
+        "Response": "Once a week.",
+        "Context": "Weekly"
+    },
+    {
+        "Instruction": "What is the duration of the Dhal Detox in the monthly detox options?",
+        "Response": "Three days.",
+        "Context": "Three days"
+    },
+    {
+        "Instruction": "Which detox option is included in the Three Month Detox?",
+        "Response": "Dhal Detox.",
+        "Context": "Dhal Detox"
+    },
+    {
+        "Instruction": "Which detox options are included in the Six Month Detox?",
+        "Response": "Mini Detox, Dhal Detox, and Lemon Detox.",
+        "Context": "Mini, Dhal, Lemon Detox"
+    },
+    {
+        "Instruction": "According to Ayurveda, how are herbs classified?",
+        "Response": "According to Ayurveda, herbs are classified based on their qualities (guna), tastes (rasa), effects on the doshas, and their energetic influence on the body.",
+        "Context": "Herb Classification"
+    },
+    {
+        "Instruction": "What does \"rasa\" refer to in the context of Ayurvedic herbs?",
+        "Response": "\"Rasa\" refers to the taste or flavor of an herb or food, which is an essential factor in determining its therapeutic effects in Ayurveda.",
+        "Context": "Rasa in Herbs"
+    },
+    {
+        "Instruction": "Which two elements make up the sweet taste (rasa)?",
+        "Response": "The sweet taste (rasa) is made up of earth and water elements.",
+        "Context": "Sweet Taste Elements"
+    },
+    {
+        "Instruction": "What are some therapeutic effects of the sweet taste?",
+        "Response": "The therapeutic effects of the sweet taste include nourishing and building tissues, calming inflammation, and promoting overall vitality.",
+        "Context": "Sweet Taste Effects"
+    },
+    {
+        "Instruction": "Name three examples of foods or herbs with a sweet taste.",
+        "Response": "Three examples of foods or herbs with a sweet taste are honey, rice, and licorice.",
+        "Context": "Sweet Taste Examples"
+    },
+    {
+        "Instruction": "Which elements constitute the sour taste?",
+        "Response": "The sour taste is composed of fire and earth elements.",
+        "Context": "Sour Taste Elements"
+    },
+    {
+        "Instruction": "How does sour taste affect digestion?",
+        "Response": "Sour taste stimulates the digestive fire (Agni), enhances digestion, and increases saliva production.",
+        "Context": "Sour Taste Effects"
+    },
+    {
+        "Instruction": "Give two examples of sour substances.",
+        "Response": "Two examples of sour substances are tamarind and lemon.",
+        "Context": "Sour Substance Examples"
+    },
+    {
+        "Instruction": "What elements make up the salty taste?",
+        "Response": "The salty taste is made up of water and fire elements.",
+        "Context": "Salty Taste Elements"
+    },
+    {
+        "Instruction": "What are the effects of salty taste on the body?",
+        "Response": "The effects of salty taste include stimulating digestion, promoting the absorption of nutrients, and enhancing fluid balance.",
+        "Context": "Salty Taste Effects"
+    },
+    {
+        "Instruction": "Name two sources of salt.",
+        "Response": "Two sources of salt are sea salt and rock salt.",
+        "Context": "Salt Sources"
+    },
+    {
+        "Instruction": "Which elements comprise the pungent taste?",
+        "Response": "The pungent taste is made up of fire and air elements.",
+        "Context": "Pungent Taste Elements"
+    },
+    {
+        "Instruction": "What are the effects of pungent taste on digestion and other bodily functions?",
+        "Response": "The effects of pungent taste include stimulating digestion, promoting circulation, and clearing toxins from the body.",
+        "Context": "Pungent Taste Effects"
+    },
+    {
+        "Instruction": "List five examples of pungent herbs or spices.",
+        "Response": "Five examples of pungent herbs or spices are garlic, ginger, chili, black pepper, and mustard.",
+        "Context": "Pungent Herbs/Spices"
+    },
+    {
+        "Instruction": "What elements make up the bitter taste?",
+        "Response": "The bitter taste is composed of air and ether elements.",
+        "Context": "Bitter Taste Elements"
+    },
+    {
+        "Instruction": "What are the therapeutic properties of the bitter taste?",
+        "Response": "The therapeutic properties of the bitter taste include detoxification, cooling, and reducing excess heat or inflammation.",
+        "Context": "Bitter Taste Effects"
+    },
+    {
+        "Instruction": "Give three examples of bitter herbs or foods.",
+        "Response": "Three examples of bitter herbs or foods are dandelion root, turmeric, and neem.",
+        "Context": "Bitter Herbs/Foods"
+    },
+    {
+        "Instruction": "Which elements constitute the astringent taste?",
+        "Response": "The astringent taste is made up of air and earth elements.",
+        "Context": "Astringent Taste Elements"
+    },
+    {
+        "Instruction": "What are the effects of astringent taste on the body?",
+        "Response": "The effects of astringent taste include tightening tissues, reducing excess moisture, and controlling bleeding.",
+        "Context": "Astringent Taste Effects"
+    },
+    {
+        "Instruction": "Name three examples of astringent substances.",
+        "Response": "Three examples of astringent substances are pomegranate, green tea, and chickpeas.",
+        "Context": "Astringent Substance Examples"
+    },
+    {
+        "Instruction": "What is \"virya\" in Ayurvedic terms?",
+        "Response": "\"Virya\" refers to the potency or heating or cooling quality of a substance.",
+        "Context": "Virya in Ayurveda"
+    },
+    {
+        "Instruction": "How does virya relate to pitta dosha?",
+        "Response": "Virya relates to pitta dosha by determining whether a substance increases or decreases pitta\u2019s heating quality.",
+        "Context": "Virya & Pitta"
+    },
+    {
+        "Instruction": "Which tastes are considered cooling?",
+        "Response": "Cooling tastes include sweet, bitter, and astringent tastes.",
+        "Context": "Cooling Tastes"
+    },
+    {
+        "Instruction": "What effects do heating herbs have on the doshas?",
+        "Response": "Heating herbs stimulate the fire element, potentially aggravating pitta dosha, causing increased heat, inflammation, and irritability.",
+        "Context": "Heating Herbs Effects"
+    },
+    {
+        "Instruction": "What is \"vipaka\"?",
+        "Response": "\"Vipaka\" is the post-digestive effect of a substance after it has been metabolized by the body.",
+        "Context": "Vipaka in Ayurveda"
+    },
+    {
+        "Instruction": "What is the post-digestive effect of sweet and salty tastes?",
+        "Response": "The post-digestive effect of sweet and salty tastes is typically calming, grounding, and nourishing to the body.",
+        "Context": "Sweet & Salty Vipaka"
+    },
+    {
+        "Instruction": "Where are sweet tastes digested?",
+        "Response": "Sweet tastes are digested in the stomach and provide nourishment to the body\u2019s tissues.",
+        "Context": "Sweet Taste Digestion"
+    },
+    {
+        "Instruction": "What is \"prabhava\"?",
+        "Response": "\"Prabhava\" refers to the unique, sometimes unpredictable effects a substance has, not solely related to its taste or qualities.",
+        "Context": "Prabhava in Ayurveda"
+    },
+    {
+        "Instruction": "Give an example of prabhava.",
+        "Response": "An example of prabhava is turmeric, which has anti-inflammatory effects despite being bitter.",
+        "Context": "Prabhava Example"
+    },
+    {
+        "Instruction": "What are alterative herbs used for?",
+        "Response": "Alterative herbs are used to promote detoxification and restore balance in the body by purifying the blood and tissues.",
+        "Context": "Alterative Herbs"
+    },
+    {
+        "Instruction": "Name three cooling alterative herbs.",
+        "Response": "Three cooling alterative herbs are chamomile, nettle, and dandelion.",
+        "Context": "Cooling Alterative Herbs"
+    },
+    {
+        "Instruction": "What are anti-parasitical herbs effective against?",
+        "Response": "Anti-parasitical herbs are effective against parasites, worms, and other microbial organisms in the body.",
+        "Context": "Anti-parasitical Herbs"
+    },
+    {
+        "Instruction": "List three examples of anti-parasitical herbs.",
+        "Response": "Three examples of anti-parasitical herbs are wormwood, black walnut, and cloves.",
+        "Context": "Anti-parasitical Herb Examples"
+    },
+    {
+        "Instruction": "What are aphrodisiacs believed to do?",
+        "Response": "Aphrodisiacs are believed to stimulate sexual desire and improve sexual function.",
+        "Context": "Aphrodisiac Herbs"
+    },
+    {
+        "Instruction": "Name five herbs considered aphrodisiacs.",
+        "Response": "Five herbs considered aphrodisiacs are ashwagandha, ginseng, maca, tribulus, and shatavari.",
+        "Context": "Aphrodisiac Herb Examples"
+    },
+    {
+        "Instruction": "How do astringent herbs affect tissues?",
+        "Response": "Astringent herbs help tighten tissues, reduce bleeding, and control excessive moisture in the body.",
+        "Context": "Astringent Herb Effects"
+    },
+    {
+        "Instruction": "Give three examples of haemostatic herbs.",
+        "Response": "Three examples of haemostatic herbs are yarrow, shepherd\u2019s purse, and calendula.",
+        "Context": "Haemostatic Herb Examples"
+    },
+    {
+        "Instruction": "What are bitter tonic herbs used for?",
+        "Response": "Bitter tonic herbs are used to stimulate the appetite, improve digestion, and support liver function.",
+        "Context": "Bitter Tonic Herbs"
+    },
+    {
+        "Instruction": "List three examples of bitter tonic herbs.",
+        "Response": "Three examples of bitter tonic herbs are gentian, dandelion root, and wormwood.",
+        "Context": "Bitter Tonic Herb Examples"
+    },
+    {
+        "Instruction": "What do carminative herbs help with?",
+        "Response": "Carminative herbs help soothe the digestive system, reduce gas, and alleviate bloating",
+        "Context": "Carminative Herbs"
+    },
+    {
+        "Instruction": "What are \"aphrodisiac\" herbs?",
+        "Response": "Aphrodisiac herbs invigorate and rejuvenate the reproductive system, mental energy, and nerve function.",
+        "Context": "Carminative Herb Uses"
+    },
+    {
+        "Instruction": "Give some examples of aphrodisiac herbs.",
+        "Response": "Examples include Angelica, ashwagandha, garlic, ginseng, saffron, shatavari, wild yam.",
+        "Context": "Adaptogens"
+    },
+    {
+        "Instruction": "What are \"astringent\" herbs?",
+        "Response": "Astringent herbs are drying, moisture-preserving, and have a contracting effect on tissues.",
+        "Context": "Drying"
+    },
+    {
+        "Instruction": "How can astringent herbs be classified?",
+        "Response": "Astringent herbs can be haemostatic, anti-diarrhoea, or vulnerary.",
+        "Context": "Blood-Clotting"
+    },
+    {
+        "Instruction": "Name some common haemostatic herbs.",
+        "Response": "Common haemostatic herbs include Hibiscus, manjishta, marshmallow, nettle, yarrow.",
+        "Context": "Binding"
+    },
+    {
+        "Instruction": "Name some common anti-diarrhoea herbs.",
+        "Response": "Common anti-diarrhoea herbs include Blackberry, comfrey, plantain, raspberry, yellow dock.",
+        "Context": "Heating"
+    },
+    {
+        "Instruction": "Give examples of astringent herbs that are warming and balance vata.",
+        "Response": "Astringent herbs that are warming and balance vata include Black pepper, ginger, nutmeg, poppy seeds.",
+        "Context": "Soothing"
+    },
+    {
+        "Instruction": "What other substances can be used as anti-diarrhoea agents?",
+        "Response": "Buttermilk and yoghurt can also be used as anti-diarrhoea agents.",
+        "Context": "Healing"
+    },
+    {
+        "Instruction": "Name some vulnerary herbs.",
+        "Response": "Vulnerary herbs include Aloe vera, chickweed, comfrey, honey, turmeric.",
+        "Context": "Multitasking"
+    },
+    {
+        "Instruction": "Which herbs are haemostatic, anti-diarrhoea and vulnerary?",
+        "Response": "Herbs that are haemostatic, anti-diarrhoea, and vulnerary include Comfrey, marshmallow, plantain, self-heal, yarrow.",
+        "Context": "Detoxifying"
+    },
+    {
+        "Instruction": "What are \"bitter tonic\" herbs?",
+        "Response": "Bitter tonic herbs stimulate digestion, clear toxins, and balance pitta.",
+        "Context": "Digestive"
+    },
+    {
+        "Instruction": "Give some examples of bitter tonic herbs.",
+        "Response": "Examples of bitter tonic herbs include Aloe vera, goldenseal, gentian, kutki, neem.",
+        "Context": "Cooling"
+    },
+    {
+        "Instruction": "What are \"carminative\" herbs?",
+        "Response": "Carminative herbs reduce bloating, gas, and settle digestion.",
+        "Context": "Sweating"
+    },
+    {
+        "Instruction": "Name some typical carminative herbs.",
+        "Response": "Typical carminative herbs include Ajwan, basil, cardamom, cinnamon, ginger, oregano, thyme.",
+        "Context": "Stimulating"
+    },
+    {
+        "Instruction": "Give examples of carminative herbs that are less likely to aggravate pitta.",
+        "Response": "Carminative herbs less likely to aggravate pitta include Chamomile, coriander, cumin, fennel, peppermint.",
+        "Context": "Cooling"
+    },
+    {
+        "Instruction": "What are \"diaphoretic\" herbs?",
+        "Response": "Diaphoretic herbs promote perspiration and circulation to eliminate toxins.",
+        "Context": "Detoxifying"
+    },
+    {
+        "Instruction": "Give some examples of heating diaphoretic herbs.",
+        "Response": "Heating diaphoretic herbs include Basil, cinnamon, cloves, ginger, sage, thyme.",
+        "Context": "Heating diaphoretic"
+    },
+    {
+        "Instruction": "Give some examples of cooling diaphoretic herbs.",
+        "Response": "Cooling diaphoretic herbs include Burdock, chamomile, coriander, peppermint, yarrow.",
+        "Context": "Cooling diaphoretic"
+    },
+    {
+        "Instruction": "What are \"diuretic\" herbs?",
+        "Response": "Diuretic herbs promote urination and reduce toxicity through the kidneys and urinary bladder.",
+        "Context": "Diuretic herbs "
+    },
+    {
+        "Instruction": "Name some cooling diuretic herbs.",
+        "Response": "Cooling diuretic herbs include Burdock, dandelion, fennel, marshmallow, parsley.",
+        "Context": "Cooling diaphoretic"
+    }
+]

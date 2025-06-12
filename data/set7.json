@@ -1,0 +1,2497 @@
+[
+    {
+        "Instruction": "What supports long-term post-COVID strength?",
+        "Response": "Chyawanprash, yoga, ghee-based meals, and spiritual grounding promote resilience.",
+        "Context": "long-term recovery"
+    },
+    {
+        "Instruction": "What improves mental steadiness in routines?",
+        "Response": "Consistent wake-up time, light food, and short meditations build rhythm.",
+        "Context": "mental rhythm"
+    },
+    {
+        "Instruction": "What relieves restlessness without sleepiness?",
+        "Response": "Ginger tea, soft yoga, grounding oils, and engaging creative tasks.",
+        "Context": "restlessness"
+    },
+    {
+        "Instruction": "What helps reduce lingering body heat post-fever?",
+        "Response": "Coconut water, sandalwood paste, and amalaki cool internal pitta.",
+        "Context": "post-fever heat"
+    },
+    {
+        "Instruction": "What helps overcome post-illness withdrawal?",
+        "Response": "Warm food, reconnection rituals, journaling, and gentle social re-entry.",
+        "Context": "social withdrawal"
+    },
+    {
+        "Instruction": "What relieves muscle tension after viral infection?",
+        "Response": "Abhyanga with mahanarayan oil and light movement helps recovery.",
+        "Context": "muscle tension"
+    },
+    {
+        "Instruction": "What helps prevent emotional burnout post-COVID?",
+        "Response": "Simple joyful activities, healthy meals, and rasayana herbs like ashwagandha.",
+        "Context": "emotional burnout"
+    },
+    {
+        "Instruction": "What builds back daily confidence and courage?",
+        "Response": "Do small tasks early, chant mantras, and practice positive visualizations.",
+        "Context": "daily courage"
+    },
+    {
+        "Instruction": "What helps with shallow breathing from anxiety?",
+        "Response": "Bhramari, nostril alternate breathing, and warm foot massage relax breath.",
+        "Context": "shallow breath"
+    },
+    {
+        "Instruction": "What restores hope and clarity in healing?",
+        "Response": "Spiritual reflection, goal setting, and connecting to meaningful service uplift the heart.",
+        "Context": "healing hope"
+    },
+    {
+        "Instruction": "What is the final stage of healing in Ayurveda?",
+        "Response": "Restoration of ojas, clear agni, and balanced mind-body connection.",
+        "Context": "final recovery"
+    },
+    {
+        "Instruction": "What helps people feel safe in their body again?",
+        "Response": "Grounding rituals, warm food, and trust-building habits rebuild connection.",
+        "Context": "somatic healing"
+    },
+    {
+        "Instruction": "What supports inner calm when facing uncertainty?",
+        "Response": "Meditation, tulsi tea, journaling, and surrender to daily flow promote peace.",
+        "Context": "emotional calm"
+    },
+    {
+        "Instruction": "What Ayurvedic concept explains adaptability?",
+        "Response": "Satmya means developing tolerance to habits and environments for health stability.",
+        "Context": "satmya"
+    },
+    {
+        "Instruction": "What revives appetite after long fever?",
+        "Response": "Ginger-lemon juice with salt before meals rekindles digestive fire.",
+        "Context": "appetite"
+    },
+    {
+        "Instruction": "What is the Ayurvedic remedy for dry tongue?",
+        "Response": "Ghee, licorice, and avoiding dry food restore oral moisture and taste.",
+        "Context": "dry tongue"
+    },
+    {
+        "Instruction": "What helps with difficulty swallowing post-COVID?",
+        "Response": "Licorice tea, warm water, and ghee help soothe inflamed throat tissues.",
+        "Context": "swallowing"
+    },
+    {
+        "Instruction": "What improves daily enthusiasm after recovery?",
+        "Response": "Set small goals, chant mantras, walk in nature, and eat sattvic food.",
+        "Context": "enthusiasm"
+    },
+    {
+        "Instruction": "What practice resets inner rhythm?",
+        "Response": "Aligning with sunrise, eating at fixed times, and nightly oil massage restore balance.",
+        "Context": "circadian"
+    },
+    {
+        "Instruction": "What builds mental tolerance to change?",
+        "Response": "Sattva-based lifestyle, adaptogens like ashwagandha, and simple affirmations.",
+        "Context": "mental flexibility"
+    },
+    {
+        "Instruction": "What helps people feel emotionally held after isolation?",
+        "Response": "Oil massage, group prayer, emotional expression, and sattvic support systems.",
+        "Context": "emotional containment"
+    },
+    {
+        "Instruction": "What food reduces excess mucus post-infection?",
+        "Response": "Avoid dairy, eat light spiced soups, and take trikatu if needed.",
+        "Context": "kapha mucus"
+    },
+    {
+        "Instruction": "What practice helps reduce overthinking?",
+        "Response": "Write it out, ground your feet, drink warm tulsi tea, and do alternate nostril breathing.",
+        "Context": "overthinking"
+    },
+    {
+        "Instruction": "What yoga pose calms both body and mind?",
+        "Response": "Balasana (child's pose) gently slows the system and releases tension.",
+        "Context": "calming yoga"
+    },
+    {
+        "Instruction": "What helps rebuild gut strength?",
+        "Response": "Take buttermilk with ginger, eat warm light meals, and chew slowly.",
+        "Context": "gut reset"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on fear-based habits?",
+        "Response": "Fear reflects vata imbalance; stabilize with routine, oil, and breath.",
+        "Context": "fear"
+    },
+    {
+        "Instruction": "What's an antidote to emotional coldness?",
+        "Response": "Warm meals, heartfelt connection, rose tea, and abhyanga restore emotional warmth.",
+        "Context": "emotional warmth"
+    },
+    {
+        "Instruction": "What spice helps clear excess kapha?",
+        "Response": "Black pepper improves metabolism, clears mucus, and strengthens agni.",
+        "Context": "black pepper"
+    },
+    {
+        "Instruction": "What strengthens trust in healing?",
+        "Response": "Daily rituals, rest, sattvic support, and honoring small progress.",
+        "Context": "healing trust"
+    },
+    {
+        "Instruction": "What relieves dull headache post-infection?",
+        "Response": "Triphala, head massage with brahmi oil, and light meals improve clarity.",
+        "Context": "headache"
+    },
+    {
+        "Instruction": "What daily rhythm improves mood?",
+        "Response": "Eat, sleep, and wake at regular times, paired with calming breathwork.",
+        "Context": "mood"
+    },
+    {
+        "Instruction": "What tea supports breath and clarity together?",
+        "Response": "Tulsi-ginger tea opens the lungs and awakens the mind.",
+        "Context": "breath tea"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on trauma?",
+        "Response": "Unprocessed emotions lodge in tissues; healing includes herbs, breath, and silence.",
+        "Context": "trauma"
+    },
+    {
+        "Instruction": "What builds immunity at the emotional level?",
+        "Response": "Faith, connection, love, truthfulness, and sattvic expression enhance resilience.",
+        "Context": "emotional immunity"
+    },
+    {
+        "Instruction": "What supports children's calmness post-recovery?",
+        "Response": "Consistent bedtime, warm oil massage, and playtime restore balance.",
+        "Context": "children calm"
+    },
+    {
+        "Instruction": "What helps elders rebuild strength?",
+        "Response": "Nourishing rasayana, ghee, soft foods, and daily movement support longevity.",
+        "Context": "elder strength"
+    },
+    {
+        "Instruction": "What is the daily mental cleansing practice?",
+        "Response": "Journaling, mantra repetition, and letting go reduce inner ama.",
+        "Context": "mental ama"
+    },
+    {
+        "Instruction": "What foods uplift energy without heaviness?",
+        "Response": "Cooked vegetables with ghee, lightly spiced rice, and herbal teas.",
+        "Context": "light energy"
+    },
+    {
+        "Instruction": "What reduces craving for stimulation?",
+        "Response": "Sattva-based habits, warm drinks, and rest restore natural contentment.",
+        "Context": "stimulation craving"
+    },
+    {
+        "Instruction": "What helps transition from bed rest to movement?",
+        "Response": "Slow stretching, walking, and light yoga supported by warm nourishment.",
+        "Context": "post-bed routine"
+    },
+    {
+        "Instruction": "What supports self-esteem after illness?",
+        "Response": "Daily wins, sunlight exposure, and self-compassion restore inner worth.",
+        "Context": "self-esteem"
+    },
+    {
+        "Instruction": "What helps lighten emotional heaviness?",
+        "Response": "Steam, laughter, music, and joyful sattvic meals lift the spirit.",
+        "Context": "emotional heaviness"
+    },
+    {
+        "Instruction": "What is the Ayurvedic insight on overwork?",
+        "Response": "Overwork depletes ojas and vata; restore with rest, ghee, and simplicity.",
+        "Context": "overwork"
+    },
+    {
+        "Instruction": "What strengthens the heart physically and emotionally?",
+        "Response": "Arjuna, rose, warm hugs, breathwork, and heartfelt conversations.",
+        "Context": "heart care"
+    },
+    {
+        "Instruction": "What restores sensory peace after screen time?",
+        "Response": "Lie on your back, apply oil to temples, and listen to silence.",
+        "Context": "screen fatigue"
+    },
+    {
+        "Instruction": "What helps mothers recover emotional balance?",
+        "Response": "Nutmeg milk, rose tea, sisterhood, and sattvic self-care rebuild strength.",
+        "Context": "maternal wellness"
+    },
+    {
+        "Instruction": "What foods help remove heaviness from the head?",
+        "Response": "Warm soups with cumin and fennel lighten both digestion and mind.",
+        "Context": "head heaviness"
+    },
+    {
+        "Instruction": "What mantra restores inner clarity?",
+        "Response": "The Mahamrityunjaya mantra brings courage, focus, and spiritual calm.",
+        "Context": "mantra"
+    },
+    {
+        "Instruction": "What soothes emotional inflammation?",
+        "Response": "Rose, coconut, sandalwood, and slow walks reduce reactive heat.",
+        "Context": "emotional pitta"
+    },
+    {
+        "Instruction": "What morning practice enhances self-awareness?",
+        "Response": "Wake before sunrise, journal your intention, and sip warm herbal tea.",
+        "Context": "morning clarity"
+    },
+    {
+        "Instruction": "What calms panic when isolated?",
+        "Response": "Place warm oil on chest, breathe slowly, and remember you are held.",
+        "Context": "panic calm"
+    },
+    {
+        "Instruction": "What is the last step of Ayurvedic healing?",
+        "Response": "Stabilizing sattva, nourishing ojas, and joyful engagement with life.",
+        "Context": "wholeness"
+    },
+    {
+        "Instruction": "What helps reconnect with nature?",
+        "Response": "Sunbathing, barefoot walking, tree gazing, and silent gratitude.",
+        "Context": "nature reconnection"
+    },
+    {
+        "Instruction": "What is Ayurveda's gift during global illness?",
+        "Response": "To remind us healing begins with daily rhythm, inner peace, and conscious care.",
+        "Context": "ayurveda gift"
+    },
+    {
+        "Instruction": "What practice helps reset body rhythms after stress?",
+        "Response": "Align sleep-wake cycle with sunrise and sunset, eat at regular times, and breathe deeply.",
+        "Context": "stress recovery"
+    },
+    {
+        "Instruction": "What helps restore confidence in the immune system?",
+        "Response": "Trust-building rituals, spiritual reflection, and strengthening digestion build inner belief.",
+        "Context": "immune confidence"
+    },
+    {
+        "Instruction": "What practice strengthens mental ojas?",
+        "Response": "Meditation, self-compassion, creative expression, and heartful communication build emotional resilience.",
+        "Context": "mental ojas"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to post-trauma resilience?",
+        "Response": "Support agni, calm vata, nurture ojas, and stay rooted in dinacharya.",
+        "Context": "trauma healing"
+    },
+    {
+        "Instruction": "What helps prepare children mentally before school?",
+        "Response": "Early oil massage, sattvic breakfast, tulsi tea, and affirmation rituals build calmness.",
+        "Context": "child routine"
+    },
+    {
+        "Instruction": "What foods help calm anxious breathing?",
+        "Response": "Cooked rice, warm ghee, cumin, and ginger soothe vata and prana.",
+        "Context": "breath balance"
+    },
+    {
+        "Instruction": "What practice reduces digital overstimulation?",
+        "Response": "Midday screen fasts, alternate nostril breathing, and cooling herbs like rose reduce sensory overload.",
+        "Context": "screen detox"
+    },
+    {
+        "Instruction": "What restores motivation after long rest?",
+        "Response": "Start with small daily victories, rise with the sun, and take uplifting herbs like ashwagandha.",
+        "Context": "motivation"
+    },
+    {
+        "Instruction": "What is the role of prayer in Ayurveda?",
+        "Response": "Prayer connects to sattva, realigns the nervous system, and builds trust in healing.",
+        "Context": "spiritual healing"
+    },
+    {
+        "Instruction": "What helps balance excess mental fire (pitta)?",
+        "Response": "Cooling herbs, evening rituals, coconut, rose, and soft sounds ease intensity.",
+        "Context": "mental pitta"
+    },
+    {
+        "Instruction": "What is the Ayurvedic way to welcome each day?",
+        "Response": "Wake before sunrise, smile inward, drink warm water, and set a heart-based intention.",
+        "Context": "daily start"
+    },
+    {
+        "Instruction": "What practice encourages kindness toward the self?",
+        "Response": "Self-oiling, eating calmly, and expressing gratitude cultivate compassion.",
+        "Context": "self-love"
+    },
+    {
+        "Instruction": "What helps reconnect with others after illness?",
+        "Response": "Gentle conversations, shared meals, and nature walks re-establish trust and belonging.",
+        "Context": "social reentry"
+    },
+    {
+        "Instruction": "What supports women's immunity during cycles?",
+        "Response": "Shatavari, warm oil on abdomen, rest, and cooked foods nourish resilience.",
+        "Context": "women\u2019s care"
+    },
+    {
+        "Instruction": "What helps regulate body temperature from anxiety?",
+        "Response": "Pranayama, coconut water, rose oil, and pacing the day calm internal fire.",
+        "Context": "emotional cooling"
+    },
+    {
+        "Instruction": "What is the subtle sign of returning ojas?",
+        "Response": "Joy returns easily, sleep deepens, and one feels light after meals and thoughts.",
+        "Context": "ojas return"
+    },
+    {
+        "Instruction": "What practice cleanses mind and body simultaneously?",
+        "Response": "Triphala for body; journaling and mantra for the mind promote total cleansing.",
+        "Context": "dual detox"
+    },
+    {
+        "Instruction": "What helps transform fear into clarity?",
+        "Response": "Sit in stillness, sip ginger tea, write your thoughts, and apply oil on feet.",
+        "Context": "fear clarity"
+    },
+    {
+        "Instruction": "What builds spiritual stamina during long recovery?",
+        "Response": "Simple rituals, breath practices, inspiring reading, and service to others increase sattva.",
+        "Context": "spiritual strength"
+    },
+    {
+        "Instruction": "What soothes social anxiety after isolation?",
+        "Response": "Brahmi tea, slow reconnection, and confidence-building movement restore ease.",
+        "Context": "post-isolation"
+    },
+    {
+        "Instruction": "What herbs build emotional steadiness?",
+        "Response": "Ashwagandha, brahmi, jatamansi and rose support emotional resilience.",
+        "Context": "emotional herbs"
+    },
+    {
+        "Instruction": "What is the role of oil in nervous system health?",
+        "Response": "Abhyanga calms nerves, strengthens circulation, and supports mental clarity.",
+        "Context": "nervous system"
+    },
+    {
+        "Instruction": "What helps create joyful routines after illness?",
+        "Response": "Include light music, seasonal foods, mindful eating, and creative expression.",
+        "Context": "joy routines"
+    },
+    {
+        "Instruction": "What reduces dry, reactive speech?",
+        "Response": "Ghee, licorice, and slow breath restore moistness and softness in communication.",
+        "Context": "speech calm"
+    },
+    {
+        "Instruction": "What is a spiritual rasayana?",
+        "Response": "Truthfulness, devotion, gratitude, and inner silence nourish the subtle body.",
+        "Context": "spiritual rasayana"
+    },
+    {
+        "Instruction": "What helps ease tension in the heart center?",
+        "Response": "Rose tea, gentle stretching, breath holding, and positive visualization soften the chest.",
+        "Context": "heart center"
+    },
+    {
+        "Instruction": "What can replace coffee during recovery?",
+        "Response": "Tulsi-ginger-cinnamon tea stimulates energy without overstimulation.",
+        "Context": "caffeine alternative"
+    },
+    {
+        "Instruction": "What foods best soothe anxiety at night?",
+        "Response": "Warm milk with nutmeg, rice porridge, and ghee pacify vata and support deep sleep.",
+        "Context": "nighttime vata"
+    },
+    {
+        "Instruction": "What emotion indicates depleted ojas?",
+        "Response": "Hopelessness, disconnection, and constant fatigue suggest ojas weakness.",
+        "Context": "ojas emotion"
+    },
+    {
+        "Instruction": "What boosts immunity during travel?",
+        "Response": "Chyawanprash, ginger tea, warm meals, and short yoga breaks help maintain defense.",
+        "Context": "travel immunity"
+    },
+    {
+        "Instruction": "What supports teachers facing stress?",
+        "Response": "Licorice for voice, brahmi for calm, and oil massage for grounding.",
+        "Context": "teacher care"
+    },
+    {
+        "Instruction": "What is a quick ojas-boosting snack?",
+        "Response": "Soaked almonds with saffron milk or a date rolled in ghee.",
+        "Context": "ojas snack"
+    },
+    {
+        "Instruction": "What is the effect of gratitude on healing?",
+        "Response": "Gratitude increases sattva, shifts perception, and improves physiological balance.",
+        "Context": "gratitude"
+    },
+    {
+        "Instruction": "What reduces disconnection from the body?",
+        "Response": "Abhyanga, mirror appreciation, warm food, and loving touch reconnect mind and body.",
+        "Context": "embodiment"
+    },
+    {
+        "Instruction": "What helps cleanse mental ama (toxic thoughts)?",
+        "Response": "Mantra repetition, breath work, emotional expression, and self-honesty.",
+        "Context": "mental ama"
+    },
+    {
+        "Instruction": "What is the role of nature in recovery?",
+        "Response": "Nature restores prana, calms senses, and reawakens cellular memory of balance.",
+        "Context": "nature therapy"
+    },
+    {
+        "Instruction": "What yoga poses ease fear and grief?",
+        "Response": "Child's pose, heart-openers, and grounding forward folds release stored emotion.",
+        "Context": "yoga grief"
+    },
+    {
+        "Instruction": "What herbs increase clarity and grounded joy?",
+        "Response": "Tulsi, shankhpushpi, ashwagandha, and rose together support sattvic elevation.",
+        "Context": "clarity herbs"
+    },
+    {
+        "Instruction": "What helps heal the subtle breath?",
+        "Response": "Bhramari, silent nature walking, and internal smiling awaken pranic flow.",
+        "Context": "breath healing"
+    },
+    {
+        "Instruction": "What helps someone relearn trust in their body?",
+        "Response": "Daily anchoring in breath, journaling, soft movement, and warm nourishing food.",
+        "Context": "body trust"
+    },
+    {
+        "Instruction": "What can restore laughter and joy after illness?",
+        "Response": "Laughter yoga, uplifting satsang, rose tea, and conscious media fuel joy.",
+        "Context": "joy"
+    },
+    {
+        "Instruction": "What reduces subtle tension in face and jaw?",
+        "Response": "Warm oil self-massage, humming breath, and tension-release stretches.",
+        "Context": "jaw relaxation"
+    },
+    {
+        "Instruction": "What mental affirmation supports immune strength?",
+        "Response": "I am protected. I am balanced. My body and spirit work together in peace.",
+        "Context": "affirmation"
+    },
+    {
+        "Instruction": "What's an Ayurvedic evening practice for peace?",
+        "Response": "Oil feet, drink warm milk, reflect silently, and end with one breath of gratitude.",
+        "Context": "evening ritual"
+    },
+    {
+        "Instruction": "What herb enhances devotion and calm?",
+        "Response": "Tulsi supports heart clarity, breath control, and spiritual openness.",
+        "Context": "tulsi devotion"
+    },
+    {
+        "Instruction": "What does Ayurveda say about true health?",
+        "Response": "Swastha means dwelling in self - with balance in doshas, mind, and soul.",
+        "Context": "swastha"
+    },
+    {
+        "Instruction": "What symbolic action ends an illness journey?",
+        "Response": "Lighting a lamp, offering gratitude, and feeding others mark spiritual closure.",
+        "Context": "healing completion"
+    },
+    {
+        "Instruction": "What prevents bitterness in mood during healing?",
+        "Response": "Practice gratitude, walk in nature, and sip rose-fennel tea.",
+        "Context": "emotional sweetness"
+    },
+    {
+        "Instruction": "What is an ayurvedic way to manage sensory overload?",
+        "Response": "Close eyes for 2 minutes, apply oil on temples, and drink ginger tea.",
+        "Context": "sensory balance"
+    },
+    {
+        "Instruction": "What is a quick rasayana for travel fatigue?",
+        "Response": "Take chyawanprash, do foot massage, and eat warm light meals.",
+        "Context": "travel rasayana"
+    },
+    {
+        "Instruction": "What yoga posture soothes heart and lungs?",
+        "Response": "Setu Bandhasana (bridge pose) opens the chest and calms the breath.",
+        "Context": "heart-lung yoga"
+    },
+    {
+        "Instruction": "What helps build courage and stability mentally?",
+        "Response": "Ashwagandha, journaling, oil massage, and sattvic action build strength.",
+        "Context": "mental courage"
+    },
+    {
+        "Instruction": "What time should immune-supporting herbs be taken?",
+        "Response": "Morning on an empty stomach or as directed by an Ayurvedic physician.",
+        "Context": "herb timing"
+    },
+    {
+        "Instruction": "What improves clarity when feeling mentally foggy?",
+        "Response": "Triphala, brahmi, screen breaks, and clean diet help refresh the mind.",
+        "Context": "brain refresh"
+    },
+    {
+        "Instruction": "What helps stop overthinking before sleep?",
+        "Response": "Oil feet, drink nutmeg milk, and meditate on breath to calm the mind.",
+        "Context": "bedtime calm"
+    },
+    {
+        "Instruction": "What restores strength after extended illness?",
+        "Response": "Rasayana herbs, sattvic food, pranayama, and good sleep rebuild vitality.",
+        "Context": "energy rebuild"
+    },
+    {
+        "Instruction": "What reduces dullness and boosts alertness?",
+        "Response": "Open windows for air, drink spiced herbal tea, and engage in light physical movement.",
+        "Context": "alertness"
+    },
+    {
+        "Instruction": "What herbal support helps ease brain fog?",
+        "Response": "Brahmi, triphala, and tulsi tea help clear mental cloudiness.",
+        "Context": "brain fog"
+    },
+    {
+        "Instruction": "What reduces irritation during recovery?",
+        "Response": "Cooling herbs, light routines, and rose water help calm pitta.",
+        "Context": "recovery pitta"
+    },
+    {
+        "Instruction": "What boosts circulation gently post-illness?",
+        "Response": "Dry brushing (garshana), gentle walks, and warm herbal teas stimulate flow.",
+        "Context": "circulation"
+    },
+    {
+        "Instruction": "What is the role of daily routines in mental clarity?",
+        "Response": "Regular sleep, meals, and mindfulness stabilize the mind and build resilience.",
+        "Context": "daily routine"
+    },
+    {
+        "Instruction": "What calms panic breathing?",
+        "Response": "Bhramari pranayama, grounding foods, and rose tea soothe anxious prana vata.",
+        "Context": "panic breath"
+    },
+    {
+        "Instruction": "What increases mental patience?",
+        "Response": "Sattvic food, proper sleep, and calming herbs like jatamansi and brahmi.",
+        "Context": "mental patience"
+    },
+    {
+        "Instruction": "What practice builds willpower after long illness?",
+        "Response": "Yoga discipline, journaling, and rasayana support emotional strength.",
+        "Context": "willpower"
+    },
+    {
+        "Instruction": "What helps post-COVID stiffness in joints?",
+        "Response": "Warm castor oil massage and gentle yoga improve mobility and reduce vata.",
+        "Context": "stiffness"
+    },
+    {
+        "Instruction": "What enhances quality of sleep after COVID?",
+        "Response": "Nutmeg milk, warm bath, and silence before bed improve sleep cycles.",
+        "Context": "sleep"
+    },
+    {
+        "Instruction": "What can reduce frustration in restricted movement?",
+        "Response": "Meditation, creative outlets, and slow yoga help release excess heat and restlessness.",
+        "Context": "frustration"
+    },
+    {
+        "Instruction": "What builds confidence after recovery?",
+        "Response": "Routine, exercise, ashwagandha, and social reconnection restore self-trust.",
+        "Context": "confidence"
+    },
+    {
+        "Instruction": "What keeps prana flowing smoothly post-illness?",
+        "Response": "Breathwork, nasya, light meals, and avoiding overstimulation aid energy flow.",
+        "Context": "prana flow"
+    },
+    {
+        "Instruction": "What relieves burning sensation in palms and soles?",
+        "Response": "Aloe vera, sandalwood paste, and pitta-pacifying food cool the system.",
+        "Context": "burning sensation"
+    },
+    {
+        "Instruction": "What helps return to work after long recovery?",
+        "Response": "Paced routine, sattvic meals, breaks for breath and walking rebuild productivity.",
+        "Context": "return to work"
+    },
+    {
+        "Instruction": "What is the Ayurvedic way to build emotional warmth?",
+        "Response": "Serve others, drink warm rose tea, and practice gratitude.",
+        "Context": "emotional warmth"
+    },
+    {
+        "Instruction": "What helps people feel grounded again?",
+        "Response": "Oil massage, regular meals, and contact with nature rebuild root balance.",
+        "Context": "grounding"
+    },
+    {
+        "Instruction": "What balances forgetfulness during recovery?",
+        "Response": "Brahmi, regular sleep, meditation, and mild routines improve retention.",
+        "Context": "forgetfulness"
+    },
+    {
+        "Instruction": "What prevents vata from rising in elderly?",
+        "Response": "Abhyanga, ghee, warm food, and consistent daily rhythm keep vata grounded.",
+        "Context": "elderly vata"
+    },
+    {
+        "Instruction": "What is a gentle detox for people recovering?",
+        "Response": "Triphala at night, cumin-coriander-fennel tea, and light khichdi meals.",
+        "Context": "gentle detox"
+    },
+    {
+        "Instruction": "What can improve skin clarity post-fever?",
+        "Response": "Neem, manjistha, and detoxifying teas help restore skin glow.",
+        "Context": "skin detox"
+    },
+    {
+        "Instruction": "What eases guilt or emotional heaviness?",
+        "Response": "Self-forgiveness, rose tea, and journaling with a spiritual focus release burden.",
+        "Context": "emotional healing"
+    },
+    {
+        "Instruction": "What helps lower inflammation after viral stress?",
+        "Response": "Turmeric, amalaki, and warm baths reduce lingering inflammation.",
+        "Context": "inflammation"
+    },
+    {
+        "Instruction": "What helps memory recall during mental fatigue?",
+        "Response": "Brahmi, mandukaparni, and writing exercises improve clarity.",
+        "Context": "memory"
+    },
+    {
+        "Instruction": "What helps women recover cycle rhythm post-illness?",
+        "Response": "Shatavari, sesame oil massage, and regular meals regulate cycles.",
+        "Context": "women health"
+    },
+    {
+        "Instruction": "What relieves neck tension from work stress?",
+        "Response": "Apply warm sesame oil, stretch, and do simple neck rotations.",
+        "Context": "neck tension"
+    },
+    {
+        "Instruction": "What is an Ayurvedic way to handle grief?",
+        "Response": "Silence, mantra, rose oil, and sattvic food create emotional space to heal.",
+        "Context": "grief support"
+    },
+    {
+        "Instruction": "What supports trust in one's body again?",
+        "Response": "Daily ritual, light exercise, and nourishing food rebuild body-mind connection.",
+        "Context": "self trust"
+    },
+    {
+        "Instruction": "What improves positivity after prolonged illness?",
+        "Response": "Sunlight, social support, sattvic meals, and heartfelt gratitude journaling.",
+        "Context": "positivity"
+    },
+    {
+        "Instruction": "What spice supports energy without overstimulation?",
+        "Response": "Cinnamon boosts circulation and clarity gently.",
+        "Context": "cinnamon"
+    },
+    {
+        "Instruction": "What relieves throat itchiness without phlegm?",
+        "Response": "Licorice, warm ghee, and ginger tea soothe dryness and irritation.",
+        "Context": "throat relief"
+    },
+    {
+        "Instruction": "What improves stamina for talking or teaching again?",
+        "Response": "Licorice, ghee, rest periods, and diaphragmatic breathing help restore voice energy.",
+        "Context": "voice stamina"
+    },
+    {
+        "Instruction": "What calms emotional waves in teenagers?",
+        "Response": "Tulsi tea, journaling, and oil massage help stabilize emotional vata.",
+        "Context": "teen emotions"
+    },
+    {
+        "Instruction": "What time should one ideally wake up?",
+        "Response": "Wake up before 6:00 AM to align with the Vata period and enhance alertness.",
+        "Context": "morning routine"
+    },
+    {
+        "Instruction": "What happens if we wake up after 6:00 AM?",
+        "Response": "Waking after 6:00 AM enters Kapha time, causing heaviness and sluggishness.",
+        "Context": "kapha imbalance"
+    },
+    {
+        "Instruction": "Why should we sleep before 10:00 PM?",
+        "Response": "Sleeping early aligns with natural rhythms, ensuring better rest and digestion.",
+        "Context": "bedtime"
+    },
+    {
+        "Instruction": "What is the first thing to drink in the morning?",
+        "Response": "A glass of warm water with lemon and honey aids elimination and metabolism.",
+        "Context": "morning drink"
+    },
+    {
+        "Instruction": "What supports morning bowel movements?",
+        "Response": "Warm water and a morning walk stimulate elimination and cleanse the system.",
+        "Context": "elimination"
+    },
+    {
+        "Instruction": "What is tongue scraping used for?",
+        "Response": "It removes toxins from the tongue, freshens breath, and stimulates digestion.",
+        "Context": "tongue scraping"
+    },
+    {
+        "Instruction": "What is Gandusha?",
+        "Response": "Gargling with sesame oil to clean the mouth, strengthen gums, and remove toxins.",
+        "Context": "gandusha"
+    },
+    {
+        "Instruction": "What is Abhyanga?",
+        "Response": "Daily self-oil massage that nourishes tissues, removes fatigue, and balances Vata.",
+        "Context": "abhyanga"
+    },
+    {
+        "Instruction": "What oil is best for Abhyanga?",
+        "Response": "Sesame oil is ideal, though coconut or olive oil may be used as alternatives.",
+        "Context": "massage oil"
+    },
+    {
+        "Instruction": "How long should daily oil massage take?",
+        "Response": "Ideally 10-20 minutes, but even a brief massage has benefits.",
+        "Context": "massage duration"
+    },
+    {
+        "Instruction": "What is the benefit of massaging the head?",
+        "Response": "It calms the mind, improves circulation, and strengthens the nervous system.",
+        "Context": "head massage"
+    },
+    {
+        "Instruction": "Which parts should be massaged most during Abhyanga?",
+        "Response": "Extra time should be spent on the head and soles of the feet.",
+        "Context": "massage focus"
+    },
+    {
+        "Instruction": "What is Nasya?",
+        "Response": "The nasal application of oil to lubricate nasal passages and improve mental clarity.",
+        "Context": "nasya"
+    },
+    {
+        "Instruction": "What oil is used for Nasya?",
+        "Response": "Cured sesame oil, ghee, or herbal nasya oil can be used depending on constitution.",
+        "Context": "nasya oil"
+    },
+    {
+        "Instruction": "How is oil applied in Nasya?",
+        "Response": "Insert oil-coated finger into each nostril and inhale gently for absorption.",
+        "Context": "nasya method"
+    },
+    {
+        "Instruction": "What is the benefit of sun salutation (Surya Namaskar)?",
+        "Response": "It removes stiffness, improves flexibility, and awakens inner intelligence.",
+        "Context": "surya namaskar"
+    },
+    {
+        "Instruction": "Why should yoga be done after bathing?",
+        "Response": "To enhance flexibility, improve circulation, and prepare the mind for meditation.",
+        "Context": "yoga timing"
+    },
+    {
+        "Instruction": "What is the benefit of yoga asanas?",
+        "Response": "They remove tension, prevent disease, and align the body with natural rhythms.",
+        "Context": "yoga benefits"
+    },
+    {
+        "Instruction": "What is the role of meditation in daily routine?",
+        "Response": "Meditation reduces stress, enhances mental clarity, and promotes healing.",
+        "Context": "meditation"
+    },
+    {
+        "Instruction": "Which meditation is recommended in Maharishi Ayurveda?",
+        "Response": "Transcendental Meditation\u2122 is considered a powerful tool for health and awareness.",
+        "Context": "TM"
+    },
+    {
+        "Instruction": "How long should TM be practiced?",
+        "Response": "15-20 minutes twice daily brings the best results.",
+        "Context": "TM duration"
+    },
+    {
+        "Instruction": "What health benefits does TM offer?",
+        "Response": "Reduces stress, improves heart health, enhances longevity, and mental calm.",
+        "Context": "TM benefits"
+    },
+    {
+        "Instruction": "What exercise is best in the morning?",
+        "Response": "Walking in the early morning sun is considered ideal for all body types.",
+        "Context": "morning walk"
+    },
+    {
+        "Instruction": "Why is morning sunlight beneficial?",
+        "Response": "It energizes the mind, boosts circulation, and sets the body's natural clock.",
+        "Context": "sunlight"
+    },
+    {
+        "Instruction": "What is the Vedic view on morning sun?",
+        "Response": "It is a powerful, creative force that enlivens energy and balance.",
+        "Context": "sunrise energy"
+    },
+    {
+        "Instruction": "What fabrics are recommended in Ayurveda?",
+        "Response": "Natural fabrics like cotton, silk, or wool are preferred for health and comfort.",
+        "Context": "clothing"
+    },
+    {
+        "Instruction": "Why avoid synthetic clothing?",
+        "Response": "Synthetic fibers disturb the body's subtle energy fields and prevent breathability.",
+        "Context": "synthetic fabric"
+    },
+    {
+        "Instruction": "What is the recommended breakfast?",
+        "Response": "Light, nourishing meals like stewed fruits, hot cereals, and warm milk.",
+        "Context": "breakfast"
+    },
+    {
+        "Instruction": "Why avoid heavy food at breakfast?",
+        "Response": "Digestion is weaker in the morning; heavy meals may cause sluggishness.",
+        "Context": "breakfast advice"
+    },
+    {
+        "Instruction": "What should be avoided with milk in the morning?",
+        "Response": "Avoid citrus fruits or juice within 30-60 minutes of consuming milk.",
+        "Context": "milk caution"
+    },
+    {
+        "Instruction": "What is the importance of routine in Ayurveda?",
+        "Response": "A consistent routine aligns mind and body with nature, supporting balance and immunity.",
+        "Context": "daily rhythm"
+    },
+    {
+        "Instruction": "What time of day is best for exercise?",
+        "Response": "Kapha time (6-10 AM) is best for physical activity and movement.",
+        "Context": "exercise time"
+    },
+    {
+        "Instruction": "What helps improve alertness naturally?",
+        "Response": "Early rising, sun exposure, and tongue scraping boost mental clarity.",
+        "Context": "mental clarity"
+    },
+    {
+        "Instruction": "What does tongue coating indicate?",
+        "Response": "It signals leftover toxins or ama in the digestive system.",
+        "Context": "tongue ama"
+    },
+    {
+        "Instruction": "Why is abhyanga especially good for Vata?",
+        "Response": "It calms nervous energy, reduces dryness, and promotes stability.",
+        "Context": "vata care"
+    },
+    {
+        "Instruction": "What direction should massages follow on arms and legs?",
+        "Response": "Back-and-forth on long bones, circular on joints for optimal effect.",
+        "Context": "massage technique"
+    },
+    {
+        "Instruction": "What's the benefit of massaging the feet daily?",
+        "Response": "Foot massage grounds energy, calms the mind, and supports good sleep.",
+        "Context": "foot care"
+    },
+    {
+        "Instruction": "What helps reduce morning heaviness?",
+        "Response": "Waking early, oil massage, and a brisk walk clear Kapha stagnation.",
+        "Context": "kapha clearing"
+    },
+    {
+        "Instruction": "Why should oil be slightly warm before use?",
+        "Response": "Warm oil penetrates better, is soothing, and balances doshas more effectively.",
+        "Context": "oil warmth"
+    },
+    {
+        "Instruction": "What helps with poor flexibility?",
+        "Response": "Yoga asanas and daily massage restore movement and ease in the joints.",
+        "Context": "flexibility"
+    },
+    {
+        "Instruction": "What is the psychological benefit of morning routine?",
+        "Response": "It gives a sense of grounding, purpose, and emotional stability.",
+        "Context": "routine psychology"
+    },
+    {
+        "Instruction": "Why is meditation part of physical wellness?",
+        "Response": "It reduces the stress hormones that interfere with digestion and immunity.",
+        "Context": "mind-body"
+    },
+    {
+        "Instruction": "How does morning light affect hormones?",
+        "Response": "It reduces melatonin, energizes the body, and resets the biological clock.",
+        "Context": "hormone health"
+    },
+    {
+        "Instruction": "How is the massage oil 'cured'?",
+        "Response": "Heat the oil gently to about 100\ufffdC to purify and enhance its absorption.",
+        "Context": "oil preparation"
+    },
+    {
+        "Instruction": "Can you reuse massage oil?",
+        "Response": "It's best to cure oil fresh daily or use properly stored pre-cured oil.",
+        "Context": "oil reuse"
+    },
+    {
+        "Instruction": "Why is breakfast considered less important than lunch?",
+        "Response": "Digestive fire (Agni) is weaker in the morning, stronger at noon.",
+        "Context": "digestion"
+    },
+    {
+        "Instruction": "What connects elimination and morning walk?",
+        "Response": "Both support regularity and help remove overnight toxins from the system.",
+        "Context": "elimination aid"
+    },
+    {
+        "Instruction": "What's the Ayurvedic view on night owls?",
+        "Response": "Late sleeping disrupts doshas, weakens digestion, and impairs immunity.",
+        "Context": "night imbalance"
+    },
+    {
+        "Instruction": "What's a simple morning detox practice?",
+        "Response": "Warm water with lemon and honey jumpstarts digestion and clears ama.",
+        "Context": "detox tip"
+    },
+    {
+        "Instruction": "What is the best time for main meals?",
+        "Response": "Lunch should be the largest meal, taken around noon when Agni (digestive fire) is strongest.",
+        "Context": "lunch timing"
+    },
+    {
+        "Instruction": "What happens if heavy meals are taken at night?",
+        "Response": "They disrupt sleep, slow digestion, and create ama (toxins).",
+        "Context": "dinner caution"
+    },
+    {
+        "Instruction": "What helps digest meals better?",
+        "Response": "Eat at consistent times, avoid cold drinks, and eat in a calm environment.",
+        "Context": "digestion tips"
+    },
+    {
+        "Instruction": "What is the ideal dinner in Ayurveda?",
+        "Response": "A light, warm, and nourishing meal, like soup or cooked vegetables.",
+        "Context": "dinner"
+    },
+    {
+        "Instruction": "What time should dinner be eaten?",
+        "Response": "Preferably by 6:30 to 7:00 PM to allow proper digestion before sleep.",
+        "Context": "early dinner"
+    },
+    {
+        "Instruction": "Why should screens be avoided before bed?",
+        "Response": "They disturb melatonin production and aggravate vata and pitta.",
+        "Context": "screen sleep"
+    },
+    {
+        "Instruction": "What should one do before sleep?",
+        "Response": "Apply oil to feet, reflect on the day with gratitude, and rest by 10 PM.",
+        "Context": "bedtime ritual"
+    },
+    {
+        "Instruction": "What is the role of lighting at bedtime?",
+        "Response": "Use soft, warm light to support relaxation and natural sleep rhythms.",
+        "Context": "light hygiene"
+    },
+    {
+        "Instruction": "What is ama in Ayurveda?",
+        "Response": "Ama is undigested residue or toxins resulting from poor digestion.",
+        "Context": "ama"
+    },
+    {
+        "Instruction": "What causes ama formation?",
+        "Response": "Eating heavy food, irregular meals, stress, and improper sleep.",
+        "Context": "ama causes"
+    },
+    {
+        "Instruction": "How can you detect ama in the body?",
+        "Response": "Symptoms include coated tongue, fatigue, gas, bad breath, and bloating.",
+        "Context": "ama signs"
+    },
+    {
+        "Instruction": "How to prevent ama daily?",
+        "Response": "Eat warm, light meals on time and drink warm water to support Agni.",
+        "Context": "ama prevention"
+    },
+    {
+        "Instruction": "What is the link between stress and Agni?",
+        "Response": "Stress weakens digestion, disturbing Agni and leading to toxin buildup.",
+        "Context": "stress digestion"
+    },
+    {
+        "Instruction": "What does Ayurveda recommend for mental clarity?",
+        "Response": "Early rising, tongue scraping, meditation, and regular meals promote clarity.",
+        "Context": "mental routine"
+    },
+    {
+        "Instruction": "Why avoid heavy foods during Kapha time?",
+        "Response": "They increase heaviness and slow down the mind and body.",
+        "Context": "kapha time"
+    },
+    {
+        "Instruction": "What is the connection between digestion and immunity?",
+        "Response": "Strong digestion supports ojas, which protects immunity.",
+        "Context": "agni and immunity"
+    },
+    {
+        "Instruction": "What is the best way to hydrate during the day?",
+        "Response": "Sip warm water throughout the day to support digestion and detox.",
+        "Context": "hydration"
+    },
+    {
+        "Instruction": "What should be avoided while eating?",
+        "Response": "Talking, watching screens, cold drinks, and rushing meals.",
+        "Context": "mindful eating"
+    },
+    {
+        "Instruction": "What is the effect of cold food on digestion?",
+        "Response": "Cold food weakens Agni and promotes ama formation.",
+        "Context": "cold food"
+    },
+    {
+        "Instruction": "Why avoid leftovers in Ayurveda?",
+        "Response": "Stale food lacks prana and may increase toxins.",
+        "Context": "leftovers"
+    },
+    {
+        "Instruction": "What is the recommended environment for meals?",
+        "Response": "Quiet, clean, pleasant, and without distractions.",
+        "Context": "eating space"
+    },
+    {
+        "Instruction": "What is the ideal state of mind before eating?",
+        "Response": "Gratitude, calmness, and mindfulness enhance digestion and satisfaction.",
+        "Context": "pre-meal mind"
+    },
+    {
+        "Instruction": "How should one sit while eating?",
+        "Response": "Comfortably on the floor or upright with spine relaxed and alert.",
+        "Context": "eating posture"
+    },
+    {
+        "Instruction": "What herbs support daily digestion?",
+        "Response": "Ginger, cumin, fennel, coriander, and black pepper are key digestive aids.",
+        "Context": "digestive herbs"
+    },
+    {
+        "Instruction": "What is the purpose of daily rituals?",
+        "Response": "They align body and mind with natural rhythms, improving health and vitality.",
+        "Context": "daily rituals"
+    },
+    {
+        "Instruction": "Why is late-night eating discouraged?",
+        "Response": "It burdens the liver, disrupts sleep, and leads to toxin accumulation.",
+        "Context": "late eating"
+    },
+    {
+        "Instruction": "What helps regulate elimination?",
+        "Response": "Routine, warm liquids, fiber-rich food, and early rising.",
+        "Context": "bowel regularity"
+    },
+    {
+        "Instruction": "What does a regular daily rhythm do for the mind?",
+        "Response": "It brings predictability, emotional stability, and mental peace.",
+        "Context": "mental rhythm"
+    },
+    {
+        "Instruction": "What part of the day is best for spiritual practices?",
+        "Response": "Early morning (Brahma Muhurta) is ideal for prayer, meditation, and reflection.",
+        "Context": "brahma muhurta"
+    },
+    {
+        "Instruction": "What is the benefit of early morning meditation?",
+        "Response": "It calms the mind, sharpens awareness, and connects you to inner stillness.",
+        "Context": "morning meditation"
+    },
+    {
+        "Instruction": "What oil is best for calming the nervous system?",
+        "Response": "Warm sesame oil deeply soothes vata and nourishes the nerves.",
+        "Context": "nervous system oil"
+    },
+    {
+        "Instruction": "Why should the body be cleaned before meditation?",
+        "Response": "Cleanliness purifies senses and prepares the mind for inward focus.",
+        "Context": "pre-meditation"
+    },
+    {
+        "Instruction": "What helps settle the mind before bed?",
+        "Response": "Oil massage on the feet, light reading, and warm herbal tea relax the mind.",
+        "Context": "sleep ritual"
+    },
+    {
+        "Instruction": "What is the significance of Brahma Muhurta?",
+        "Response": "This pre-dawn time is highly sattvic and supports health and spiritual growth.",
+        "Context": "sattva"
+    },
+    {
+        "Instruction": "What supports sleep quality naturally?",
+        "Response": "Early dinner, warm oil on feet, consistent routine, and calming rituals.",
+        "Context": "better sleep"
+    },
+    {
+        "Instruction": "Why should we avoid multitasking during meals?",
+        "Response": "It disrupts digestion and disconnects mind from body awareness.",
+        "Context": "mono-tasking"
+    },
+    {
+        "Instruction": "What is the Ayurvedic benefit of routines for children?",
+        "Response": "Routines provide security, strengthen digestion, and support development.",
+        "Context": "child routine"
+    },
+    {
+        "Instruction": "What is the connection between food and mood?",
+        "Response": "Balanced food improves digestion, which uplifts mood and stabilizes emotions.",
+        "Context": "food mood"
+    },
+    {
+        "Instruction": "What is a sattvic diet?",
+        "Response": "Fresh, seasonal, vegetarian food prepared with love and mindfulness.",
+        "Context": "sattva diet"
+    },
+    {
+        "Instruction": "Why are leftovers considered tamasic?",
+        "Response": "They lose prana, dull the mind, and reduce digestive energy.",
+        "Context": "tamas"
+    },
+    {
+        "Instruction": "What helps manage daily stress?",
+        "Response": "Meditation, regular meals, warm oil massage, and deep breathing.",
+        "Context": "daily stress care"
+    },
+    {
+        "Instruction": "What are the signs of strong Agni?",
+        "Response": "Clear hunger, lightness after eating, good energy, and regular elimination.",
+        "Context": "strong agni"
+    },
+    {
+        "Instruction": "What are signs of weak Agni?",
+        "Response": "Bloating, gas, constipation, fatigue, and coated tongue.",
+        "Context": "weak digestion"
+    },
+    {
+        "Instruction": "What is the ideal water temperature for drinking?",
+        "Response": "Warm or room-temperature water is preferred for better digestion.",
+        "Context": "water"
+    },
+    {
+        "Instruction": "How often should meals be taken?",
+        "Response": "Two to three regular meals a day with enough time for digestion in between.",
+        "Context": "meal timing"
+    },
+    {
+        "Instruction": "What improves energy without caffeine?",
+        "Response": "Sunlight, warm herbal tea, yoga stretches, and breathwork uplift naturally.",
+        "Context": "energy"
+    },
+    {
+        "Instruction": "What are signs of an imbalanced daily routine?",
+        "Response": "Fatigue, mood swings, poor digestion, sleep disturbances, and dullness.",
+        "Context": "imbalance"
+    },
+    {
+        "Instruction": "What is the mind's role in health?",
+        "Response": "A calm, clear, and peaceful mind supports immunity, digestion, and joy.",
+        "Context": "mind-body link"
+    },
+    {
+        "Instruction": "How is health defined in Ayurveda?",
+        "Response": "Balanced doshas, clear digestion, proper elimination, joyful mind, and awareness of self.",
+        "Context": "ayurveda health"
+    },
+    {
+        "Instruction": "What is the origin of Ayurveda according to tradition?",
+        "Response": "Ayurveda is said to have been revealed by Lord Brahma to the sages.",
+        "Context": "origin"
+    },
+    {
+        "Instruction": "Who is considered the father of surgery in Ayurveda?",
+        "Response": "Acharya Sushruta is honored as the father of surgery.",
+        "Context": "sushruta"
+    },
+    {
+        "Instruction": "Who is known as the father of Indian medicine?",
+        "Response": "Charaka is known as the father of Indian medicine for his contributions to internal medicine.",
+        "Context": "charaka"
+    },
+    {
+        "Instruction": "What kind of surgical tools were used in ancient Ayurveda?",
+        "Response": "Over 125 tools, including scalpels, forceps, and needles made of metal and stone.",
+        "Context": "surgery"
+    },
+    {
+        "Instruction": "What is the importance of Ashtanga Ayurveda?",
+        "Response": "It is the foundation of Ayurvedic education, covering eight branches of medicine.",
+        "Context": "ashtanga"
+    },
+    {
+        "Instruction": "What does 'Shalakya Tantra' deal with?",
+        "Response": "Diseases above the clavicle - ENT and eye diseases.",
+        "Context": "shalakya tantra"
+    },
+    {
+        "Instruction": "What is 'Shalya Tantra'?",
+        "Response": "Surgical techniques for tumors, wounds, fractures, and abscesses.",
+        "Context": "shalya tantra"
+    },
+    {
+        "Instruction": "What is 'Agada Tantra'?",
+        "Response": "Deals with toxicology - poisons from animals, plants, and minerals.",
+        "Context": "agada tantra"
+    },
+    {
+        "Instruction": "What is 'Bhuta Vidya'?",
+        "Response": "Ayurvedic psychiatry; treating mental disorders and afflictions from invisible forces.",
+        "Context": "bhuta vidya"
+    },
+    {
+        "Instruction": "What is 'Kaumara Bhritya'?",
+        "Response": "Pediatrics and gynecology, including infant care and prenatal health.",
+        "Context": "kaumara bhritya"
+    },
+    {
+        "Instruction": "What is 'Rasayana' in Ayurveda?",
+        "Response": "Rejuvenation therapy to promote longevity, immunity, and youthfulness.",
+        "Context": "rasayana"
+    },
+    {
+        "Instruction": "What is 'Vajikarana' used for?",
+        "Response": "Aphrodisiac therapy to promote reproductive health and vitality.",
+        "Context": "vajikarana"
+    },
+    {
+        "Instruction": "What are the stages of disease development in Ayurveda?",
+        "Response": "Six stages: accumulation, aggravation, overflow, relocation, manifestation, and chronicity.",
+        "Context": "disease stages"
+    },
+    {
+        "Instruction": "What is 'Nidana'?",
+        "Response": "Diagnosis - identifying disease based on cause, symptoms, and pathology.",
+        "Context": "diagnosis"
+    },
+    {
+        "Instruction": "What are the four pillars of treatment in Ayurveda?",
+        "Response": "Physician, medicine, nurse, and patient.",
+        "Context": "treatment"
+    },
+    {
+        "Instruction": "What is the role of the physician in Ayurveda?",
+        "Response": "Must be skilled, experienced, ethical, and devoted to healing.",
+        "Context": "ayurvedic doctor"
+    },
+    {
+        "Instruction": "What qualities are expected of an ideal patient?",
+        "Response": "Obedient, intelligent, financially capable, and respectful of advice.",
+        "Context": "patient care"
+    },
+    {
+        "Instruction": "What are the methods of diagnosis in Ayurveda?",
+        "Response": "Inspection, interrogation, palpation, pulse reading, and examination of tongue, eyes, urine, and stool.",
+        "Context": "diagnosis methods"
+    },
+    {
+        "Instruction": "What is 'Srotas'?",
+        "Response": "Channels in the body that carry nutrients, waste, and signals.",
+        "Context": "srotas"
+    },
+    {
+        "Instruction": "How many types of Srotas are there?",
+        "Response": "Thirteen major types are described in Ayurveda.",
+        "Context": "srotas types"
+    },
+    {
+        "Instruction": "What blocks the Srotas?",
+        "Response": "Ama, dosha imbalance, trauma, and emotional stress.",
+        "Context": "srotas blockage"
+    },
+    {
+        "Instruction": "What are 'Marma points'?",
+        "Response": "Vital points on the body similar to acupressure or trigger points.",
+        "Context": "marma"
+    },
+    {
+        "Instruction": "How many Marma points are there?",
+        "Response": "107 key marma points are used in therapy and surgery.",
+        "Context": "marma count"
+    },
+    {
+        "Instruction": "What is 'Snehana'?",
+        "Response": "Oleation - internal or external use of oil for detoxification.",
+        "Context": "snehana"
+    },
+    {
+        "Instruction": "What is 'Swedana'?",
+        "Response": "Fomentation or sweating to loosen toxins before elimination.",
+        "Context": "swedana"
+    },
+    {
+        "Instruction": "What is 'Vamana'?",
+        "Response": "Therapeutic vomiting to remove excess Kapha from the stomach.",
+        "Context": "vamana"
+    },
+    {
+        "Instruction": "What is 'Virechana'?",
+        "Response": "Purgation therapy to eliminate Pitta toxins from the intestines.",
+        "Context": "virechana"
+    },
+    {
+        "Instruction": "What is 'Basti'?",
+        "Response": "Enema therapy for removing vata-related toxins from the colon.",
+        "Context": "basti"
+    },
+    {
+        "Instruction": "What is 'Nasya'?",
+        "Response": "Administration of oils or powders through the nostrils to clear head channels.",
+        "Context": "nasya"
+    },
+    {
+        "Instruction": "What is 'Raktamokshana'?",
+        "Response": "Bloodletting - used to treat blood-related disorders and skin diseases.",
+        "Context": "raktamokshana"
+    },
+    {
+        "Instruction": "What is the purpose of Panchakarma?",
+        "Response": "To eliminate deep-rooted toxins and restore doshic balance.",
+        "Context": "panchakarma"
+    },
+    {
+        "Instruction": "What role does the nurse play in Ayurvedic treatment?",
+        "Response": "Provides medicines, manages therapies, and offers emotional support.",
+        "Context": "nursing"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view of mental health?",
+        "Response": "Balanced sattva, control of senses, and clear mind are essential for well-being.",
+        "Context": "mental sattva"
+    },
+    {
+        "Instruction": "What is 'Sattva'?",
+        "Response": "Mental purity, clarity, and harmony.",
+        "Context": "sattva"
+    },
+    {
+        "Instruction": "What is 'Rajas'?",
+        "Response": "Mental energy associated with activity, desire, and restlessness.",
+        "Context": "rajas"
+    },
+    {
+        "Instruction": "What is 'Tamas'?",
+        "Response": "Mental inertia, ignorance, and darkness.",
+        "Context": "tamas"
+    },
+    {
+        "Instruction": "What is the goal of Ayurveda?",
+        "Response": "To maintain health of the healthy and treat disease in the sick.",
+        "Context": "goal"
+    },
+    {
+        "Instruction": "What are common causes of disease in Ayurveda?",
+        "Response": "Wrong diet, improper routine, suppressed emotions, and wrong thinking.",
+        "Context": "causes"
+    },
+    {
+        "Instruction": "What is 'Ahar'?",
+        "Response": "Food - considered the primary source of energy and healing.",
+        "Context": "ahar"
+    },
+    {
+        "Instruction": "What is 'Vihar'?",
+        "Response": "Lifestyle - including physical activity, sleep, and habits.",
+        "Context": "vihar"
+    },
+    {
+        "Instruction": "What is 'Achara'?",
+        "Response": "Conduct - ethical living and behavior in accordance with dharma.",
+        "Context": "achara"
+    },
+    {
+        "Instruction": "What is the significance of 'Ahimsa' in Ayurveda?",
+        "Response": "Non-violence is essential for peaceful living and harmony with nature.",
+        "Context": "ethics"
+    },
+    {
+        "Instruction": "How did Ayurveda influence Tibetan medicine?",
+        "Response": "Core principles like five elements, pulse reading, and herbal pharmacology were adopted.",
+        "Context": "ayurveda tibet"
+    },
+    {
+        "Instruction": "How did Ayurveda spread beyond India?",
+        "Response": "Through Buddhist monks, trade routes, and global interest in wellness.",
+        "Context": "global ayurveda"
+    },
+    {
+        "Instruction": "Which civilization had parallel medicine with Ayurveda?",
+        "Response": "Ancient Chinese medicine shares similar concepts like balance, elements, and herbs.",
+        "Context": "china comparison"
+    },
+    {
+        "Instruction": "What is Ayurveda's view on seasonal living?",
+        "Response": "Adapting diet and habits with ritu (season) helps maintain health.",
+        "Context": "ritucharya"
+    },
+    {
+        "Instruction": "What is 'Ritucharya'?",
+        "Response": "Seasonal routine to prevent disease and align with nature's cycles.",
+        "Context": "ritucharya"
+    },
+    {
+        "Instruction": "What is 'Dinacharya'?",
+        "Response": "Daily routine to balance doshas, promote digestion, and mental clarity.",
+        "Context": "dinacharya"
+    },
+    {
+        "Instruction": "What time should one rise according to Ayurveda?",
+        "Response": "Before sunrise, during Brahma Muhurta, for mental clarity and vitality.",
+        "Context": "dinacharya"
+    },
+    {
+        "Instruction": "What is the importance of brushing teeth in Ayurveda?",
+        "Response": "It removes toxins, stimulates digestion, and improves oral hygiene.",
+        "Context": "oral care"
+    },
+    {
+        "Instruction": "What is the use of oil pulling (Gandusha)?",
+        "Response": "It strengthens gums, removes toxins, and enhances taste and voice.",
+        "Context": "gandusha"
+    },
+    {
+        "Instruction": "What is the effect of tongue scraping?",
+        "Response": "It clears toxins, improves digestion, and removes bad breath.",
+        "Context": "tongue scraping"
+    },
+    {
+        "Instruction": "What daily activity increases circulation and strength?",
+        "Response": "Self-massage (Abhyanga) with warm oil improves skin and muscles.",
+        "Context": "abhyanga"
+    },
+    {
+        "Instruction": "Why is bathing recommended after oil massage?",
+        "Response": "It removes oil, refreshes body and mind, and prepares for the day.",
+        "Context": "bath"
+    },
+    {
+        "Instruction": "What is the first meal of the day called in Ayurveda?",
+        "Response": "Breakfast is the initial fuel, ideally light and warm.",
+        "Context": "ahar"
+    },
+    {
+        "Instruction": "Why is lunch the most important meal?",
+        "Response": "Agni is strongest at noon, aiding better digestion.",
+        "Context": "lunch"
+    },
+    {
+        "Instruction": "What kind of food should be taken at dinner?",
+        "Response": "Light, warm, and easy to digest to avoid ama formation.",
+        "Context": "dinner"
+    },
+    {
+        "Instruction": "Why is sleep timing important in Ayurveda?",
+        "Response": "Late nights increase vata and disturb natural cycles.",
+        "Context": "sleep"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on over-sleeping?",
+        "Response": "It increases kapha, leads to heaviness and sluggish digestion.",
+        "Context": "oversleep"
+    },
+    {
+        "Instruction": "What is the Ayurvedic recommendation on water intake?",
+        "Response": "Drink warm water throughout the day, especially between meals.",
+        "Context": "hydration"
+    },
+    {
+        "Instruction": "What does Ayurveda say about snacking?",
+        "Response": "Frequent eating weakens Agni and causes ama.",
+        "Context": "snacking"
+    },
+    {
+        "Instruction": "What is the importance of physical activity?",
+        "Response": "It balances kapha, improves digestion, and enhances mood.",
+        "Context": "exercise"
+    },
+    {
+        "Instruction": "Which dosha is balanced by exercise?",
+        "Response": "Kapha - since it tends to stagnation and heaviness.",
+        "Context": "kapha balance"
+    },
+    {
+        "Instruction": "What is the effect of excessive exercise?",
+        "Response": "It increases vata and depletes ojas and dhatus.",
+        "Context": "exercise excess"
+    },
+    {
+        "Instruction": "What is seasonal cleansing in Ayurveda?",
+        "Response": "Panchakarma performed at seasonal junctions to prevent disease.",
+        "Context": "seasonal panchakarma"
+    },
+    {
+        "Instruction": "What is the best time for meditation?",
+        "Response": "Morning or evening during sattvic hours is best.",
+        "Context": "meditation"
+    },
+    {
+        "Instruction": "What is a sattvic lifestyle?",
+        "Response": "Living with purity, balance, truthfulness, and spiritual awareness.",
+        "Context": "sattva lifestyle"
+    },
+    {
+        "Instruction": "What is Ayurveda's approach to aging?",
+        "Response": "Preserve ojas, reduce vata, use rasayana and a calm lifestyle.",
+        "Context": "aging"
+    },
+    {
+        "Instruction": "What helps maintain youthfulness in Ayurveda?",
+        "Response": "Rasayana herbs, sattvic food, and spiritual routine.",
+        "Context": "anti-aging"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on fertility?",
+        "Response": "Healthy shukra/artava dhatu, mental peace, and proper agni are essential.",
+        "Context": "fertility"
+    },
+    {
+        "Instruction": "What is the role of dharma in health?",
+        "Response": "Following one's moral duty ensures peace, clarity, and inner health.",
+        "Context": "dharma"
+    },
+    {
+        "Instruction": "What are the three pillars of health in Ayurveda?",
+        "Response": "Ahar (diet), Nidra (sleep), and Brahmacharya (moderation).",
+        "Context": "pillars"
+    },
+    {
+        "Instruction": "What is 'Nidra' in Ayurveda?",
+        "Response": "Sleep - essential for restoration of tissues and mental calm.",
+        "Context": "sleep"
+    },
+    {
+        "Instruction": "How does Brahmacharya support health?",
+        "Response": "It conserves energy, promotes clarity, and strengthens ojas.",
+        "Context": "brahmacharya"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on sexual activity?",
+        "Response": "Moderation is key; excess depletes ojas and weakens immunity.",
+        "Context": "sexuality"
+    },
+    {
+        "Instruction": "What food promotes ojas?",
+        "Response": "Ghee, milk, dates, almonds, and sattvic food.",
+        "Context": "ojas food"
+    },
+    {
+        "Instruction": "What weakens ojas?",
+        "Response": "Stress, late nights, junk food, emotional trauma.",
+        "Context": "ojas loss"
+    },
+    {
+        "Instruction": "What is the mental benefit of rasayana therapy?",
+        "Response": "Improves memory, clarity, focus, and reduces anxiety.",
+        "Context": "mental rasayana"
+    },
+    {
+        "Instruction": "What does Ayurveda say about addiction?",
+        "Response": "It stems from disturbed mind (rajas/tamas); balance is restored via sattva.",
+        "Context": "addiction"
+    },
+    {
+        "Instruction": "What is the role of rituals in Ayurveda?",
+        "Response": "Daily, seasonal, and spiritual rituals align one with nature and inner rhythm.",
+        "Context": "rituals"
+    },
+    {
+        "Instruction": "What is 'Samskara'?",
+        "Response": "Mental impressions from past actions influencing present health.",
+        "Context": "samskara"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to trauma?",
+        "Response": "Address body-mind connection through herbs, rituals, and grounding therapies.",
+        "Context": "trauma"
+    },
+    {
+        "Instruction": "What supports sattva in daily life?",
+        "Response": "Silence, meditation, fresh food, truthfulness, and service.",
+        "Context": "sattva support"
+    },
+    {
+        "Instruction": "What is the role of music in healing?",
+        "Response": "Sattvic music soothes the mind and aligns emotions.",
+        "Context": "music therapy"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on emotions?",
+        "Response": "Unprocessed emotions disturb doshas and lead to disease.",
+        "Context": "emotional health"
+    },
+    {
+        "Instruction": "What is 'Manovaha Srotas'?",
+        "Response": "Mental channels that carry thought, memory, and emotion.",
+        "Context": "mind channels"
+    },
+    {
+        "Instruction": "What blocks mental channels?",
+        "Response": "Stress, toxins, trauma, and emotional suppression.",
+        "Context": "mental block"
+    },
+    {
+        "Instruction": "What clears emotional blockages?",
+        "Response": "Counseling, mantra, journaling, nasya, and sattvic living.",
+        "Context": "emotional clearing"
+    },
+    {
+        "Instruction": "What is 'Oushadha'?",
+        "Response": "Medicine - includes herbs, food, lifestyle, and mental input.",
+        "Context": "medicine"
+    },
+    {
+        "Instruction": "What is 'Desha' in Ayurveda?",
+        "Response": "The geographic and climatic environment of the patient.",
+        "Context": "desha"
+    },
+    {
+        "Instruction": "How does Desha affect treatment?",
+        "Response": "Treatment is personalized based on climate, location, and habitat.",
+        "Context": "desha therapy"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view of weather?",
+        "Response": "Weather affects dosha balance and must be considered in lifestyle.",
+        "Context": "weather"
+    },
+    {
+        "Instruction": "What is 'Kala' in Ayurveda?",
+        "Response": "Time - seasonal and biological time governs health routines.",
+        "Context": "kala"
+    },
+    {
+        "Instruction": "How does time impact doshas?",
+        "Response": "Different times of day and year dominate specific doshas.",
+        "Context": "time doshas"
+    },
+    {
+        "Instruction": "What is 'Bala' in Ayurveda?",
+        "Response": "Strength - classified into Sahaja (natural), Kalaja (seasonal), and Yuktikrita (acquired).",
+        "Context": "bala"
+    },
+    {
+        "Instruction": "What does 'Rogi Bala' mean?",
+        "Response": "Patient's strength and ability to recover from illness.",
+        "Context": "rogi bala"
+    },
+    {
+        "Instruction": "What is 'Vyadhi Bala'?",
+        "Response": "Strength and intensity of the disease.",
+        "Context": "vyadhi bala"
+    },
+    {
+        "Instruction": "What does 'Yuktikrita Bala' refer to?",
+        "Response": "Strength acquired through proper nutrition, exercise, and discipline.",
+        "Context": "bala"
+    },
+    {
+        "Instruction": "What is 'Sahaja Bala'?",
+        "Response": "Inherent or constitutional strength determined at birth.",
+        "Context": "sahaja bala"
+    },
+    {
+        "Instruction": "What is 'Kalaja Bala'?",
+        "Response": "Seasonal strength that varies with environment and age.",
+        "Context": "kalaja bala"
+    },
+    {
+        "Instruction": "What is the Ayurvedic definition of health (Swastha)?",
+        "Response": "A balance of doshas, agni, dhatus, malas, and a blissful soul, mind, and senses.",
+        "Context": "swastha"
+    },
+    {
+        "Instruction": "What happens when doshas are out of balance?",
+        "Response": "Disease arises due to impaired digestion, tissues, and waste elimination.",
+        "Context": "dosha imbalance"
+    },
+    {
+        "Instruction": "What is 'Samprapti'?",
+        "Response": "The pathogenesis or development process of disease.",
+        "Context": "samprapti"
+    },
+    {
+        "Instruction": "What is 'Hetu' in Ayurveda?",
+        "Response": "The cause or reason behind disease.",
+        "Context": "cause"
+    },
+    {
+        "Instruction": "What is 'Purvarupa'?",
+        "Response": "Early warning signs of an upcoming disease.",
+        "Context": "prodromal signs"
+    },
+    {
+        "Instruction": "What is 'Rupa'?",
+        "Response": "Manifested symptoms of disease.",
+        "Context": "symptoms"
+    },
+    {
+        "Instruction": "What is 'Upashaya'?",
+        "Response": "Relief-producing factors that help determine the nature of disease.",
+        "Context": "relief test"
+    },
+    {
+        "Instruction": "What is 'Anupashaya'?",
+        "Response": "Worsening factors that help identify the imbalance.",
+        "Context": "aggravating factor"
+    },
+    {
+        "Instruction": "What are 'Pramana' in Ayurveda?",
+        "Response": "Means of knowledge: perception, inference, and verbal testimony.",
+        "Context": "epistemology"
+    },
+    {
+        "Instruction": "What is 'Darshana'?",
+        "Response": "Philosophical systems - Ayurveda is closely linked with Sankhya and Nyaya.",
+        "Context": "philosophy"
+    },
+    {
+        "Instruction": "Which philosophy aligns Ayurveda with natural elements?",
+        "Response": "Sankhya philosophy explains creation through five elements and prakriti.",
+        "Context": "sankhya"
+    },
+    {
+        "Instruction": "What are the five great elements (Panchamahabhutas)?",
+        "Response": "Earth, water, fire, air, and ether (space).",
+        "Context": "elements"
+    },
+    {
+        "Instruction": "What is the Ayurvedic concept of disease origin?",
+        "Response": "Disease begins from imbalance in doshas, agni, and mind.",
+        "Context": "disease origin"
+    },
+    {
+        "Instruction": "What is 'Satmya'?",
+        "Response": "Wholesomeness or suitability developed through habitual use.",
+        "Context": "satmya"
+    },
+    {
+        "Instruction": "What is 'Asatmya'?",
+        "Response": "Unsuitable habits or foods that cause dosha imbalance and disease.",
+        "Context": "asatmya"
+    },
+    {
+        "Instruction": "What determines individual response to medicine?",
+        "Response": "Prakriti, agni, dosha state, desha, kala, and satmya.",
+        "Context": "personalization"
+    },
+    {
+        "Instruction": "What is 'Bheshaja'?",
+        "Response": "Any substance used as medicine or therapy.",
+        "Context": "medicine"
+    },
+    {
+        "Instruction": "What are the six tastes (Shad Rasa)?",
+        "Response": "Sweet, sour, salty, pungent, bitter, astringent.",
+        "Context": "rasa"
+    },
+    {
+        "Instruction": "Which tastes increase Kapha?",
+        "Response": "Sweet, sour, and salty.",
+        "Context": "kapha taste"
+    },
+    {
+        "Instruction": "Which tastes balance Pitta?",
+        "Response": "Sweet, bitter, and astringent.",
+        "Context": "pitta taste"
+    },
+    {
+        "Instruction": "What is 'Virya'?",
+        "Response": "Potency - heating or cooling effect of a substance.",
+        "Context": "virya"
+    },
+    {
+        "Instruction": "What is 'Vipaka'?",
+        "Response": "Post-digestive effect of food or herbs.",
+        "Context": "vipaka"
+    },
+    {
+        "Instruction": "What is 'Prabhava'?",
+        "Response": "Unique effect of a substance beyond rasa, virya, and vipaka.",
+        "Context": "prabhava"
+    },
+    {
+        "Instruction": "What are Dravyas?",
+        "Response": "Medicinal substances used for healing.",
+        "Context": "dravyas"
+    },
+    {
+        "Instruction": "What is 'Anupan'?",
+        "Response": "Vehicle/substance used to deliver a drug like honey, ghee, or milk.",
+        "Context": "anupan"
+    },
+    {
+        "Instruction": "What are Ayurvedic drug formulations called?",
+        "Response": "Kashayam (decoction), Churna (powder), Vati (tablet), Ghrita (ghee-based), and Taila (oil).",
+        "Context": "formulations"
+    },
+    {
+        "Instruction": "What is 'Kashayam'?",
+        "Response": "Herbal decoction boiled in water to extract active ingredients.",
+        "Context": "kashayam"
+    },
+    {
+        "Instruction": "What is 'Churna'?",
+        "Response": "Herbal powder used for internal or external use.",
+        "Context": "churna"
+    },
+    {
+        "Instruction": "What is 'Ghrita'?",
+        "Response": "Medicated ghee used for internal cleansing or nourishment.",
+        "Context": "ghrita"
+    },
+    {
+        "Instruction": "What is 'Taila' used for?",
+        "Response": "Medicated oil used in massage, nasya, or enema.",
+        "Context": "taila"
+    },
+    {
+        "Instruction": "What are 'Vatis'?",
+        "Response": "Herbal tablets formed by mixing churna with binders.",
+        "Context": "vati"
+    },
+    {
+        "Instruction": "What is the Ayurvedic classification of disease?",
+        "Response": "Nija (internal causes) and Agantuja (external causes like trauma or infection).",
+        "Context": "disease types"
+    },
+    {
+        "Instruction": "What is 'Janapadodhwamsa'?",
+        "Response": "Epidemic diseases affecting large populations due to environmental imbalance.",
+        "Context": "epidemic"
+    },
+    {
+        "Instruction": "What does Ayurveda recommend for epidemics?",
+        "Response": "Strengthening immunity, seasonal regimens, rasayana, and spiritual practices.",
+        "Context": "epidemic care"
+    },
+    {
+        "Instruction": "What is 'Achara Rasayana'?",
+        "Response": "Behavioral rejuvenation - ethical conduct, truth, calmness, and self-control.",
+        "Context": "achara rasayana"
+    },
+    {
+        "Instruction": "How is spiritual health maintained?",
+        "Response": "Through meditation, mantras, sattvic food, service, and non-violence.",
+        "Context": "spiritual health"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on karma and disease?",
+        "Response": "Unresolved karmas and mental patterns may manifest as physical disease.",
+        "Context": "karma"
+    },
+    {
+        "Instruction": "What role do herbs play in karma cleansing?",
+        "Response": "Certain herbs like tulsi, brahmi, and ghee purify both body and mind.",
+        "Context": "herbs karma"
+    },
+    {
+        "Instruction": "What is the relevance of Ayurveda today?",
+        "Response": "Its preventive, personalized, and holistic principles address modern health issues.",
+        "Context": "modern relevance"
+    },
+    {
+        "Instruction": "How is Ayurveda integrated in modern care?",
+        "Response": "Used as complementary medicine alongside allopathy in many global hospitals.",
+        "Context": "integration"
+    },
+    {
+        "Instruction": "What is 'Evidence-based Ayurveda'?",
+        "Response": "Clinical trials and research validating traditional herbs and therapies.",
+        "Context": "evidence"
+    },
+    {
+        "Instruction": "What is the role of research in Ayurveda?",
+        "Response": "To standardize, validate, and modernize ancient practices without losing core values.",
+        "Context": "research"
+    },
+    {
+        "Instruction": "Why is Ayurvedic diagnosis difficult to replicate in labs?",
+        "Response": "It relies on individual constitution, pulse reading, and holistic observation.",
+        "Context": "diagnosis uniqueness"
+    },
+    {
+        "Instruction": "How does Ayurveda address chronic disease?",
+        "Response": "By correcting root imbalances through diet, lifestyle, detox, and herbs.",
+        "Context": "chronic care"
+    },
+    {
+        "Instruction": "What is the future of Ayurveda?",
+        "Response": "Tech-integrated personalized care with AI, genomics, and integrative health systems.",
+        "Context": "ayurveda future"
+    },
+    {
+        "Instruction": "What is the core strength of Ayurveda?",
+        "Response": "Its deep connection between nature, body, mind, and spirit.",
+        "Context": "holistic strength"
+    },
+    {
+        "Instruction": "What makes Ayurveda timeless?",
+        "Response": "Its alignment with eternal natural laws and adaptable wisdom.",
+        "Context": "timelessness"
+    },
+    {
+        "Instruction": "What is Ayurveda's contribution to world healing?",
+        "Response": "A sustainable, ethical, preventive model focused on inner harmony.",
+        "Context": "healing philosophy"
+    },
+    {
+        "Instruction": "What are the roots of Ayurveda according to Vedas?",
+        "Response": "Ayurveda originated from Atharva Veda and integrates Rig, Sama, and Yajur Vedic principles.",
+        "Context": "vedas"
+    },
+    {
+        "Instruction": "Which Veda is most associated with healing hymns?",
+        "Response": "Atharva Veda contains many mantras and hymns for healing and wellness.",
+        "Context": "atharva veda"
+    },
+    {
+        "Instruction": "What is the significance of Dhanvantari in Ayurveda?",
+        "Response": "Dhanvantari is the divine physician and incarnation of Lord Vishnu associated with health.",
+        "Context": "dhanvantari"
+    },
+    {
+        "Instruction": "When is National Ayurveda Day celebrated?",
+        "Response": "On Dhanvantari Jayanti, usually two days before Diwali.",
+        "Context": "ayurveda day"
+    },
+    {
+        "Instruction": "What was the role of Ayurveda in ancient universities?",
+        "Response": "It was taught at Takshashila and Nalanda as a primary subject of study.",
+        "Context": "ayurveda education"
+    },
+    {
+        "Instruction": "What ancient texts besides Charaka and Sushruta support Ayurveda?",
+        "Response": "Ashtanga Samgraha and Ashtanga Hridaya by Vagbhatta.",
+        "Context": "classical texts"
+    },
+    {
+        "Instruction": "What is the Ayurvedic concept of health education?",
+        "Response": "Ayurveda promotes self-awareness, preventive knowledge, and lifestyle literacy.",
+        "Context": "health education"
+    },
+    {
+        "Instruction": "What was the training method in ancient Ayurveda schools?",
+        "Response": "Guru-shishya parampara - oral teaching, memorization, and practical apprenticeship.",
+        "Context": "education system"
+    },
+    {
+        "Instruction": "How did Ayurveda reach other countries?",
+        "Response": "Via trade routes, Buddhist monks, and translations into Arabic, Tibetan, and Greek.",
+        "Context": "spread"
+    },
+    {
+        "Instruction": "What is the influence of Ayurveda on Unani medicine?",
+        "Response": "Several concepts of humors, temperaments, and herbalism were adopted by Unani from Ayurveda.",
+        "Context": "unani influence"
+    },
+    {
+        "Instruction": "What role did Arabic scholars play in Ayurveda?",
+        "Response": "They translated Indian texts into Arabic during the Abbasid era.",
+        "Context": "translation"
+    },
+    {
+        "Instruction": "What is 'Tibb-e-Hindi'?",
+        "Response": "The Arabic name for Indian traditional medicine, especially Ayurveda.",
+        "Context": "tibb-e-hindi"
+    },
+    {
+        "Instruction": "What was the role of Ayurveda in colonial India?",
+        "Response": "It faced suppression but survived through local traditions and Ayurvedic colleges.",
+        "Context": "colonial history"
+    },
+    {
+        "Instruction": "What is the modern revival of Ayurveda linked to?",
+        "Response": "Indian independence, national pride, and institutionalization through AYUSH.",
+        "Context": "revival"
+    },
+    {
+        "Instruction": "What is the function of the Ministry of AYUSH?",
+        "Response": "To promote and regulate Ayurveda, Yoga, Naturopathy, Unani, Siddha, and Homeopathy.",
+        "Context": "ayush"
+    },
+    {
+        "Instruction": "What is the role of CCRAS in Ayurveda?",
+        "Response": "It is the research wing for scientific validation of Ayurvedic practices and drugs.",
+        "Context": "ccras"
+    },
+    {
+        "Instruction": "What is the WHO's view on Ayurveda?",
+        "Response": "WHO recognizes Ayurveda as a traditional medicine system and supports integration.",
+        "Context": "who"
+    },
+    {
+        "Instruction": "Which countries have formal Ayurveda colleges?",
+        "Response": "India, Nepal, Sri Lanka, and growing presence in Europe and the USA.",
+        "Context": "global education"
+    },
+    {
+        "Instruction": "What is AYUSH-64?",
+        "Response": "A polyherbal formulation used during COVID-19 for mild and moderate cases.",
+        "Context": "ayush-64"
+    },
+    {
+        "Instruction": "What are current challenges for Ayurveda?",
+        "Response": "Standardization, clinical validation, and integration with mainstream systems.",
+        "Context": "challenges"
+    },
+    {
+        "Instruction": "What is integrative medicine?",
+        "Response": "A model that combines Ayurveda with allopathy and other systems for patient-centered care.",
+        "Context": "integrative care"
+    },
+    {
+        "Instruction": "What is Rasashastra?",
+        "Response": "The Ayurvedic branch dealing with minerals and metals for therapeutic use.",
+        "Context": "rasashastra"
+    },
+    {
+        "Instruction": "What is the role of Bhasmas in Ayurveda?",
+        "Response": "Calcinated mineral/metal powders used in micro-doses for chronic illnesses.",
+        "Context": "bhasma"
+    },
+    {
+        "Instruction": "What are safety concerns around heavy metals in Ayurveda?",
+        "Response": "Improper preparation or overdose can be harmful; classical methods ensure safety.",
+        "Context": "metal safety"
+    },
+    {
+        "Instruction": "What is the principle behind Bhasma therapy?",
+        "Response": "Purification, incineration, and trituration transform toxic metals into bioavailable medicine.",
+        "Context": "bhasma method"
+    },
+    {
+        "Instruction": "What's an example of a mineral used in Ayurveda?",
+        "Response": "Shilajit - a mineral pitch used for rejuvenation and strength.",
+        "Context": "shilajit"
+    },
+    {
+        "Instruction": "What is the concept of immunity in Ayurveda?",
+        "Response": "Vyadhikshamatva - the body's natural resistance to disease through ojas and strong agni.",
+        "Context": "immunity"
+    },
+    {
+        "Instruction": "What is 'Ayurgenomics'?",
+        "Response": "A modern discipline combining genomics with Ayurvedic concepts of prakriti.",
+        "Context": "ayurgenomics"
+    },
+    {
+        "Instruction": "What are Ayurvedic biotypes?",
+        "Response": "Vata, Pitta, and Kapha-based classifications reflecting metabolic and psychological traits.",
+        "Context": "biotypes"
+    },
+    {
+        "Instruction": "How is Ayurveda used in mental health today?",
+        "Response": "Herbs like Brahmi, lifestyle correction, meditation, and counseling support balance.",
+        "Context": "mental wellness"
+    },
+    {
+        "Instruction": "What is the Ayurvedic term for psychosomatic disorders?",
+        "Response": "Manasika rogas - diseases arising from imbalance in mind-body connection.",
+        "Context": "psychosomatic"
+    },
+    {
+        "Instruction": "What makes Ayurveda sustainable healthcare?",
+        "Response": "Use of natural resources, minimal side effects, and prevention-oriented approach.",
+        "Context": "sustainable care"
+    },
+    {
+        "Instruction": "How can Ayurveda support planetary health?",
+        "Response": "By encouraging seasonal, local food, plant medicine, and ecological living.",
+        "Context": "planetary health"
+    },
+    {
+        "Instruction": "How does Ayurveda view environment and health?",
+        "Response": "They are interlinked; polluted air, water, and emotions can trigger disease.",
+        "Context": "environmental health"
+    },
+    {
+        "Instruction": "What is the significance of Ayurveda in digital health?",
+        "Response": "Personalized lifestyle apps, teleconsultation, and health tracking based on prakriti.",
+        "Context": "digital ayurveda"
+    },
+    {
+        "Instruction": "How is AI used in modern Ayurveda?",
+        "Response": "For prakriti analysis, health prediction, and personalized recommendation systems.",
+        "Context": "ai in ayurveda"
+    },
+    {
+        "Instruction": "What role do spiritual practices play in healing?",
+        "Response": "Mantras, prayer, meditation align body, mind, and soul for true health.",
+        "Context": "spiritual healing"
+    },
+    {
+        "Instruction": "What does Ayurveda teach about self-awareness?",
+        "Response": "True healing begins with self-knowledge, observation, and connection to nature.",
+        "Context": "self-awareness"
+    },
+    {
+        "Instruction": "What's the vision of Ayurveda for the future?",
+        "Response": "Integrated, ethical, conscious healthcare rooted in ancient wisdom and science.",
+        "Context": "future vision"
+    },
+    {
+        "Instruction": "What are Ayurveda's 3 core goals?",
+        "Response": "Preserve health, prevent disease, and treat illness holistically.",
+        "Context": "core goals"
+    },
+    {
+        "Instruction": "Why is Ayurveda more than just medicine?",
+        "Response": "It is a way of life encompassing food, thought, behavior, and spirituality.",
+        "Context": "way of life"
+    },
+    {
+        "Instruction": "What is Ayurveda's gift to humanity?",
+        "Response": "A timeless path to balance, peace, and sustainable well-being.",
+        "Context": "global gift"
+    },
+    {
+        "Instruction": "What defines a true Ayurvedic lifestyle?",
+        "Response": "Alignment with natural rhythms, clarity of mind, proper food, and self-discipline.",
+        "Context": "ayurvedic lifestyle"
+    },
+    {
+        "Instruction": "What is the Ayurvedic code of ethics?",
+        "Response": "Truthfulness, non-violence, compassion, and devotion to healing.",
+        "Context": "ethics"
+    },
+    {
+        "Instruction": "What is the highest goal in Ayurveda?",
+        "Response": "To attain health of body and purity of mind, leading to self-realization.",
+        "Context": "ultimate goal"
+    },
+    {
+        "Instruction": "What is the closing principle of the Charaka Samhita?",
+        "Response": "A wise physician treats the patient, not just the disease.",
+        "Context": "charaka wisdom"
+    },
+    {
+        "Instruction": "What are the three foundational texts of Ayurveda?",
+        "Response": "Charaka Samhita, Sushruta Samhita, and Ashtanga Hridaya.",
+        "Context": "ayurveda"
+    },
+    {
+        "Instruction": "What does the word 'Ayurveda' mean?",
+        "Response": "It means 'Knowledge of Life', from 'Ayus' (life) and 'Veda' (knowledge).",
+        "Context": "ayurveda"
+    },
+    {
+        "Instruction": "What is the primary focus of Charaka Samhita?",
+        "Response": "Internal medicine (Kaya-chikitsa) with a holistic approach.",
+        "Context": "charaka"
+    },
+    {
+        "Instruction": "What is unique about Sushruta Samhita?",
+        "Response": "It details surgical techniques, plastic surgery, and 125 surgical instruments.",
+        "Context": "sushruta"
+    },
+    {
+        "Instruction": "Who compiled the Ashtanga Hridaya?",
+        "Response": "Vaghbata in the 5th century A.D.",
+        "Context": "ashtanga hridaya"
+    },
+    {
+        "Instruction": "What are the eight branches of Ayurveda?",
+        "Response": "Kaya-chikitsa, Shalakya Tantra, Shalya Tantra, Agada Tantra, Bhuta Vidya, Kaumara Bhritya, Rasayana, Vajikarana.",
+        "Context": "branches"
+    },
+    {
+        "Instruction": "What is Agni in Ayurveda?",
+        "Response": "Agni is the biological fire responsible for digestion, metabolism, and cellular transformation.",
+        "Context": "agni"
+    },
+    {
+        "Instruction": "What are dhatus?",
+        "Response": "Seven bodily tissues responsible for nourishment and structural support.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "Name the seven dhatus.",
+        "Response": "Rasa, Rakta, Mamsa, Meda, Asthi, Majja, Shukra/Artava.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "What is Rasa Dhatu responsible for?",
+        "Response": "It nourishes the entire body and relates to plasma.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "What is Rakta Dhatu?",
+        "Response": "The blood tissue, essential for life, strength, and color.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "What is the function of Mamsa Dhatu?",
+        "Response": "Provides physical strength and structure to the body.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "What element dominates Meda Dhatu?",
+        "Response": "Water; it lubricates the body.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "What is Majja Dhatu?",
+        "Response": "Bone marrow tissue; it fills bones and supports mental functions.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "What is Shukra Dhatu?",
+        "Response": "Reproductive tissue that forms sperm and ovum.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "What is Ojas in Ayurveda?",
+        "Response": "The essence of dhatu nutrition responsible for immunity and vitality.",
+        "Context": "ojas"
+    },
+    {
+        "Instruction": "What are Malas?",
+        "Response": "Waste products from metabolic processes of dhatus.",
+        "Context": "mala"
+    },
+    {
+        "Instruction": "What is the role of Jatharagni?",
+        "Response": "It is the central digestive fire, vital for breaking down food.",
+        "Context": "agni"
+    },
+    {
+        "Instruction": "How many types of Agni are described?",
+        "Response": "Thirteen - one Jatharagni and twelve Dhatwagni.",
+        "Context": "agni"
+    },
+    {
+        "Instruction": "What causes dosha imbalance?",
+        "Response": "Improper diet, lifestyle, and mental stress.",
+        "Context": "dosha imbalance"
+    },
+    {
+        "Instruction": "What are the qualities of Vata?",
+        "Response": "Light, cold, dry, mobile, and rough.",
+        "Context": "vata"
+    },
+    {
+        "Instruction": "What are the qualities of Pitta?",
+        "Response": "Hot, sharp, oily, and liquid.",
+        "Context": "pitta"
+    },
+    {
+        "Instruction": "What are the qualities of Kapha?",
+        "Response": "Heavy, slow, oily, and stable.",
+        "Context": "kapha"
+    },
+    {
+        "Instruction": "What is Prakriti?",
+        "Response": "An individual's unique body constitution determined at birth.",
+        "Context": "prakriti"
+    },
+    {
+        "Instruction": "What are the rarest body types in Ayurveda?",
+        "Response": "Pure Vata, Pitta, or Kapha types.",
+        "Context": "prakriti"
+    },
+    {
+        "Instruction": "What are dual body types?",
+        "Response": "Combinations like Vata-Pitta, Kapha-Vata, Pitta-Kapha.",
+        "Context": "prakriti"
+    },
+    {
+        "Instruction": "What is Sama Prakriti?",
+        "Response": "A perfect balance of all three doshas.",
+        "Context": "prakriti"
+    },
+    {
+        "Instruction": "What does an imbalance in Vata cause?",
+        "Response": "Dryness, constipation, and restlessness.",
+        "Context": "vata"
+    },
+    {
+        "Instruction": "What are signs of excess Pitta?",
+        "Response": "Anger, acidity, and skin rashes.",
+        "Context": "pitta"
+    },
+    {
+        "Instruction": "What happens when Kapha increases?",
+        "Response": "Lethargy, obesity, and excessive sleep.",
+        "Context": "kapha"
+    },
+    {
+        "Instruction": "What is Ama?",
+        "Response": "Toxic waste formed due to improper digestion.",
+        "Context": "ama"
+    },
+    {
+        "Instruction": "What is the significance of taste in balancing doshas?",
+        "Response": "Tastes influence doshic balance according to seasons.",
+        "Context": "taste"
+    },
+    {
+        "Instruction": "Which tastes balance Vata?",
+        "Response": "Sweet, sour, and salty.",
+        "Context": "vata"
+    },
+    {
+        "Instruction": "Which tastes are good for Pitta?",
+        "Response": "Sweet, bitter, and astringent.",
+        "Context": "pitta"
+    },
+    {
+        "Instruction": "Which tastes help reduce Kapha?",
+        "Response": "Pungent, bitter, and astringent.",
+        "Context": "kapha"
+    },
+    {
+        "Instruction": "Which season is Kapha dominant?",
+        "Response": "Early winter.",
+        "Context": "season"
+    },
+    {
+        "Instruction": "Which season aggravates Pitta?",
+        "Response": "Autumn.",
+        "Context": "season"
+    },
+    {
+        "Instruction": "Which season increases Vata?",
+        "Response": "Late winter and summer.",
+        "Context": "season"
+    },
+    {
+        "Instruction": "What causes formation of healthy Rasa?",
+        "Response": "Balanced Jatharagni and Rasadhatu Agni.",
+        "Context": "rasa dhatu"
+    },
+    {
+        "Instruction": "What disrupts dhatu formation?",
+        "Response": "Improper digestion and poor-quality food.",
+        "Context": "dhatu"
+    },
+    {
+        "Instruction": "How are upadhatus formed?",
+        "Response": "As secondary tissues formed after primary dhatu nourishment.",
+        "Context": "upadhatu"
+    },
+    {
+        "Instruction": "What are some examples of Upadhatus?",
+        "Response": "Breast milk, menstrual fluid, and blood vessels.",
+        "Context": "upadhatu"
+    },
+    {
+        "Instruction": "What does Medas produce as waste?",
+        "Response": "Sweat.",
+        "Context": "mala"
+    },
+    {
+        "Instruction": "What dhatu is related to mental strength?",
+        "Response": "Majja Dhatu.",
+        "Context": "majja"
+    },
+    {
+        "Instruction": "What dhatu governs procreation?",
+        "Response": "Shukra/Artava Dhatu.",
+        "Context": "shukra"
+    },
+    {
+        "Instruction": "What emotional qualities are linked to Rasa?",
+        "Response": "Exhilaration and joy.",
+        "Context": "rasa"
+    },
+    {
+        "Instruction": "What is the function of Agni in each tissue?",
+        "Response": "Helps convert nutrients and perform metabolic functions.",
+        "Context": "agni"
+    },
+    {
+        "Instruction": "What happens when Jatharagni is weak?",
+        "Response": "Leads to Ama and poor nutrient absorption.",
+        "Context": "agni"
+    },
+    {
+        "Instruction": "How does diet affect dhatus?",
+        "Response": "Nutritious food strengthens dhatus, unhealthy food depletes them.",
+        "Context": "diet"
+    },
+    {
+        "Instruction": "What is the role of mental health in Ayurveda?",
+        "Response": "It influences digestion, nutrient assimilation, and dhatu formation.",
+        "Context": "mental health"
+    },
+    {
+        "Instruction": "What is a natural remedy for cough?",
+        "Response": "Mix honey with a pinch of black pepper and ginger juice, take 2-3 times a day.",
+        "Context": "cough"
+    },
+    {
+        "Instruction": "What helps relieve sore throat?",
+        "Response": "Gargle with warm water containing turmeric and salt.",
+        "Context": "throat"
+    },
+    {
+        "Instruction": "What soothes an upset stomach?",
+        "Response": "Drink buttermilk with roasted cumin powder and a pinch of rock salt.",
+        "Context": "digestion"
+    },
+    {
+        "Instruction": "What can be used for indigestion after heavy meals?",
+        "Response": "Chew a small piece of fresh ginger with rock salt.",
+        "Context": "indigestion"
+    },
+    {
+        "Instruction": "What is a traditional treatment for cold?",
+        "Response": "Drink hot tulsi (holy basil) tea with ginger and black pepper.",
+        "Context": "cold"
+    },
+    {
+        "Instruction": "What relieves nasal congestion?",
+        "Response": "Inhale steam with eucalyptus oil or crushed ajwain (carom seeds).",
+        "Context": "congestion"
+    },
+    {
+        "Instruction": "What is good for nausea?",
+        "Response": "Lemon juice with a pinch of baking soda and salt provides quick relief.",
+        "Context": "nausea"
+    },
+    {
+        "Instruction": "What helps treat a mild fever naturally?",
+        "Response": "Tulsi and ginger decoction with honey every few hours.",
+        "Context": "fever"
+    },
+    {
+        "Instruction": "What relieves constipation?",
+        "Response": "Drink warm water with ghee or eat soaked raisins early morning.",
+        "Context": "constipation"
+    },
+    {
+        "Instruction": "What home remedy helps with acidity?",
+        "Response": "Drink cold milk or chew fennel seeds after meals.",
+        "Context": "acidity"
+    },
+    {
+        "Instruction": "What helps reduce gas and bloating?",
+        "Response": "Ajwain with black salt or hing water helps relieve gas.",
+        "Context": "gas"
+    },
+    {
+        "Instruction": "What can reduce menstrual cramps?",
+        "Response": "Warm ajwain water or hot compress on lower abdomen helps.",
+        "Context": "menstrual cramps"
+    },
+    {
+        "Instruction": "What is good for headache relief?",
+        "Response": "Apply a paste of sandalwood or a drop of eucalyptus oil on the forehead.",
+        "Context": "headache"
+    },
+    {
+        "Instruction": "What relieves toothache?",
+        "Response": "Clove oil application or chewing a clove on the painful tooth.",
+        "Context": "toothache"
+    }
+]

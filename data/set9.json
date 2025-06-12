@@ -1,0 +1,2497 @@
+[
+    {
+        "Instruction": "What do you do as you steadily pour in the oil?",
+        "Response": "Whisk while pouring oil.",
+        "Context": "Emulsify"
+    },
+    {
+        "Instruction": "How should you store vinaigrette if you're not using it right away?",
+        "Response": "Sealed glass jar/bottle in fridge.",
+        "Context": "Preservation"
+    },
+    {
+        "Instruction": "What should you do before using stored vinaigrette?",
+        "Response": "Shake to recombine.",
+        "Context": "Re-mix"
+    },
+    {
+        "Instruction": "What's the main rule about making dressings?",
+        "Response": "Make dressings that please your taste buds.",
+        "Context": "Personalization"
+    },
+    {
+        "Instruction": "What did the author's grandmother finely chop and mince for her dressings?",
+        "Response": "Garlic, oregano.",
+        "Context": "Aroma"
+    },
+    {
+        "Instruction": "What would the author's grandmother add to the jar if the vinegar was very acidic?",
+        "Response": "Sugar.",
+        "Context": "Sweetness"
+    },
+    {
+        "Instruction": "What kind of sugar is recommended for sweetening?",
+        "Response": "Organic coconut sugar.",
+        "Context": "Unrefined"
+    },
+    {
+        "Instruction": "What would the author's grandmother pour over the ingredients to release the flavours?",
+        "Response": "Boiling water.",
+        "Context": "Thermal-shock"
+    },
+    {
+        "Instruction": "Why shouldn't you seal the jar completely?",
+        "Response": "To avoid cracking the glass.",
+        "Context": "Traditional"
+    },
+    {
+        "Instruction": "How much vinegar and oil would the author's grandmother add?",
+        "Response": "2 tbsp vinegar, 6 tbsp oil (traditionally).",
+        "Context": "Smoothness"
+    },
+    {
+        "Instruction": "What did the amount of oil Grandma used depend on?",
+        "Response": "How mellow the oil was.",
+        "Context": "Lighter-option"
+    },
+    {
+        "Instruction": "What would Grandma do if the oil was really tart or strong?",
+        "Response": "Half oil and half vinegar (or 1/3 each of vinegar, water, oil).",
+        "Context": "Blend"
+    },
+    {
+        "Instruction": "What was Grandma's recipe philosophy based on?",
+        "Response": "How the flavours came together.",
+        "Context": "Verification"
+    },
+    {
+        "Instruction": "What would Grandma do as she worked with the ingredients?",
+        "Response": "Taste test.",
+        "Context": "Citrus"
+    },
+    {
+        "Instruction": "What would she add if she was using sweet ingredients?",
+        "Response": "Lemon juice.",
+        "Context": "Brightness"
+    },
+    {
+        "Instruction": "When would she leave out lemon juice?",
+        "Response": "With acidic ingredients.",
+        "Context": "Formula"
+    },
+    {
+        "Instruction": "What other dressing combination did Grandma use?",
+        "Response": "2 tbsp lemon juice to 4 tbsp olive oil and mustard seeds.",
+        "Context": "Finishing"
+    },
+    {
+        "Instruction": "What was Grandma's final step in seasoning her vinaigrettes?",
+        "Response": "Salt, white pepper, parsley.",
+        "Context": "References"
+    },
+    {
+        "Instruction": "What oils pair well with dark balsamic vinegar?",
+        "Response": "Walnut oil and pumpkin seed oil complement dark balsamic.",
+        "Context": "Oils"
+    },
+    {
+        "Instruction": "How should walnut oil be used in salads?",
+        "Response": "Drizzle lightly on leaves rather than mixing into dressings.",
+        "Context": "Drizzling"
+    },
+    {
+        "Instruction": "What sweetener is recommended for dressings?",
+        "Response": "Pure maple syrup added gradually during taste tests.",
+        "Context": "Sweetener"
+    },
+    {
+        "Instruction": "How can heat be added to dressings?",
+        "Response": "Aleppo pepper, black pepper, or fresh chili slices.",
+        "Context": "Spices"
+    },
+    {
+        "Instruction": "What can replace salt in vinaigrettes?",
+        "Response": "Chopped capers provide salty flavor without salt.",
+        "Context": "Substitute"
+    },
+    {
+        "Instruction": "Which salts are rich in minerals?",
+        "Response": "Celtic sea salt or Baja sea salt from Mexico.",
+        "Context": "Salts"
+    },
+    {
+        "Instruction": "What\u2019s the key rule for salad dressing application?",
+        "Response": "Dress lightly, mix to coat, don't drown the salad.",
+        "Context": "Application"
+    },
+    {
+        "Instruction": "How much dressing should you initially add?",
+        "Response": "Start with a small swirl, then adjust as needed.",
+        "Context": "Moderation"
+    },
+    {
+        "Instruction": "What\u2019s the hero of a salad?",
+        "Response": "The salad ingredients, not the dressing.",
+        "Context": "Focus"
+    },
+    {
+        "Instruction": "When whisking dressings, which ingredient goes last?",
+        "Response": "Oil should be whisked in gradually at the end.",
+        "Context": "Technique"
+    },
+    {
+        "Instruction": "What\u2019s a quick alternative to whisking dressings?",
+        "Response": "Blitz all ingredients with a stick blender in a jar.",
+        "Context": "Shortcut"
+    },
+    {
+        "Instruction": "How long can homemade dressings be stored?",
+        "Response": "Store in fridge and use within one week.",
+        "Context": "Storage"
+    },
+    {
+        "Instruction": "What\u2019s in the \"Touch of France\" dressing?",
+        "Response": "Red wine vinegar, olive oil, shallots, Dijon mustard.",
+        "Context": "Ingredients"
+    },
+    {
+        "Instruction": "How can you adjust the \"Touch of France\" dressing?",
+        "Response": "Adjust with maple syrup for sweetness if desired.",
+        "Context": "Adjustment"
+    },
+    {
+        "Instruction": "What oils are used in Mediterranean dressing?",
+        "Response": "Macadamia or olive oil with lemon juice and zest.",
+        "Context": "Mediterranean"
+    },
+    {
+        "Instruction": "What gives Mediterranean dressing its zest?",
+        "Response": "Lemon zest and roasted garlic add Mediterranean zest.",
+        "Context": "Zest"
+    },
+    {
+        "Instruction": "What\u2019s unique about Japanese Sesame Dressing?",
+        "Response": "Uses mirin, sesame oil, coconut aminos, ginger.",
+        "Context": "Japanese"
+    },
+    {
+        "Instruction": "How can Japanese dressing be made creamy?",
+        "Response": "Add organic mayonnaise for creaminess.",
+        "Context": "Creaminess"
+    },
+    {
+        "Instruction": "What\u2019s a vegan alternative to mayo in dressings?",
+        "Response": "Silken tofu blended in creates vegan creaminess.",
+        "Context": "Vegan"
+    },
+    {
+        "Instruction": "Why should dressings rest before serving?",
+        "Response": "Flavors meld and improve after resting.",
+        "Context": "Resting"
+    },
+    {
+        "Instruction": "What\u2019s the benefit of small-batch dressings?",
+        "Response": "Small batches allow for easy flavor adjustments.",
+        "Context": "Experimentation"
+    },
+    {
+        "Instruction": "What\u2019s a good store-bought dressing alternative?",
+        "Response": "Carwari organic sesame dressing is recommended.",
+        "Context": "Alternative"
+    },
+    {
+        "Instruction": "What should you avoid in dressing ingredients?",
+        "Response": "Avoid synthetic chemicals, pesticides and preservatives.",
+        "Context": "Purity"
+    },
+    {
+        "Instruction": "How do dressings support gut health?",
+        "Response": "They improve taste and support digestion.",
+        "Context": "Digestion"
+    },
+    {
+        "Instruction": "What\u2019s the author\u2019s philosophy on dressing rules?",
+        "Response": "Break rules if your taste buds demand it.",
+        "Context": "Creativity"
+    },
+    {
+        "Instruction": "What chronic diseases do vegetables help prevent?",
+        "Response": "Linked to reduced chronic diseases and cancer.",
+        "Context": "Prevention"
+    },
+    {
+        "Instruction": "Which cruciferous vegetable has cancer-fighting properties?",
+        "Response": "Arugula contains cancer-fighting erucin compound.",
+        "Context": "Arugula"
+    },
+    {
+        "Instruction": "What study discusses hazardous cookware?",
+        "Response": "Study by Ali Sultan et al. on cookware hazards.",
+        "Context": "Cookware"
+    },
+    {
+        "Instruction": "How does fruit/vegetable intake affect mortality?",
+        "Response": "Higher intake lowers mortality risk (Aune et al.).",
+        "Context": "Longevity"
+    },
+    {
+        "Instruction": "What\u2019s erucin and where is it found?",
+        "Response": "Erucin is an anti-cancer compound in arugula.",
+        "Context": "Compound"
+    },
+    {
+        "Instruction": "Which review covers vegetables and chronic diseases?",
+        "Response": "Boeing et al. review on vegetables and disease.",
+        "Context": "Review"
+    },
+    {
+        "Instruction": "What\u2019s the role of nutraceuticals in health?",
+        "Response": "Nutraceuticals provide health-promoting benefits.",
+        "Context": "Nutraceuticals"
+    },
+    {
+        "Instruction": "How does veggie intake impact mental health?",
+        "Response": "Improves mental health (G\u0142\u0105bska et al. study).",
+        "Context": "Wellbeing"
+    },
+    {
+        "Instruction": "What are the health benefits of arugula?",
+        "Response": "Rich in nutrients and anti-cancer compounds.",
+        "Context": "Benefits"
+    },
+    {
+        "Instruction": "What\u2019s in the Japanese dressing\u2019s base?",
+        "Response": "Mirin, sesame oil, coconut aminos, ginger base.",
+        "Context": "Base"
+    },
+    {
+        "Instruction": "How can you adjust Japanese dressing sweetness?",
+        "Response": "Add brown rice syrup or reduce balsamic vinegar.",
+        "Context": "Sweetness"
+    },
+    {
+        "Instruction": "What\u2019s a low-sodium soy sauce alternative?",
+        "Response": "Niulife coconut aminos (70% less sodium).",
+        "Context": "Low-sodium"
+    },
+    {
+        "Instruction": "What\u2019s added to Japanese dressing for crunch?",
+        "Response": "Crushed toasted sesame seeds add texture.",
+        "Context": "Crunch"
+    },
+    {
+        "Instruction": "How does silken tofu modify dressings?",
+        "Response": "Creates creamy texture without dairy.",
+        "Context": "Texture"
+    },
+    {
+        "Instruction": "What\u2019s the purpose of resting dressings?",
+        "Response": "Allows flavors to meld and balance naturally.",
+        "Context": "Maturation"
+    },
+    {
+        "Instruction": "What\u2019s the author\u2019s brand recommendation policy?",
+        "Response": "Author only recommends brands she personally uses.",
+        "Context": "Authenticity"
+    },
+    {
+        "Instruction": "How do dressings enhance vegetable consumption?",
+        "Response": "Makes vegetables more enjoyable to eat.",
+        "Context": "Consumption"
+    },
+    {
+        "Instruction": "What\u2019s the key to dressing experimentation?",
+        "Response": "Start small and adjust based on taste tests.",
+        "Context": "Trial"
+    },
+    {
+        "Instruction": "Which oil pairs with cherry vinegar?",
+        "Response": "Walnut oil pairs beautifully with cherry vinegar.",
+        "Context": "Pairing"
+    },
+    {
+        "Instruction": "What\u2019s the ratio for balancing sweet dressings?",
+        "Response": "3:1 oil to vinegar ratio is standard baseline.",
+        "Context": "Ratio"
+    },
+    {
+        "Instruction": "How is Aleppo pepper used in dressings?",
+        "Response": "Sprinkle lightly for subtle warmth.",
+        "Context": "Heat"
+    },
+    {
+        "Instruction": "What\u2019s the benefit of Celtic sea salt?",
+        "Response": "Contains beneficial minerals and trace elements.",
+        "Context": "Minerals"
+    },
+    {
+        "Instruction": "How should dressings coat salad ingredients?",
+        "Response": "Toss gently to evenly distribute flavor.",
+        "Context": "Coating"
+    },
+    {
+        "Instruction": "What\u2019s the stick blender trick for dressings?",
+        "Response": "Quickly emulsifies ingredients without whisking.",
+        "Context": "Efficiency"
+    },
+    {
+        "Instruction": "Where can you subscribe to health tips?",
+        "Response": "Subscribe at renerhealthclinics.com.au.",
+        "Context": "Subscription"
+    },
+    {
+        "Instruction": "What is recommended to take Triphala at night?",
+        "Response": "Triphala before bed.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "List one reason to eat three meals daily?",
+        "Response": "Regulates energy and metabolism.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you take Triphala at night?",
+        "Response": "30 minutes before sleeping.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to do yoga each morning?",
+        "Response": "Boosts energy and flexibility.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is the benefit of do yoga each morning?",
+        "Response": "Reduces stress and improves circulation.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "When should you practice HIIT?",
+        "Response": "Morning or early afternoon.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Which practice helps to chew ginger before meals?",
+        "Response": "Ayurveda.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "When should you wake up by 6 a.m.?",
+        "Response": "Align with circadian rhythm.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "What is recommended to scrape your tongue?",
+        "Response": "Tongue scraper or spoon.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which practice helps to chew ginger before meals?",
+        "Response": "Ayurveda.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "List one reason to establish a sleep routine?",
+        "Response": "Improves sleep quality.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "List one reason to take Triphala at night?",
+        "Response": "Supports detox overnight.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is recommended to wake up by 6 a.m.?",
+        "Response": "Consistent sleep routine.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What can support avoid snacking between meals?",
+        "Response": "Hydration and balanced meals.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "Which herb is used to wake up by 6 a.m.?",
+        "Response": "Ashwagandha.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Why is it important to take Triphala at night?",
+        "Response": "Aids digestion and detoxification.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "List one reason to take Triphala at night?",
+        "Response": "Detoxification support.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is recommended to wake up by 6 a.m.?",
+        "Response": "Sleep schedule and Ashwagandha.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Why is it important to practice HIIT?",
+        "Response": "Boosts metabolism and fitness.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which practice helps to take Triphala at night?",
+        "Response": "Nightly herbal routine.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which practice helps to scrape your tongue?",
+        "Response": "Daily oral hygiene.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which herb is used to avoid snacking between meals?",
+        "Response": "Fennel.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which herb is used to chew ginger before meals?",
+        "Response": "Ginger.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is the benefit of practice HIIT?",
+        "Response": "Boosts metabolism and endurance.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Why is it important to eat three meals daily?",
+        "Response": "Supports digestion and energy.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to chew ginger before meals?",
+        "Response": "Chew raw ginger before meals.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What can support take Triphala at night?",
+        "Response": "Herbal routine and consistent timing.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "List one reason to scrape your tongue?",
+        "Response": "Removes toxins and bacteria.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is recommended to do yoga each morning?",
+        "Response": "Morning yoga.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What is recommended to avoid snacking between meals?",
+        "Response": "Avoid processed snacks, drink water.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which herb is used to eat three meals daily?",
+        "Response": "Ginger or turmeric.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which practice helps to wake up by 6 a.m.?",
+        "Response": "Set bedtime and alarm.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "When should you avoid snacking between meals?",
+        "Response": "Between meals only.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "What is the benefit of practice HIIT?",
+        "Response": "Fat loss and cardiovascular health.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is recommended to practice HIIT?",
+        "Response": "2\u20133 times weekly.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What can support chew ginger before meals?",
+        "Response": "Ginger tea or fresh slices.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is the benefit of chew ginger before meals?",
+        "Response": "Improves digestion.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Which practice helps to wake up by 6 a.m.?",
+        "Response": "Regular sleep and light exposure.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to chew ginger before meals?",
+        "Response": "Chew fresh ginger or paste.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What is the benefit of practice HIIT?",
+        "Response": "Increases strength and endurance.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is the benefit of scrape your tongue?",
+        "Response": "Removes toxins, freshens breath.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What can support eat lunch at midday?",
+        "Response": "Balanced meals and routine.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "Why is it important to do yoga each morning?",
+        "Response": "Enhances focus and flexibility.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to eat lunch at midday?",
+        "Response": "Aids digestion and absorption.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you scrape your tongue?",
+        "Response": "Morning.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "When should you practice HIIT?",
+        "Response": "Morning or early afternoon.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "What is the benefit of take Triphala at night?",
+        "Response": "Digestion and detox overnight.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is recommended to eat lunch at midday?",
+        "Response": "Balanced, nourishing food.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Name one way to scrape your tongue?",
+        "Response": "Use a tongue scraper.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Name one way to wake up by 6 a.m.?",
+        "Response": "Sleep routine and alarm.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Which herb is used to chew ginger before meals?",
+        "Response": "Ginger.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to scrape your tongue?",
+        "Response": "Use a tongue scraper every morning before brushing.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Which herb is used to establish a sleep routine?",
+        "Response": "Ashwagandha.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is the benefit of take Triphala at night?",
+        "Response": "Supports digestion and detoxification during sleep.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is recommended to take Triphala at night?",
+        "Response": "Take 30 minutes before bed with warm water.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which herb is used to scrape your tongue?",
+        "Response": "Neem.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to practice HIIT?",
+        "Response": "20-second sprints with 40-second rest, repeated.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is recommended to chew ginger before meals?",
+        "Response": "Chew a small piece of fresh ginger with rock salt.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which herb is used to scrape your tongue?",
+        "Response": "Neem.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which practice helps to do yoga each morning?",
+        "Response": "Morning routine.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "What can support scrape your tongue?",
+        "Response": "Tongue scraper and consistency.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "Name one way to establish a sleep routine?",
+        "Response": "Fixed bedtime and calming routine.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Which practice helps to take Triphala at night?",
+        "Response": "Nightly herbal routine.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which herb is used to practice HIIT?",
+        "Response": "Ginseng.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which herb is used to take Triphala at night?",
+        "Response": "Triphala.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "List one reason to wake up by 6 a.m.?",
+        "Response": "Aligns body with natural rhythms.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which herb is used to practice HIIT?",
+        "Response": "Ginseng.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is the benefit of practice HIIT?",
+        "Response": "Boosts metabolism and endurance.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Name one way to chew ginger before meals?",
+        "Response": "Fresh ginger slice with lemon juice and salt.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "When should you eat three meals daily?",
+        "Response": "Morning, midday, evening.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Which herb is used to eat three meals daily?",
+        "Response": "Ginger.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which practice helps to establish a sleep routine?",
+        "Response": "Fixed bedtime and relaxation.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "When should you eat three meals daily?",
+        "Response": "Morning, midday, evening.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Name one way to avoid snacking between meals?",
+        "Response": "Drink herbal tea or eat more protein at meals.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Name one way to take Triphala at night?",
+        "Response": "Mix 1 tsp Triphala powder in warm water.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Name one way to take Triphala at night?",
+        "Response": "Triphala capsule or powder with warm water.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Tulsi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is recommended to wake up by 6 a.m.?",
+        "Response": "Set a consistent alarm and sleep early.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "When should you eat lunch at midday?",
+        "Response": "Between 12:00 p.m. and 1:00 p.m.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to do yoga each morning?",
+        "Response": "Increases flexibility and energy.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is recommended to establish a sleep routine?",
+        "Response": "Regular sleep and wake times.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which herb is used to chew ginger before meals?",
+        "Response": "Ginger.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to practice HIIT?",
+        "Response": "Sprint intervals or jumping jacks.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Why is it important to eat lunch at midday?",
+        "Response": "Supports digestion and energy for the afternoon.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to wake up by 6 a.m.?",
+        "Response": "Use sunrise alarm or avoid screens before bed.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Why is it important to establish a sleep routine?",
+        "Response": "Regulates hormones and improves rest.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "List one reason to practice HIIT?",
+        "Response": "Enhances fat loss and cardiovascular health.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "List one reason to scrape your tongue?",
+        "Response": "Removes toxins and freshens breath.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What can support practice HIIT?",
+        "Response": "Proper scheduling and warming up.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "When should you establish a sleep routine?",
+        "Response": "Begin at the same time each night.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Which practice helps to eat lunch at midday?",
+        "Response": "Eat main meal when digestion is strongest.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "What can support scrape your tongue?",
+        "Response": "Use a metal tongue scraper daily.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is recommended to establish a sleep routine?",
+        "Response": "Fixed bedtime, calming rituals, avoid screens.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "List one reason to eat three meals daily?",
+        "Response": "Maintains stable energy levels.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What can support chew ginger before meals?",
+        "Response": "Ginger tea or fresh slices with salt.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is recommended to eat lunch at midday?",
+        "Response": "Eat between 12\u20131 p.m. when digestion is strongest.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which herb is used to wake up by 6 a.m.?",
+        "Response": "Ashwagandha.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Why is it important to avoid snacking between meals?",
+        "Response": "Prevents digestive overload and supports metabolism.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to wake up by 6 a.m.?",
+        "Response": "Aligns with natural circadian rhythms.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you scrape your tongue?",
+        "Response": "Each morning after waking up.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Which practice helps to eat lunch at midday?",
+        "Response": "Meal planning and mindful eating.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which practice helps to avoid snacking between meals?",
+        "Response": "Eat only at designated meal times.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "What is the benefit of avoid snacking between meals?",
+        "Response": "Supports better digestion and fat metabolism.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to chew ginger before meals?",
+        "Response": "Chew a small slice of ginger with lemon and salt.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Which herb is used to avoid snacking between meals?",
+        "Response": "Fennel.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to wake up by 6 a.m.?",
+        "Response": "Sleep early and use an alarm.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What can support practice HIIT?",
+        "Response": "Regular schedule, hydration, and proper warm-ups.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to establish a sleep routine?",
+        "Response": "Go to bed at the same time, use calming herbs.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Why is it important to eat three meals daily?",
+        "Response": "Balances metabolism and energy.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "List one reason to avoid snacking between meals?",
+        "Response": "Prevents blood sugar spikes.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is recommended to practice HIIT?",
+        "Response": "2\u20133 times per week, short bursts with rest.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Why is it important to establish a sleep routine?",
+        "Response": "Supports quality sleep and hormonal balance.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which herb is used to eat three meals daily?",
+        "Response": "Ginger.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which herb is used to chew ginger before meals?",
+        "Response": "Ginger.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "List one reason to scrape your tongue?",
+        "Response": "Clears toxins and improves breath.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to chew ginger before meals?",
+        "Response": "Stimulates digestion and saliva.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you chew ginger before meals?",
+        "Response": "15\u201330 minutes before meals.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to eat three meals daily?",
+        "Response": "Maintains steady energy and appetite control.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is the benefit of practice HIIT?",
+        "Response": "Boosts fat burn and cardiovascular health.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What can support practice HIIT?",
+        "Response": "Warm-up, structured intervals, post-stretch.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "When should you eat lunch at midday?",
+        "Response": "Around midday (12\u20131 p.m.).",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "When should you avoid snacking between meals?",
+        "Response": "Between meals only, not constantly.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "What can support practice HIIT?",
+        "Response": "Stay hydrated, warm-up, rest between sets.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is recommended to chew ginger before meals?",
+        "Response": "Chew fresh ginger with lemon and salt.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What is the benefit of chew ginger before meals?",
+        "Response": "Enhances digestion and appetite.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Which herb is used to scrape your tongue?",
+        "Response": "Neem.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What can support take Triphala at night?",
+        "Response": "Consistent bedtime, calming herbs like Triphala.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "Which practice helps to take Triphala at night?",
+        "Response": "Nightly routine with Triphala and warm water.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "List one reason to wake up by 6 a.m.?",
+        "Response": "Synchronizes body with sunlight and energy cycles.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What can support eat lunch at midday?",
+        "Response": "Balanced diet and midday meal.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is the benefit of scrape your tongue?",
+        "Response": "Clears toxins and supports oral health.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Name one way to chew ginger before meals?",
+        "Response": "Chew fresh ginger before meals.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Name one way to avoid snacking between meals?",
+        "Response": "Snack only if truly hungry, not out of habit.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is recommended to eat three meals daily?",
+        "Response": "Eat at fixed times with wholesome food.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What can support scrape your tongue?",
+        "Response": "Tongue scraper use after waking.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "Name one way to chew ginger before meals?",
+        "Response": "Chew ginger 15 minutes before meals.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "When should you practice HIIT?",
+        "Response": "Early morning or afternoon for best results.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Name one way to wake up by 6 a.m.?",
+        "Response": "Avoid screens, keep a set bedtime/wake time.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is the benefit of practice HIIT?",
+        "Response": "Increases stamina, supports fat loss.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is recommended to eat three meals daily?",
+        "Response": "Eat at regular times with balanced portions.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Tulsi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to take Triphala at night?",
+        "Response": "Take 1 tsp Triphala powder with warm water at night.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What can support wake up by 6 a.m.?",
+        "Response": "Consistent sleep, morning sunlight, alarm.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to do yoga each morning?",
+        "Response": "Morning on an empty stomach with light stretching.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Name one way to practice HIIT?",
+        "Response": "Jump squats or sprints with rest intervals.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Which practice helps to scrape your tongue?",
+        "Response": "Morning oral hygiene routine.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "What is recommended to avoid snacking between meals?",
+        "Response": "Eat balanced meals at regular intervals.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Name one way to eat three meals daily?",
+        "Response": "Eat at 8 a.m., 12\u20131 p.m., and 6\u20137 p.m.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "List one reason to avoid snacking between meals?",
+        "Response": "Keeps digestion strong and avoids cravings.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which practice helps to scrape your tongue?",
+        "Response": "Daily tongue scraping.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "When should you eat lunch at midday?",
+        "Response": "Around 12\u20131 p.m. for optimal digestion.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to eat lunch at midday?",
+        "Response": "Supports strong digestion.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to take Triphala at night?",
+        "Response": "Aids detoxification and bowel movement.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "List one reason to do yoga each morning?",
+        "Response": "Boosts energy and mental clarity.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to do yoga each morning?",
+        "Response": "Start with 10 minutes of sun salutations.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Name one way to avoid snacking between meals?",
+        "Response": "Drink warm water or herbal tea.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is the benefit of chew ginger before meals?",
+        "Response": "Stimulates digestive fire.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What can support take Triphala at night?",
+        "Response": "Warm water and consistent routine.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "List one reason to take Triphala at night?",
+        "Response": "Improves digestion and elimination.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you take Triphala at night?",
+        "Response": "30 minutes before bedtime.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to eat lunch at midday?",
+        "Response": "Enhances nutrient absorption.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which herb is used to practice HIIT?",
+        "Response": "Ginseng.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "List one reason to chew ginger before meals?",
+        "Response": "Prepares the stomach for food.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is the benefit of chew ginger before meals?",
+        "Response": "Promotes better digestion and appetite.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is the benefit of take Triphala at night?",
+        "Response": "Supports regular elimination and detox.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "List one reason to establish a sleep routine?",
+        "Response": "Improves sleep quality and hormone balance.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which practice helps to scrape your tongue?",
+        "Response": "Morning oral hygiene.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "What is recommended to establish a sleep routine?",
+        "Response": "Consistent bedtime and calming habits.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What can support wake up by 6 a.m.?",
+        "Response": "Sleep early, use an alarm.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "List one reason to practice HIIT?",
+        "Response": "Boosts cardiovascular health and metabolism.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to do yoga each morning?",
+        "Response": "Gentle stretching with deep breathing.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "When should you avoid snacking between meals?",
+        "Response": "Between meals only if truly hungry.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to chew ginger before meals?",
+        "Response": "Ignites digestion and prevents bloating.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to take Triphala at night?",
+        "Response": "Mix 1 tsp Triphala powder in warm water.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "List one reason to wake up by 6 a.m.?",
+        "Response": "Aligns with natural body rhythms.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Tulsi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is recommended to do yoga each morning?",
+        "Response": "Practice light yoga on an empty stomach.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which practice helps to wake up by 6 a.m.?",
+        "Response": "Morning routine with early bedtime.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which practice helps to chew ginger before meals?",
+        "Response": "Pre-meal digestive routine.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "What can support chew ginger before meals?",
+        "Response": "Ginger tea or ginger with salt.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is recommended to avoid snacking between meals?",
+        "Response": "Eat at fixed times with wholesome food.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "List one reason to eat three meals daily?",
+        "Response": "Keeps metabolism stable.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to do yoga each morning?",
+        "Response": "5\u201310 minutes of sun salutations.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Name one way to practice HIIT?",
+        "Response": "Sprint/rest cycles 2\u20133 times a week.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is the benefit of avoid snacking between meals?",
+        "Response": "Supports metabolism and gut health.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to chew ginger before meals?",
+        "Response": "Chew a slice of ginger with salt before meals.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Which herb is used to scrape your tongue?",
+        "Response": "Neem.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is recommended to practice HIIT?",
+        "Response": "Intervals, strength and cardio mix.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What can support take Triphala at night?",
+        "Response": "Herbal teas, consistency.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "Why is it important to practice HIIT?",
+        "Response": "Increases strength and burns fat.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you eat lunch at midday?",
+        "Response": "12\u20131 p.m.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "When should you eat three meals daily?",
+        "Response": "8 a.m., 12 p.m., 6 p.m.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to wake up by 6 a.m.?",
+        "Response": "Syncs with natural energy cycle.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What can support scrape your tongue?",
+        "Response": "Metal scraper each morning.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "List one reason to avoid snacking between meals?",
+        "Response": "Prevents cravings and supports digestion.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is the benefit of scrape your tongue?",
+        "Response": "Removes toxins and improves breath.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "When should you scrape your tongue?",
+        "Response": "After waking, before brushing teeth.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "What is recommended to practice HIIT?",
+        "Response": "Alternate sprints and rest periods.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "When should you chew ginger before meals?",
+        "Response": "15\u201330 minutes before eating.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Name one way to wake up by 6 a.m.?",
+        "Response": "Sleep early, natural light alarm.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Name one way to eat lunch at midday?",
+        "Response": "Eat whole foods when hungry, not in between.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Which practice helps to establish a sleep routine?",
+        "Response": "Meditation, dim lights, and fixed schedule.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to chew ginger before meals?",
+        "Response": "Chew ginger slice with salt and lemon.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Which herb is used to wake up by 6 a.m.?",
+        "Response": "Ashwagandha.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to eat lunch at midday?",
+        "Response": "Eat slowly, mindfully, at same time daily.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What is recommended to avoid snacking between meals?",
+        "Response": "Avoid processed snacks, drink water.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What is recommended to do yoga each morning?",
+        "Response": "Gentle yoga and deep breathing.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which practice helps to take Triphala at night?",
+        "Response": "Evening herbal routine.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Why is it important to wake up by 6 a.m.?",
+        "Response": "Boosts energy and focus.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to establish a sleep routine?",
+        "Response": "Regulates hormones and mental calm.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to take Triphala at night?",
+        "Response": "Detoxifies mouth and boosts taste sensitivity.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you establish a sleep routine?",
+        "Response": "5\u201310 minutes after waking.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "When should you take Triphala at night?",
+        "Response": "3x weekly, 20\u201330 min per session.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to wake up by 6 a.m.?",
+        "Response": "Enhances nutrient assimilation.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you practice HIIT?",
+        "Response": "Circuit training or interval sprints.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "What is the benefit of eat lunch at midday?",
+        "Response": "High-protein meals, hydration, routine.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is recommended to practice HIIT?",
+        "Response": "Strength/cardio combos with breaks.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What can support avoid snacking between meals?",
+        "Response": "Brahmi.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to practice HIIT?",
+        "Response": "Improves rest and emotional balance.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Which herb is used to establish a sleep routine?",
+        "Response": "Removes toxins and enhances digestion.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is the benefit of establish a sleep routine?",
+        "Response": "Sunlight exposure, quiet mornings.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Why is it important to scrape your tongue?",
+        "Response": "Avoid processed snacks and grazing.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "List one reason to wake up by 6 a.m.?",
+        "Response": "Aligns with natural circadian rhythm.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is recommended to avoid snacking between meals?",
+        "Response": "Drink herbal teas like ginger or fennel.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which herb is used to wake up by 6 a.m.?",
+        "Response": "Brahmi (gotu kola).",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to eat lunch at midday?",
+        "Response": "As the largest meal when digestion is strongest.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What is the benefit of establish a sleep routine?",
+        "Response": "Improves deep sleep and hormonal balance.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Which practice helps to avoid snacking between meals?",
+        "Response": "Drinking warm water or herbal teas.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which practice helps to practice HIIT?",
+        "Response": "Morning on an empty stomach.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which herb is used to establish a sleep routine?",
+        "Response": "Ashwagandha or chamomile.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is the benefit of take Triphala at night?",
+        "Response": "Supports digestion and detoxification.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Which herb is used to scrape your tongue?",
+        "Response": "Neem or copper tongue scraper.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to chew ginger before meals?",
+        "Response": "Chew a thin slice with lemon and salt.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What can support eat three meals daily?",
+        "Response": "Following consistent meal times.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is the benefit of eat lunch at midday?",
+        "Response": "Maximizes nutrient absorption.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What can support wake up by 6 a.m.?",
+        "Response": "Early bedtime and natural light exposure.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "List one reason to eat three meals daily?",
+        "Response": "Prevents overeating and stabilizes blood sugar.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Ashwagandha or tulsi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "When should you establish a sleep routine?",
+        "Response": "Same time every night.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to scrape your tongue?",
+        "Response": "Removes toxins and improves taste.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to avoid snacking between meals?",
+        "Response": "Eat satisfying, balanced meals.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Name one way to do yoga each morning?",
+        "Response": "Sun salutations (Surya Namaskar).",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "When should you take Triphala at night?",
+        "Response": "Before bed with warm water.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "What can support wake up by 6 a.m.?",
+        "Response": "Avoiding late-night screen time.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "List one reason to avoid snacking between meals?",
+        "Response": "Maintains metabolic efficiency.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is recommended to practice HIIT?",
+        "Response": "Short, intense bursts with rest intervals.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which practice helps to eat lunch at midday?",
+        "Response": "Eating mindfully without distractions.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Why is it important to practice HIIT?",
+        "Response": "Boosts metabolism and endurance.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to eat lunch at midday?",
+        "Response": "Sitting quietly and chewing thoroughly.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is recommended to eat three meals daily?",
+        "Response": "Balanced portions at fixed times.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which practice helps to take Triphala at night?",
+        "Response": "Taking it with warm water before sleep.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Name one way to eat three meals daily?",
+        "Response": "Scheduled meal times without skipping.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Which herb is used to take Triphala at night?",
+        "Response": "Triphala powder or tablets.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is the benefit of avoid snacking between meals?",
+        "Response": "Reduces cravings and aids digestion.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is recommended to chew ginger before meals?",
+        "Response": "Fresh ginger with lemon before eating.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What can support do yoga each morning?",
+        "Response": "Morning routine with sunlight exposure.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "List one reason to establish a sleep routine?",
+        "Response": "Regulates the body\u2019s internal clock.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to wake up by 6 a.m.?",
+        "Response": "Early bedtime and sunrise alignment.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Which herb is used to avoid snacking between meals?",
+        "Response": "Triphala or fenugreek.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to do yoga each morning?",
+        "Response": "Starting with breathwork (pranayama).",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Name one way to eat lunch at midday?",
+        "Response": "Without distractions, focusing on food.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "When should you do yoga each morning?",
+        "Response": "Early morning for energy.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to take Triphala at night?",
+        "Response": "Mixed with warm water at bedtime.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to eat lunch at midday?",
+        "Response": "Warm, cooked, and easily digestible.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Why is it important to scrape your tongue?",
+        "Response": "Removes bacteria and improves oral health.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to do yoga each morning?",
+        "Response": "Enhances flexibility and mental clarity.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to chew ginger before meals?",
+        "Response": "Grated ginger in warm water.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is recommended to establish a sleep routine?",
+        "Response": "Consistent bedtime and wake-up time.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Name one way to practice HIIT?",
+        "Response": "20-30 second sprints with breaks.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Which practice helps to practice HIIT?",
+        "Response": "High-intensity intervals with recovery.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "List one reason to do yoga each morning?",
+        "Response": "Reduces stress and increases vitality.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to scrape your tongue?",
+        "Response": "Gentle scraping from back to front.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What can support wake up by 6 a.m.?",
+        "Response": "Avoiding caffeine after noon.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is the benefit of practice HIIT?",
+        "Response": "Increases stamina and fat burning.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to eat three meals daily?",
+        "Response": "Whole foods at regular intervals.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "When should you eat lunch at midday?",
+        "Response": "Around 12-1 PM for peak digestion.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Which herb is used to establish a sleep routine?",
+        "Response": "Valerian or jatamansi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to chew ginger before meals?",
+        "Response": "Ginger tea or raw with honey.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "List one reason to do yoga each morning?",
+        "Response": "Improves focus and energy levels.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to practice HIIT?",
+        "Response": "Enhances cardiovascular health.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is the benefit of avoid snacking between meals?",
+        "Response": "Balances hunger hormones.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is the benefit of eat lunch at midday?",
+        "Response": "Fuels sustained energy.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Why is it important to eat three meals daily?",
+        "Response": "Supports digestive rhythm.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to eat three meals daily?",
+        "Response": "Meal prepping for consistency.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is the benefit of eat lunch at midday?",
+        "Response": "Eating before 1 PM.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What can support practice HIIT?",
+        "Response": "Promotes efficient digestion.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "Which herb is used to avoid snacking between meals?",
+        "Response": "Partner or group workouts.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to eat three meals daily?",
+        "Response": "Gymnema or licorice.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Name one way to establish a sleep routine?",
+        "Response": "Pre-planned meals.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Why is it important to eat lunch at midday?",
+        "Response": "Wind-down routine before bed.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "List one reason to eat three meals daily?",
+        "Response": "Aligns with peak digestive capacity.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to eat three meals daily?",
+        "Response": "Prevents energy crashes.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is recommended to practice HIIT?",
+        "Response": "Short, intense bursts with rest intervals.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Name one way to practice HIIT?",
+        "Response": "Sprint intervals.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "List one reason to establish a sleep routine?",
+        "Response": "Regulates hormones.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to wake up by 6 a.m.?",
+        "Response": "Syncs with natural sunrise for better energy.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What can support take Triphala at night?",
+        "Response": "Warm water to enhance digestion.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is the benefit of eat lunch at midday?",
+        "Response": "Maximizes nutrient absorption.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Why is it important to eat three meals daily?",
+        "Response": "Stabilizes blood sugar and metabolism.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you practice HIIT?",
+        "Response": "Morning on an empty stomach.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Name one way to avoid snacking between meals?",
+        "Response": "Drink herbal teas.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is recommended to do yoga each morning?",
+        "Response": "Sun Salutations.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What can support scrape your tongue?",
+        "Response": "Copper tongue scraper.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is recommended to practice HIIT?",
+        "Response": "20-30 sec sprints with breaks.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which practice helps to scrape your tongue?",
+        "Response": "Gentle scraping upon waking.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which practice helps to avoid snacking between meals?",
+        "Response": "Drinking warm water or herbal teas.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Why is it important to practice HIIT?",
+        "Response": "Boosts metabolism and endurance.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which practice helps to chew ginger before meals?",
+        "Response": "Thin slice with lemon and salt.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "List one reason to avoid snacking between meals?",
+        "Response": "Prevents overeating and cravings.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which practice helps to eat three meals daily?",
+        "Response": "Fixed meal times without skipping.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to do yoga each morning?",
+        "Response": "Start with breathwork.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "List one reason to practice HIIT?",
+        "Response": "Enhances fat burning.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Ashwagandha or tulsi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "When should you chew ginger before meals?",
+        "Response": "10-15 mins before eating.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Brahmi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Why is it important to establish a sleep routine?",
+        "Response": "Improves deep sleep quality.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to scrape your tongue?",
+        "Response": "Removes toxins and bacteria.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which practice helps to chew ginger before meals?",
+        "Response": "Grated ginger in warm water.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which herb is used to practice HIIT?",
+        "Response": "Ginseng.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is the benefit of take Triphala at night?",
+        "Response": "Gentle detox and digestion aid.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to do yoga each morning?",
+        "Response": "On an empty stomach with sunlight.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What is recommended to eat three meals daily?",
+        "Response": "Balanced meals at fixed times.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which practice helps to avoid snacking between meals?",
+        "Response": "Eating fiber-rich meals.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "When should you eat lunch at midday?",
+        "Response": "Between 12-1 PM.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "What is the benefit of scrape your tongue?",
+        "Response": "Improves taste and oral health.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Which herb is used to eat three meals daily?",
+        "Response": "Triphala.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is recommended to establish a sleep routine?",
+        "Response": "Consistent bedtime and wake-up time.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Name one way to establish a sleep routine?",
+        "Response": "Wind-down ritual.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is recommended to establish a sleep routine?",
+        "Response": "Avoid screens 1 hour before bed.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "List one reason to eat lunch at midday?",
+        "Response": "Fuels sustained afternoon energy.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you do yoga each morning?",
+        "Response": "Sunrise for optimal energy.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to establish a sleep routine?",
+        "Response": "Follow consistent bedtime and wake-up time, avoid screens before bed.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Ashwagandha or tulsi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "When should you eat lunch at midday?",
+        "Response": "Between 12-1 PM.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Name one way to scrape your tongue?",
+        "Response": "Use a copper tongue scraper from back to front.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to practice HIIT?",
+        "Response": "Short, intense bursts with rest, ideally in the morning.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "When should you wake up by 6 a.m.?",
+        "Response": "Daily, aligning with sunrise.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Why is it important to wake up by 6 a.m.?",
+        "Response": "Aligns with natural circadian rhythm for optimal energy.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to eat lunch at midday?",
+        "Response": "Eat mindfully without distractions.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What can support take Triphala at night?",
+        "Response": "Warm water to enhance absorption.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "Name one way to wake up by 6 a.m.?",
+        "Response": "Early bedtime and exposure to morning sunlight.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What is recommended to scrape your tongue?",
+        "Response": "Copper or stainless steel tongue scraper.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Which herb is used to avoid snacking between meals?",
+        "Response": "Triphala or fenugreek.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which practice helps to do yoga each morning?",
+        "Response": "Sun Salutations or breathwork.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Which practice helps to avoid snacking between meals?",
+        "Response": "Drinking warm water or herbal teas.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "List one reason to avoid snacking between meals?",
+        "Response": "Prevents overeating and cravings.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to wake up by 6 a.m.?",
+        "Response": "Supports natural body rhythms and digestion.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to wake up by 6 a.m.?",
+        "Response": "Enhances morning productivity and mental clarity.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which practice helps to wake up by 6 a.m.?",
+        "Response": "Early bedtime and avoiding late-night meals.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "What is the benefit of avoid snacking between meals?",
+        "Response": "Balances digestion and reduces cravings.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What can support eat lunch at midday?",
+        "Response": "Eating in a calm environment without distractions.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "When should you eat three meals daily?",
+        "Response": "Fixed times: breakfast by 8 AM, lunch by 1 PM, dinner by 7 PM.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to take Triphala at night?",
+        "Response": "Mixed with warm water before bed.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What is the benefit of eat lunch at midday?",
+        "Response": "Maximizes nutrient absorption during peak digestion.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What can support chew ginger before meals?",
+        "Response": "Fresh ginger slice with lemon and salt.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "List one reason to avoid snacking between meals?",
+        "Response": "Maintains stable blood sugar levels.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to take Triphala at night?",
+        "Response": "Supports gentle detox and digestion.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "When should you avoid snacking between meals?",
+        "Response": "Between meals, especially late evening.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to chew ginger before meals?",
+        "Response": "Chew a thin slice 10-15 mins before meals.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What is recommended to chew ginger before meals?",
+        "Response": "Fresh ginger with lemon or in warm water.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What is the benefit of eat lunch at midday?",
+        "Response": "Fuels sustained energy and focus.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Which practice helps to eat lunch at midday?",
+        "Response": "Eating without distractions.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to eat lunch at midday?",
+        "Response": "As the largest meal when digestion is strongest.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "When should you take Triphala at night?",
+        "Response": "Before bed with warm water.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "List one reason to avoid snacking between meals?",
+        "Response": "Reduces unnecessary calorie intake.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What can support establish a sleep routine?",
+        "Response": "Herbal teas like chamomile before bed.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to eat three meals daily?",
+        "Response": "Balanced meals at fixed times without skipping.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "List one reason to eat three meals daily?",
+        "Response": "Prevents energy crashes and overeating.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is recommended to take Triphala at night?",
+        "Response": "With warm water before sleep.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to eat three meals daily?",
+        "Response": "Whole foods at regular intervals.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What is the benefit of scrape your tongue?",
+        "Response": "Removes toxins and improves oral health.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Which practice helps to take Triphala at night?",
+        "Response": "Taking it with warm water before sleep.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "What is the benefit of take Triphala at night?",
+        "Response": "Supports digestion and detoxification.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is recommended to chew ginger before meals?",
+        "Response": "Fresh ginger slice or tea before meals.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Name one way to take Triphala at night?",
+        "Response": "Mixed with warm water at bedtime.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to practice HIIT?",
+        "Response": "High-intensity intervals in the morning.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "When should you establish a sleep routine?",
+        "Response": "Same time every night, ideally by 10 PM.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to eat three meals daily?",
+        "Response": "Three balanced meals at fixed times.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What is the benefit of practice HIIT?",
+        "Response": "Boosts metabolism and endurance.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Which herb is used to scrape your tongue?",
+        "Response": "Neem or copper tongue scraper.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to scrape your tongue?",
+        "Response": "Gentle scraping upon waking, before drinking water.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "List one reason to chew ginger before meals?",
+        "Response": "Stimulates digestion.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is the benefit of chew ginger before meals?",
+        "Response": "Enhances digestive fire (agni).",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to wake up by 6 a.m.?",
+        "Response": "Align with sunrise and early bedtime.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Why is it important to eat three meals daily?",
+        "Response": "Maintains stable metabolism.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to practice HIIT?",
+        "Response": "Short bursts in the morning on empty stomach.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Ashwagandha or tulsi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to chew ginger before meals?",
+        "Response": "Chew a thin slice with lemon.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Which herb is used to chew ginger before meals?",
+        "Response": "Fresh ginger root.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Name one way to avoid snacking between meals?",
+        "Response": "Drink herbal teas.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What can support chew ginger before meals?",
+        "Response": "Warm water with lemon.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "When should you practice HIIT?",
+        "Response": "Morning hours.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Why is it important to chew ginger before meals?",
+        "Response": "Boosts nutrient absorption.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to establish a sleep routine?",
+        "Response": "Consistent bedtime, no screens before sleep.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "What is the benefit of avoid snacking between meals?",
+        "Response": "Reduces unnecessary calorie intake.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is recommended to establish a sleep routine?",
+        "Response": "Fixed sleep schedule.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What is recommended to wake up by 6 a.m.?",
+        "Response": "Early bedtime, sunrise alignment.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "List one reason to scrape your tongue?",
+        "Response": "Removes oral toxins.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Name one way to establish a sleep routine?",
+        "Response": "Wind-down routine before bed.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "What can support eat three meals daily?",
+        "Response": "Meal prepping.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What is the benefit of scrape your tongue?",
+        "Response": "Improves oral hygiene.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "List one reason to take Triphala at night?",
+        "Response": "Supports nighttime detox.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Brahmi or ashwagandha.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "What is recommended to do yoga each morning?",
+        "Response": "Sun Salutations.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "What is the benefit of establish a sleep routine?",
+        "Response": "Better sleep quality.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "What is recommended to establish a sleep routine?",
+        "Response": "Avoid late-night stimulation.",
+        "Context": "Recommendation"
+    },
+    {
+        "Instruction": "Why is it important to wake up by 6 a.m.?",
+        "Response": "Syncs with natural rhythms.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to take Triphala at night?",
+        "Response": "Aids digestion and detox.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which practice helps to eat three meals daily?",
+        "Response": "Scheduled meal times.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "Name one way to avoid snacking between meals?",
+        "Response": "Sip warm water.",
+        "Context": "Way"
+    },
+    {
+        "Instruction": "Which herb is used to practice HIIT?",
+        "Response": "Ginseng or ashwagandha.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to avoid snacking between meals?",
+        "Response": "Eat satisfying meals.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Why is it important to wake up by 6 a.m.?",
+        "Response": "Aligns with circadian rhythm.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Why is it important to eat three meals daily?",
+        "Response": "Prevents energy crashes.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which practice helps to wake up by 6 a.m.?",
+        "Response": "Early rising habit.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "What is the benefit of avoid snacking between meals?",
+        "Response": "Controls cravings.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "List one reason to practice HIIT?",
+        "Response": "Boosts endurance.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "What is the benefit of wake up by 6 a.m.?",
+        "Response": "Increases morning productivity.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "When should you take Triphala at night?",
+        "Response": "Before bedtime.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "Which herb is used to scrape your tongue?",
+        "Response": "Neem or copper scraper.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Why is it important to practice HIIT?",
+        "Response": "Enhances metabolism.",
+        "Context": "Reason"
+    },
+    {
+        "Instruction": "Which herb is used to chew ginger before meals?",
+        "Response": "Dry ginger powder.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which herb is used to eat three meals daily?",
+        "Response": "Triphala or fenugreek.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which herb is used to take Triphala at night?",
+        "Response": "Triphala powder.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend to establish a sleep routine?",
+        "Response": "Calming bedtime rituals.",
+        "Context": "Method"
+    },
+    {
+        "Instruction": "Which herb is used to do yoga each morning?",
+        "Response": "Tulsi or brahmi.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "Which herb is used to chew ginger before meals?",
+        "Response": "Fresh or dried ginger.",
+        "Context": "Herb"
+    },
+    {
+        "Instruction": "When should you eat three meals daily?",
+        "Response": "Breakfast by 8 AM, lunch by 1 PM, dinner by 7 PM.",
+        "Context": "Timing"
+    },
+    {
+        "Instruction": "What is the benefit of practice HIIT?",
+        "Response": "Improves cardiovascular health.",
+        "Context": "Benefit"
+    },
+    {
+        "Instruction": "Which practice helps to establish a sleep routine?",
+        "Response": "Relaxing pre-sleep routine.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "List one reason to do yoga each morning?",
+        "Response": "Daily yoga increases focus, balance, and mental clarity.",
+        "Context": "YogaClarity"
+    }
+]

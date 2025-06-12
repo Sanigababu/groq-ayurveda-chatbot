@@ -1,0 +1,2497 @@
+[
+    {
+        "Instruction": "What is Ayurveda?",
+        "Response ": "Ayurveda is an ancient science of life focusing on balance among body, mind, and soul using natural methods like diet, herbs, and meditation.",
+        "Context": "Ayurveda Basics"
+    },
+    {
+        "Instruction": "What are the three doshas?",
+        "Response ": "The three doshas are Vata (movement), Pitta (digestion), and Kapha (structure). Balancing them is key to health.",
+        "Context": "Doshas"
+    },
+    {
+        "Instruction": "How does Ayurveda define health?",
+        "Response ": "Health in Ayurveda is a balance of body, mind, and soul, and harmony among the three doshas (Vata, Pitta, Kapha).",
+        "Context": "Health Definition"
+    },
+    {
+        "Instruction": "What causes dosha imbalances?",
+        "Response ": "Dosha imbalances are caused by stress, unhealthy diet, lack of exercise, and emotional disturbances.",
+        "Context": "Dosha Imbalance"
+    },
+    {
+        "Instruction": "What are symptoms of Vata imbalance?",
+        "Response ": "Vata imbalance can cause constipation, anxiety, insomnia, and joint pain.",
+        "Context": "Vata Imbalance"
+    },
+    {
+        "Instruction": "What are symptoms of Pitta imbalance?",
+        "Response ": "Pitta imbalance may lead to anger, acid reflux, skin rashes, and inflammation.",
+        "Context": "Pitta Imbalance"
+    },
+    {
+        "Instruction": "What are symptoms of Kapha imbalance?",
+        "Response ": "Kapha imbalance can cause weight gain, congestion, and feelings of lethargy or attachment.",
+        "Context": "Kapha Imbalance"
+    },
+    {
+        "Instruction": "How can I balance my doshas?",
+        "Response ": "Balance doshas through proper diet, exercise, meditation, and lifestyle changes tailored to your dosha type.",
+        "Context": "Dosha Balance"
+    },
+    {
+        "Instruction": "What is the purpose of life in Ayurveda?",
+        "Response ": "In Ayurveda, life's purpose is to achieve balance in dharma (duty), artha (wealth), kama (desire), and moksha (liberation).",
+        "Context": "Life Purpose"
+    },
+    {
+        "Instruction": "What are the four purusharthas?",
+        "Response ": "The four purusharthas are dharma (duty), artha (wealth), kama (desire), and moksha (spiritual liberation).",
+        "Context": "Purusharthas"
+    },
+    {
+        "Instruction": "How does diet affect health in Ayurveda?",
+        "Response ": "Diet in Ayurveda is crucial for maintaining dosha balance and preventing diseases. Eat fresh, seasonal, and natural foods.",
+        "Context": "Diet and Health"
+    },
+    {
+        "Instruction": "What are Ayurvedic remedies for stress?",
+        "Response ": "Ayurvedic stress remedies include meditation, yoga, herbal teas, and a balanced diet tailored to your dosha.",
+        "Context": "Stress Management"
+    },
+    {
+        "Instruction": "How does Ayurveda view mental health?",
+        "Response ": "Ayurveda sees mental health as interconnected with physical health, emphasizing balance in mind, body, and soul.",
+        "Context": "Mental Health"
+    },
+    {
+        "Instruction": "What is prakriti in Ayurveda?",
+        "Response ": "Prakriti is your unique constitution, determined by the balance of Vata, Pitta, and Kapha at birth.",
+        "Context": "Prakriti"
+    },
+    {
+        "Instruction": "What are Ayurvedic cleansing methods?",
+        "Response ": "Ayurvedic cleansing includes Panchakarma, which detoxifies the body through therapies like oil massages and herbal treatments.",
+        "Context": "Cleansing"
+    },
+    {
+        "Instruction": "How can I improve digestion in Ayurveda?",
+        "Response ": "Improve digestion by eating warm, cooked meals, avoiding cold foods, and incorporating spices like ginger and cumin.",
+        "Context": "Digestion"
+    },
+    {
+        "Instruction": "What is the role of meditation in Ayurveda?",
+        "Response ": "Meditation in Ayurveda helps balance the mind, reduce stress, and enhance overall well-being.",
+        "Context": "Meditation"
+    },
+    {
+        "Instruction": "What are Ayurvedic herbs for immunity?",
+        "Response ": "Ayurvedic herbs like Ashwagandha, Tulsi, and Turmeric boost immunity and promote overall health.",
+        "Context": "Immunity"
+    },
+    {
+        "Instruction": "How does Vata imbalance affect health?",
+        "Response ": "Vata imbalance can cause constipation, anxiety, insomnia, and joint pain. Balance it with warm foods and routines.",
+        "Context": "Doshas"
+    },
+    {
+        "Instruction": "What are symptoms of Pitta imbalance?",
+        "Response ": "Pitta imbalance leads to anger, heartburn, acne, and inflammation. Cool foods and relaxation help balance it.",
+        "Context": "Doshas"
+    },
+    {
+        "Instruction": "What happens during Kapha imbalance?",
+        "Response ": "Kapha imbalance causes weight gain, congestion, and lethargy. Stay active and eat light, warm foods to balance it.",
+        "Context": "Doshas"
+    },
+    {
+        "Instruction": "How to maintain health in Ayurveda?",
+        "Response ": "Maintain health by balancing doshas through diet, exercise, meditation, and lifestyle choices tailored to your constitution.",
+        "Context": "Health Maintenance"
+    },
+    {
+        "Instruction": "What is the purpose of life in Ayurveda?",
+        "Response ": "The purpose of life in Ayurveda is to achieve balance in dharma (duty), artha (wealth), kama (desire), and moksha (liberation).",
+        "Context": "Ayurveda Philosophy"
+    },
+    {
+        "Instruction": "What are Ayurvedic remedies for stress?",
+        "Response ": "Reduce stress with meditation, breathing exercises, herbal teas, and a balanced diet suited to your dosha.",
+        "Context": "Stress Management"
+    },
+    {
+        "Instruction": "How does diet affect health in Ayurveda?",
+        "Response ": "Diet plays a key role in balancing doshas. Eat fresh, seasonal, and wholesome foods aligned with your constitution.",
+        "Context": "Diet and Nutrition"
+    },
+    {
+        "Instruction": "What is the role of meditation in Ayurveda?",
+        "Response ": "Meditation calms the mind, reduces stress, and balances doshas, promoting overall health and spiritual growth.",
+        "Context": "Meditation"
+    },
+    {
+        "Instruction": "What are the three doshas in Ayurveda?",
+        "Response ": "The three doshas are Vata (movement), Pitta (transformation), and Kapha (structure), each representing different body-mind characteristics.",
+        "Context": "Ayurveda identifies three doshas that govern bodily functions: Vata (air/space), Pitta (fire/water), and Kapha (earth/water)."
+    },
+    {
+        "Instruction": "What is the primary function of Vata dosha?",
+        "Response ": "Vata governs movement, communication, circulation, and elimination processes in the body.",
+        "Context": "Vata is composed of air and ether elements and controls bodily movements and nervous functions."
+    },
+    {
+        "Instruction": "What are common traits of a Pitta body type?",
+        "Response ": "Pitta types are energetic, ambitious, organized, and prone to irritability and digestive issues.",
+        "Context": "Pitta governs metabolism and digestion, and its qualities are hot, sharp, and oily."
+    },
+    {
+        "Instruction": "How does Kapha imbalance affect the body?",
+        "Response ": "Kapha imbalance causes lethargy, weight gain, congestion, and emotional heaviness.",
+        "Context": "Kapha, composed of earth and water, is responsible for structure and stability but leads to stagnation when imbalanced."
+    },
+    {
+        "Instruction": "How to balance excess Vata dosha?",
+        "Response ": "To balance Vata, prioritize warmth, routine, hydration, and grounding activities like yoga and oil massages.",
+        "Context": "Vata imbalance can cause dryness, anxiety, and poor circulation; opposite qualities like warmth restore balance."
+    },
+    {
+        "Instruction": "What are the physical signs of Pitta imbalance?",
+        "Response ": "Signs include skin rashes, acidity, irritability, and excessive body heat.",
+        "Context": "Excess Pitta increases heat and inflammation, leading to digestive and emotional issues."
+    },
+    {
+        "Instruction": "What lifestyle suits Kapha body types?",
+        "Response ": "Kapha types thrive on light, stimulating activities, a warm diet, and regular exercise.",
+        "Context": "Kapha individuals need to counteract heaviness and sluggishness through movement and warmth."
+    },
+    {
+        "Instruction": "What is the purpose of the Ayurvedic body-type questionnaire?",
+        "Response ": "It helps identify your predominant dosha\u2014Vata, Pitta, or Kapha\u2014and reveals imbalances for better health management.",
+        "Context": "The questionnaire highlights traits and physical-mental characteristics to understand your Ayurvedic constitution."
+    },
+    {
+        "Instruction": "How do you identify a Vata/Pitta body type?",
+        "Response ": "A Vata/Pitta type shows many Vata traits, fewer Pitta traits, and very few Kapha traits, with Vata affecting the body and Pitta the mind.",
+        "Context": "Body-type identification involves recognizing dominant doshas through physical and mental attributes."
+    },
+    {
+        "Instruction": "What are the primary qualities of Vata dosha?",
+        "Response ": "Vata qualities include lightness, mobility, coldness, roughness, and brittleness.",
+        "Context": "Vata, composed of ether and air, governs movement and communication in the body."
+    },
+    {
+        "Instruction": "What functions does Pitta dosha perform in the body?",
+        "Response ": "Pitta governs digestion, metabolism, heat production, and the transformation of food and ideas.",
+        "Context": "Pitta, made of fire and water, manages energy and transformation processes in the body."
+    },
+    {
+        "Instruction": "Where does Kapha dosha reside in the body?",
+        "Response ": "Kapha resides in the chest, neck, head, joints, stomach, and small intestines.",
+        "Context": "Kapha, formed by water and earth, governs structure, cohesion, and lubrication."
+    },
+    {
+        "Instruction": "What are signs of Vata imbalance?",
+        "Response ": "Symptoms include restlessness, anxiety, poor circulation, dry skin, and irregular digestion.",
+        "Context": "Vata imbalance arises from excessive movement, cold exposure, and irregular routines."
+    },
+    {
+        "Instruction": "How can you balance excess Pitta dosha?",
+        "Response ": "Cooling foods, relaxation, and avoiding overwork help balance excess Pitta.",
+        "Context": "Excess Pitta causes heat-related issues like anger, acidity, and inflammation."
+    },
+    {
+        "Instruction": "What are the mental traits of a Kapha individual?",
+        "Response ": "Kapha types are calm, patient, compassionate, and slow to anger.",
+        "Context": "Kapha governs emotional stability and provides a nurturing, grounded personality."
+    },
+    {
+        "Instruction": "How does Ayurveda suggest restoring balance to doshas?",
+        "Response ": "Use opposite qualities: warmth for Vata, coolness for Pitta, and stimulation for Kapha.",
+        "Context": "Balancing doshas involves countering excess qualities to maintain harmony and health."
+    },
+    {
+        "Instruction": "What are the main body types in Ayurveda?",
+        "Response ": "The main body types in Ayurveda are Vata, Pitta, Kapha, and their combinations (e.g., Vata-Pitta, Pitta-Kapha).",
+        "Context": "Doshas"
+    },
+    {
+        "Instruction": "How can I determine my Ayurvedic body type?",
+        "Response ": "You can determine your body type by assessing physical, mental, and emotional traits using a self-assessment chart.",
+        "Context": "Doshas"
+    },
+    {
+        "Instruction": "What are the characteristics of a Vata body type?",
+        "Response ": "Vata types are light, slim, and energetic. They have dry skin, cold hands/feet, and variable digestion.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "How can Vata types stay balanced?",
+        "Response ": "Vata types should eat warm, moist foods, avoid cold/raw foods, and maintain a regular routine.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are common health issues for Vata types?",
+        "Response ": "Vata types may face constipation, anxiety, insomnia, and joint pain due to imbalance.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the attributes of Vata dosha?",
+        "Response ": "Vata is dry, light, cold, and mobile. It governs movement and communication in the body.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What foods should Vata types avoid?",
+        "Response ": "Vata types should avoid cold, dry, and raw foods like salads and raw vegetables.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the best foods for Vata types?",
+        "Response ": "Vata types benefit from warm, oily, and sweet foods like soups, stews, and cooked grains.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What spices are good for Vata types?",
+        "Response ": "Vata types benefit from warming spices like ginger, cinnamon, and cumin.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "How to create a Vata-balancing routine?",
+        "Response ": "Stick to a regular schedule, eat warm meals, and practice calming activities like yoga.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the psychological traits of Vata types?",
+        "Response ": "Vata types are creative, quick-thinking, but prone to anxiety and fear when imbalanced.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "How to calm a Vata mind?",
+        "Response ": "Practice meditation, deep breathing, and avoid overstimulation to calm a Vata mind.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What herbs help balance Vata?",
+        "Response ": "Herbs like ashwagandha, licorice, and ginger help balance Vata dosha.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the best oils for Vata types?",
+        "Response ": "Sesame oil and almond oil are excellent for Vata types due to their warming properties.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "How to use oils for Vata balance?",
+        "Response ": "Massage warm sesame oil on the body before showering to soothe and balance Vata.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the best exercises for Vata types?",
+        "Response ": "Vata types should do calming exercises like yoga, tai chi, and walking in nature.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "How to avoid Vata imbalance in winter?",
+        "Response ": "Dress warmly, eat warm foods, and use humidifiers to avoid Vata imbalance in winter.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the signs of Vata imbalance?",
+        "Response ": "Signs include dry skin, constipation, anxiety, insomnia, and joint pain.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "How to treat Vata-related insomnia?",
+        "Response ": "Drink warm milk with spices like nutmeg before bed to treat Vata-related insomnia.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the best bedtime routines for Vata?",
+        "Response ": "Go to bed early, avoid screens, and practice calming rituals like oil massage.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the best teas for Vata types?",
+        "Response ": "Vata types benefit from warming teas like ginger, cinnamon, and chamomile.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "How to balance Vata during travel?",
+        "Response ": "Stay hydrated, eat warm meals, and avoid overexertion to balance Vata during travel.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the best snacks for Vata types?",
+        "Response ": "Warm, moist snacks like cooked fruits, nuts, and seeds are ideal for Vata types.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "How to reduce Vata-related joint pain?",
+        "Response ": "Apply warm oil massages and consume anti-inflammatory herbs like turmeric.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the characteristics of a Pitta body type?",
+        "Response ": "Pitta types have medium build, warm skin, sharp eyes, and strong digestion. They are intelligent, organized, and prone to heat-related issues.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "How can Pitta types stay balanced?",
+        "Response ": "Pitta types should avoid spicy foods, excessive heat, and stress. Eat cooling foods like cucumbers and mint.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What foods are good for Pitta types?",
+        "Response ": "Pitta types benefit from sweet, bitter, and astringent foods like melons, leafy greens, and coconut.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What spices should Pitta types avoid?",
+        "Response ": "Pitta types should avoid hot spices like black pepper, cayenne, and jalape\u00f1os.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the best cooling drinks for Pitta?",
+        "Response ": "Cooling drinks like coconut water, mint tea, and cucumber juice are ideal for Pitta types.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "How to reduce Pitta-related anger?",
+        "Response ": "Practice meditation, avoid overheating, and eat cooling foods to reduce Pitta-related anger.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the signs of Pitta imbalance?",
+        "Response ": "Signs include irritability, inflammation, acid reflux, and skin rashes.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "How to treat Pitta-related skin issues?",
+        "Response ": "Use cooling herbs like aloe vera and neem, and avoid spicy foods to treat Pitta-related skin issues.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the best exercises for Pitta types?",
+        "Response ": "Pitta types should do moderate exercises like swimming and yoga during cooler parts of the day.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "How to balance Pitta in summer?",
+        "Response ": "Stay cool, avoid direct sun, and eat cooling foods like watermelon and cucumber to balance Pitta in summer.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the psychological traits of Pitta types?",
+        "Response ": "Pitta types are intelligent, organized, but can be critical and perfectionistic when imbalanced.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "How to calm a Pitta mind?",
+        "Response ": "Practice mindfulness, avoid overworking, and engage in calming activities like walking in nature.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What herbs help balance Pitta?",
+        "Response ": "Herbs like coriander, fennel, and mint help balance Pitta dosha.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the best oils for Pitta types?",
+        "Response ": "Cooling oils like coconut and sunflower oil are ideal for Pitta types.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "How to use oils for Pitta balance?",
+        "Response ": "Massage with cooling oils like coconut oil to soothe and balance Pitta.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the best bedtime routines for Pitta?",
+        "Response ": "Go to bed early, avoid screens, and drink cooling herbal teas before bed.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the best teas for Pitta types?",
+        "Response ": "Pitta types benefit from cooling teas like mint, chamomile, and rose.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "How to balance Pitta during travel?",
+        "Response ": "Stay hydrated, avoid spicy foods, and take breaks to cool down during travel.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the best snacks for Pitta types?",
+        "Response ": "Cooling snacks like fresh fruits, cucumber slices, and coconut are ideal for Pitta types.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "How to reduce Pitta-related inflammation?",
+        "Response ": "Use anti-inflammatory herbs like turmeric and avoid spicy, oily foods.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the characteristics of a Kapha body type?",
+        "Response ": "Kapha types have strong, sturdy bodies, oily skin, and slow digestion. They are calm, loving, and prone to weight gain.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "How can Kapha types stay balanced?",
+        "Response ": "Kapha types should avoid heavy, oily foods, stay active, and eat light, dry foods like beans and leafy greens.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What foods are good for Kapha types?",
+        "Response ": "Kapha types benefit from bitter, astringent, and pungent foods like leafy greens, beans, and spices like ginger.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What foods should Kapha types avoid?",
+        "Response ": "Kapha types should avoid sweet, salty, and oily foods like dairy, sweets, and fried foods.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What are the best exercises for Kapha types?",
+        "Response ": "Kapha types should do vigorous exercises like running, aerobics, and strength training to stay balanced.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "How to reduce Kapha-related weight gain?",
+        "Response ": "Eat light, dry foods, avoid heavy meals, and exercise regularly to reduce Kapha-related weight gain.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What are the signs of Kapha imbalance?",
+        "Response ": "Signs include weight gain, lethargy, congestion, and emotional attachment or greed.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "How to treat Kapha-related congestion?",
+        "Response ": "Use warming spices like ginger and turmeric, and avoid cold, heavy foods to treat Kapha-related congestion.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What are the best spices for Kapha types?",
+        "Response ": "Kapha types benefit from warming spices like ginger, black pepper, and turmeric.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "How to balance Kapha in winter?",
+        "Response ": "Stay active, avoid cold foods, and eat warm, light meals to balance Kapha in winter.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What are the psychological traits of Kapha types?",
+        "Response ": "Kapha types are calm, loving, and patient but can become lethargic or possessive when imbalanced.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "How to energize a Kapha mind?",
+        "Response ": "Engage in stimulating activities, avoid daytime naps, and eat light, spicy foods to energize a Kapha mind.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What herbs help balance Kapha?",
+        "Response ": "Herbs like ginger, turmeric, and fenugreek help balance Kapha dosha.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What are the best oils for Kapha types?",
+        "Response ": "Light oils like mustard and sunflower oil are ideal for Kapha types.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "How to use oils for Kapha balance?",
+        "Response ": "Use light oils for massage and avoid heavy, oily foods to balance Kapha.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What are the best bedtime routines for Kapha?",
+        "Response ": "Avoid heavy meals before bed, stay active during the day, and wake up early to balance Kapha.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What are the best teas for Kapha types?",
+        "Response ": "Kapha types benefit from warming teas like ginger, cinnamon, and black pepper.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "How to balance Kapha during travel?",
+        "Response ": "Stay active, avoid heavy meals, and drink warm teas to balance Kapha during travel.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What are the best snacks for Kapha types?",
+        "Response ": "Light snacks like roasted chickpeas, popcorn, and fresh veggies are ideal for Kapha types.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "How to reduce Kapha-related lethargy?",
+        "Response ": "Engage in vigorous exercise, avoid daytime naps, and eat light, spicy foods to reduce lethargy.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What is the importance of knowing my Ayurvedic constitution?",
+        "Response ": "Knowing your Ayurvedic constitution helps you understand your strengths, weaknesses, and tendencies, enabling better health and lifestyle choices.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How do I determine my Ayurvedic constitution?",
+        "Response ": "You can determine your constitution by assessing physical, mental, and emotional traits using a self-assessment chart or consulting an Ayurvedic practitioner.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "What are the benefits of knowing my prakriti?",
+        "Response ": "Knowing your prakriti helps you anticipate health issues, adjust your lifestyle, and maintain balance through diet, exercise, and daily routines.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How can I use prakriti to improve my relationships?",
+        "Response ": "Understanding the prakriti of others helps you respond with compassion and clarity, improving communication and reducing conflicts.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How to balance my doshas based on my prakriti?",
+        "Response ": "Follow diet, exercise, and lifestyle guidelines tailored to your prakriti to maintain or restore doshic balance.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "What if my vikriti differs from my prakriti?",
+        "Response ": "If your vikriti (current state) differs from your prakriti, follow guidelines to pacify the aggravated dosha and restore balance.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How to handle vata imbalance based on prakriti?",
+        "Response ": "For vata imbalance, eat warm, moist foods, maintain a regular routine, and avoid cold, dry, and raw foods.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "What are the best foods for vata types?",
+        "Response ": "Vata types benefit from warm, oily, and sweet foods like soups, stews, and cooked grains.",
+        "Context": "Vata Dosha"
+    },
+    {
+        "Instruction": "How to handle pitta imbalance based on prakriti?",
+        "Response ": "For pitta imbalance, eat cooling foods, avoid spicy and oily foods, and practice calming activities like meditation.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "What are the best foods for pitta types?",
+        "Response ": "Pitta types benefit from sweet, bitter, and astringent foods like melons, leafy greens, and coconut.",
+        "Context": "Pitta Dosha"
+    },
+    {
+        "Instruction": "How to handle kapha imbalance based on prakriti?",
+        "Response ": "For kapha imbalance, eat light, dry foods, avoid heavy and oily foods, and engage in vigorous exercise.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "What are the best foods for kapha types?",
+        "Response ": "Kapha types benefit from bitter, astringent, and pungent foods like leafy greens, beans, and spices like ginger.",
+        "Context": "Kapha Dosha"
+    },
+    {
+        "Instruction": "How to maintain doshic balance over time?",
+        "Response ": "Regularly assess your vikriti, adjust your diet and lifestyle, and follow Ayurvedic guidelines to maintain doshic balance.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "What are the signs of doshic imbalance?",
+        "Response ": "Signs include anxiety (vata), irritability (pitta), and lethargy (kapha). Adjust diet and lifestyle to restore balance.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How to use prakriti for preventive health?",
+        "Response ": "Anticipate health issues based on your prakriti and take preventive measures like diet adjustments and lifestyle changes.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "What are the best exercises for my dosha?",
+        "Response ": "Vata: Calming yoga; Pitta: Moderate exercises; Kapha: Vigorous activities like running or aerobics.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How to create a daily routine based on prakriti?",
+        "Response ": "Vata: Regular schedule; Pitta: Balanced routine; Kapha: Active and stimulating routine.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "What are the best herbs for my dosha?",
+        "Response ": "Vata: Ashwagandha; Pitta: Coriander; Kapha: Ginger. Use herbs to balance your dosha.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How to use Ayurveda for emotional balance?",
+        "Response ": "Understand your dosha, practice mindfulness, and use herbs and diet to balance emotions.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "What are the best meditation practices for my dosha?",
+        "Response ": "Vata: Grounding meditation; Pitta: Cooling meditation; Kapha: Energizing meditation.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How to use prakriti for better sleep?",
+        "Response ": "Vata: Warm milk before bed; Pitta: Cooling teas; Kapha: Light dinner and early bedtime.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "What are the best teas for my dosha?",
+        "Response ": "Vata: Ginger tea; Pitta: Mint tea; Kapha: Black pepper tea.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How to use prakriti for stress management?",
+        "Response ": "Vata: Calming routines; Pitta: Cooling activities; Kapha: Vigorous exercise.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "What are the best oils for my dosha?",
+        "Response ": "Vata: Sesame oil; Pitta: Coconut oil; Kapha: Mustard oil.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "How to use oils for doshic balance?",
+        "Response ": "Massage with oils suited to your dosha to soothe and balance your mind and body.",
+        "Context": "Ayurvedic Constitution"
+    },
+    {
+        "Instruction": "What is health according to Ayurveda?",
+        "Response ": "Health in Ayurveda is a balance of body, mind, and consciousness, including the three doshas (vata, pitta, kapha), seven tissues (dhatus), and proper digestion (agni).",
+        "Context": "Ayurvedic definition of health"
+    },
+    {
+        "Instruction": "What are the three doshas?",
+        "Response ": "The three doshas are vata (movement), pitta (digestion), and kapha (structure). Balance of these maintains health; imbalance leads to disease.",
+        "Context": "Doshas in Ayurveda"
+    },
+    {
+        "Instruction": "How does imbalance in doshas affect health?",
+        "Response ": "Imbalance in doshas disrupts bodily functions, leading to diseases. For example, excess vata causes anxiety, pitta causes anger, and kapha causes lethargy.",
+        "Context": "Dosha imbalance"
+    },
+    {
+        "Instruction": "What are the seven tissues (dhatus)?",
+        "Response ": "The seven dhatus are rasa (plasma), rakta (blood), mamsa (muscle), meda (fat), asthi (bone), majja (marrow), and shukra/artava (reproductive tissues).",
+        "Context": "Dhatus in Ayurveda"
+    },
+    {
+        "Instruction": "How do dhatus affect health?",
+        "Response ": "Each dhatu depends on the previous one for nourishment. If digestion is poor, tissues suffer, leading to health issues.",
+        "Context": "Dhatus and health"
+    },
+    {
+        "Instruction": "What is agni in Ayurveda?",
+        "Response ": "Agni is the digestive fire that governs metabolism, breaks down food, and maintains immunity. Strong agni ensures good health; weak agni leads to disease.",
+        "Context": "Agni and digestion"
+    },
+    {
+        "Instruction": "How does agni affect immunity?",
+        "Response ": "Agni destroys toxins and bacteria in the gut, strengthening immunity. Weak agni impairs digestion and weakens the immune system.",
+        "Context": "Agni and immunity"
+    },
+    {
+        "Instruction": "What are the causes of disease in Ayurveda?",
+        "Response ": "Disease arises from imbalances in doshas, poor digestion, wrong diet, stress, and unhealthy lifestyle habits.",
+        "Context": "Causes of disease"
+    },
+    {
+        "Instruction": "How does diet affect health in Ayurveda?",
+        "Response ": "Eating foods that match your dosha maintains balance. Wrong foods (e.g., spicy for pitta, cold for vata) create imbalance and disease.",
+        "Context": "Diet and doshas"
+    },
+    {
+        "Instruction": "What are some vata-balancing foods?",
+        "Response ": "Warm, moist, and grounding foods like soups, cooked grains, and ghee help balance vata. Avoid cold, dry, or raw foods.",
+        "Context": "Vata-balancing diet"
+    },
+    {
+        "Instruction": "What foods should pitta avoid?",
+        "Response ": "Pitta types should avoid spicy, sour, and fried foods, as they increase heat and acidity in the body.",
+        "Context": "Pitta-balancing diet"
+    },
+    {
+        "Instruction": "What foods increase kapha?",
+        "Response ": "Dairy, cold drinks, and fatty foods increase kapha. Kapha types should avoid these to prevent sluggishness and weight gain.",
+        "Context": "Kapha-balancing diet"
+    },
+    {
+        "Instruction": "How do seasons affect health?",
+        "Response ": "Each season has a dominant dosha (e.g., vata in autumn, kapha in winter). Adjusting diet and lifestyle to the season helps maintain balance.",
+        "Context": "Seasons and doshas"
+    },
+    {
+        "Instruction": "What should vata types do in autumn?",
+        "Response ": "Vata types should eat warm foods, dress warmly, and avoid cold weather in autumn to prevent vata-related issues like dry skin and anxiety.",
+        "Context": "Seasonal health tips"
+    },
+    {
+        "Instruction": "How does exercise affect doshas?",
+        "Response ": "Regular exercise balances doshas: gentle yoga for vata, moderate exercise for pitta, and vigorous activity for kapha. Overexertion harms health.",
+        "Context": "Exercise and doshas"
+    },
+    {
+        "Instruction": "What are the benefits of yoga?",
+        "Response ": "Yoga improves flexibility, reduces stress, and balances doshas. It\u2019s especially beneficial for vata types to calm the mind and body.",
+        "Context": "Yoga and health"
+    },
+    {
+        "Instruction": "How does stress affect health?",
+        "Response ": "Stress disturbs doshas, leading to anxiety (vata), anger (pitta), or overeating (kapha). Managing stress is key to maintaining balance.",
+        "Context": "Stress and doshas"
+    },
+    {
+        "Instruction": "What are some stress-relief tips?",
+        "Response ": "Practice meditation, deep breathing, and follow a daily routine to reduce stress. Avoid overworking and maintain a balanced diet.",
+        "Context": "Stress management"
+    },
+    {
+        "Instruction": "How do emotions affect health?",
+        "Response ": "Negative emotions like fear, anger, and grief disturb doshas and weaken organs. Positive emotions promote balance and well-being.",
+        "Context": "Emotions and health"
+    },
+    {
+        "Instruction": "What emotions affect the liver?",
+        "Response ": "Anger and frustration primarily affect the liver, leading to pitta imbalances like acidity or liver disorders.",
+        "Context": "Emotions and organs"
+    },
+    {
+        "Instruction": "How does age affect health?",
+        "Response ": "Childhood is kapha-dominant (growth), adulthood is pitta-dominant (activity), and old age is vata-dominant (degeneration). Adjust lifestyle accordingly.",
+        "Context": "Age and doshas"
+    },
+    {
+        "Instruction": "What should elderly avoid?",
+        "Response ": "Elderly should avoid cold, dry foods and strenuous activities. Warm, moist foods and gentle exercises help balance vata in old age.",
+        "Context": "Health in old age"
+    },
+    {
+        "Instruction": "How do senses affect health?",
+        "Response ": "Overuse (e.g., loud music), misuse (e.g., reading in dim light), or underuse (e.g., lack of sunlight) of senses can lead to health issues.",
+        "Context": "Senses and health"
+    },
+    {
+        "Instruction": "What is sensory deprivation?",
+        "Response ": "Lack of sensory stimulation, like staying indoors for long, can cause restlessness, depression, and weakened immunity.",
+        "Context": "Sensory health"
+    },
+    {
+        "Instruction": "How to balance senses?",
+        "Response ": "Use senses mindfully: avoid overstimulation, protect them from harm, and engage in sensory therapies like aromatherapy or massage.",
+        "Context": "Sensory balance"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on why we get sick?",
+        "Response ": "We get sick when we disregard our inner wisdom, like eating foods that disturb our dosha balance. Ayurveda emphasizes self-knowledge and harmony with nature to prevent illness.",
+        "Context": "Causes of illness"
+    },
+    {
+        "Instruction": "How can we prevent illness in Ayurveda?",
+        "Response ": "Prevent illness by understanding your dosha, eating foods that balance it, and following a lifestyle aligned with nature and your constitution.",
+        "Context": "Prevention in Ayurveda"
+    },
+    {
+        "Instruction": "What are the stages of disease development in Ayurveda?",
+        "Response ": "Disease develops in six stages: accumulation, aggravation, spread, deposition, manifestation, and cellular deformity. Early detection and treatment are key.",
+        "Context": "Disease stages"
+    },
+    {
+        "Instruction": "What happens in the accumulation stage?",
+        "Response ": "In the accumulation stage, doshas build up in their sites (vata in colon, pitta in intestines, kapha in stomach). Symptoms like constipation or heaviness may appear.",
+        "Context": "Accumulation stage"
+    },
+    {
+        "Instruction": "How can we address dosha accumulation?",
+        "Response ": "Address dosha accumulation by eating opposite qualities (e.g., warm foods for vata) and listening to your body\u2019s cravings for balance.",
+        "Context": "Dosha balance"
+    },
+    {
+        "Instruction": "What is the aggravation stage?",
+        "Response ": "In the aggravation stage, accumulated doshas overflow from their sites, causing symptoms like heartburn (pitta) or congestion (kapha).",
+        "Context": "Aggravation stage"
+    },
+    {
+        "Instruction": "How can we reverse the aggravation stage?",
+        "Response ": "Reverse aggravation by using opposite qualities (e.g., cooling foods for pitta) and home remedies. Seek Ayurvedic advice if symptoms persist.",
+        "Context": "Reversing aggravation"
+    },
+    {
+        "Instruction": "What is the spread stage?",
+        "Response ": "In the spread stage, doshas enter the bloodstream, looking for weak areas to settle. Panchakarma cleansing is often needed at this stage.",
+        "Context": "Spread stage"
+    },
+    {
+        "Instruction": "What is ama in Ayurveda?",
+        "Response ": "Ama is a toxic substance formed from undigested food, clogging channels and causing disease. It\u2019s eliminated through cleansing practices like Panchakarma.",
+        "Context": "Ama and disease"
+    },
+    {
+        "Instruction": "How does ama affect the body?",
+        "Response ": "Ama clogs bodily channels, isolates cells, and disrupts cellular intelligence, leading to pathological changes and disease.",
+        "Context": "Ama and health"
+    },
+    {
+        "Instruction": "What is the deposition stage?",
+        "Response ": "In the deposition stage, aggravated doshas enter weak tissues, altering their structure and function, creating the seeds of disease.",
+        "Context": "Deposition stage"
+    },
+    {
+        "Instruction": "What happens in the manifestation stage?",
+        "Response ": "In the manifestation stage, disease symptoms become visible, such as ulcers or joint pain, as the doshas fully affect the tissues.",
+        "Context": "Manifestation stage"
+    },
+    {
+        "Instruction": "What is the final stage of disease?",
+        "Response ": "The final stage is cellular deformity, where structural damage occurs, and complications arise. Treatment is most difficult at this stage.",
+        "Context": "Cellular deformity"
+    },
+    {
+        "Instruction": "How can we prevent disease in Ayurveda?",
+        "Response ": "Prevent disease by maintaining dosha balance, eating right, managing stress, and detecting imbalances early through awareness.",
+        "Context": "Disease prevention"
+    },
+    {
+        "Instruction": "What is the role of agni in disease?",
+        "Response ": "Agni (digestive fire) governs digestion and immunity. Weak agni leads to ama formation, which is a root cause of disease.",
+        "Context": "Agni and disease"
+    },
+    {
+        "Instruction": "How can we strengthen agni?",
+        "Response ": "Strengthen agni by eating warm, cooked foods, avoiding cold or raw foods, and following a regular eating schedule.",
+        "Context": "Agni and digestion"
+    },
+    {
+        "Instruction": "What is the importance of relationships in health?",
+        "Response ": "Healthy relationships reduce stress and promote emotional balance, which is crucial for maintaining dosha harmony and overall health.",
+        "Context": "Relationships and health"
+    },
+    {
+        "Instruction": "How do negative emotions affect health?",
+        "Response ": "Negative emotions like anger or fear disturb doshas, weaken organs, and create stress, leading to disease over time.",
+        "Context": "Emotions and health"
+    },
+    {
+        "Instruction": "How can we transform negative feelings?",
+        "Response ": "Transform negative feelings by observing them without judgment, breathing deeply, and allowing them to dissolve naturally.",
+        "Context": "Emotional health"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to stress?",
+        "Response ": "Ayurveda views stress as a major cause of disease. Manage stress through meditation, a balanced diet, and a regular daily routine.",
+        "Context": "Stress and health"
+    },
+    {
+        "Instruction": "How does stress affect doshas?",
+        "Response ": "Stress disturbs doshas: vata individuals may feel anxious, pitta individuals may become angry, and kapha individuals may overeat.",
+        "Context": "Stress and doshas"
+    },
+    {
+        "Instruction": "What is the key to preventing disease?",
+        "Response ": "The key to preventing disease is awareness of your body, mind, and emotions, and making choices that maintain dosha balance.",
+        "Context": "Disease prevention"
+    },
+    {
+        "Instruction": "How can we detect early signs of disease?",
+        "Response ": "Detect early signs by observing changes in digestion, energy levels, and emotional states, and addressing dosha imbalances promptly.",
+        "Context": "Early detection of disease"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on why we get sick?",
+        "Response ": "We get sick when we disregard our inner wisdom, like eating foods that disturb our dosha balance. Ayurveda emphasizes self-knowledge and harmony with nature to prevent illness.",
+        "Context": "Causes of illness"
+    },
+    {
+        "Instruction": "How can we prevent illness in Ayurveda?",
+        "Response ": "Prevent illness by understanding your dosha, eating foods that balance it, and following a lifestyle aligned with nature and your constitution.",
+        "Context": "Prevention in Ayurveda"
+    },
+    {
+        "Instruction": "What are the stages of disease development in Ayurveda?",
+        "Response ": "Disease develops in six stages: accumulation, aggravation, spread, deposition, manifestation, and cellular deformity. Early detection and treatment are key.",
+        "Context": "Disease stages"
+    },
+    {
+        "Instruction": "What happens in the accumulation stage?",
+        "Response ": "In the accumulation stage, doshas build up in their sites (vata in colon, pitta in intestines, kapha in stomach). Symptoms like constipation or heaviness may appear.",
+        "Context": "Accumulation stage"
+    },
+    {
+        "Instruction": "How can we address dosha accumulation?",
+        "Response ": "Address dosha accumulation by eating opposite qualities (e.g., warm foods for vata) and listening to your body\u2019s cravings for balance.",
+        "Context": "Dosha balance"
+    },
+    {
+        "Instruction": "What is the aggravation stage?",
+        "Response ": "In the aggravation stage, accumulated doshas overflow from their sites, causing symptoms like heartburn (pitta) or congestion (kapha).",
+        "Context": "Aggravation stage"
+    },
+    {
+        "Instruction": "How can we reverse the aggravation stage?",
+        "Response ": "Reverse aggravation by using opposite qualities (e.g., cooling foods for pitta) and home remedies. Seek Ayurvedic advice if symptoms persist.",
+        "Context": "Reversing aggravation"
+    },
+    {
+        "Instruction": "What is the spread stage?",
+        "Response ": "In the spread stage, doshas enter the bloodstream, looking for weak areas to settle. Panchakarma cleansing is often needed at this stage.",
+        "Context": "Spread stage"
+    },
+    {
+        "Instruction": "How does ama affect the body?",
+        "Response ": "Ama clogs bodily channels, isolates cells, and disrupts cellular intelligence, leading to pathological changes and disease.",
+        "Context": "Ama and health"
+    },
+    {
+        "Instruction": "What is the deposition stage?",
+        "Response ": "In the deposition stage, aggravated doshas enter weak tissues, altering their structure and function, creating the seeds of disease.",
+        "Context": "Deposition stage"
+    },
+    {
+        "Instruction": "What happens in the manifestation stage?",
+        "Response ": "In the manifestation stage, disease symptoms become visible, such as ulcers or joint pain, as the doshas fully affect the tissues.",
+        "Context": "Manifestation stage"
+    },
+    {
+        "Instruction": "What is the final stage of disease?",
+        "Response ": "The final stage is cellular deformity, where structural damage occurs, and complications arise. Treatment is most difficult at this stage.",
+        "Context": "Cellular deformity"
+    },
+    {
+        "Instruction": "How can we prevent disease in Ayurveda?",
+        "Response ": "Prevent disease by maintaining dosha balance, eating right, managing stress, and detecting imbalances early through awareness.",
+        "Context": "Disease prevention"
+    },
+    {
+        "Instruction": "What is the role of agni in disease?",
+        "Response ": "Agni (digestive fire) governs digestion and immunity. Weak agni leads to ama formation, which is a root cause of disease.",
+        "Context": "Agni and disease"
+    },
+    {
+        "Instruction": "How can we strengthen agni?",
+        "Response ": "Strengthen agni by eating warm, cooked foods, avoiding cold or raw foods, and following a regular eating schedule.",
+        "Context": "Agni and digestion"
+    },
+    {
+        "Instruction": "What is the importance of relationships in health?",
+        "Response ": "Healthy relationships reduce stress and promote emotional balance, which is crucial for maintaining dosha harmony and overall health.",
+        "Context": "Relationships and health"
+    },
+    {
+        "Instruction": "How do negative emotions affect health?",
+        "Response ": "Negative emotions like anger or fear disturb doshas, weaken organs, and create stress, leading to disease over time.",
+        "Context": "Emotions and health"
+    },
+    {
+        "Instruction": "How can we transform negative feelings?",
+        "Response ": "Transform negative feelings by observing them without judgment, breathing deeply, and allowing them to dissolve naturally.",
+        "Context": "Emotional health"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to stress?",
+        "Response ": "Ayurveda views stress as a major cause of disease. Manage stress through meditation, a balanced diet, and a regular daily routine.",
+        "Context": "Stress and health"
+    },
+    {
+        "Instruction": "How does stress affect doshas?",
+        "Response ": "Stress disturbs doshas: vata individuals may feel anxious, pitta individuals may become angry, and kapha individuals may overeat.",
+        "Context": "Stress and doshas"
+    },
+    {
+        "Instruction": "What is the key to preventing disease?",
+        "Response ": "The key to preventing disease is awareness of your body, mind, and emotions, and making choices that maintain dosha balance.",
+        "Context": "Disease prevention"
+    },
+    {
+        "Instruction": "What is samprapti in Ayurveda?",
+        "Response ": "Samprapti is the six-stage disease process in Ayurveda, starting with dosha accumulation and ending with cellular deformity.",
+        "Context": "Samprapti and disease"
+    },
+    {
+        "Instruction": "How does samprapti help in understanding disease?",
+        "Response ": "Samprapti explains how disease develops from dosha imbalance to structural damage, helping in early detection and prevention.",
+        "Context": "Samprapti and health"
+    },
+    {
+        "Instruction": "What is the role of awareness in health?",
+        "Response ": "Awareness helps detect early imbalances in doshas, allowing timely interventions to prevent disease and maintain health.",
+        "Context": "Awareness and health"
+    },
+    {
+        "Instruction": "How can we maintain clarity in relationships?",
+        "Response ": "Maintain clarity in relationships by being honest, communicating openly, and resolving conflicts with compassion and understanding.",
+        "Context": "Relationships and clarity"
+    },
+    {
+        "Instruction": "What is the impact of repressed emotions?",
+        "Response ": "Repressed emotions create stress, disturb doshas, and weaken organs, leading to physical and mental health issues.",
+        "Context": "Emotions and health"
+    },
+    {
+        "Instruction": "How can we balance doshas through diet?",
+        "Response ": "Balance doshas by eating foods that counteract their qualities: warm for vata, cooling for pitta, and light for kapha.",
+        "Context": "Diet and doshas"
+    },
+    {
+        "Instruction": "What is the role of seasons in health?",
+        "Response ": "Seasons influence doshas: vata increases in autumn, kapha in winter, and pitta in summer. Adjust diet and lifestyle accordingly.",
+        "Context": "Seasons and health"
+    },
+    {
+        "Instruction": "How can we live in harmony with seasons?",
+        "Response ": "Live in harmony with seasons by adapting your diet, exercise, and daily routine to balance the dominant dosha of each season.",
+        "Context": "Seasonal health"
+    },
+    {
+        "Instruction": "What is the importance of agni in digestion?",
+        "Response ": "Agni transforms food into energy, nourishes tissues, and eliminates toxins. Strong agni ensures good digestion and immunity.",
+        "Context": "Agni and digestion"
+    },
+    {
+        "Instruction": "How does weak agni lead to disease?",
+        "Response ": "Weak agni causes incomplete digestion, leading to ama (toxins) formation, which clogs channels and causes disease.",
+        "Context": "Agni and disease"
+    },
+    {
+        "Instruction": "What is the role of panchakarma in health?",
+        "Response ": "Panchakarma is a cleansing process that removes toxins (ama) and restores dosha balance, promoting overall health.",
+        "Context": "Panchakarma and health"
+    },
+    {
+        "Instruction": "How can we detect early signs of disease?",
+        "Response ": "Detect early signs by observing changes in digestion, energy levels, and emotional states, and addressing dosha imbalances promptly.",
+        "Context": "Early detection of disease"
+    },
+    {
+        "Instruction": "What is the goal of Ayurveda?",
+        "Response ": "The goal of Ayurveda is to maintain the health of a healthy person and heal the illness of a sick person. Prevention is strongly emphasized.",
+        "Context": "Ayurvedic goal"
+    },
+    {
+        "Instruction": "How can we stay healthy according to Ayurveda?",
+        "Response ": "Stay healthy by developing awareness of your constitution, making informed choices, and taking action to modify potential causes of imbalance.",
+        "Context": "Health maintenance"
+    },
+    {
+        "Instruction": "What is the role of awareness in health?",
+        "Response ": "Awareness helps you understand your body\u2019s responses to food, environment, and emotions, allowing you to make choices that maintain balance.",
+        "Context": "Awareness and health"
+    },
+    {
+        "Instruction": "How can we modify causes of imbalance?",
+        "Response ": "Modify causes by adjusting your diet, lifestyle, and environment. For example, dress warmly in cold weather to balance vata.",
+        "Context": "Modifying causes"
+    },
+    {
+        "Instruction": "What is the principle of opposites in Ayurveda?",
+        "Response ": "The principle of opposites states that applying opposite qualities (e.g., warm for cold) can restore balance and prevent disease.",
+        "Context": "Opposites in Ayurveda"
+    },
+    {
+        "Instruction": "How can we restore balance in Ayurveda?",
+        "Response ": "Restore balance by applying opposite qualities. For example, drink warm soup if you\u2019re cold or meditate if you\u2019re agitated.",
+        "Context": "Restoring balance"
+    },
+    {
+        "Instruction": "What is ama in Ayurveda?",
+        "Response ": "Ama is a toxic substance formed from undigested food, clogging channels and causing disease. It\u2019s detected as fatigue or a thick tongue coating.",
+        "Context": "Ama and health"
+    },
+    {
+        "Instruction": "How can we remove ama from the body?",
+        "Response ": "Remove ama through cleansing techniques like Panchakarma, which includes internal oleation, oil massage, and steam therapy.",
+        "Context": "Removing ama"
+    },
+    {
+        "Instruction": "What is Panchakarma?",
+        "Response ": "Panchakarma is a five-step Ayurvedic cleansing program that removes toxins (ama) and restores dosha balance through procedures like vomiting, purgation, and enemas.",
+        "Context": "Panchakarma and cleansing"
+    },
+    {
+        "Instruction": "Who should avoid ghee in Panchakarma?",
+        "Response ": "Individuals with high cholesterol, triglycerides, or sugar should avoid ghee and use flaxseed oil instead for internal oleation.",
+        "Context": "Ghee and Panchakarma"
+    },
+    {
+        "Instruction": "What is a simple home purification method?",
+        "Response ": "A simple home purification involves taking 2 ounces of warmed ghee for 3 days, with added spices based on your dosha, to help eliminate toxins.",
+        "Context": "Home purification"
+    },
+    {
+        "Instruction": "How does internal oleation work?",
+        "Response ": "Internal oleation uses ghee or flaxseed oil to lubricate the body\u2019s channels, helping toxins move to the gastrointestinal tract for elimination.",
+        "Context": "Internal oleation"
+    },
+    {
+        "Instruction": "What are the benefits of oil massage in Ayurveda?",
+        "Response ": "Oil massage (snehana) softens tissues, relieves stress, nourishes the nervous system, and helps toxins move toward the gastrointestinal tract.",
+        "Context": "Oil massage benefits"
+    },
+    {
+        "Instruction": "What is the role of agni in digestion?",
+        "Response ": "Agni (digestive fire) governs digestion and assimilation. Weak agni leads to ama formation, which is a root cause of disease.",
+        "Context": "Agni and digestion"
+    },
+    {
+        "Instruction": "How can we strengthen agni?",
+        "Response ": "Strengthen agni by eating warm, cooked foods, avoiding cold or raw foods, and following a regular eating schedule.",
+        "Context": "Agni and health"
+    },
+    {
+        "Instruction": "What are the signs of ama in the body?",
+        "Response ": "Signs of ama include fatigue, heaviness, constipation, bad breath, a thick tongue coating, and mental confusion.",
+        "Context": "Ama symptoms"
+    },
+    {
+        "Instruction": "How does Panchakarma help in disease prevention?",
+        "Response ": "Panchakarma removes excess doshas and toxins (ama) from the body, preventing disease and restoring balance.",
+        "Context": "Panchakarma and prevention"
+    },
+    {
+        "Instruction": "What is the role of ghee in Ayurveda?",
+        "Response ": "Ghee is used for internal oleation in Panchakarma, lubricating channels and helping toxins move for elimination. It\u2019s warming and balancing.",
+        "Context": "Ghee in Ayurveda"
+    },
+    {
+        "Instruction": "What should vata individuals do during Panchakarma?",
+        "Response ": "Vata individuals should take ghee with a pinch of rock salt during Panchakarma to balance their dosha and aid in toxin removal.",
+        "Context": "Vata and Panchakarma"
+    },
+    {
+        "Instruction": "What should pitta individuals do during Panchakarma?",
+        "Response ": "Pitta individuals should take plain ghee during Panchakarma to cool and balance their dosha while aiding in toxin removal.",
+        "Context": "Pitta and Panchakarma"
+    },
+    {
+        "Instruction": "What should kapha individuals do during Panchakarma?",
+        "Response ": "Kapha individuals should add trikatu (ginger, black pepper, pippali) to ghee during Panchakarma to stimulate digestion and remove toxins.",
+        "Context": "Kapha and Panchakarma"
+    },
+    {
+        "Instruction": "What is the role of meditation in Ayurveda?",
+        "Response ": "Meditation calms the mind, reduces stress, and helps restore emotional balance, which is crucial for maintaining dosha harmony.",
+        "Context": "Meditation and health"
+    },
+    {
+        "Instruction": "How does stress affect doshas?",
+        "Response ": "Stress disturbs doshas: vata individuals may feel anxious, pitta individuals may become angry, and kapha individuals may overeat.",
+        "Context": "Stress and doshas"
+    },
+    {
+        "Instruction": "What is the importance of seasonal routines in Ayurveda?",
+        "Response ": "Seasonal routines help balance doshas by adapting diet, exercise, and lifestyle to the dominant dosha of each season.",
+        "Context": "Seasonal health"
+    },
+    {
+        "Instruction": "How can we detect early signs of disease?",
+        "Response ": "Detect early signs by observing changes in digestion, energy levels, and emotional states, and addressing dosha imbalances promptly.",
+        "Context": "Early detection of disease"
+    },
+    {
+        "Instruction": "What is the purpose of Panchakarma?",
+        "Response ": "Panchakarma aims to purify the body, remove toxins (ama), and strengthen it to prevent future diseases, promoting long-term health.",
+        "Context": "Panchakarma purpose"
+    },
+    {
+        "Instruction": "How does Panchakarma help in rejuvenation?",
+        "Response ": "Panchakarma detoxifies the body, preparing it for rejuvenation. After cleansing, rejuvenative herbs and practices restore vitality and longevity.",
+        "Context": "Panchakarma and rejuvenation"
+    },
+    {
+        "Instruction": "What are rejuvenative herbs in Ayurveda?",
+        "Response ": "Rejuvenative herbs (rasayanas) like ashwagandha (vata), shatavari (pitta), and punarnava (kapha) boost energy, immunity, and longevity.",
+        "Context": "Rejuvenative herbs"
+    },
+    {
+        "Instruction": "What is ashwagandha used for?",
+        "Response ": "Ashwagandha is a rejuvenative herb for vata types, taken in warm milk to boost energy, reduce stress, and improve vitality.",
+        "Context": "Ashwagandha and health"
+    },
+    {
+        "Instruction": "What is shatavari used for?",
+        "Response ": "Shatavari is a rejuvenative herb for pitta types, taken in warm milk to nourish tissues, balance hormones, and boost immunity.",
+        "Context": "Shatavari and health"
+    },
+    {
+        "Instruction": "What is punarnava used for?",
+        "Response ": "Punarnava is a rejuvenative herb for kapha types, taken in warm water to detoxify, reduce water retention, and boost energy.",
+        "Context": "Punarnava and health"
+    },
+    {
+        "Instruction": "What is a simple home Panchakarma schedule?",
+        "Response ": "A home Panchakarma schedule includes 3 days of internal oleation (ghee), 5-7 days of oil massage, triphala at night, and a medicated enema (basti) on the last 3 days.",
+        "Context": "Home Panchakarma schedule"
+    },
+    {
+        "Instruction": "What is triphala used for in Panchakarma?",
+        "Response ": "Triphala is a mild laxative used during Panchakarma to cleanse the colon, remove toxins, and support gentle detoxification.",
+        "Context": "Triphala and Panchakarma"
+    },
+    {
+        "Instruction": "What is basti in Ayurveda?",
+        "Response ": "Basti is a medicated enema used in Panchakarma to remove excess vata from the colon, helping to balance the doshas and cleanse the body.",
+        "Context": "Basti and Panchakarma"
+    },
+    {
+        "Instruction": "What is the role of ghee in Panchakarma?",
+        "Response ": "Ghee is used for internal oleation in Panchakarma, lubricating channels and helping toxins move to the gastrointestinal tract for elimination.",
+        "Context": "Ghee and Panchakarma"
+    },
+    {
+        "Instruction": "Who should avoid ghee in Panchakarma?",
+        "Response ": "Individuals with high cholesterol, triglycerides, or sugar should avoid ghee and use flaxseed oil instead for internal oleation.",
+        "Context": "Ghee and health"
+    },
+    {
+        "Instruction": "What is the role of oil massage in Panchakarma?",
+        "Response ": "Oil massage (snehana) softens tissues, relieves stress, and helps toxins move toward the gastrointestinal tract for elimination.",
+        "Context": "Oil massage and Panchakarma"
+    },
+    {
+        "Instruction": "What is the diet during Panchakarma?",
+        "Response ": "During Panchakarma, eat a light diet like kitchari (rice and mung dal) to support digestion and detoxification.",
+        "Context": "Panchakarma diet"
+    },
+    {
+        "Instruction": "What is kitchari?",
+        "Response ": "Kitchari is a nourishing, easy-to-digest dish made of basmati rice and mung dal, spiced with cumin, mustard seed, and coriander. It\u2019s ideal for detox.",
+        "Context": "Kitchari and health"
+    },
+    {
+        "Instruction": "What are the benefits of kitchari?",
+        "Response ": "Kitchari is balanced, nourishing, and easy to digest. It supports detox, balances all doshas, and provides essential nutrients during cleansing.",
+        "Context": "Kitchari benefits"
+    },
+    {
+        "Instruction": "What are the cautions for home Panchakarma?",
+        "Response ": "Avoid home Panchakarma if you\u2019re weak, anemic, or pregnant. It may release stored emotions, so be prepared for emotional shifts.",
+        "Context": "Panchakarma cautions"
+    },
+    {
+        "Instruction": "What is the role of self-esteem in health?",
+        "Response ": "Self-esteem strengthens cellular intelligence, boosts immunity, and promotes healing. Low self-esteem can weaken the body\u2019s natural defenses.",
+        "Context": "Self-esteem and health"
+    },
+    {
+        "Instruction": "How does self-esteem affect immunity?",
+        "Response ": "High self-esteem boosts cellular immunity, helping the body fight diseases like cancer. Low self-esteem weakens the body\u2019s natural defenses.",
+        "Context": "Self-esteem and immunity"
+    },
+    {
+        "Instruction": "What is the connection between mind and body in Ayurveda?",
+        "Response ": "Ayurveda views mind and body as interconnected. Emotional health impacts physical health, and vice versa.",
+        "Context": "Mind-body connection"
+    },
+    {
+        "Instruction": "How can we improve self-esteem?",
+        "Response ": "Improve self-esteem through self-love, meditation, positive affirmations, and practices that promote self-confidence and self-respect.",
+        "Context": "Self-esteem and healing"
+    },
+    {
+        "Instruction": "What is the role of meditation in Ayurveda?",
+        "Response ": "Meditation calms the mind, reduces stress, and helps restore emotional balance, which is crucial for maintaining dosha harmony.",
+        "Context": "Meditation and health"
+    },
+    {
+        "Instruction": "What is the importance of rest during Panchakarma?",
+        "Response ": "Rest during Panchakarma allows the body to focus on detoxification and rejuvenation, enhancing the effectiveness of the cleansing process.",
+        "Context": "Rest and Panchakarma"
+    },
+    {
+        "Instruction": "What is the role of celibacy in rejuvenation?",
+        "Response ": "Celibacy conserves vital energy during rejuvenation, allowing the body to focus on healing and rebuilding strength.",
+        "Context": "Celibacy and rejuvenation"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on daily routine?",
+        "Response ": "A daily routine (dinacharya) aligns with nature\u2019s rhythms, balances doshas, and promotes health, discipline, and long life.",
+        "Context": "Ayurvedic daily routine"
+    },
+    {
+        "Instruction": "What are the benefits of a daily routine?",
+        "Response ": "A daily routine improves digestion, regulates the biological clock, boosts self-esteem, and brings peace and happiness.",
+        "Context": "Daily routine benefits"
+    },
+    {
+        "Instruction": "What is the ideal time to wake up in Ayurveda?",
+        "Response ": "Vata types should wake by 6 AM, pitta by 5:30 AM, and kapha by 4:30 AM to align with natural rhythms.",
+        "Context": "Waking up in Ayurveda"
+    },
+    {
+        "Instruction": "What should you do after waking up?",
+        "Response ": "After waking, look at your hands, move them over your face, neck, and chest, and say a prayer to start the day mindfully.",
+        "Context": "Morning routine"
+    },
+    {
+        "Instruction": "What is the role of water in the morning routine?",
+        "Response ": "Drinking room-temperature water in the morning flushes the kidneys, stimulates digestion, and aids bowel movements.",
+        "Context": "Morning water intake"
+    },
+    {
+        "Instruction": "Why avoid coffee in the morning?",
+        "Response ": "Coffee drains kidney energy, overstimulates adrenals, and promotes constipation. It\u2019s better to start with water.",
+        "Context": "Coffee and health"
+    },
+    {
+        "Instruction": "What is the importance of bowel movements in Ayurveda?",
+        "Response ": "Regular bowel movements eliminate toxins (ama) and are crucial for maintaining digestive health and dosha balance.",
+        "Context": "Bowel movements and health"
+    },
+    {
+        "Instruction": "How can you promote healthy bowel movements?",
+        "Response ": "Drink warm water in the morning, sit on the toilet regularly, and avoid forcing. Consistency helps develop the habit.",
+        "Context": "Healthy bowel habits"
+    },
+    {
+        "Instruction": "What is tongue scraping in Ayurveda?",
+        "Response ": "Tongue scraping removes bacteria, stimulates digestion, and helps detect ama (toxins) through tongue coating.",
+        "Context": "Tongue scraping"
+    },
+    {
+        "Instruction": "How does tongue scraping benefit health?",
+        "Response ": "Tongue scraping improves digestion, removes toxins, and stimulates internal organs, promoting overall health.",
+        "Context": "Tongue scraping benefits"
+    },
+    {
+        "Instruction": "What is nasya in Ayurveda?",
+        "Response ": "Nasya involves putting warm oil (ghee or sesame) in the nostrils to cleanse sinuses, improve voice, and enhance mental clarity.",
+        "Context": "Nasya and health"
+    },
+    {
+        "Instruction": "What are the benefits of oil massage?",
+        "Response ": "Oil massage improves circulation, calms the mind, reduces vata, and softens the skin. Use sesame (vata), sunflower (pitta), or corn oil (kapha).",
+        "Context": "Oil massage benefits"
+    },
+    {
+        "Instruction": "What is the best oil for vata types?",
+        "Response ": "Sesame oil is best for vata types as it is warming and grounding, helping to balance vata dosha.",
+        "Context": "Oil for vata"
+    },
+    {
+        "Instruction": "What is the best oil for pitta types?",
+        "Response ": "Sunflower oil is best for pitta types as it is cooling and soothing, helping to balance pitta dosha.",
+        "Context": "Oil for pitta"
+    },
+    {
+        "Instruction": "What is the best oil for kapha types?",
+        "Response ": "Corn oil is best for kapha types as it is light and helps reduce kapha\u2019s heaviness.",
+        "Context": "Oil for kapha"
+    },
+    {
+        "Instruction": "What is the role of bathing in Ayurveda?",
+        "Response ": "Bathing cleanses the body, removes fatigue, and promotes energy, alertness, and long life.",
+        "Context": "Bathing and health"
+    },
+    {
+        "Instruction": "What type of exercise is best for vata types?",
+        "Response ": "Vata types should do gentle exercises like walking, yoga, and swimming to avoid overstimulation.",
+        "Context": "Exercise for vata"
+    },
+    {
+        "Instruction": "What type of exercise is best for pitta types?",
+        "Response ": "Pitta types benefit from moderate exercise like swimming and yoga, avoiding intense or competitive activities.",
+        "Context": "Exercise for pitta"
+    },
+    {
+        "Instruction": "What type of exercise is best for kapha types?",
+        "Response ": "Kapha types should do vigorous exercise like jogging, aerobics, and hiking to boost energy and reduce heaviness.",
+        "Context": "Exercise for kapha"
+    },
+    {
+        "Instruction": "What is pranayama in Ayurveda?",
+        "Response ": "Pranayama is controlled breathing that balances doshas: Alternate Nostril for vata, Cooling Breath for pitta, and Breath of Fire for kapha.",
+        "Context": "Pranayama and health"
+    },
+    {
+        "Instruction": "What is the role of meditation in Ayurveda?",
+        "Response ": "Meditation calms the mind, reduces stress, and brings peace and balance, essential for maintaining dosha harmony.",
+        "Context": "Meditation and health"
+    },
+    {
+        "Instruction": "What is the ideal breakfast time for vata types?",
+        "Response ": "Vata types should eat breakfast around 8 AM to stabilize energy and support digestion.",
+        "Context": "Breakfast for vata"
+    },
+    {
+        "Instruction": "What is the ideal breakfast time for pitta types?",
+        "Response ": "Pitta types should eat breakfast around 7:30 AM to balance their strong digestive fire.",
+        "Context": "Breakfast for pitta"
+    },
+    {
+        "Instruction": "What is the ideal breakfast time for kapha types?",
+        "Response ": "Kapha types should skip breakfast or eat lightly around 7 AM to avoid increasing kapha.",
+        "Context": "Breakfast for kapha"
+    },
+    {
+        "Instruction": "What is the role of awareness in daily routine?",
+        "Response ": "Awareness helps you observe your body\u2019s needs, make informed choices, and maintain balance in your daily routine.",
+        "Context": "Awareness and health"
+    },
+    {
+        "Instruction": "What is the Ayurvedic recommendation for lunch?",
+        "Response ": "Have a light lunch with soup, salad, or rice and vegetables. Drink warm water between bites, but avoid drinking too much during meals.",
+        "Context": "Lunch in Ayurveda"
+    },
+    {
+        "Instruction": "What should you avoid drinking during lunch?",
+        "Response ": "Avoid drinking too much water during lunch, as it slows digestion. Drink warm water an hour before or after meals instead.",
+        "Context": "Lunch and digestion"
+    },
+    {
+        "Instruction": "What is the importance of posture during meals?",
+        "Response ": "Sitting straight during meals helps energy flow upward, maintains awareness, and supports proper digestion.",
+        "Context": "Posture and health"
+    },
+    {
+        "Instruction": "What should you do after work in Ayurveda?",
+        "Response ": "After work, take a silent walk in nature to regain a meditative mind and refresh your energy.",
+        "Context": "After-work routine"
+    },
+    {
+        "Instruction": "What is the ideal time for supper in Ayurveda?",
+        "Response ": "Supper should be around 6 PM. Eating late at night disrupts sleep and digestion.",
+        "Context": "Supper timing"
+    },
+    {
+        "Instruction": "What should you avoid while eating supper?",
+        "Response ": "Avoid watching TV while eating. Focus on your food to eat mindfully and avoid overeating.",
+        "Context": "Mindful eating"
+    },
+    {
+        "Instruction": "What is the role of triphala after dinner?",
+        "Response ": "Triphala, taken an hour after dinner, strengthens and purifies the body, aiding digestion and detoxification.",
+        "Context": "Triphala and health"
+    },
+    {
+        "Instruction": "What is the bedtime routine in Ayurveda?",
+        "Response ": "Before bed, read spiritual material, drink warm milk with spices, and meditate to promote restful sleep.",
+        "Context": "Bedtime routine"
+    },
+    {
+        "Instruction": "What is the ideal bedtime for vata types?",
+        "Response ": "Vata types should go to bed by 10 PM and sleep on their left side for better rest.",
+        "Context": "Bedtime for vata"
+    },
+    {
+        "Instruction": "What is the ideal bedtime for pitta types?",
+        "Response ": "Pitta types should go to bed between 10-11 PM and sleep on their right side to balance their dosha.",
+        "Context": "Bedtime for pitta"
+    },
+    {
+        "Instruction": "What is the ideal bedtime for kapha types?",
+        "Response ": "Kapha types should go to bed between 11 PM-midnight and sleep on their left side to avoid sluggishness.",
+        "Context": "Bedtime for kapha"
+    },
+    {
+        "Instruction": "What are seasonal routines in Ayurveda?",
+        "Response ": "Seasonal routines involve adjusting diet, exercise, and lifestyle to align with the dominant dosha of each season.",
+        "Context": "Seasonal routines"
+    },
+    {
+        "Instruction": "What are summer guidelines in Ayurveda?",
+        "Response ": "In summer, keep cool with coconut oil massages, light clothing, cooling foods, and avoid hot drinks or strenuous exercise.",
+        "Context": "Summer health tips"
+    },
+    {
+        "Instruction": "What foods are best in summer?",
+        "Response ": "In summer, eat cooling foods like watermelon, cucumber, basmati rice, and avoid sour, citrus, or heating foods.",
+        "Context": "Summer diet"
+    },
+    {
+        "Instruction": "What drinks are recommended in summer?",
+        "Response ": "Cool lassi (yogurt drink) and lime water with cumin are refreshing summer drinks. Avoid iced drinks.",
+        "Context": "Summer drinks"
+    },
+    {
+        "Instruction": "What should you avoid wearing in summer?",
+        "Response ": "Avoid red, orange, and black clothing in summer, as they absorb heat. Opt for white, gray, or light colors.",
+        "Context": "Summer clothing"
+    },
+    {
+        "Instruction": "What is the best exercise for summer?",
+        "Response ": "In summer, do mild yoga and cooling pranayama like shitali. Avoid strenuous exercise during the hottest part of the day.",
+        "Context": "Summer exercise"
+    },
+    {
+        "Instruction": "What is the role of meditation in summer?",
+        "Response ": "Meditation in summer helps calm the mind, reduce pitta, and maintain emotional balance during the hot season.",
+        "Context": "Meditation in summer"
+    },
+    {
+        "Instruction": "What are cooling fragrances for summer?",
+        "Response ": "Sandalwood, jasmine, and khus oils are cooling fragrances ideal for summer. Use them in perfumes or on your pillow.",
+        "Context": "Cooling fragrances"
+    },
+    {
+        "Instruction": "What are the Ayurvedic guidelines for harvest season?",
+        "Response ": "In harvest season, pacify vata with warm sesame oil massages, grounding foods like oatmeal, and avoid fasting or cold drafts.",
+        "Context": "harvest season guidelines"
+    },
+    {
+        "Instruction": "What foods are best in harvest season?",
+        "Response ": "In harvest season, eat grounding foods like oatmeal, basmati rice, mung dal kitchari, and steamed vegetables with ghee. Avoid salads.",
+        "Context": "harvest season diet"
+    },
+    {
+        "Instruction": "What should you avoid in harvest season?",
+        "Response ": "Avoid fasting, cold drafts, loud noise, and excessive exercise in harvest season, as they aggravate vata dosha.",
+        "Context": "harvest season precautions"
+    },
+    {
+        "Instruction": "What is the role of oil massage in harvest season?",
+        "Response ": "Oil massage with warm sesame oil in harvest season helps balance vata, keeping the skin moist and the body warm.",
+        "Context": "Oil massage in harvest season"
+    },
+    {
+        "Instruction": "What are the best yoga poses for harvest season?",
+        "Response ": "In harvest season, practice Lotus pose, Forward Bend, Backward Bend, and Sun Salutation to balance vata.",
+        "Context": "Yoga for harvest season"
+    },
+    {
+        "Instruction": "What is the ideal bedtime in harvest season?",
+        "Response ": "In harvest season, aim to be in bed by 10 PM to maintain a balanced routine and support vata pacification.",
+        "Context": "Bedtime in harvest season"
+    },
+    {
+        "Instruction": "What are the Ayurvedic guidelines for winter?",
+        "Response ": "In winter, balance kapha with warm sesame oil massages, hearty soups, and avoid daytime naps.",
+        "Context": "Winter guidelines"
+    },
+    {
+        "Instruction": "What foods are best in winter?",
+        "Response ": "In winter, eat warming foods like oatmeal, barley soup, and whole-wheat bread with ghee. Avoid cold, heavy foods.",
+        "Context": "Winter diet"
+    },
+    {
+        "Instruction": "What should you avoid in winter?",
+        "Response ": "Avoid daytime naps, cold drinks, and heavy, oily foods in winter, as they increase kapha.",
+        "Context": "Winter precautions"
+    },
+    {
+        "Instruction": "What is the role of oil massage in winter?",
+        "Response ": "Oil massage with warm sesame oil in winter helps keep the body warm and balanced, especially for kapha types.",
+        "Context": "Oil massage in winter"
+    },
+    {
+        "Instruction": "What are the best yoga poses for winter?",
+        "Response ": "In winter, practice Fish, Locust, Boat, and Shoulder Stand poses to open the chest and relieve congestion.",
+        "Context": "Yoga for winter"
+    },
+    {
+        "Instruction": "What is the ideal bedtime in winter?",
+        "Response ": "In winter, you can sleep longer, but avoid oversleeping. Aim for a consistent bedtime to balance kapha.",
+        "Context": "Bedtime in winter"
+    },
+    {
+        "Instruction": "What are the Ayurvedic guidelines for spring?",
+        "Response ": "In spring, reduce kapha with light, bitter foods, morning walks, and avoid heavy, oily, or cold foods.",
+        "Context": "Spring guidelines"
+    },
+    {
+        "Instruction": "What foods are best in spring?",
+        "Response ": "In spring, eat light, bitter foods like radishes, spinach, and legumes. Avoid dairy, sweets, and cold drinks.",
+        "Context": "Spring diet"
+    },
+    {
+        "Instruction": "What should you avoid in spring?",
+        "Response ": "Avoid heavy, oily, sour, and sweet foods in spring, as they aggravate kapha. Also, avoid daytime naps.",
+        "Context": "Spring precautions"
+    },
+    {
+        "Instruction": "What is the role of oil massage in spring?",
+        "Response ": "Oil massage in spring is less emphasized, but warm sesame oil can still help balance kapha if needed.",
+        "Context": "Oil massage in spring"
+    },
+    {
+        "Instruction": "What are the best yoga poses for spring?",
+        "Response ": "In spring, practice Fish, Boat, Bow, and Shoulder Stand poses to reduce kapha and boost energy.",
+        "Context": "Yoga for spring"
+    },
+    {
+        "Instruction": "What is the ideal bedtime in spring?",
+        "Response ": "In spring, wake up early and avoid oversleeping to prevent kapha buildup. Maintain a consistent sleep schedule.",
+        "Context": "Bedtime in spring"
+    },
+    {
+        "Instruction": "What are the best herbs for harvest season?",
+        "Response ": "In harvest season, use herbs like ashwagandha, dashamoola, and vidari to pacify vata and support grounding.",
+        "Context": "Herbs for harvest season"
+    },
+    {
+        "Instruction": "What are the best herbs for winter?",
+        "Response ": "In winter, use warming herbs like ginger, black pepper, and pippali to balance kapha and boost digestion.",
+        "Context": "Herbs for winter"
+    },
+    {
+        "Instruction": "What are the best herbs for spring?",
+        "Response ": "In spring, use herbs like ginger, black pepper, and cumin-coriander-fennel tea to reduce kapha and boost energy.",
+        "Context": "Herbs for spring"
+    },
+    {
+        "Instruction": "What is the role of panchakarma in seasonal transitions?",
+        "Response ": "Panchakarma helps remove excess doshas (vata, pitta, kapha) during seasonal transitions, preventing imbalances.",
+        "Context": "Panchakarma and seasons"
+    },
+    {
+        "Instruction": "What is the role of fasting in spring?",
+        "Response ": "In spring, light fasting with apple or pomegranate juice helps reduce kapha and cleanse the system.",
+        "Context": "Fasting in spring"
+    },
+    {
+        "Instruction": "What is prana in Ayurveda?",
+        "Response ": "Prana is the life force connecting body, mind, and consciousness. It manifests as breath and governs mental activity.",
+        "Context": "Prana and breath"
+    },
+    {
+        "Instruction": "How does prana affect the mind?",
+        "Response ": "Prana influences mental activity; rhythmic breathing calms the mind, while irregular breathing reflects anxiety or stress.",
+        "Context": "Prana and mind"
+    },
+    {
+        "Instruction": "What is pranayama?",
+        "Response ": "Pranayama is the practice of controlling breath to regulate mental activity and balance energy in the body.",
+        "Context": "Pranayama basics"
+    },
+    {
+        "Instruction": "What is Alternate Nostril Pranayama?",
+        "Response ": "Alternate Nostril Pranayama balances male and female energies by alternating breath between left and right nostrils.",
+        "Context": "Alternate Nostril Pranayama"
+    },
+    {
+        "Instruction": "How do you practice Alternate Nostril Pranayama?",
+        "Response ": "Sit straight, close one nostril, inhale through the other, hold briefly, then exhale through the opposite nostril. Repeat.",
+        "Context": "Alternate Nostril technique"
+    },
+    {
+        "Instruction": "What are the benefits of Alternate Nostril Pranayama?",
+        "Response ": "It balances brain hemispheres, calms the mind, and purifies the nervous system, promoting mental clarity.",
+        "Context": "Alternate Nostril benefits"
+    },
+    {
+        "Instruction": "What is Shitali Pranayama?",
+        "Response ": "Shitali Pranayama is a cooling breath technique where you inhale through a curled tongue to cool the body and reduce pitta.",
+        "Context": "Shitali Pranayama"
+    },
+    {
+        "Instruction": "How do you practice Shitali Pranayama?",
+        "Response ": "Curl your tongue, inhale through it, swallow, and exhale through the nose. It cools the body and reduces heat.",
+        "Context": "Shitali technique"
+    },
+    {
+        "Instruction": "What are the benefits of Shitali Pranayama?",
+        "Response ": "Shitali cools the body, reduces pitta, improves digestion, and helps with high blood pressure and burning sensations.",
+        "Context": "Shitali benefits"
+    },
+    {
+        "Instruction": "What is Bhastrika Pranayama?",
+        "Response ": "Bhastrika, or Breath of Fire, involves forceful exhalations to increase lung capacity, relieve asthma, and heat the body.",
+        "Context": "Bhastrika Pranayama"
+    },
+    {
+        "Instruction": "How do you practice Bhastrika Pranayama?",
+        "Response ": "Inhale passively, exhale forcefully through the nose. Start slow, increase speed, and do up to 5 rounds daily.",
+        "Context": "Bhastrika technique"
+    },
+    {
+        "Instruction": "What are the benefits of Bhastrika Pranayama?",
+        "Response ": "Bhastrika strengthens lungs, relieves allergies, increases vitality, and heats the body, balancing kapha.",
+        "Context": "Bhastrika benefits"
+    },
+    {
+        "Instruction": "What is Bhramari Pranayama?",
+        "Response ": "Bhramari, or Humming Breath, involves humming on exhalation to calm the mind and improve voice quality.",
+        "Context": "Bhramari Pranayama"
+    },
+    {
+        "Instruction": "How do you practice Bhramari Pranayama?",
+        "Response ": "Inhale deeply, then hum on exhalation. The vibration calms the mind and benefits the thyroid and nervous system.",
+        "Context": "Bhramari technique"
+    },
+    {
+        "Instruction": "What are the benefits of Bhramari Pranayama?",
+        "Response ": "Bhramari calms the mind, improves voice, and benefits the thyroid, thymus, and parathyroid glands.",
+        "Context": "Bhramari benefits"
+    },
+    {
+        "Instruction": "What is Ujjayi Pranayama?",
+        "Response ": "Ujjayi, or Breath of Victory, involves constricting the throat to create a whispering sound, calming the mind and balancing doshas.",
+        "Context": "Ujjayi Pranayama"
+    },
+    {
+        "Instruction": "How do you practice Ujjayi Pranayama?",
+        "Response ": "Sit straight, constrict the throat, inhale deeply with a whispering sound, hold briefly, then exhale slowly.",
+        "Context": "Ujjayi technique"
+    },
+    {
+        "Instruction": "What are the benefits of Ujjayi Pranayama?",
+        "Response ": "Ujjayi calms the mind, relaxes muscles, promotes longevity, and balances all three doshas.",
+        "Context": "Ujjayi benefits"
+    },
+    {
+        "Instruction": "What is Surya Bhedi Pranayama?",
+        "Response ": "Surya Bhedi involves breathing only through the right nostril to activate male energy and increase body heat.",
+        "Context": "Surya Bhedi Pranayama"
+    },
+    {
+        "Instruction": "How do you practice Surya Bhedi Pranayama?",
+        "Response ": "Block the left nostril, inhale and exhale through the right nostril. Repeat 10 times to activate male energy.",
+        "Context": "Surya Bhedi technique"
+    },
+    {
+        "Instruction": "What are the benefits of Surya Bhedi Pranayama?",
+        "Response ": "Surya Bhedi increases body heat, activates male energy, and improves focus and digestion.",
+        "Context": "Surya Bhedi benefits"
+    },
+    {
+        "Instruction": "What is the role of breath in Ayurveda?",
+        "Response ": "Breath is the physical manifestation of prana, connecting body and mind. Controlled breathing (pranayama) balances energy.",
+        "Context": "Breath and Ayurveda"
+    },
+    {
+        "Instruction": "How does pranayama balance doshas?",
+        "Response ": "Pranayama techniques like Shitali cool pitta, Bhastrika heats kapha, and Ujjayi balances all three doshas.",
+        "Context": "Pranayama and doshas"
+    },
+    {
+        "Instruction": "What is meditation in Ayurveda?",
+        "Response ": "Meditation is an art of bringing harmony to body, mind, and consciousness, leading to bliss and peace.",
+        "Context": "Meditation basics"
+    },
+    {
+        "Instruction": "How is meditation different from concentration?",
+        "Response ": "Meditation is open, choiceless awareness, while concentration is effortful and narrows the mind.",
+        "Context": "Meditation vs concentration"
+    },
+    {
+        "Instruction": "What is the goal of meditation?",
+        "Response ": "The goal of meditation is to achieve pure awareness, where individual consciousness merges with Cosmic Consciousness.",
+        "Context": "Meditation goal"
+    },
+    {
+        "Instruction": "What is the Empty Bowl Meditation?",
+        "Response ": "Empty Bowl Meditation involves sitting quietly, observing the breath, and resting in the natural stops of inhalation and exhalation.",
+        "Context": "Empty Bowl Meditation"
+    },
+    {
+        "Instruction": "How do you practice Empty Bowl Meditation?",
+        "Response ": "Sit with palms up, watch your breath, and focus on the stops during inhalation and exhalation to experience inner peace.",
+        "Context": "Empty Bowl technique"
+    },
+    {
+        "Instruction": "What are the benefits of Empty Bowl Meditation?",
+        "Response ": "It brings tranquillity, stops the mind, and allows divine love to fill your consciousness.",
+        "Context": "Empty Bowl benefits"
+    },
+    {
+        "Instruction": "What is So-Hum Meditation?",
+        "Response ": "So-Hum Meditation involves silently repeating 'So' on inhalation and 'Hum' on exhalation to unite individual and universal consciousness.",
+        "Context": "So-Hum Meditation"
+    },
+    {
+        "Instruction": "How do you practice So-Hum Meditation?",
+        "Response ": "Sit quietly, watch your breath, and silently repeat 'So' on inhalation and 'Hum' on exhalation to transcend limitations.",
+        "Context": "So-Hum technique"
+    },
+    {
+        "Instruction": "What are the benefits of So-Hum Meditation?",
+        "Response ": "So-Hum Meditation leads to peace, joy, and the union of individual consciousness with Cosmic Consciousness.",
+        "Context": "So-Hum benefits"
+    },
+    {
+        "Instruction": "What is witnessing in meditation?",
+        "Response ": "Witnessing is observing both the external object and the internal observer simultaneously, leading to pure awareness.",
+        "Context": "Witnessing in meditation"
+    },
+    {
+        "Instruction": "How do you practice witnessing?",
+        "Response ": "Look at an object while simultaneously observing the observer within, allowing the watcher to dissolve into pure awareness.",
+        "Context": "Witnessing technique"
+    },
+    {
+        "Instruction": "What are the benefits of witnessing?",
+        "Response ": "Witnessing dissolves the ego, creates intimacy with the object, and leads to a state of pure, choiceless awareness.",
+        "Context": "Witnessing benefits"
+    },
+    {
+        "Instruction": "What is the role of breath in meditation?",
+        "Response ": "Breath is a bridge to awareness. Observing the breath calms the mind and leads to deeper states of meditation.",
+        "Context": "Breath and meditation"
+    },
+    {
+        "Instruction": "What is the Lotus pose in meditation?",
+        "Response ": "The Lotus pose is a seated posture that opens the heart, quiets breathing, and helps transcend thought.",
+        "Context": "Lotus pose"
+    },
+    {
+        "Instruction": "How does the Lotus pose help in meditation?",
+        "Response ": "The Lotus pose stabilizes the body, slows thinking, and helps the meditator go beyond suffering.",
+        "Context": "Lotus pose benefits"
+    },
+    {
+        "Instruction": "What is the importance of discipline in meditation?",
+        "Response ": "Discipline brings harmony to life, aligns thoughts and actions, and is essential for deepening meditation practice.",
+        "Context": "Discipline and meditation"
+    },
+    {
+        "Instruction": "What is the role of awareness in meditation?",
+        "Response ": "Awareness is the foundation of meditation, allowing one to observe without judgment and experience pure existence.",
+        "Context": "Awareness in meditation"
+    },
+    {
+        "Instruction": "What is the significance of 'So-Hum' in meditation?",
+        "Response ": "So' represents divine energy on inhalation, and 'Hum' represents the ego on exhalation, leading to unity with Cosmic Consciousness.",
+        "Context": "So-Hum significance"
+    },
+    {
+        "Instruction": "What is the role of the third eye in meditation?",
+        "Response ": "The third eye is a focal point for inner light and awareness, often activated during deep meditation practices.",
+        "Context": "Third eye in meditation"
+    },
+    {
+        "Instruction": "What is the Double-Arrowed Attention technique?",
+        "Response ": "Double-Arrowed Attention involves observing both the external object and the internal observer simultaneously, dissolving the ego.",
+        "Context": "Double-Arrowed Attention"
+    },
+    {
+        "Instruction": "How does meditation reduce stress?",
+        "Response ": "Meditation calms the mind, dissolves anxiety, and allows one to witness stress without being overwhelmed by it.",
+        "Context": "Meditation and stress"
+    },
+    {
+        "Instruction": "What is the purpose of Ayurvedic dietary guidelines?",
+        "Response ": "Ayurvedic dietary guidelines help you choose foods that balance your doshas, promoting harmony, health, and vitality.",
+        "Context": "Ayurvedic diet basics"
+    },
+    {
+        "Instruction": "How do I choose the right foods for my dosha?",
+        "Response ": "Choose foods that pacify your dominant dosha. For example, vata types should eat warm, grounding foods, while pitta types need cooling foods.",
+        "Context": "Choosing foods for doshas"
+    },
+    {
+        "Instruction": "What foods should vata types avoid?",
+        "Response ": "Vata types should avoid cold, dry, and raw foods like salads, dry fruits, and iced drinks, as they aggravate vata.",
+        "Context": "Vata diet"
+    },
+    {
+        "Instruction": "What foods are best for vata types?",
+        "Response ": "Vata types benefit from warm, moist, and grounding foods like cooked grains, soups, and warm spices like ginger and cinnamon.",
+        "Context": "Vata-friendly foods"
+    },
+    {
+        "Instruction": "What foods should pitta types avoid?",
+        "Response ": "Pitta types should avoid hot, spicy, and acidic foods like chili, citrus, and fermented foods, as they increase pitta.",
+        "Context": "Pitta diet"
+    },
+    {
+        "Instruction": "What foods are best for pitta types?",
+        "Response ": "Pitta types benefit from cooling, sweet, and bitter foods like cucumbers, melons, and leafy greens.",
+        "Context": "Pitta-friendly foods"
+    },
+    {
+        "Instruction": "What foods should kapha types avoid?",
+        "Response ": "Kapha types should avoid heavy, oily, and cold foods like cheese, yogurt, and ice cream, as they increase kapha.",
+        "Context": "Kapha diet"
+    },
+    {
+        "Instruction": "What foods are best for kapha types?",
+        "Response ": "Kapha types benefit from light, dry, and warming foods like beans, steamed vegetables, and spices like black pepper.",
+        "Context": "Kapha-friendly foods"
+    },
+    {
+        "Instruction": "How does season affect Ayurvedic diet?",
+        "Response ": "In summer, favor cooling foods to balance pitta. In fall, eat warm, moist foods for vata. In winter, avoid heavy, cold foods for kapha.",
+        "Context": "Seasonal diet"
+    },
+    {
+        "Instruction": "What is the role of taste in Ayurvedic diet?",
+        "Response ": "Taste (sweet, sour, salty, bitter, pungent, astringent) affects doshas. For example, sweet balances vata but increases kapha.",
+        "Context": "Taste and doshas"
+    },
+    {
+        "Instruction": "What is the postdigestive effect of food?",
+        "Response ": "Postdigestive effect (vipaka) refers to how food affects the body after digestion, influencing dosha balance.",
+        "Context": "Postdigestive effect"
+    },
+    {
+        "Instruction": "What are general dietary guidelines for vata?",
+        "Response ": "Vata types should eat 50% whole grains, 20% protein, and 20-30% fresh vegetables, with optional 10% fruit.",
+        "Context": "Vata diet guidelines"
+    },
+    {
+        "Instruction": "What are general dietary guidelines for pitta?",
+        "Response ": "Pitta types should eat 50% whole grains, 20% protein, and 20-30% vegetables, with optional 10% fruit.",
+        "Context": "Pitta diet guidelines"
+    },
+    {
+        "Instruction": "What are general dietary guidelines for kapha?",
+        "Response ": "Kapha types should eat 30-40% whole grains, 20% protein, and focus on light, warming foods to balance kapha.",
+        "Context": "Kapha diet guidelines"
+    },
+    {
+        "Instruction": "What should dual dosha types consider in their diet?",
+        "Response ": "Dual dosha types should balance both doshas. For example, vata-pitta types should avoid vata-aggravating foods in fall and pitta-aggravating foods in summer.",
+        "Context": "Dual dosha diet"
+    },
+    {
+        "Instruction": "How can I modify aggravating foods?",
+        "Response ": "Modify aggravating foods by cooking or adding spices. For example, cook raw apples with ghee and warming spices for vata types.",
+        "Context": "Modifying foods"
+    },
+    {
+        "Instruction": "What are some vata-pacifying spices?",
+        "Response ": "Vata-pacifying spices include ginger, cinnamon, cardamom, and cumin, which are warming and grounding.",
+        "Context": "Vata spices"
+    },
+    {
+        "Instruction": "What are some pitta-pacifying spices?",
+        "Response ": "Pitta-pacifying spices include coriander, fennel, and mint, which are cooling and soothing.",
+        "Context": "Pitta spices"
+    },
+    {
+        "Instruction": "What are some kapha-pacifying spices?",
+        "Response ": "Kapha-pacifying spices include black pepper, ginger, and turmeric, which are warming and stimulating.",
+        "Context": "Kapha spices"
+    },
+    {
+        "Instruction": "What is the role of ghee in Ayurvedic diet?",
+        "Response ": "Ghee is nourishing, improves digestion, and balances all doshas when used in moderation.",
+        "Context": "Ghee and Ayurveda"
+    },
+    {
+        "Instruction": "What is the role of dairy in Ayurvedic diet?",
+        "Response ": "Dairy can be nourishing but should be consumed in moderation. Warm milk is good for vata, while cold dairy aggravates kapha.",
+        "Context": "Dairy and Ayurveda"
+    },
+    {
+        "Instruction": "What are the six tastes in Ayurveda?",
+        "Response ": "The six tastes are sweet, sour, salty, pungent, bitter, and astringent. Each taste affects doshas differently.",
+        "Context": "Six tastes in Ayurveda"
+    },
+    {
+        "Instruction": "How does the sweet taste affect doshas?",
+        "Response ": "Sweet taste decreases vata and pitta but increases kapha. It\u2019s nourishing but can cause heaviness if overused.",
+        "Context": "Sweet taste and doshas"
+    },
+    {
+        "Instruction": "What foods are considered sweet in Ayurveda?",
+        "Response ": "Sweet foods include rice, sugar, milk, wheat, and dates. They are oily, cooling, and heavy in nature.",
+        "Context": "Sweet foods"
+    },
+    {
+        "Instruction": "What are the effects of sour taste on doshas?",
+        "Response ": "Sour taste decreases vata but increases pitta and kapha. It\u2019s refreshing but can cause acidity if overused.",
+        "Context": "Sour taste and doshas"
+    },
+    {
+        "Instruction": "What foods are considered sour in Ayurveda?",
+        "Response ": "Sour foods include citrus fruits, yogurt, vinegar, and fermented foods. They are liquid, light, and heating.",
+        "Context": "Sour foods"
+    },
+    {
+        "Instruction": "What are the effects of salty taste on doshas?",
+        "Response ": "Salty taste decreases vata but increases pitta and kapha. It aids digestion but can cause hypertension if overused.",
+        "Context": "Salty taste and doshas"
+    },
+    {
+        "Instruction": "What foods are considered salty in Ayurveda?",
+        "Response ": "Salty foods include sea salt, rock salt, and kelp. They are heating, heavy, and oily in nature.",
+        "Context": "Salty foods"
+    },
+    {
+        "Instruction": "What are the effects of pungent taste on doshas?",
+        "Response ": "Pungent taste increases vata and pitta but decreases kapha. It aids digestion but can cause burning if overused.",
+        "Context": "Pungent taste and doshas"
+    },
+    {
+        "Instruction": "What foods are considered pungent in Ayurveda?",
+        "Response ": "Pungent foods include chili, garlic, ginger, and onions. They are light, drying, and heating in nature.",
+        "Context": "Pungent foods"
+    },
+    {
+        "Instruction": "What are the effects of bitter taste on doshas?",
+        "Response ": "Bitter taste increases vata but decreases pitta and kapha. It\u2019s detoxifying but can cause dryness if overused.",
+        "Context": "Bitter taste and doshas"
+    },
+    {
+        "Instruction": "What foods are considered bitter in Ayurveda?",
+        "Response ": "Bitter foods include coffee, bitter melon, and turmeric. They are cool, light, and dry in nature.",
+        "Context": "Bitter foods"
+    },
+    {
+        "Instruction": "What are the effects of astringent taste on doshas?",
+        "Response ": "Astringent taste increases vata but decreases pitta and kapha. It\u2019s cooling but can cause constipation if overused.",
+        "Context": "Astringent taste and doshas"
+    },
+    {
+        "Instruction": "What foods are considered astringent in Ayurveda?",
+        "Response ": "Astringent foods include unripe bananas, pomegranates, and chickpeas. They are cooling, drying, and heavy.",
+        "Context": "Astringent foods"
+    },
+    {
+        "Instruction": "What are the three gunas in Ayurveda?",
+        "Response ": "The three gunas are sattva (purity), rajas (activity), and tamas (inertia). They influence mental and physical health.",
+        "Context": "Three gunas"
+    },
+    {
+        "Instruction": "What is sattvic food?",
+        "Response ": "Sattvic food is light, fresh, and easy to digest, promoting clarity and compassion. Examples: fruits, steamed vegetables, and milk.",
+        "Context": "Sattvic food"
+    },
+    {
+        "Instruction": "What is rajasic food?",
+        "Response ": "Rajasic food is spicy, salty, and stimulating, increasing activity and agitation. Examples: hot pickles, salty snacks.",
+        "Context": "Rajasic food"
+    },
+    {
+        "Instruction": "What is tamasic food?",
+        "Response ": "Tamasic food is heavy, dull, and depressing, promoting inertia. Examples: old, stale food, and dark meats.",
+        "Context": "Tamasic food"
+    },
+    {
+        "Instruction": "How do the gunas relate to doshas?",
+        "Response ": "Sattva is linked to clarity (pitta), lightness (vata), and love (kapha). Rajas is active in vata and pitta, while tamas is heavy in kapha.",
+        "Context": "Gunas and doshas"
+    },
+    {
+        "Instruction": "What are healthy eating habits in Ayurveda?",
+        "Response ": "Eat fresh, sattvic food, chew well, eat when hungry, and avoid overeating. Fill 1/3 of your stomach with food, 1/3 with water, and leave 1/3 empty.",
+        "Context": "Healthy eating habits"
+    },
+    {
+        "Instruction": "What are unhealthy eating habits in Ayurveda?",
+        "Response ": "Unhealthy habits include overeating, eating when not hungry, and consuming incompatible food combinations like milk with bananas.",
+        "Context": "Unhealthy eating habits"
+    },
+    {
+        "Instruction": "What are incompatible food combinations?",
+        "Response ": "Incompatible combinations include milk with bananas, yogurt with fruit, and melons with other foods. They can cause digestive issues.",
+        "Context": "Incompatible food combinations"
+    },
+    {
+        "Instruction": "What is the role of milk in Ayurveda?",
+        "Response ": "Milk is nourishing and sattvic but should be heated to boiling point to preserve enzymes. Avoid combining it with sour or acidic foods.",
+        "Context": "Milk in Ayurveda"
+    },
+    {
+        "Instruction": "What is the role of honey in Ayurveda?",
+        "Response ": "Honey is warming and detoxifying but should never be cooked, as it becomes toxic. It\u2019s best consumed raw and in moderation.",
+        "Context": "Honey in Ayurveda"
+    },
+    {
+        "Instruction": "Which Ayurvedic remedy is best for bloating?",
+        "Response ": "Try cumin-fennel tea, warm food, and avoid raw salads.",
+        "Context": "bloating"
+    },
+    {
+        "Instruction": "How can Ayurveda help with excessive sweating?",
+        "Response ": "Balance pitta with cooling herbs and light cotton clothing.",
+        "Context": "sweating"
+    },
+    {
+        "Instruction": "What herbs are good for reducing joint inflammation in Ayurveda?",
+        "Response ": "Use guggulu, turmeric, and castor oil packs.",
+        "Context": "arthritis"
+    },
+    {
+        "Instruction": "Is there a natural Ayurvedic cure for eczema?",
+        "Response ": "Apply neem oil, use cooling herbs, and follow a pitta diet.",
+        "Context": "eczema"
+    },
+    {
+        "Instruction": "What does Ayurveda say about boosting energy?",
+        "Response ": "Boost ojas with warm milk, ashwagandha, and daily routine.",
+        "Context": "energy"
+    },
+    {
+        "Instruction": "How can I calm my nerves using Ayurveda?",
+        "Response ": "Use brahmi, oil massage, and grounding foods.",
+        "Context": "anxiety"
+    },
+    {
+        "Instruction": "What's the Ayurvedic solution for irregular appetite?",
+        "Response ": "Stimulate agni with ginger-lime-salt mix before meals.",
+        "Context": "appetite"
+    },
+    {
+        "Instruction": "Can Ayurveda help with acidity and heartburn?",
+        "Response ": "Yes, use aloe juice, fennel, and avoid spicy, sour foods.",
+        "Context": "acidity"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on migraines?",
+        "Response ": "Treat migraines based on dosha-cool pitta or calm vata.",
+        "Context": "migraine"
+    },
+    {
+        "Instruction": "Which yoga poses support digestive fire?",
+        "Response ": "Try Bow, Cobra, and Sun Salutation to stoke agni.",
+        "Context": "digestion"
+    },
+    {
+        "Instruction": "How to improve memory with Ayurvedic practices?",
+        "Response ": "Include brahmi, almonds, and mental stillness in your routine.",
+        "Context": "memory"
+    },
+    {
+        "Instruction": "Can oil massage help reduce insomnia in Ayurveda?",
+        "Response ": "Yes, sesame or bhringaraj oil massage calms vata and improves sleep.",
+        "Context": "insomnia"
+    },
+    {
+        "Instruction": "What's a good Ayurvedic tea for colds?",
+        "Response ": "Use ginger, tulsi, and black pepper tea for relief.",
+        "Context": "cold"
+    },
+    {
+        "Instruction": "How to detox naturally according to Ayurveda?",
+        "Response ": "Use triphala, panchakarma, and seasonal fasting.",
+        "Context": "detox"
+    },
+    {
+        "Instruction": "Why does Ayurveda emphasize tongue scraping?",
+        "Response ": "To remove ama and stimulate digestion daily.",
+        "Context": "oral care"
+    },
+    {
+        "Instruction": "What is an Ayurvedic treatment for nasal congestion?",
+        "Response ": "Apply warm nasya oil and inhale eucalyptus steam.",
+        "Context": "sinus"
+    },
+    {
+        "Instruction": "Can triphala be used daily?",
+        "Response ": "Yes, it supports colon health, detox, and gentle rejuvenation.",
+        "Context": "triphala"
+    },
+    {
+        "Instruction": "What is the role of turmeric in Ayurveda?",
+        "Response ": "Turmeric reduces inflammation, boosts immunity, and purifies blood.",
+        "Context": "turmeric"
+    },
+    {
+        "Instruction": "What helps reduce pitta heat in summer?",
+        "Response ": "Coconut water, cucumber, rose, and avoiding sun exposure.",
+        "Context": "pitta"
+    },
+    {
+        "Instruction": "How can I balance vata dosha in winter?",
+        "Response ": "Stay warm, eat oily foods, and practice abhyanga.",
+        "Context": "vata"
+    },
+    {
+        "Instruction": "What are signs of kapha imbalance?",
+        "Response ": "Lethargy, congestion, heaviness, weight gain.",
+        "Context": "kapha"
+    },
+    {
+        "Instruction": "Which foods reduce kapha?",
+        "Response ": "Favor spicy, light, dry foods like millet and ginger.",
+        "Context": "kapha diet"
+    },
+    {
+        "Instruction": "How does Ayurveda view seasonal changes?",
+        "Response ": "Each season affects doshas; adjust diet/lifestyle accordingly.",
+        "Context": "ritucharya"
+    },
+    {
+        "Instruction": "What is shatavari used for?",
+        "Response ": "Shatavari nourishes female reproductive health and cools pitta.",
+        "Context": "shatavari"
+    },
+    {
+        "Instruction": "Why is abhyanga important in Ayurveda?",
+        "Response ": "Daily oil massage calms vata, nourishes tissues, and removes toxins.",
+        "Context": "abhyanga"
+    },
+    {
+        "Instruction": "What is a simple Ayurvedic remedy for cough?",
+        "Response ": "Mix honey, ginger, and turmeric in warm water.",
+        "Context": "cough"
+    },
+    {
+        "Instruction": "How to increase digestive fire (agni)?",
+        "Response ": "Use ginger, black pepper, and eat at regular times.",
+        "Context": "agni"
+    },
+    {
+        "Instruction": "What does Ayurveda say about emotions and health?",
+        "Response ": "Unresolved emotions disturb doshas; balance them through sattva.",
+        "Context": "emotions"
+    },
+    {
+        "Instruction": "What practices help balance hormones?",
+        "Response ": "Use shatavari, manage stress, and eat fresh seasonal food.",
+        "Context": "hormones"
+    },
+    {
+        "Instruction": "What is rasayana therapy in Ayurveda?",
+        "Response ": "Rasayana revitalizes tissues and boosts longevity and immunity.",
+        "Context": "rasayana"
+    },
+    {
+        "Instruction": "Can Ayurveda treat chronic fatigue?",
+        "Response ": "Yes, with ashwagandha, proper sleep, and digestive care.",
+        "Context": "fatigue"
+    },
+    {
+        "Instruction": "What helps reduce eye strain in Ayurveda?",
+        "Response ": "Use rose water drops, triphala eyewash, and screen breaks.",
+        "Context": "eye strain"
+    },
+    {
+        "Instruction": "How to soothe skin rashes naturally?",
+        "Response ": "Apply sandalwood or aloe, and avoid spicy/sour foods.",
+        "Context": "skin"
+    },
+    {
+        "Instruction": "What are some anti-aging herbs in Ayurveda?",
+        "Response ": "Amalaki, guduchi, ashwagandha, and ghee nourish longevity.",
+        "Context": "anti-aging"
+    },
+    {
+        "Instruction": "Which oils are best for vata skin?",
+        "Response ": "Use sesame, almond, or avocado oil for nourishment.",
+        "Context": "vata skin"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on toxins (ama)?",
+        "Response ": "Ama is undigested food and stress\u2014cause of disease.",
+        "Context": "ama"
+    },
+    {
+        "Instruction": "Which herb cleanses the liver?",
+        "Response ": "Kutki supports liver detox and pitta clearance.",
+        "Context": "liver"
+    },
+    {
+        "Instruction": "What daily routine helps balance all doshas?",
+        "Response ": "Wake before sunrise, do oil massage, light exercise, and eat fresh food.",
+        "Context": "dinacharya"
+    },
+    {
+        "Instruction": "How to deal with dandruff the Ayurvedic way?",
+        "Response ": "Apply neem oil, keep scalp dry, and avoid kapha foods.",
+        "Context": "dandruff"
+    },
+    {
+        "Instruction": "Is honey recommended in Ayurveda?",
+        "Response ": "Yes, raw honey balances kapha and is used in many remedies.",
+        "Context": "honey"
+    },
+    {
+        "Instruction": "What does Ayurveda recommend for sinus headaches?",
+        "Response ": "Use nasya, avoid dairy, and steam with eucalyptus or ginger.",
+        "Context": "sinus"
+    },
+    {
+        "Instruction": "What foods worsen pitta?",
+        "Response ": "Spicy, fried, salty, and fermented foods increase pitta.",
+        "Context": "pitta diet"
+    },
+    {
+        "Instruction": "Best Ayurvedic tip for better sleep?",
+        "Response ": "Rub oil on feet and temples, drink nutmeg milk before bed.",
+        "Context": "sleep"
+    },
+    {
+        "Instruction": "What is a cooling drink in Ayurveda?",
+        "Response ": "Rose water, fennel tea, or blue solarized water.",
+        "Context": "cooling drinks"
+    },
+    {
+        "Instruction": "How to ease PMS symptoms naturally?",
+        "Response ": "Take warm baths, shatavari, and calming teas like chamomile.",
+        "Context": "pms"
+    },
+    {
+        "Instruction": "What are the benefits of tulsi?",
+        "Response ": "Tulsi boosts immunity, clears respiratory issues, and calms the mind.",
+        "Context": "tulsi"
+    },
+    {
+        "Instruction": "What are warming herbs in Ayurveda?",
+        "Response ": "Ginger, black pepper, cinnamon stimulate agni.",
+        "Context": "warming herbs"
+    },
+    {
+        "Instruction": "Is aloe vera good in Ayurveda?",
+        "Response ": "Yes, it cools pitta, soothes digestion, and heals skin.",
+        "Context": "aloe vera"
+    },
+    {
+        "Instruction": "Which herb supports respiratory health?",
+        "Response ": "Vasaka, tulsi, and licorice help the lungs.",
+        "Context": "respiratory health"
+    },
+    {
+        "Instruction": "What is an Ayurvedic tip for focus and clarity?",
+        "Response ": "Use brahmi, meditate daily, and avoid overstimulation.",
+        "Context": "focus"
+    },
+    {
+        "Instruction": "Which dosha is linked with creativity?",
+        "Response ": "Vata governs creativity, imagination, and movement.",
+        "Context": "vata"
+    },
+    {
+        "Instruction": "What's a gentle Ayurvedic cleanse?",
+        "Response ": "Use triphala, warm water, and light kitchari meals.",
+        "Context": "cleanse"
+    },
+    {
+        "Instruction": "How to handle emotional stress with Ayurveda?",
+        "Response ": "Practice pranayama, use calming herbs, and follow a routine.",
+        "Context": "stress"
+    },
+    {
+        "Instruction": "Can Ayurveda help balance blood sugar?",
+        "Response ": "Yes, with bitter melon, methi, and low-glycemic diet.",
+        "Context": "blood sugar"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing weak digestion?",
+        "Response ": "Kindle agni with trikatu, warm meals, and proper food timing.",
+        "Context": "agni"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing water retention?",
+        "Response ": "Reduce water retention with punarnava, light meals, and exercise.",
+        "Context": "water retention"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing PMS?",
+        "Response ": "Balance hormones with shatavari, warm baths, and calming teas.",
+        "Context": "pms"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing menopause?",
+        "Response ": "Support menopause with cooling herbs, meditation, and rasayana.",
+        "Context": "menopause"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing joint pain?",
+        "Response ": "Reduce joint pain with guggulu, castor oil, and hot fomentation.",
+        "Context": "joint pain"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing itching?",
+        "Response ": "Relieve itching with neem, cooling oils, and avoid allergens.",
+        "Context": "itching"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing high blood pressure?",
+        "Response ": "Manage with arjuna, lifestyle changes, and calming practices.",
+        "Context": "hypertension"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing cholesterol?",
+        "Response ": "Balance cholesterol with guggulu, fiber-rich diet, and exercise.",
+        "Context": "cholesterol"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing diabetes?",
+        "Response ": "Control blood sugar with bitter gourd, methi, and low-carb meals.",
+        "Context": "diabetes"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing thyroid issues?",
+        "Response ": "Use kanchanar guggulu, seaweed, and daily thyroid stimulation.",
+        "Context": "thyroid"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing liver health?",
+        "Response ": "Support liver with kutki, aloe juice, and a detoxifying routine.",
+        "Context": "liver"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing kidney health?",
+        "Response ": "Cleanse kidneys with punarnava, gokshura, and hydration.",
+        "Context": "kidneys"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing eye strain?",
+        "Response ": "Soothe eyes with triphala wash, rose water, and screen breaks.",
+        "Context": "eye strain"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing dark circles?",
+        "Response ": "Reduce dark circles with almond oil, sleep, and iron-rich diet.",
+        "Context": "dark circles"
+    },
+    {
+        "Instruction": "What is Ayurvedic advice for managing cracked heels?",
+        "Response ": "Heal heels with ghee, sesame oil massage, and hydration.",
+        "Context": "cracked heels"
+    },
+    {
+        "Instruction": "What does Ayurveda recommend for cracked heels?",
+        "Response ": "Apply ghee or castor oil, soak feet, and avoid dry cold weather.",
+        "Context": "cracked heels"
+    },
+    {
+        "Instruction": "What is the best time to eat in Ayurveda?",
+        "Response ": "Lunch should be the biggest meal around noon when agni is strongest.",
+        "Context": "meal timing"
+    },
+    {
+        "Instruction": "Which Ayurvedic herbs are adaptogens?",
+        "Response ": "Ashwagandha, tulsi, and guduchi support stress resilience.",
+        "Context": "adaptogens"
+    },
+    {
+        "Instruction": "How to strengthen bones Ayurvedically?",
+        "Response ": "Use sesame, ashwagandha, and weight-bearing yoga.",
+        "Context": "bone health"
+    },
+    {
+        "Instruction": "What kind of water is recommended in Ayurveda?",
+        "Response ": "Warm, boiled, or copper-stored water enhances digestion.",
+        "Context": "water"
+    },
+    {
+        "Instruction": "Why is pranayama essential in Ayurveda?",
+        "Response ": "It calms the mind, balances vata, and improves lung function.",
+        "Context": "pranayama"
+    },
+    {
+        "Instruction": "How can Ayurveda help reduce water retention?",
+        "Response ": "Use punarnava, barley water, and reduce salty food intake.",
+        "Context": "water retention"
+    },
+    {
+        "Instruction": "What's the Ayurvedic way to boost mental clarity?",
+        "Response ": "Use brahmi, get restful sleep, and eat light, sattvic meals.",
+        "Context": "mental clarity"
+    },
+    {
+        "Instruction": "Which foods are best to calm vata dosha?",
+        "Response ": "Warm, moist, oily foods like soups, stews, and root veggies.",
+        "Context": "vata diet"
+    },
+    {
+        "Instruction": "What's a good daily routine to keep kapha in check?",
+        "Response ": "Wake early, exercise, eat light, and avoid naps.",
+        "Context": "kapha routine"
+    },
+    {
+        "Instruction": "How to reduce oiliness in skin with Ayurveda?",
+        "Response ": "Apply sandalwood, neem, and avoid fried or spicy food.",
+        "Context": "oily skin"
+    },
+    {
+        "Instruction": "What are signs of ama accumulation?",
+        "Response ": "Coated tongue, sluggishness, and foul breath are key signs.",
+        "Context": "ama"
+    },
+    {
+        "Instruction": "What is nasya and its benefits?",
+        "Response ": "Nasya is nasal therapy for sinus, brain, and emotional health.",
+        "Context": "nasya"
+    },
+    {
+        "Instruction": "Which herbs improve lung health?",
+        "Response ": "Vasaka, tulsi, and licorice strengthen the lungs and reduce mucus.",
+        "Context": "lungs"
+    },
+    {
+        "Instruction": "What are Ayurvedic practices for healthy skin?",
+        "Response ": "Oil massage, triphala, and pitta-balancing food promote clear skin.",
+        "Context": "skin"
+    }
+]

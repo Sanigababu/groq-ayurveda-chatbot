@@ -1,0 +1,2502 @@
+[
+    {
+        "Instruction": "What are some common symptoms women experience related to menstruation and menopause?",
+        "Response": "Women experience cramps, fatigue, mood swings, and bloating during menstruation, and hot flashes, insomnia, and mood swings during menopause.",
+        "Context": "Cramps"
+    },
+    {
+        "Instruction": "How does Ayurvedic therapy approach the treatment of menstrual and menopausal disorders?",
+        "Response": "Ayurvedic therapy treats menstrual and menopausal disorders with herbs, diet, and lifestyle to balance doshas.",
+        "Context": "Herbs"
+    },
+    {
+        "Instruction": "According to Ayurveda, what are the root causes of PMS?",
+        "Response": "PMS is caused by imbalances in Vata, Pitta, or Kapha doshas.",
+        "Context": "Doshas"
+    },
+    {
+        "Instruction": "Why is the menstrual cycle respected in traditional Indian culture?",
+        "Response": "The menstrual cycle is respected in Indian culture for its connection to fertility and womanhood.",
+        "Context": "Fertility"
+    },
+    {
+        "Instruction": "How is the menstrual cycle connected to the lunar cycle?",
+        "Response": "The menstrual cycle follows a 28-day rhythm, similar to the lunar cycle.",
+        "Context": "Lunar"
+    },
+    {
+        "Instruction": "What happens in the female body during menstruation according to Ayurveda?",
+        "Response": "During menstruation, Ayurveda focuses on rest, detoxification, and elimination of toxins (ama).",
+        "Context": "Detox"
+    },
+    {
+        "Instruction": "How can modern women respect their cycle despite demanding schedules?",
+        "Response": "Modern women can respect their cycle through self-care, a balanced diet, and stress management.",
+        "Context": "Self-care"
+    },
+    {
+        "Instruction": "Why do Ayurvedic doctors believe women live longer than men?",
+        "Response": "Ayurvedic doctors believe women live longer due to their natural cycles and connection to rejuvenation.",
+        "Context": "Longevity"
+    },
+    {
+        "Instruction": "What are general lifestyle and dietary recommendations for balancing the female cycle?",
+        "Response": "Recommendations for balancing the cycle include regular sleep, a balanced diet, and stress management.",
+        "Context": "Balance"
+    },
+    {
+        "Instruction": "Why should caffeine and alcohol be avoided during menstruation?",
+        "Response": "Caffeine and alcohol should be avoided during menstruation to maintain dosha balance and prevent dehydration.",
+        "Context": "Avoid"
+    },
+    {
+        "Instruction": "How can sweet ginger tea and saffron benefit the menstrual cycle?",
+        "Response": "Sweet ginger tea and saffron help improve circulation, ease cramps, and promote detox.",
+        "Context": "Circulation"
+    },
+    {
+        "Instruction": "What are the benefits of herbs like Ashoka, Shatavari, and Punarnava?",
+        "Response": "Ashoka, Shatavari, and Punarnava nourish and support reproductive health.",
+        "Context": "Support"
+    },
+    {
+        "Instruction": "What symptoms indicate Vata-type PMS?",
+        "Response": "Vata-type PMS involves dryness, anxiety, and irregular cycles.",
+        "Context": "Anxiety"
+    },
+    {
+        "Instruction": "What dietary and lifestyle habits help balance Vata-type PMS?",
+        "Response": "To balance Vata-type PMS, consume grounding foods, hydrate, and practice calming techniques.",
+        "Context": "Grounding"
+    },
+    {
+        "Instruction": "What herbal remedies are recommended for Vata-related menstrual imbalances?",
+        "Response": "Ashwagandha, Shatavari, and licorice root help balance Vata-related PMS.",
+        "Context": "Ashwagandha"
+    },
+    {
+        "Instruction": "What symptoms indicate Pitta-type PMS?",
+        "Response": "Pitta-type PMS involves irritability, overheating, and inflammation.",
+        "Context": "Irritability"
+    },
+    {
+        "Instruction": "What are the Ayurvedic remedies for Pitta-type PMS?",
+        "Response": "Cooling herbs like mint and aloe vera help manage Pitta-type PMS.",
+        "Context": "Cooling"
+    },
+    {
+        "Instruction": "Why should overheating and hot water be avoided during heavy menstrual flow?",
+        "Response": "Avoid overheating and hot water during heavy menstrual flow to prevent Pitta aggravation.",
+        "Context": "Overheating"
+    },
+    {
+        "Instruction": "What symptoms indicate Kapha-type PMS?",
+        "Response": "Kapha-type PMS involves heaviness, lethargy, fluid retention, and emotional dullness.",
+        "Context": "Lethargy"
+    },
+    {
+        "Instruction": "What dietary and lifestyle changes are beneficial for Kapha-type PMS?",
+        "Response": "To balance Kapha-type PMS, consume light, warm foods, and engage in exercise.",
+        "Context": "Light"
+    },
+    {
+        "Instruction": "What herbal remedies are recommended for Kapha-type PMS?",
+        "Response": "Ginger, turmeric, and triphala help manage Kapha-type PMS by reducing excess mucus.",
+        "Context": "Triphala"
+    },
+    {
+        "Instruction": "Why is daily exercise emphasized for Kapha PMS?",
+        "Response": "Regular exercise is important for Kapha PMS to stimulate metabolism and balance sluggishness.",
+        "Context": "Exercise"
+    },
+    {
+        "Instruction": "What role do joints play in the body according to Ayurveda?",
+        "Response": "Joints are the seat of Vata and are essential for mobility and flexibility.",
+        "Context": "Mobility"
+    },
+    {
+        "Instruction": "How are joints associated with the doshas?",
+        "Response": "Imbalances in Vata affect joints, causing dryness, pain, and stiffness.",
+        "Context": "Stiffness"
+    },
+    {
+        "Instruction": "What is the role of ama in joint disorders?",
+        "Response": "Ama in joints causes inflammation, stiffness, and pain due to poor digestion.",
+        "Context": "Inflammation"
+    },
+    {
+        "Instruction": "How can sesame oil help diagnose amavata?",
+        "Response": "Sesame oil lubricates joints and helps diagnose amavata (toxins).",
+        "Context": "Lubrication"
+    },
+    {
+        "Instruction": "What are common causes of vata imbalance in joints?",
+        "Response": "Cold, dehydration, stress, and excessive movement cause Vata imbalances in joints.",
+        "Context": "Dehydration"
+    },
+    {
+        "Instruction": "What symptoms suggest a Vata imbalance in the joints?",
+        "Response": "Vata imbalance in joints leads to dryness, cracking, and pain.",
+        "Context": "Cracking"
+    },
+    {
+        "Instruction": "What lifestyle habits help support joint health?",
+        "Response": "Regular oil massage, staying warm, and proper hydration support joint health.",
+        "Context": "Massage"
+    },
+    {
+        "Instruction": "How does amavata form and affect the joints?",
+        "Response": "Ama forms in joints due to weak digestion and improper food combinations.",
+        "Context": "Digestion"
+    },
+    {
+        "Instruction": "What are the symptoms of joint inflammation due to amavata?",
+        "Response": "Symptoms of amavata in joints include swelling, pain, and limited motion.",
+        "Context": "Swelling"
+    },
+    {
+        "Instruction": "What are the main causes of ama accumulation?",
+        "Response": "Ama accumulates due to poor digestion, irregular eating, and stress.",
+        "Context": "Indigestion"
+    },
+    {
+        "Instruction": "What lifestyle practices help remove ama from the joints?",
+        "Response": "Removing ama involves fasting, detoxifying herbs, and supporting digestion.",
+        "Context": "Fasting"
+    },
+    {
+        "Instruction": "What are the recommended dietary habits for joint health?",
+        "Response": "Anti-inflammatory foods like turmeric, ginger, and healthy fats support joint health.",
+        "Context": "Turmeric"
+    },
+    {
+        "Instruction": "Which herbs are useful in treating joint issues and removing ama?",
+        "Response": "Guggulu, Guduchi, turmeric, and ginger detoxify joints and reduce inflammation.",
+        "Context": "Flexibility"
+    },
+    {
+        "Instruction": "What is the role of guggulu, guduchi, and turmeric in joint care?",
+        "Response": "Guggulu, Guduchi, and turmeric support joint flexibility by reducing inflammation.",
+        "Context": "Immunity"
+    },
+    {
+        "Instruction": "What is ama and how does it relate to allergies?",
+        "Response": "Ama weakens the immune system and contributes to allergies.",
+        "Context": "Reaction"
+    },
+    {
+        "Instruction": "How does Ayurveda view the cause of allergic reactions?",
+        "Response": "Allergies arise from ama and doshic imbalances, causing immune system dysfunction.",
+        "Context": "Mucus"
+    },
+    {
+        "Instruction": "How does Kapha dosha contribute to allergies?",
+        "Response": "Kapha dosha contributes to allergies by increasing mucus and causing congestion.",
+        "Context": "Suppression"
+    },
+    {
+        "Instruction": "How does the presence of ama affect the immune system?",
+        "Response": "Ama weakens immunity, leading to heightened allergic responses.",
+        "Context": "Itching"
+    },
+    {
+        "Instruction": "What dietary adjustments help reduce allergy symptoms?",
+        "Response": "Vata imbalances in allergies cause dryness, itching, and sensitivity.",
+        "Context": "Warming"
+    },
+    {
+        "Instruction": "What is the effect of turmeric and holy basil in managing allergies?",
+        "Response": "Vata-related allergies are treated with warming herbs, hydration, and soothing practices.",
+        "Context": "Redness"
+    },
+    {
+        "Instruction": "What is a simple recipe for an anti-allergy tea?",
+        "Response": "Pitta imbalances in allergies cause inflammation, rashes, and redness.",
+        "Context": "Aloe"
+    },
+    {
+        "Instruction": "What is the Ama-Reducing Program recommended for allergies?",
+        "Response": "Cooling herbs like aloe vera and mint help manage Pitta-related allergies.",
+        "Context": "Congestion"
+    },
+    {
+        "Instruction": "How does a Vata imbalance manifest in allergic reactions?",
+        "Response": "Kapha-type allergies cause congestion, mucus, and sluggishness.",
+        "Context": "Drying"
+    },
+    {
+        "Instruction": "What are the recommended treatments for Vata-related allergies?",
+        "Response": "Kapha-related allergies can be treated with drying, stimulating herbs and exercises.",
+        "Context": "Movement"
+    },
+    {
+        "Instruction": "How does Pitta imbalance affect allergic response?",
+        "Response": "Daily exercise helps manage Kapha-type allergies by stimulating circulation and metabolism.",
+        "Context": "Response"
+    },
+    {
+        "Instruction": "What are the Kapha symptoms in allergies and how can they be managed?",
+        "Response": "The immune system\u2019s response to allergens is influenced by doshic imbalances and ama.",
+        "Context": "Kapha Symtoms"
+    },
+    {
+        "Instruction": "What symptoms are commonly experienced by women during different phases of their menstrual and menopausal cycle?",
+        "Response": "Women may experience mood swings, cramps, irregular cycles, hot flashes, and cravings.",
+        "Context": "Women's Health"
+    },
+    {
+        "Instruction": "How does Ayurveda differ from Western medicine in treating PMS and menstrual issues?",
+        "Response": "Ayurveda addresses the root cause and promotes self-healing rather than suppressing symptoms.",
+        "Context": "Ayurveda"
+    },
+    {
+        "Instruction": "What are the primary causes of female reproductive disorders according to Ayurveda?",
+        "Response": "Poor lifestyle, stress, suppressed urges, and improper diet are major causes.",
+        "Context": "Causes"
+    },
+    {
+        "Instruction": "How is the menstrual cycle respected in Indian culture?",
+        "Response": "The menstrual cycle is honored as sacred and aligned with the lunar cycle.",
+        "Context": "Menstrual Cycle"
+    },
+    {
+        "Instruction": "What role does rest play during menstruation in traditional Ayurvedic practice?",
+        "Response": "Rest helps the body cleanse and rejuvenate during menstruation.",
+        "Context": "Menstruation"
+    },
+    {
+        "Instruction": "What lifestyle habits can aggravate PMS symptoms?",
+        "Response": "Ignoring the need to rest can aggravate PMS and lead to symptoms.",
+        "Context": "PMS"
+    },
+    {
+        "Instruction": "What general recommendations does Ayurveda give to manage menstrual discomfort?",
+        "Response": "Ayurveda suggests balanced rest, yoga, diet changes, and herbal therapies.",
+        "Context": "Ayurveda"
+    },
+    {
+        "Instruction": "Why are aloe vera, ginger tea, and saffron recommended for menstruation?",
+        "Response": "Aloe vera, ginger tea, and saffron regulate cycles and relieve symptoms.",
+        "Context": "Remedies"
+    },
+    {
+        "Instruction": "Which herbs are used to manage PMS and related menstrual disorders?",
+        "Response": "Ashoka, Shatavari, and Punarnava are key herbs for female health.",
+        "Context": "Herbs"
+    },
+    {
+        "Instruction": "What are the symptoms of Vata-type PMS?",
+        "Response": "Vata PMS causes anxiety, cramps, constipation, and irregular or scanty flow.",
+        "Context": "Vata PMS"
+    },
+    {
+        "Instruction": "What remedies are suggested for Vata-type PMS?",
+        "Response": "Vata PMS is treated with warm oils, herbal teas, and grounding herbs.",
+        "Context": "Vata Treatment"
+    },
+    {
+        "Instruction": "What are the symptoms of Pitta-type PMS?",
+        "Response": "Pitta PMS includes irritability, headaches, heat, and heavy bleeding.",
+        "Context": "Pitta PMS"
+    },
+    {
+        "Instruction": "How is Pitta-type PMS managed?",
+        "Response": "Pitta PMS requires cooling herbs, rest, and avoiding overheating.",
+        "Context": "Pitta Treatment"
+    },
+    {
+        "Instruction": "What are the symptoms of Kapha-type PMS?",
+        "Response": "Kapha PMS brings bloating, weight gain, fatigue, and mucousy flow.",
+        "Context": "Kapha PMS"
+    },
+    {
+        "Instruction": "What are the Ayurvedic treatments for Kapha-type PMS?",
+        "Response": "Kapha PMS is managed by a light diet, spices, exercise, and detox herbs.",
+        "Context": "Kapha Treatment"
+    },
+    {
+        "Instruction": "What is the anatomical and doshic role of joints in Ayurveda?",
+        "Response": "Joints are Vata-ruled spaces supported by Kapha tissues like cartilage and fluid.",
+        "Context": "Joints"
+    },
+    {
+        "Instruction": "How does Vata dosha affect joint health?",
+        "Response": "Excess Vata dries joints, causing cracking, pain, and degeneration.",
+        "Context": "Vata and Joints"
+    },
+    {
+        "Instruction": "What is ama and how does it impact joint function?",
+        "Response": "Ama is a sticky toxin that blocks channels and causes inflammation.",
+        "Context": "Ama"
+    },
+    {
+        "Instruction": "How can one test for the presence of ama in joints?",
+        "Response": "If sesame oil worsens symptoms, ama is likely present (amavata).",
+        "Context": "Joint Problems"
+    },
+    {
+        "Instruction": "What causes joint pain according to Ayurveda?",
+        "Response": "Excess exercise, dry foods, injury, and irregular routines cause joint issues.",
+        "Context": "Vata Imbalance"
+    },
+    {
+        "Instruction": "What are the symptoms of Vata-related joint imbalance?",
+        "Response": "Cracking joints, stiffness, spasms, and dryness signal Vata imbalance.",
+        "Context": "Vata Care"
+    },
+    {
+        "Instruction": "How can lifestyle and diet improve joint health?",
+        "Response": "Regular routines, warm oil massage, and a Vata-pacifying diet help.",
+        "Context": "Herbs for Inflammation"
+    },
+    {
+        "Instruction": "What are common herbal treatments for joint issues?",
+        "Response": "Herbs like Guggulu, Guduchi, and Ashwagandha reduce inflammation and ama.",
+        "Context": "Allergies"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on the root cause of allergies?",
+        "Response": "Ayurveda sees allergies as a hypersensitive reaction caused by ama.",
+        "Context": "Ama and Allergies"
+    },
+    {
+        "Instruction": "How is ama involved in allergic reactions?",
+        "Response": "Ama clogs circulation, weakens immunity, and increases allergy risk.",
+        "Context": "Kapha Allergies"
+    },
+    {
+        "Instruction": "What are the Kapha-related allergy symptoms?",
+        "Response": "Kapha allergies cause sneezing, watery eyes, fatigue, and congestion.",
+        "Context": "Reducing Ama"
+    },
+    {
+        "Instruction": "How can diet help reduce allergies?",
+        "Response": "Warm, light foods like vegetables help reduce Kapha and ama.",
+        "Context": "Vata Allergies"
+    },
+    {
+        "Instruction": "How do turmeric and holy basil help with allergies?",
+        "Response": "Turmeric and tulsi purify blood, reduce ama, and enhance immunity.",
+        "Context": "Vata Allergy Care"
+    },
+    {
+        "Instruction": "What is the Ama-Reducing Program for allergy management?",
+        "Response": "The Ama-Reducing Program includes hot water, light diet, and detox routines.",
+        "Context": "Pitta Allergies"
+    },
+    {
+        "Instruction": "How does Vata dosha influence allergic reactions?",
+        "Response": "Vata allergies manifest as dryness and chronic irritation in sinuses.",
+        "Context": "Kapha Allergy Treatment"
+    },
+    {
+        "Instruction": "What are the Ayurvedic treatments for Vata-related allergies?",
+        "Response": "Vata allergy care includes sesame oil nasya, ginger tea, and Triphala.",
+        "Context": "Travel Tips"
+    },
+    {
+        "Instruction": "What are the symptoms and treatments for Pitta-related allergies?",
+        "Response": "Pitta allergies cause heat, irritability, and sinus inflammation.",
+        "Context": "Diet While Traveling"
+    },
+    {
+        "Instruction": "How is Kapha-type allergy treated?",
+        "Response": "Kapha allergies are treated with pungent herbs, honey, and liquid diet days.",
+        "Context": "Self-Care While Traveling"
+    },
+    {
+        "Instruction": "What are some Ayurvedic tips for stress-free vacations?",
+        "Response": "Plan ahead, rest, eat well, and avoid overstimulation before a trip.",
+        "Context": "Cultivating Peace"
+    },
+    {
+        "Instruction": "What dietary guidelines should be followed before travel?",
+        "Response": "Eat warm, organic, easily digestible foods and avoid processed items.",
+        "Context": "Thoughts and Emotions"
+    },
+    {
+        "Instruction": "How can Vata imbalance be minimized before, during, and after air travel?",
+        "Response": "Use oil massages, avoid cold drinks, sip ginger tea, and rest well.",
+        "Context": "Positive Interpretation"
+    },
+    {
+        "Instruction": "How can we cultivate inner peace according to Ayurveda?",
+        "Response": "Cultivating peace involves letting go of stress and controlling thoughts.",
+        "Context": "Mind Calming"
+    },
+    {
+        "Instruction": "What role does thought control play in mental happiness?",
+        "Response": "Thoughts shape emotions and behavior, influencing peace and success.",
+        "Context": "Thoughts and Emotions"
+    },
+    {
+        "Instruction": "How can we shift our perspective on negative situations?",
+        "Response": "We can choose to interpret situations positively and grow from them.",
+        "Context": "Interupt Situations"
+    },
+    {
+        "Instruction": "Why is rest and meditation emphasized in achieving peace?",
+        "Response": "Meditation and proper rest calm the mind and renew energy.",
+        "Context": "Food and Mental Clarity"
+    },
+    {
+        "Instruction": "What is the role of food in mental and emotional wellbeing?",
+        "Response": "Pure, fresh food enhances mental clarity and emotional strength.",
+        "Context": "Positive Thinking"
+    },
+    {
+        "Instruction": "How do our thoughts shape our life experience?",
+        "Response": "Positive thoughts attract positive outcomes; the mind shapes reality.",
+        "Context": "Changing Thoughts"
+    },
+    {
+        "Instruction": "What are some practices for replacing negative thought patterns?",
+        "Response": "Replacing negative thoughts with positive ones changes life quality.",
+        "Context": "Living in the Moment"
+    },
+    {
+        "Instruction": "What is meant by \u201cliving in the present\u201d in Ayurvedic mental wellness?",
+        "Response": "Living in the moment reduces stress and boosts joy.",
+        "Context": "Reduce stress"
+    },
+    {
+        "Instruction": "How does Ayurveda recommend handling inner conflict and limiting beliefs?",
+        "Response": "Reflective self-inquiry helps dissolve inner conflict and false beliefs.",
+        "Context": "Self-injury"
+    },
+    {
+        "Instruction": "What is the main causative factor of allergies according to Ayurveda?",
+        "Response": "Improper digestion creates ama, a toxin that triggers allergies.",
+        "Context": "Allergies"
+    },
+    {
+        "Instruction": "How does ama contribute to allergic reactions?",
+        "Response": "Ama clogs circulation, weakens immunity, and increases sensitivity to allergens.",
+        "Context": "Ama"
+    },
+    {
+        "Instruction": "What role does Kapha dosha play in allergies?",
+        "Response": "Kapha imbalance causes congestion, fluid retention, and respiratory allergy symptoms.",
+        "Context": "Kapha"
+    },
+    {
+        "Instruction": "Which foods and herbs help remove ama and balance Kapha?",
+        "Response": "Turmeric, tulsi, warm foods, and spices like cumin/cinnamon reduce ama and balance Kapha.",
+        "Context": "Vata"
+    },
+    {
+        "Instruction": "What are the Vata treatments for allergic rhinitis?",
+        "Response": "Nasya (sesame oil), Triphala, and ginger tea alleviate Vata-related dryness and rhinitis.",
+        "Context": "Pitta"
+    },
+    {
+        "Instruction": "What are the Pitta treatments for allergy-related heat and dryness?",
+        "Response": "Cumin, Triphala, coconut oil nasya, turmeric milk, and neem tea cool Pitta heat.",
+        "Context": "Detox"
+    },
+    {
+        "Instruction": "What are the Kapha treatments for congestion and fatigue?",
+        "Response": "Trikatu, Sitopladi, licorice, and liquid diets detoxify Kapha-related congestion.",
+        "Context": "Nasya"
+    },
+    {
+        "Instruction": "How can stress-free vacations be achieved according to Ayurveda?",
+        "Response": "Plan ahead, rest, eat healthily, delegate tasks, and avoid work calls during vacations.",
+        "Context": "Stress"
+    },
+    {
+        "Instruction": "What are the tips for reducing jet lag and travel sickness?",
+        "Response": "Use ginger, lavender oil, meditation, and avoid alcohol/cold drinks to prevent jet lag.",
+        "Context": "Jetlag"
+    },
+    {
+        "Instruction": "What is the key to cultivating lasting peace and happiness?",
+        "Response": "Cultivate inner peace through positive thoughts, self-awareness, and purpose-driven actions.",
+        "Context": "Happiness"
+    },
+    {
+        "Instruction": "How can negative thought patterns be replaced with positive ones?",
+        "Response": "Replace negativity with gratitude, visualization, and affirmations to rewire the mind.",
+        "Context": "Mindset"
+    },
+    {
+        "Instruction": "What is the importance of rest and relaxation in achieving success?",
+        "Response": "Rest restores energy, enhances focus, and doubles productivity in outer endeavors.",
+        "Context": "Rest"
+    },
+    {
+        "Instruction": "How does diet influence mental clarity and energy levels?",
+        "Response": "Fresh, plant-based foods boost prana (energy), while heavy foods dull mental clarity.",
+        "Context": "Diet"
+    },
+    {
+        "Instruction": "What questions can help resolve inner conflict and limiting beliefs?",
+        "Response": "Ask \"Is this true?\" and reframe beliefs to uncover deeper truths and release limitations.",
+        "Context": "Introspection"
+    },
+    {
+        "Instruction": "What is the purpose of \"The Enquiry\" process?",
+        "Response": "To dissolve inner conflict by questioning stressful thoughts.",
+        "Context": "Clarity"
+    },
+    {
+        "Instruction": "How do you begin \"The Enquiry\"?",
+        "Response": "Start by identifying and writing down a troubling thought.",
+        "Context": "Awareness"
+    },
+    {
+        "Instruction": "What are the first four questions to ask about a troubling thought?",
+        "Response": "\u201cIs it true? Can I absolutely know it\u2019s true? How do I react? Who would I be without it?\u201d",
+        "Context": "Questioning"
+    },
+    {
+        "Instruction": "Why is honesty important in this process?",
+        "Response": "Honesty reveals hidden beliefs and enables real transformation.",
+        "Context": "Truth"
+    },
+    {
+        "Instruction": "How do you reverse a statement about someone else to apply it to yourself?",
+        "Response": "By shifting blame inward to find your role in the thought.",
+        "Context": "Ownership"
+    },
+    {
+        "Instruction": "What happens when you consider the opposite of your original statement?",
+        "Response": "It loosens rigid thinking and invites new understanding.",
+        "Context": "Perspective"
+    },
+    {
+        "Instruction": "What additional questions help uncover deeper truths?",
+        "Response": "\u201cWhose business is it? What\u2019s the worst that could happen? What\u2019s the lesson?\u201d",
+        "Context": "Depth"
+    },
+    {
+        "Instruction": "How does reframing a statement (\"Paul should appreciate me\") shift perspective?",
+        "Response": "It brings ownership and shifts perception to self-awareness.",
+        "Context": "Reframing"
+    },
+    {
+        "Instruction": "What role does intuition play in this process?",
+        "Response": "It uncovers truths beyond logic and mental resistance.",
+        "Context": "Intuition"
+    },
+    {
+        "Instruction": "What book is recommended for further study on this method?",
+        "Response": "Loving What Is by Byron Katie.",
+        "Context": "Study"
+    },
+    {
+        "Instruction": "What is the core principle behind TFT?",
+        "Response": "Emotional distress comes from energy disruptions (\u201cperturbations\u201d).",
+        "Context": "Energy"
+    },
+    {
+        "Instruction": "How does TFT differ from traditional therapy?",
+        "Response": "TFT uses tapping to clear blocks instead of analyzing problems.",
+        "Context": "Efficiency"
+    },
+    {
+        "Instruction": "What is a \"perturbation\" in TFT?",
+        "Response": "A thought-energy disruption causing emotional imbalance.",
+        "Context": "Blockage"
+    },
+    {
+        "Instruction": "How does Ayurveda view imbalances in the mind?",
+        "Response": "As mental disturbances from doshic imbalance.",
+        "Context": "Imbalance"
+    },
+    {
+        "Instruction": "What is the role of meditation in resolving perturbations?",
+        "Response": "Meditation calms the mind and rebalances subtle energy.",
+        "Context": "Meditation"
+    },
+    {
+        "Instruction": "What is a \"SUD rating,\" and how is it used?",
+        "Response": "A scale from 0\u201310 used to measure emotional intensity.",
+        "Context": "Measurement"
+    },
+    {
+        "Instruction": "What are the key tapping points in TFT?",
+        "Response": "Key points: eyebrow, under eye, collarbone, and gamut spot.",
+        "Context": "Points"
+    },
+    {
+        "Instruction": "How do you perform the \"9g\" sequence?",
+        "Response": "Tap gamut while doing eye movements, humming, and counting.",
+        "Context": "Sequence"
+    },
+    {
+        "Instruction": "What is \"Psychological Reversal\" (PR), and when is it used?",
+        "Response": "A correction technique used when treatment doesn\u2019t work.",
+        "Context": "Correction"
+    },
+    {
+        "Instruction": "What algorithm is recommended for simple phobias?",
+        "Response": "Use: under eye, under arm, collarbone, 9g, sequence, eyebrow.",
+        "Context": "Protocol"
+    },
+    {
+        "Instruction": "How should goals be categorized for effective planning?",
+        "Response": "Group goals into short, medium, and long-term categories.",
+        "Context": "Categorization"
+    },
+    {
+        "Instruction": "Why is positive language important when setting goals?",
+        "Response": "Positive wording boosts motivation and clarity.",
+        "Context": "Positivity"
+    },
+    {
+        "Instruction": "What is the Ayurvedic maxim for productivity?",
+        "Response": "\u201cDo less and accomplish more\u201d through wise focus.",
+        "Context": "Efficiency"
+    },
+    {
+        "Instruction": "How does the Priority Chart help manage tasks?",
+        "Response": "It organizes tasks by urgency and importance.",
+        "Context": "Prioritization"
+    },
+    {
+        "Instruction": "What belongs in Section 1 (Urgent & Important) of the chart?",
+        "Response": "Time-sensitive, high-impact tasks (e.g., emergencies).",
+        "Context": "Urgency"
+    },
+    {
+        "Instruction": "What types of tasks should be in Section 4 (Not Urgent & Not Important)?",
+        "Response": "Low-value distractions that don\u2019t support your goals.",
+        "Context": "Distraction"
+    },
+    {
+        "Instruction": "Why is flexibility important in goal review?",
+        "Response": "Flexibility lets you adjust and stay aligned with your goals.",
+        "Context": "Adaptability"
+    },
+    {
+        "Instruction": "How can daily reflection improve goal achievement?",
+        "Response": "Reflecting daily ensures alignment and course-correction.",
+        "Context": "Reflection"
+    },
+    {
+        "Instruction": "What is the benefit of focusing on \"Section 2\" tasks?",
+        "Response": "They build long-term success and prevent burnout.",
+        "Context": "Prevention"
+    },
+    {
+        "Instruction": "How does rest contribute to accomplishing goals?",
+        "Response": "Rest recharges the mind and body for better performance.",
+        "Context": "Recharge"
+    },
+    {
+        "Instruction": "What are the first steps to integrate Ayurveda into daily life?",
+        "Response": "Start with sleep, hydration, meditation, and gentle habits.",
+        "Context": "Routine"
+    },
+    {
+        "Instruction": "Why is bedtime before 10 PM emphasized?",
+        "Response": "It aligns with nature\u2019s rhythms and supports better sleep.",
+        "Context": "Rhythm"
+    },
+    {
+        "Instruction": "What is the purpose of tongue scraping?",
+        "Response": "Cleans the tongue, improves taste, and removes toxins.",
+        "Context": "Detox"
+    },
+    {
+        "Instruction": "How does drinking hot water support digestion?",
+        "Response": "It supports digestion and elimination by stimulating agni.",
+        "Context": "Digestion"
+    },
+    {
+        "Instruction": "What dietary changes are suggested in Month Two?",
+        "Response": "Shift to whole foods, lighter dinners, and less caffeine.",
+        "Context": "Diet"
+    },
+    {
+        "Instruction": "How does oil massage (abhyanga) benefit the body?",
+        "Response": "Boosts circulation, calms nerves, and nourishes tissues.",
+        "Context": "Nourishment"
+    },
+    {
+        "Instruction": "What is the significance of the Gayatri Mantra?",
+        "Response": "It awakens higher wisdom and mental clarity.",
+        "Context": "Wisdom"
+    },
+    {
+        "Instruction": "How does the Maha Mrityunjaya Mantra support health?",
+        "Response": "It offers protection, healing, and strength in adversity.",
+        "Context": "Protection"
+    },
+    {
+        "Instruction": "What is the purpose of the Kubera Mantra?",
+        "Response": "Invokes abundance and aligned financial energy.",
+        "Context": "Abundance"
+    },
+    {
+        "Instruction": "How do mantras influence cellular health according to Ayurveda?",
+        "Response": "They recalibrate cellular energy and promote healing.",
+        "Context": "Vibration"
+    },
+    {
+        "Instruction": "What is the primary benefit of chanting the Lakshmi mantra \"O\u1e45 shri\u1e43 kli\u1e43 lakshmi, n\u0101r\u0101yan\u0101bhy\u0101n namaha\"?",
+        "Response": "Chanting the Lakshmi mantra attracts wealth, abundance, and prosperity.",
+        "Context": "Prosperity"
+    },
+    {
+        "Instruction": "How does the Ganesha mantra \"O\u1e45 gu\u1e43 Ganapatayai namah\" support new endeavors?",
+        "Response": "The Ganesha mantra removes obstacles and supports the success of new ventures.",
+        "Context": "Success"
+    },
+    {
+        "Instruction": "What mental faculties are enhanced by the Gayatri mantra?",
+        "Response": "The Gayatri mantra enhances intelligence, wisdom, and spiritual awareness.",
+        "Context": "Wisdom"
+    },
+    {
+        "Instruction": "How does the Maha mrityunjaya mantra protect against untimely death?",
+        "Response": "The Maha Mrityunjaya mantra offers protection against untimely death and promotes longevity.",
+        "Context": "Protection"
+    },
+    {
+        "Instruction": "What is the Dhanvantre mantra used for?",
+        "Response": "The Dhanvantre mantra is used for healing and maintaining good health.",
+        "Context": "Healing"
+    },
+    {
+        "Instruction": "How does the Kubera mantra attract self-sustaining wealth?",
+        "Response": "The Kubera mantra attracts wealth and fosters financial stability.",
+        "Context": "Wealth"
+    },
+    {
+        "Instruction": "What does the Shiva mantra \"Om sarva kamadaya namaha\" help manifest?",
+        "Response": "The Shiva mantra \"Om Sarva Kamadaya Namaha\" helps manifest desires and blessings.",
+        "Context": "Manifestation"
+    },
+    {
+        "Instruction": "How does the Mani mantra \"Om mani padme hum\" benefit humanity?",
+        "Response": "The Mani mantra \"Om Mani Padme Hum\" benefits humanity by promoting compassion and enlightenment.",
+        "Context": "Compassion"
+    },
+    {
+        "Instruction": "What is the focus of the Dattatreya mantra?",
+        "Response": "The Dattatreya mantra focuses on spiritual awakening and divine guidance.",
+        "Context": "Awakening"
+    },
+    {
+        "Instruction": "How does the Vasudeva mantra connect individual consciousness to divinity?",
+        "Response": "The Vasudeva mantra connects individual consciousness to divine consciousness and unity.",
+        "Context": "Unity"
+    },
+    {
+        "Instruction": "Which mantra heals the heart and emotions (Hiranyagarbh\u0101ya)?",
+        "Response": "The mantra \"Hiranyagarbh\u0101ya\" heals the heart and emotions, fostering peace.",
+        "Context": "EmotionalHealing"
+    },
+    {
+        "Instruction": "What does the Saraswati mantra \"O\u1e45 s\u0101n shr\u012bm br\u012bm Saraswati devyai namaha\" enhance?",
+        "Response": "The Saraswati mantra enhances knowledge, creativity, and wisdom.",
+        "Context": "Knowledge"
+    },
+    {
+        "Instruction": "How does the Shiva mantra \"O\u1e45 namah Shiv\u0101ya\" cultivate inner strength?",
+        "Response": "The Shiva mantra \"Om Namah Shivaya\" cultivates inner strength, calm, and transformation.",
+        "Context": "Strength"
+    },
+    {
+        "Instruction": "Which mantra balances solar and lunar energies (R\u0101maya)?",
+        "Response": "The R\u0101maya mantra balances solar and lunar energies for harmony.",
+        "Context": "Balance"
+    },
+    {
+        "Instruction": "What bodily systems does the Moon mantra (Chandraya) harmonize?",
+        "Response": "The Moon mantra (Chandraya) harmonizes the emotional and reproductive systems.",
+        "Context": "Hormones"
+    },
+    {
+        "Instruction": "Which mantra supports liver and gall bladder health (Gurave)?",
+        "Response": "The Gurave mantra supports liver and gall bladder health and detoxification.",
+        "Context": "Detoxification"
+    },
+    {
+        "Instruction": "How does the Saturn mantra (Shanaishwaray\u0101) affect the skeleton?",
+        "Response": "The Saturn mantra (Shanaishwaray\u0101) affects the skeletal system, promoting discipline and patience.",
+        "Context": "Structure"
+    },
+    {
+        "Instruction": "What is the purpose of the Vastu Purush mantra for buildings?",
+        "Response": "The Vastu Purush mantra ensures harmony and positive energy flow in buildings.",
+        "Context": "Harmony"
+    },
+    {
+        "Instruction": "Which seed syllable (bij\u0101) activates the Root Chakra (Muladhara)?",
+        "Response": "The seed syllable \"Lam\" activates and balances the Root Chakra (Muladhara).",
+        "Context": "Stability"
+    },
+    {
+        "Instruction": "How does the \"HAM\" mantra influence the Throat Chakra?",
+        "Response": "The \"HAM\" mantra influences the Throat Chakra, aiding self-expression and communication.",
+        "Context": "Expression"
+    },
+    {
+        "Instruction": "What is the effect of chanting \"A E I O U\" for the whole body?",
+        "Response": "Chanting \"A E I O U\" brings balance and healing to the entire body.",
+        "Context": "Vitality"
+    },
+    {
+        "Instruction": "Which sound resonates with the lungs and chest?",
+        "Response": "The sound \"Ah\" resonates with the lungs and chest, promoting respiratory health.",
+        "Context": "Breath"
+    },
+    {
+        "Instruction": "How does the \"Mmmm\" sound benefit the sinuses?",
+        "Response": "The \"Mmmm\" sound benefits the sinuses by enhancing energy flow and clarity.",
+        "Context": "Clarity"
+    },
+    {
+        "Instruction": "Which sound supports stomach and digestion (\"Huh\")?",
+        "Response": "The \"Huh\" sound supports stomach and digestion by stimulating digestive energy.",
+        "Context": "Digestion"
+    },
+    {
+        "Instruction": "What is the recommended practice for chanting healing sounds (repetitions, focus)?",
+        "Response": "Healing sounds should be chanted with focused intention and repetition for maximum benefit.",
+        "Context": "Practice"
+    },
+    {
+        "Instruction": "How does \"So Hum\" harmonize heart and throat energies?",
+        "Response": "\"So Hum\" harmonizes heart and throat energies, promoting emotional balance and communication.",
+        "Context": "Alignment"
+    },
+    {
+        "Instruction": "Which sound aids kidney and bladder function (\"Hoo\")?",
+        "Response": "The \"Hoo\" sound aids kidney and bladder function, balancing fluid retention.",
+        "Context": "Purification"
+    },
+    {
+        "Instruction": "What is the purpose of the \"Chi Uh Huh\" sound sequence?",
+        "Response": "The \"Chi Uh Huh\" sound sequence energizes and balances body and mind.",
+        "Context": "Energizing"
+    },
+    {
+        "Instruction": "How do chakra seed sounds (Lam, Vam, Ram, etc.) balance energy centers?",
+        "Response": "Chakra seed sounds like Lam, Vam, Ram balance energy centers and promote healing.",
+        "Context": "ChakraBalance"
+    },
+    {
+        "Instruction": "What physical awareness is needed during sound healing practices?",
+        "Response": "Awareness of breath and energy flow is essential during sound healing practices.",
+        "Context": "Awareness"
+    },
+    {
+        "Instruction": "What is the significance of OM in mantra chanting?",
+        "Response": "OM represents the primal sound of the universe and unites all energies in mantra chanting.",
+        "Context": "Oneness"
+    },
+    {
+        "Instruction": "How does the bij\u0101 \"Shreem\" (Shri\u1e43) influence creativity and prosperity?",
+        "Response": "The bij\u0101 \"Shreem\" (Shri\u1e43) influences creativity, prosperity, and spiritual growth.",
+        "Context": "Abundance"
+    },
+    {
+        "Instruction": "What is the role of \"Hreem\" in purification and divine connection?",
+        "Response": "\"Hreem\" purifies the mind and facilitates divine connection and transformation.",
+        "Context": "Purity"
+    },
+    {
+        "Instruction": "How does \"Kreem\" awaken Kundalini energy?",
+        "Response": "\"Kreem\" awakens Kundalini energy, activating spiritual awakening and empowerment.",
+        "Context": "Kundalini"
+    },
+    {
+        "Instruction": "Why is \"Hum\" used for protection and inner fire activation?",
+        "Response": "\"Hum\" provides protection, enhancing inner fire and strength.",
+        "Context": "Protection"
+    },
+    {
+        "Instruction": "What are the \"four great Goddess mantras,\" and what do they govern?",
+        "Response": "The \"four great Goddess mantras\" govern the elements of creation, preservation, destruction, and transformation.",
+        "Context": "DivineFeminine"
+    },
+    {
+        "Instruction": "How does \"Rarm\" calm Vata imbalances?",
+        "Response": "\"Rarm\" calms Vata imbalances, balancing the nervous system and energy flow.",
+        "Context": "Calm"
+    },
+    {
+        "Instruction": "What mental benefits does the bij\u0101 \"Aim\" provide?",
+        "Response": "The bij\u0101 \"Aim\" provides mental clarity, focus, and spiritual awakening.",
+        "Context": "Focus"
+    },
+    {
+        "Instruction": "How is \"Kleem\" linked to emotional control?",
+        "Response": "\"Kleem\" is linked to emotional control, attraction, and desire management.",
+        "Context": "Attraction"
+    },
+    {
+        "Instruction": "What is the purpose of overtoning in Tibetan chanting practices?",
+        "Response": "Overtoning in Tibetan chanting practices creates harmonic vibrations for deep meditation, healing, and spiritual connection.",
+        "Context": "Resonance"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on being one's own physician?",
+        "Response": "Ayurveda encourages self-awareness of one's constitution (dosha) and how foods affect it.",
+        "Context": "SelfAwareness"
+    },
+    {
+        "Instruction": "How does Voltaire's quote relate to Ayurvedic dietary principles?",
+        "Response": "Voltaire's quote aligns with Ayurveda's emphasis on natural healing through proper diet, exercise, sleep, and patience.",
+        "Context": "NaturalHealing"
+    },
+    {
+        "Instruction": "Why is digestion emphasized in Ayurvedic cooking?",
+        "Response": "Digestion (agni) is central to health; food is only beneficial if properly digested.",
+        "Context": "Digestion"
+    },
+    {
+        "Instruction": "What three natural remedies does Voltaire recommend for health?",
+        "Response": "Exercise (for digestion), sleep (for strength), and patience (for chronic issues).",
+        "Context": "Exercise"
+    },
+    {
+        "Instruction": "What are the basic ingredients in traditional dhal soup?",
+        "Response": "Basic dhal: Mung beans, hing, ginger, ghee, Vata churna, salt.",
+        "Context": "Sleep"
+    },
+    {
+        "Instruction": "How should mung beans be prepared before cooking?",
+        "Response": "Soak mung beans 6 hours, rinse until water runs clear.",
+        "Context": "Patience"
+    },
+    {
+        "Instruction": "What are the health benefits of mung beans according to Ayurveda?",
+        "Response": "Benefits: Cooling, detoxifying, balances all doshas, supports liver/spleen.",
+        "Context": "MungBeans"
+    },
+    {
+        "Instruction": "How does basmati rice compare to brown rice in Ayurveda?",
+        "Response": "White basmati is preferred over brown rice - easier to digest despite lower fiber.",
+        "Context": "Detoxifying"
+    },
+    {
+        "Instruction": "What is kicharee and why is it considered an Ayurvedic staple?",
+        "Response": "Kicharee: Rice + mung bean stew; easily digestible, nourishing, detoxifying.",
+        "Context": "DoshaBalance"
+    },
+    {
+        "Instruction": "Describe two variations of dhal soup and their unique ingredients.",
+        "Response": "Ex: Spicy dhal (cumin, coriander, turmeric) and coconut dhal (coconut milk, nutmeg).",
+        "Context": "LiverSpleenSupport"
+    },
+    {
+        "Instruction": "What are the key ingredients in red pepper sauce I?",
+        "Response": "Red pepper sauce I: Red pepper, courgette, carrot juice, thyme, oregano, basil.",
+        "Context": "BasmatiRice"
+    },
+    {
+        "Instruction": "How is watercress sauce prepared and what are its benefits?",
+        "Response": "Watercress sauce: Watercress, red lentils, coconut milk; blood-purifying.",
+        "Context": "Kicharee"
+    },
+    {
+        "Instruction": "What makes pesto sauce Ayurvedic-friendly?",
+        "Response": "Pesto uses ghee (not cheese) and pumpkin seeds (Vata-balancing).",
+        "Context": "SpicyDhal"
+    },
+    {
+        "Instruction": "How does asparagus sauce incorporate balancing herbs?",
+        "Response": "Asparagus sauce: Asparagus, coriander, bay leaf; diuretic and Pitta-soothing.",
+        "Context": "CoconutDhal"
+    },
+    {
+        "Instruction": "Which sauce would be most suitable for Pitta types and why?",
+        "Response": "Coriander sauce (coriander, basil, ginger) - cooling for Pitta.",
+        "Context": "RedPepperSauce"
+    },
+    {
+        "Instruction": "What spices are included in Vata-balancing churna?",
+        "Response": "Vata churna: Cardamom, cumin, ginger, cinnamon, nutmeg, hing.",
+        "Context": "WatercressSauce"
+    },
+    {
+        "Instruction": "How does Pitta churna differ from Kapha churna?",
+        "Response": "Pitta: Cooling (coriander, fennel); Kapha: Heating (ginger, black pepper).",
+        "Context": "Pesto"
+    },
+    {
+        "Instruction": "What is the purpose of hing (asafoetida) in spice mixtures?",
+        "Response": "Hing aids digestion and reduces gas (Vata/Kapha balancing).",
+        "Context": "AsparagusSauce"
+    },
+    {
+        "Instruction": "Which churna would be best for digestion issues and why?",
+        "Response": "Vata churna - ginger/cumin stimulate digestion.",
+        "Context": "CorianderSauce"
+    },
+    {
+        "Instruction": "What makes the Korma mix unique among the spice blends?",
+        "Response": "Korma mix: Coconut, almonds, clove - sweet and grounding for Vata.",
+        "Context": "VataChurna"
+    },
+    {
+        "Instruction": "What are the main ingredients in mint chutney?",
+        "Response": "Mint chutney: Mint, coconut, sesame seeds, lemon juice.",
+        "Context": "PittaChurna"
+    },
+    {
+        "Instruction": "How is fruit chutney prepared and what gives it sweetness?",
+        "Response": "Fruit chutney: Pineapple, apple, raisins, dates, honey; simmered.",
+        "Context": "KaphaChurna"
+    },
+    {
+        "Instruction": "What makes kapha chutney particularly balancing for Kapha dosha?",
+        "Response": "Kapha chutney: Red pepper, ginger, cayenne - heating and light.",
+        "Context": "Hing"
+    },
+    {
+        "Instruction": "Describe the preparation method for fig & pear chutney.",
+        "Response": "Fig & pear: Simmer figs, pears, raisins, coriander, Kapha churna.",
+        "Context": "KormaMix"
+    },
+    {
+        "Instruction": "What are the benefits of fresh green chutney?",
+        "Response": "Green chutney: Parsley/coriander, lemon, almonds - detoxifying.",
+        "Context": "MintChutney"
+    },
+    {
+        "Instruction": "What makes avocado dip tridoshic?",
+        "Response": "Avocado dip: Healthy fats (avocado, Udo's oil) + lemon (lightness).",
+        "Context": "FruitChutney"
+    },
+    {
+        "Instruction": "How is soya bean dip prepared and what are its key flavors?",
+        "Response": "Soya bean dip: Soaked/cooked soybeans, chives, lemon - protein-rich.",
+        "Context": "KaphaChutney"
+    },
+    {
+        "Instruction": "What nuts are used in cashew dip and why are they beneficial?",
+        "Response": "Cashew nuts: Ground with avocado - nourishing for Vata.",
+        "Context": "FigPearChutney"
+    },
+    {
+        "Instruction": "How does almond & avocado dip incorporate cooling ingredients?",
+        "Response": "Almond & avocado: Mint (cooling) + lemon (digestive).",
+        "Context": "GreenChutney"
+    },
+    {
+        "Instruction": "Which dip would be most suitable for Vata types and why?",
+        "Response": "Cashew dip (warming, oily) best for dry Vata types.",
+        "Context": "AvocadoDip"
+    },
+    {
+        "Instruction": "What oils are recommended for Ayurvedic dressings?",
+        "Response": "Udo's oil, flax, pumpkin, or hemp oil (balanced fats).",
+        "Context": "SoyaBeanDip"
+    },
+    {
+        "Instruction": "How does basil & orange dressing combine sweet and pungent tastes?",
+        "Response": "Basil & orange: Honey (sweet) + mustard (pungent).",
+        "Context": "CashewDip"
+    },
+    {
+        "Instruction": "What makes mint dressing particularly refreshing?",
+        "Response": "Mint dressing: Mint + balsamic vinegar - refreshing (Pitta).",
+        "Context": "AlmondAvocadoDip"
+    },
+    {
+        "Instruction": "How is ginger & basil dressing balancing for digestion?",
+        "Response": "Ginger & basil: Ginger stimulates agni; basil calms Vata/Pitta.",
+        "Context": "CashewDipVata"
+    },
+    {
+        "Instruction": "Which dressing would be most suitable for Kapha types and why?",
+        "Response": "Ginger-basil (warming) counters Kapha's heaviness.",
+        "Context": "BalancedFats"
+    },
+    {
+        "Instruction": "What vegetables are featured in celery & aubergine dish and how are they prepared?",
+        "Response": "Celery & aubergine: Cooked with coriander, turmeric, ghee.",
+        "Context": "BasilOrangeDressing"
+    },
+    {
+        "Instruction": "How does tasty broth incorporate seasonal ingredients?",
+        "Response": "Tasty broth: Celery, cauliflower, carrot juice, pineapple - alkalizing.",
+        "Context": "MintDressing"
+    },
+    {
+        "Instruction": "What makes glazed carrots both sweet and balancing?",
+        "Response": "Glazed carrots: Maple syrup (sweet) + soy sauce (salty) - Vata-balancing.",
+        "Context": "GingerBasilDressing"
+    },
+    {
+        "Instruction": "How are curried sweet potatoes prepared and what spices are used?",
+        "Response": "Curried sweet potatoes: Kapha churna, black pepper, ghee - roasted.",
+        "Context": "CeleryAubergine"
+    },
+    {
+        "Instruction": "What is unique about butternut puree's preparation method?",
+        "Response": "Butternut puree: Slow-cooked with fennel, nutmeg - easily digestible.",
+        "Context": "TastyBroth"
+    },
+    {
+        "Instruction": "What core philosophy does Voltaire's quote reflect about Ayurvedic eating?",
+        "Response": "Voltaire's quote reflects Ayurveda's principle of working with nature through mindful eating, digestion-focused meals, and natural remedies.",
+        "Context": "SpicyDhal"
+    },
+    {
+        "Instruction": "Why is digestion emphasized in Ayurvedic cooking principles?",
+        "Response": "Digestion (agni) is the cornerstone of health - food is only beneficial if properly digested and assimilated.",
+        "Context": "CoconutDhal"
+    },
+    {
+        "Instruction": "What three natural remedies does Voltaire recommend for health maintenance?",
+        "Response": "Exercise (for digestion), sleep (for strength), and patience (for chronic issues).",
+        "Context": "RedPepperSauce"
+    },
+    {
+        "Instruction": "How does the concept of \"being your own physician\" apply to Ayurvedic cooking?",
+        "Response": "It means tailoring recipes to one's dosha and observing how foods affect your unique constitution.",
+        "Context": "WatercressSauce"
+    },
+    {
+        "Instruction": "What does \"eat with moderation and what agrees with your constitution\" mean in Ayurveda?",
+        "Response": "It means eating appropriate quantities of foods that balance your dominant dosha(s).",
+        "Context": "Pesto"
+    },
+    {
+        "Instruction": "What are the base ingredients in traditional Ayurvedic dhal soup?",
+        "Response": "Mung beans, hing, ginger, ghee, Vata churna, salt.",
+        "Context": "AsparagusSauce"
+    },
+    {
+        "Instruction": "Why must mung beans be soaked for 6 hours before cooking?",
+        "Response": "Soaking removes anti-nutrients and improves digestibility.",
+        "Context": "CorianderSauce"
+    },
+    {
+        "Instruction": "Describe the proper washing technique for mung beans pre-cooking.",
+        "Response": "Rinse under cold water until water runs clear.",
+        "Context": "VataChurna"
+    },
+    {
+        "Instruction": "What texture should properly prepared dhal achieve after whisking?",
+        "Response": "Creamy, scrambled egg-like consistency.",
+        "Context": "PittaChurna"
+    },
+    {
+        "Instruction": "How does ghee enhance the medicinal properties of dhal?",
+        "Response": "Ghee carries medicinal properties of spices and lubricates digestion.",
+        "Context": "KaphaChurna"
+    },
+    {
+        "Instruction": "What makes kicharee an ideal Ayurvedic staple food?",
+        "Response": "Kicharee combines easy-to-digest rice and mung beans with balancing spices.",
+        "Context": "MungBeans"
+    },
+    {
+        "Instruction": "Which dhal variation would best balance Pitta dosha and why?",
+        "Response": "Mint dhal - cooling mint and Pitta churna reduce heat.",
+        "Context": "Ghee"
+    },
+    {
+        "Instruction": "How does carrot dhal II incorporate juicing principles?",
+        "Response": "Uses fresh vegetable juices (carrot/fennel) to preserve enzymes.",
+        "Context": "Kicharee"
+    },
+    {
+        "Instruction": "What therapeutic benefits does fennel add to dhal?",
+        "Response": "Fennel cools Pitta, reduces bloating, and enhances digestion.",
+        "Context": "LemonDhal"
+    },
+    {
+        "Instruction": "Why is coconut milk added at the end of preparation in some dhal variations?",
+        "Response": "Coconut milk's cooling properties would diminish with prolonged cooking.",
+        "Context": "Fennel"
+    },
+    {
+        "Instruction": "Which dhal variation would be most detoxifying and why?",
+        "Response": "Lemon dhal - lemon detoxifies and stimulates agni.",
+        "Context": "Turmeric"
+    },
+    {
+        "Instruction": "How does lemon dhal support digestion?",
+        "Response": "Lemon's sour taste kindles digestive fire.",
+        "Context": "Cumin"
+    },
+    {
+        "Instruction": "What makes mung beans tridoshic (balancing for all doshas)?",
+        "Response": "Sweet/astringent taste, cooling energy, and easy digestibility suit all doshas.",
+        "Context": "Hing"
+    },
+    {
+        "Instruction": "Compare the Ayurvedic properties of white vs. brown basmati rice.",
+        "Response": "White basmati is lighter and more digestible; brown rice is heavier but more nutritious.",
+        "Context": "MintChutney"
+    },
+    {
+        "Instruction": "What medical conditions can mung bean poultices treat?",
+        "Response": "Burns, inflammation, joint swelling, mastitis, and toxin removal.",
+        "Context": "FruitChutney"
+    },
+    {
+        "Instruction": "What makes red pepper sauce I a balanced Pitta-pacifying recipe?",
+        "Response": "Cooling ingredients: red pepper, courgette, soya milk.",
+        "Context": "KaphaChutney"
+    },
+    {
+        "Instruction": "How does nutmeg function in red pepper sauce II?",
+        "Response": "Nutmeg aids digestion and calms Vata.",
+        "Context": "FigPearChutney"
+    },
+    {
+        "Instruction": "Why is watercress considered medicinal in Ayurveda?",
+        "Response": "Watercress purifies blood and is high in minerals.",
+        "Context": "ParsleyCorianderChutney"
+    },
+    {
+        "Instruction": "What substitution makes pesto sauce Ayurvedic-friendly?",
+        "Response": "Pumpkin seeds replace cheese for Vata-balancing protein.",
+        "Context": "DatePearChutney"
+    },
+    {
+        "Instruction": "How does asparagus sauce align with spring detoxification?",
+        "Response": "Asparagus is diuretic; coriander detoxifies - ideal for spring.",
+        "Context": "CoconutMilk"
+    },
+    {
+        "Instruction": "Which sauce best exemplifies the \"six tastes\" principle and how?",
+        "Response": "Coriander sauce: sweet (coriander), sour (lemon), pungent (ginger), etc.",
+        "Context": "BasmatiRice"
+    },
+    {
+        "Instruction": "What role does bay leaf play in asparagus sauce?",
+        "Response": "Bay leaf enhances digestion and reduces gas.",
+        "Context": "Coriander"
+    },
+    {
+        "Instruction": "How does coriander sauce balance Vata and Pitta simultaneously?",
+        "Response": "Coriander (cooling) balances Pitta; soya milk (heavy) grounds Vata.",
+        "Context": "CashewDip"
+    },
+    {
+        "Instruction": "Why is soya milk used instead of dairy in these sauces?",
+        "Response": "Dairy can increase Kapha and mucus; soya is lighter.",
+        "Context": "SoyaBeanDip"
+    },
+    {
+        "Instruction": "Which sauce would be most grounding for Vata imbalance?",
+        "Response": "Basil sauce - warm, oily, and spiced with Vata churna.",
+        "Context": "UdosOil"
+    },
+    {
+        "Instruction": "Analyze the Vata-balancing properties of Vata churna ingredients.",
+        "Response": "Vata churna: warming (ginger), carminative (cumin), sweet (cardamom).",
+        "Context": "AlmondAvocadoDip"
+    },
+    {
+        "Instruction": "Why does Pitta churna emphasize cooling spices like coriander?",
+        "Response": "Coriander and fennel cool Pitta's heat.",
+        "Context": "PineNutDip"
+    },
+    {
+        "Instruction": "What makes Kapha churna distinctly heating and drying?",
+        "Response": "Ginger and black pepper stimulate digestion and dry excess Kapha.",
+        "Context": "YoghurtDip"
+    },
+    {
+        "Instruction": "How does hing (asafoetida) function differently in each churna?",
+        "Response": "In Vata: reduces gas; in Pitta: cools; in Kapha: stimulates agni.",
+        "Context": "SesamePumpkinDip"
+    },
+    {
+        "Instruction": "What's the purpose of stevia in Pitta churna?",
+        "Response": "Stevia provides sweetness without aggravating Pitta.",
+        "Context": "PumpkinSeeds"
+    },
+    {
+        "Instruction": "Compare the Chinese spice mix to traditional Ayurvedic blends.",
+        "Response": "Chinese mix uses citrus (lime) - uncommon in Ayurveda but still balancing.",
+        "Context": "AvocadoDip"
+    },
+    {
+        "Instruction": "What makes the Korma mix particularly nourishing?",
+        "Response": "Coconut and almonds provide nourishing fats for Vata.",
+        "Context": "SoyaMilk"
+    },
+    {
+        "Instruction": "Why is turmeric present in all three dosha-specific churnas?",
+        "Response": "Turmeric is tridoshic - detoxifying yet non-aggravating.",
+        "Context": "LemonMintDressing"
+    },
+    {
+        "Instruction": "How would Indian curry mix affect Agni (digestive fire)?",
+        "Response": "Cumin and hing in curry mix strongly kindle agni.",
+        "Context": "GingerBasilDressing"
+    },
+    {
+        "Instruction": "Which churna would best support winter digestion and why?",
+        "Response": "Kapha churna - heating spices counter cold winter digestion.",
+        "Context": "BasilOrangeDressing"
+    },
+    {
+        "Instruction": "What makes mint chutney a classic digestive aid?",
+        "Response": "Mint cools Pitta; lemon stimulates digestion.",
+        "Context": "TomatoMintDressing"
+    },
+    {
+        "Instruction": "How does fruit chutney balance sweet and pungent tastes?",
+        "Response": "Sweet fruits balance pungent spices (ginger, cayenne).",
+        "Context": "PumpkinSeedDressing"
+    },
+    {
+        "Instruction": "Why is Kapha chutney deliberately spicy?",
+        "Response": "Spices counteract Kapha's heaviness and stagnation.",
+        "Context": "RawHoneyDressing"
+    },
+    {
+        "Instruction": "Analyze the tridoshic properties of fig & pear chutney.",
+        "Response": "Figs (sweet) balance Vata; pears (astringent) balance Kapha/Pitta.",
+        "Context": "MustardDressing"
+    },
+    {
+        "Instruction": "What's the purpose of simmering chutneys until liquid evaporates?",
+        "Response": "Concentrates flavors and preserves without refrigeration.",
+        "Context": "Nutmeg"
+    },
+    {
+        "Instruction": "How does date & pear chutney utilize drying fruits medicinally?",
+        "Response": "Dried fruits absorb excess moisture (good for Kapha).",
+        "Context": "Watercress"
+    },
+    {
+        "Instruction": "What makes fresh green chutney a blood-purifying recipe?",
+        "Response": "Parsley/coriander purify blood; lemon detoxifies.",
+        "Context": "BayLeaf"
+    },
+    {
+        "Instruction": "Why are raw almonds used in fresh green chutney?",
+        "Response": "Almonds provide protein without being heavy.",
+        "Context": "Basil"
+    },
+    {
+        "Instruction": "Which chutney would best accompany a heavy meal and why?",
+        "Response": "Kapha chutney - spiciness cuts through heavy meals.",
+        "Context": "Lemon"
+    },
+    {
+        "Instruction": "How do chutneys differ therapeutically from sauces in Ayurveda?",
+        "Response": "Chutneys are more concentrated medicinals; sauces are meal bases.",
+        "Context": "CorianderLeaf"
+    },
+    {
+        "Instruction": "What makes avocado dip tridoshic?",
+        "Response": "Avocado's fats balance Vata; lemon prevents Kapha aggravation.",
+        "Context": "Tarragon"
+    },
+    {
+        "Instruction": "How does soya bean dip provide protein without aggravating Vata?",
+        "Response": "Soya beans are lighter than animal proteins.",
+        "Context": "FennelSeeds"
+    },
+    {
+        "Instruction": "Analyze the digestive benefits of cashew dip ingredients.",
+        "Response": "Cashews (ground) are easier to digest; ginger aids absorption.",
+        "Context": "CuminSeeds"
+    },
+    {
+        "Instruction": "Why is Udo's oil preferred in Ayurvedic dips?",
+        "Response": "Udo's oil provides balanced omega fatty acids.",
+        "Context": "Cinnamon"
+    },
+    {
+        "Instruction": "How does almond & avocado dip balance sweet and astringent tastes?",
+        "Response": "Almonds (sweet) balance avocado's richness; lemon adds astringency.",
+        "Context": "Cardamom"
+    },
+    {
+        "Instruction": "What makes pine nut dip a premium brain tonic?",
+        "Response": "Pine nuts nourish majja dhatu (nervous system).",
+        "Context": "Ginger"
+    },
+    {
+        "Instruction": "Why is yoghurt used sparingly in Ayurvedic dips?",
+        "Response": "Yoghurt can increase Kapha if overused.",
+        "Context": "BlackPepper"
+    },
+    {
+        "Instruction": "Which dip would best support a detox diet and why?",
+        "Response": "Soya bean dip - protein supports detox without heaviness.",
+        "Context": "CoconutAlmonds"
+    },
+    {
+        "Instruction": "How does parsley dip exemplify seasonal eating principles?",
+        "Response": "Parsley is a spring herb for natural detoxification.",
+        "Context": "VataPittaKapha"
+    },
+    {
+        "Instruction": "Compare the medicinal uses of sesame vs. pumpkin seeds in dips.",
+        "Response": "Sesame (warming for Vata); pumpkin (cooling for Pitta).",
+        "Context": "Asparagus"
+    },
+    {
+        "Instruction": "What makes basil & orange dressing a Pitta-balancing recipe?",
+        "Response": "Basil (cooling) + orange (sweet) pacify Pitta.",
+        "Context": "SweetFruits"
+    },
+    {
+        "Instruction": "How does mint dressing exemplify summer dietary principles?",
+        "Response": "Mint's cooling properties suit summer heat.",
+        "Context": "PungentSpices"
+    },
+    {
+        "Instruction": "Why is tarragon considered a medicinal herb in dressings?",
+        "Response": "Tarragon aids digestion and reduces Vata.",
+        "Context": "VataBalancing"
+    },
+    {
+        "Instruction": "Analyze the six tastes in ginger & basil dressing.",
+        "Response": "Sweet (honey), sour (vinegar), pungent (ginger), etc.",
+        "Context": "KaphaReducing"
+    },
+    {
+        "Instruction": "What makes tomato & mint dressing a blood-cooling combination?",
+        "Response": "Tomato (cooling) + mint (refrigerant) lower body heat.",
+        "Context": "BloodPurifying"
+    },
+    {
+        "Instruction": "How does pumpkin seed dressing support male reproductive health?",
+        "Response": "Pumpkin seeds support shukra dhatu (reproductive tissue).",
+        "Context": "OmegaFattyAcids"
+    },
+    {
+        "Instruction": "Why are raw honeys preferred over processed sugars in dressings?",
+        "Response": "Raw honey is easier to digest and non-inflammatory.",
+        "Context": "SpicyHerbs"
+    },
+    {
+        "Instruction": "Which dressing would best enhance a Kapha-reducing diet?",
+        "Response": "Ginger & basil dressing - warming spices reduce Kapha.",
+        "Context": "Detoxifying"
+    },
+    {
+        "Instruction": "How do dressings differ therapeutically from chutneys?",
+        "Response": "Dressings enhance meals; chutneys are condiments with stronger medicinal effects.",
+        "Context": "SourTaste"
+    },
+    {
+        "Instruction": "What's the Ayurvedic rationale for using mustard in dressings?",
+        "Response": "Mustard stimulates agni without overheating like chilies.",
+        "Context": "DigestiveFire"
+    },
+    {
+        "Instruction": "What is the proper washing technique for basmati rice before cooking?",
+        "Response": "Rinse thoroughly under cold water until water runs clear to remove excess starch.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "How does the coconut-sesame rice dish incorporate Ayurvedic principles of taste?",
+        "Response": "Blends coconut\u2019s cooling sweetness with sesame\u2019s nuttiness to balance Ayurvedic tastes.",
+        "Context": "Cooling"
+    },
+    {
+        "Instruction": "What medicinal properties does saffron add to aborrio rice?",
+        "Response": "Adds antioxidants, promotes circulation, and aids digestion.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why is turmeric used in Mediterranean risotto?",
+        "Response": "Imparts anti-inflammatory benefits and a vibrant golden hue.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "How does Indian pilau rice balance all six tastes?",
+        "Response": "Uses a mix of spices that balance sweet, sour, salty, bitter, pungent, and astringent tastes.",
+        "Context": "SweetTaste"
+    },
+    {
+        "Instruction": "What makes basmati rice preferable to other varieties in Ayurveda?",
+        "Response": "Its light, aromatic, and easily digestible nature makes it ideal in Ayurveda.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why are bay leaves used in pilau rice preparation?",
+        "Response": "Enhances flavor and stimulates digestion with a subtle warmth.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "How does the cooking method for wild rice differ from regular rice?",
+        "Response": "Requires longer cooking with more water and yields a firmer texture than regular rice.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "What dosha would benefit most from coconut-sesame rice and why?",
+        "Response": "Best suited for Vata since its nourishing fats ground and stabilize dry energy.",
+        "Context": "VataGrounding"
+    },
+    {
+        "Instruction": "How do raisins in pilau rice serve a therapeutic purpose?",
+        "Response": "Provides natural sweetness and supports digestion while balancing Pitta.",
+        "Context": "PittaSoothing"
+    },
+    {
+        "Instruction": "What is the Ayurvedic benefit of stir-frying grains in ghee before cooking?",
+        "Response": "Pre-cooking grains in ghee enhances flavor and improves digestibility.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "How does barley water function as both food and medicine?",
+        "Response": "Hydrates, cools, and gently detoxifies, serving as both nourishment and remedy.",
+        "Context": "Detoxifying"
+    },
+    {
+        "Instruction": "Why is couscous considered a lighter grain option in Ayurveda?",
+        "Response": "Is less dense and easier to digest, making it suitable for a balanced diet.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "What makes the nut loaf recipe tridoshic?",
+        "Response": "Combines ingredients in balanced proportions to support all three doshas.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "How does the country loaf recipe accommodate Vata imbalance?",
+        "Response": "Uses warming, grounding spices and textures to counteract Vata\u2019s dryness.",
+        "Context": "VataGrounding"
+    },
+    {
+        "Instruction": "What therapeutic purpose do sunflower seeds serve in the nut loaf?",
+        "Response": "Adds healthy fats and supports digestive balance.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why is millet recommended for the nut loaf over other grains?",
+        "Response": "Is chosen for its light, easily digestible, and soothing qualities.",
+        "Context": "Cooling"
+    },
+    {
+        "Instruction": "How does the cooking method for barley differ from other grains?",
+        "Response": "Requires a longer, slower cooking method to fully release its starches.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "What makes quinoa a modern addition to Ayurvedic grain dishes?",
+        "Response": "Is a modern, protein-rich grain that is light on digestion and balances Pitta and Vata.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "Why is the country loaf wrapped in spinach leaves as an option?",
+        "Response": "Spinach leaves add cooling, nutrient-rich benefits that enhance the loaf\u2019s balance.",
+        "Context": "Cooling"
+    },
+    {
+        "Instruction": "What makes vegetable stock a foundational element in Ayurvedic cooking?",
+        "Response": "Serves as a light, digestible base that enhances flavor without heavy fats.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "How does cream of asparagus soup support spring detoxification?",
+        "Response": "Supports detox by incorporating asparagus\u2019s cleansing properties, especially in spring.",
+        "Context": "Detoxifying"
+    },
+    {
+        "Instruction": "Why is pumpkin seed used as a thickener in asparagus soup?",
+        "Response": "Adds texture and supplies essential minerals that aid digestion.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "What dosha benefits most from celery soup and why?",
+        "Response": "Cools and hydrates the body, making it ideal for reducing Pitta\u2019s heat.",
+        "Context": "PittaCooling"
+    },
+    {
+        "Instruction": "How does rice in celery soup modify its therapeutic effects?",
+        "Response": "Provides grounding substance that moderates the cooling effects of celery.",
+        "Context": "PittaBalancing"
+    },
+    {
+        "Instruction": "What makes spinach soup both nourishing and detoxifying?",
+        "Response": "Offers nutrient density and detoxifying properties that support overall health.",
+        "Context": "Detoxifying"
+    },
+    {
+        "Instruction": "Why is nutmeg used in spinach soup?",
+        "Response": "Stimulates digestion and adds warmth without overwhelming the palate.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "How does vegy broth exemplify seasonal eating principles?",
+        "Response": "Reflects seasonal eating by providing a mild, easily absorbed liquid base.",
+        "Context": "SeasonalSupport"
+    },
+    {
+        "Instruction": "What makes butternut squash soup ideal for Vata types?",
+        "Response": "Its natural sweetness and warmth ground Vata\u2019s cold, dry nature.",
+        "Context": "VataGrounding"
+    },
+    {
+        "Instruction": "How do sweet potatoes modify the properties of squash soup?",
+        "Response": "Contributes natural sweetness and extra grounding energy to balance the soup.",
+        "Context": "VataGrounding"
+    },
+    {
+        "Instruction": "What is the purpose of the thermos flask cooking method?",
+        "Response": "Retains heat to slowly cook and preserve nutrients, enhancing flavor and digestibility.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "How does carrot-red lentil soup balance multiple doshas?",
+        "Response": "Combines warming lentils with cooling carrots to harmonize multiple doshas.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "Why is peya soup considered a mono-diet for cleansing?",
+        "Response": "Simplifies digestion and supports the body in cleansing through a mono-diet.",
+        "Context": "Detoxifying"
+    },
+    {
+        "Instruction": "What makes hearty vegetable-lentil soup a complete meal?",
+        "Response": "Offers balanced protein, fiber, and nutrients for a complete, satisfying meal.",
+        "Context": "Nourishing"
+    },
+    {
+        "Instruction": "How does the coriander garnish modify soup properties?",
+        "Response": "Adds a cooling effect and aids digestion, particularly benefiting Pitta types.",
+        "Context": "PittaCooling"
+    },
+    {
+        "Instruction": "What makes baked pears/apples a Vata-pacifying dessert?",
+        "Response": "Is a lightly baked fruit dessert that is warming, grounding, and easy to digest for Vata.",
+        "Context": "VataGrounding"
+    },
+    {
+        "Instruction": "How does apricot fool incorporate Ayurvedic food combining?",
+        "Response": "Combines apricots with complementary ingredients to support proper food combining.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why is mango considered a tridoshic fruit in desserts?",
+        "Response": "Balances all doshas with its inherent sweetness and balanced acidity.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "What makes mango-pawpaw combination therapeutic?",
+        "Response": "Offers a synergistic blend that enhances nourishment and digestive harmony.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "How does almond delight support nervous system health?",
+        "Response": "Supports nervous system health with its rich, healthy fats and protein that ground Vata.",
+        "Context": "KaphaAggravating"
+    },
+    {
+        "Instruction": "Why are strawberries limited in Ayurvedic desserts?",
+        "Response": "May aggravate Kapha if consumed excessively due to its cooling nature.",
+        "Context": "EnergyBoosting"
+    },
+    {
+        "Instruction": "What makes date recipe an energy-boosting snack?",
+        "Response": "Provides quick, natural energy with balanced inherent sweetness.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "How do Ayurvedic desserts differ from conventional desserts?",
+        "Response": "Balances doshas and aids digestion by being light and easy to digest compared to conventional desserts.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "What makes digestive tea ideal for meal consumption?",
+        "Response": "Eases digestion and soothes the stomach when consumed with meals.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why is post-digestive tea blended rather than steeped?",
+        "Response": "Is blended with spices to aid digestion without the intensity of steeped tea.",
+        "Context": "ImmunityBoosting"
+    },
+    {
+        "Instruction": "How does ginger tea serve multiple therapeutic purposes?",
+        "Response": "Warms, stimulates digestion, and boosts immunity through its active compounds.",
+        "Context": "KaphaReducing"
+    },
+    {
+        "Instruction": "What makes hibiscus tea effective for cold/flu prevention?",
+        "Response": "Offers cooling and antioxidant properties that help prevent colds and flu.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why is ajwan tea cautioned for asthma patients?",
+        "Response": "Is potent and warming, though caution is advised for those with asthma.",
+        "Context": "VataGrounding"
+    },
+    {
+        "Instruction": "How does raisin water function as both food and drink?",
+        "Response": "Functions as both a hydrating beverage and a digestive tonic.",
+        "Context": "PittaCooling"
+    },
+    {
+        "Instruction": "What are the specific Vata-balancing ingredients in Vata tea?",
+        "Response": "Contains warming spices such as ginger and cinnamon that ground Vata energy.",
+        "Context": "KaphaReducing"
+    },
+    {
+        "Instruction": "How does Pitta tea's temperature modify its effects?",
+        "Response": "Should be served cool or at room temperature to soothe Pitta\u2019s internal heat.",
+        "Context": "Detoxifying"
+    },
+    {
+        "Instruction": "Why is ginger essential in Kapha tea?",
+        "Response": "Clears mucus and stimulates digestion to counteract the heaviness of Kapha.",
+        "Context": "FoodAsMedicine"
+    },
+    {
+        "Instruction": "What makes detox tea a universal cleansing formula?",
+        "Response": "Removes toxins and supports overall health through cleansing herbs.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "How do these teas exemplify food-as-medicine principles?",
+        "Response": "Emphasizes natural herbs that balance doshas and support digestion as part of food-as-medicine.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why are whole spices preferred over powders in tea preparations?",
+        "Response": "Releases essential oils slowly for sustained therapeutic benefits when whole spices are used.",
+        "Context": "KaphaReducing"
+    },
+    {
+        "Instruction": "What makes plain lassi a universal digestive aid?",
+        "Response": "Provides probiotics that support healthy digestion and cooling benefits.",
+        "Context": "PittaCooling"
+    },
+    {
+        "Instruction": "Why is lassi zinger specifically recommended for Kapha?",
+        "Response": "Contains spicy ingredients that stimulate digestion and clear excess mucus, especially for Kapha.",
+        "Context": "VataGrounding"
+    },
+    {
+        "Instruction": "How does mango lassi balance Pitta dosha?",
+        "Response": "Combines cooling mango with yogurt to counteract Pitta\u2019s heat effectively.",
+        "Context": "Cooling"
+    },
+    {
+        "Instruction": "What modifications make banana lassi Vata-friendly?",
+        "Response": "Incorporates grounding ingredients that make it especially friendly for Vata.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why is cucumber pre-treated before making raita?",
+        "Response": "Is pre-treated to remove excess water, enhancing both digestibility and its cooling effect.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "How does roasted cumin enhance raita's medicinal value?",
+        "Response": "Boosts digestive efficiency and adds warmth when roasted cumin is incorporated.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "What vegetables can be added to raita for dosha balance?",
+        "Response": "Often includes cooling vegetables like cucumbers and carrots to promote dosha balance in raita.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why are fresh juices limited to 1-2 pints daily in Ayurveda?",
+        "Response": "Is limited to avoid overwhelming the digestive fire, maintaining balance with 1\u20132 pints daily.",
+        "Context": "TridoshicSupport"
+    },
+    {
+        "Instruction": "What makes apple-ginger juice ideal for Vata headaches?",
+        "Response": "Combines sweetness and spice to soothe and alleviate Vata headaches effectively.",
+        "Context": "JuiceLimiting"
+    },
+    {
+        "Instruction": "How does watermelon juice specifically cool Pitta?",
+        "Response": "Naturally cools the body, making it effective for pacifying Pitta.",
+        "Context": "VataSoothing"
+    },
+    {
+        "Instruction": "Why are kapha-balancing juices focused on astringency?",
+        "Response": "Focuses on astringency to counteract excess mucus and heaviness in Kapha.",
+        "Context": "PittaCooling"
+    },
+    {
+        "Instruction": "What is the Ayurvedic rationale for drinking hot water?",
+        "Response": "Stimulates digestion and supports detoxification by maintaining internal warmth when drinking hot water.",
+        "Context": "KaphaReducing"
+    },
+    {
+        "Instruction": "How does the nourishing milk drink modify dairy properties?",
+        "Response": "Is modified to be easily digestible while providing essential nutrients through nourishing milk drinks.",
+        "Context": "DigestiveSupport"
+    },
+    {
+        "Instruction": "Why is ginger pickle considered a complete taste experience?",
+        "Response": "Offers a complete taste experience that stimulates appetite and aids digestion with its balanced flavor profile.",
+        "Context": "Nourishing"
+    },
+    {
+        "Instruction": "How does the date recipe serve as natural energy medicine?",
+        "Response": "Acts as a natural energy booster with high nutrient density and balanced inherent sweetness.",
+        "Context": "EnergyBoosting"
+    },
+    {
+        "Instruction": "What are the therapeutic benefits of drinking hot water in Ayurveda?",
+        "Response": "Drinking hot water improves digestion and flushes toxins",
+        "Context": "Digestion"
+    },
+    {
+        "Instruction": "How does the temperature of water affect its detoxification properties?",
+        "Response": "Warmer water penetrates tissues better and supports detox",
+        "Context": "Detox"
+    },
+    {
+        "Instruction": "Why is stainless steel recommended for storing hot water?",
+        "Response": "Stainless steel maintains purity and prevents contamination",
+        "Context": "Purity"
+    },
+    {
+        "Instruction": "What modifications can be made to hot water for different doshas?",
+        "Response": "Add ginger for Kapha, mint for Pitta, or fennel for Vata",
+        "Context": "Dosha"
+    },
+    {
+        "Instruction": "How does boiling milk change its digestibility according to Ayurveda?",
+        "Response": "Boiling breaks protein bonds, making milk easier to digest",
+        "Context": "Milk"
+    },
+    {
+        "Instruction": "What spices in the nourishing milk drink aid lactose digestion?",
+        "Response": "Cardamom and ginger help prevent bloating and aid digestion",
+        "Context": "Digestion"
+    },
+    {
+        "Instruction": "Why should milk drinks be consumed separately from meals?",
+        "Response": "Milk competes with other foods, reducing absorption if mixed",
+        "Context": "Absorption"
+    },
+    {
+        "Instruction": "How does ginger pickle incorporate all six Ayurvedic tastes?",
+        "Response": "Ginger pickle includes sweet, sour, salty, pungent, bitter, astringent",
+        "Context": "Ginger pickle"
+    },
+    {
+        "Instruction": "What is the optimal timing for consuming ginger pickle?",
+        "Response": "Consume before meals to awaken digestive fire",
+        "Context": "Agni"
+    },
+    {
+        "Instruction": "How do dates prepared with ghee serve as an energy medicine?",
+        "Response": "Ghee enhances absorption, dates offer grounding energy",
+        "Context": "Absorption"
+    },
+    {
+        "Instruction": "What makes the date recipe particularly nourishing for Vata types?",
+        "Response": "Ghee and dates nourish tissues and calm Vata",
+        "Context": "Nourishment"
+    },
+    {
+        "Instruction": "Why are overnight-soaked dates preferred over fresh ones in recipes?",
+        "Response": "Soaked dates are softer, increase prana, and easier to digest",
+        "Context": "Vata"
+    },
+    {
+        "Instruction": "How does coconut milk balance both Vata and Pitta doshas?",
+        "Response": "Coconut milk is cooling and moistening for Vata and Pitta",
+        "Context": "Prana"
+    },
+    {
+        "Instruction": "What is the Ayurvedic benefit of soaking almonds before making milk?",
+        "Response": "Soaking removes enzyme inhibitors and boosts nutrient absorption",
+        "Context": "Coconut milk"
+    },
+    {
+        "Instruction": "Why are seed milks (pumpkin/sunflower) easier to digest than nut milks?",
+        "Response": "Seeds are lighter and less oily, easier to process",
+        "Context": "Absorption"
+    },
+    {
+        "Instruction": "What makes soya milk controversial in Ayurvedic practice?",
+        "Response": "Soya may cause ama or hormonal imbalance in some people",
+        "Context": "Seeds"
+    },
+    {
+        "Instruction": "How does the straining process affect the medicinal properties of plant milks?",
+        "Response": "Straining removes pulp, concentrating nutrients and reducing heaviness",
+        "Context": "Soya"
+    },
+    {
+        "Instruction": "Which milk alternative would be most grounding for Vata imbalance?",
+        "Response": "Almond milk grounds and calms Vata due to warmth and oiliness",
+        "Context": "Straining"
+    },
+    {
+        "Instruction": "Why are plant milks often combined with spices in Ayurveda?",
+        "Response": "Spices aid digestion and enhance dosha-specific effects",
+        "Context": "Almond milk"
+    },
+    {
+        "Instruction": "How does the shelf life of homemade plant milks compare to dairy?",
+        "Response": "Homemade milks spoil faster but are purer and fresher",
+        "Context": "Spices"
+    },
+    {
+        "Instruction": "What chemical changes occur when butter transforms into ghee?",
+        "Response": "Heating removes moisture, creating shelf-stable golden ghee",
+        "Context": "Homemade"
+    },
+    {
+        "Instruction": "Why is organic, unsalted butter essential for making medicinal ghee?",
+        "Response": "Organic butter lacks additives, ensuring purity for medicine",
+        "Context": "Ghee"
+    },
+    {
+        "Instruction": "What visual cues indicate ghee is properly prepared?",
+        "Response": "Golden color, nutty aroma, and clear texture show readiness",
+        "Context": "Butter"
+    },
+    {
+        "Instruction": "How does ghee's fatty acid profile differ from regular butter?",
+        "Response": "Ghee has short-chain fatty acids better absorbed than butter",
+        "Context": "Readiness"
+    },
+    {
+        "Instruction": "What makes ghee a superior cooking fat for high-temperature cooking?",
+        "Response": "Ghee withstands high heat without degrading or smoking",
+        "Context": "Absorption"
+    },
+    {
+        "Instruction": "How does ghee support brain function according to Ayurvedic texts?",
+        "Response": "Nourishes ojas, improves memory, and lubricates nerves",
+        "Context": "Ghee"
+    },
+    {
+        "Instruction": "What is the recommended daily therapeutic dose of ghee?",
+        "Response": "One to two teaspoons per day supports vitality",
+        "Context": "Ojas"
+    },
+    {
+        "Instruction": "How can ghee be used topically for skin conditions?",
+        "Response": "Ghee soothes skin and heals burns and dryness",
+        "Context": "Vitality"
+    },
+    {
+        "Instruction": "Why doesn't ghee raise cholesterol despite being a saturated fat?",
+        "Response": "Easily metabolized, supports good cholesterol, not harmful",
+        "Context": "Skin"
+    },
+    {
+        "Instruction": "What makes ghee a tridoshic food in Ayurveda?",
+        "Response": "Balances all three doshas when used in moderation",
+        "Context": "Cholesterol"
+    },
+    {
+        "Instruction": "Why is resting chapati dough important for texture?",
+        "Response": "Resting softens gluten, making chapatis more tender",
+        "Context": "Doshas"
+    },
+    {
+        "Instruction": "How does the rolling technique affect chapati digestibility?",
+        "Response": "Gentle rolling maintains lightness and aids digestion",
+        "Context": "Chapatis"
+    },
+    {
+        "Instruction": "What dosha benefits most from Vata churna-added chapatis?",
+        "Response": "Vata benefits from grounding spices and warming oils",
+        "Context": "Rolling"
+    },
+    {
+        "Instruction": "Why are thin chapatis preferred over thick ones in Ayurveda?",
+        "Response": "Thin chapatis digest more easily and cook evenly",
+        "Context": "Digestion"
+    },
+    {
+        "Instruction": "What makes the skillet temperature crucial for proper chapati preparation?",
+        "Response": "Proper heat ensures puffing and full cooking without drying",
+        "Context": "Spices"
+    },
+    {
+        "Instruction": "How does ghee drizzle modify chapati's therapeutic properties?",
+        "Response": "Ghee adds unctuousness, aids absorption, and balances Vata",
+        "Context": "Chapatis"
+    },
+    {
+        "Instruction": "Why is chapati flour preferred over whole wheat in some traditions?",
+        "Response": "Chapati flour is lighter, easier to digest than whole wheat",
+        "Context": "Heat"
+    },
+    {
+        "Instruction": "What are the signs of a perfectly cooked chapati?",
+        "Response": "Bubbles, browning, and soft texture show doneness",
+        "Context": "Ghee"
+    },
+    {
+        "Instruction": "Why are copper water vessels recommended in Ayurvedic kitchens?",
+        "Response": "Copper energizes water and enhances mineral content",
+        "Context": "Flour"
+    },
+    {
+        "Instruction": "How does a wok's shape benefit Ayurvedic cooking techniques?",
+        "Response": "Wok allows even heat and fast cooking for preserving prana",
+        "Context": "Doneness"
+    },
+    {
+        "Instruction": "What makes stainless steel preferable to non-stick cookware?",
+        "Response": "Stainless steel avoids toxins and maintains food integrity",
+        "Context": "Copper"
+    },
+    {
+        "Instruction": "Why are fresh herbs prioritized over dried in Ayurvedic recipes?",
+        "Response": "Fresh herbs have more prana and medicinal potency",
+        "Context": "Wok"
+    },
+    {
+        "Instruction": "How does asafoetida (hing) function as a digestive aid?",
+        "Response": "Asafoetida reduces gas and supports agni (digestion)",
+        "Context": "Steel"
+    },
+    {
+        "Instruction": "What's the Ayurvedic perspective on using garlic and onions?",
+        "Response": "Onions and garlic increase heat, suitable for Kapha, not sattvic",
+        "Context": "Herbs"
+    },
+    {
+        "Instruction": "Why are soaked dried fruits considered more medicinal?",
+        "Response": "Soaking softens and increases absorbability of nutrients",
+        "Context": "Asafoetida"
+    },
+    {
+        "Instruction": "How do different rice varieties serve unique therapeutic purposes?",
+        "Response": "Long-grain calms Vata, short-grain boosts Kapha",
+        "Context": "Heat"
+    },
+    {
+        "Instruction": "What makes Udo's oil a balanced fat source?",
+        "Response": "Udo\u2019s oil has balanced omega-3 and omega-6 profile",
+        "Context": "Absorption"
+    },
+    {
+        "Instruction": "Why is jaggery preferred over refined sugar?",
+        "Response": "Jaggery offers minerals and supports digestion, unlike white sugar",
+        "Context": "Rice"
+    },
+    {
+        "Instruction": "How does the preparation method affect soy sauce's properties?",
+        "Response": "Naturally brewed soy sauce has enzymes, less ama",
+        "Context": "Oil"
+    },
+    {
+        "Instruction": "What's the significance of having all six tastes in an Ayurvedic pantry?",
+        "Response": "All six tastes ensure balanced nourishment and dosha regulation",
+        "Context": "Jaggery"
+    },
+    {
+        "Instruction": "How does Shanti Devi's quote reflect the Ayurvedic concept of interconnectedness?",
+        "Response": "Shanti Devi reflects the Ayurvedic view of unity in life",
+        "Context": "Soy sauce"
+    },
+    {
+        "Instruction": "What Ayurvedic principle aligns with \"Go placidly amid the noise\" from Desiderata?",
+        "Response": "Desiderata aligns with sattva and inner calm",
+        "Context": "Tastes"
+    },
+    {
+        "Instruction": "How does the Desiderata's advice about comparisons relate to dosha imbalance?",
+        "Response": "Comparing causes rajasic imbalance, disturbing peace",
+        "Context": "Unity"
+    },
+    {
+        "Instruction": "What Ayurvedic concept matches \"Be yourself, especially do not feign affection\"?",
+        "Response": "Authenticity supports ojas and emotional balance",
+        "Context": "Calm"
+    },
+    {
+        "Instruction": "How does \"Nurture strength of spirit\" correlate with ojas in Ayurveda?",
+        "Response": "Strength of spirit builds resilience and nourishes ojas",
+        "Context": "Comparison"
+    },
+    {
+        "Instruction": "What dosha imbalance might cause the \"fear and loneliness\" mentioned in Desiderata?",
+        "Response": "Fear and loneliness stem from Vata derangement",
+        "Context": "Authenticity"
+    },
+    {
+        "Instruction": "How does Confucius' advice against haste apply to digestive health?",
+        "Response": "Haste causes indigestion, disrupts proper digestion cycles",
+        "Context": "Spirit"
+    },
+    {
+        "Instruction": "What Ayurvedic principle aligns with Patanjali's \"dormant forces\" awakening?",
+        "Response": "Awakening inner power aligns with kundalini and prana",
+        "Context": "Fear"
+    },
+    {
+        "Instruction": "How does Epictetus' view of opinions relate to mental ama (toxins)?",
+        "Response": "Clinging to opinions reflects mental ama accumulation",
+        "Context": "Haste"
+    },
+    {
+        "Instruction": "What dosha does the Sanskrit quote about minerals/plants/animals/consciousness represent?",
+        "Response": "Consciousness across life shows holistic awareness of doshas",
+        "Context": "Awakening"
+    },
+    {
+        "Instruction": "How does the Zen proverb about chopping wood reflect mindfulness in eating?",
+        "Response": "Chopping wood shows mindfulness and present-moment awareness",
+        "Context": "Clinging"
+    },
+    {
+        "Instruction": "What Ayurvedic principle aligns with Da Vinci's advice about taking breaks?",
+        "Response": "Rest reflects Ayurvedic rhythm and need for balance",
+        "Context": "Awareness"
+    },
+    {
+        "Instruction": "How does Michelangelo's quote about aims relate to Ayurvedic lifestyle planning?",
+        "Response": "Clear aims guide intentional, dosha-aligned living",
+        "Context": "Mindfulness"
+    },
+    {
+        "Instruction": "What dosha imbalance might Einstein's \"violent opposition\" quote address?",
+        "Response": "Opposition signals excess Pitta or disturbed ego",
+        "Context": "Rest"
+    },
+    {
+        "Instruction": "How does the Sanskrit poem about \"this day\" connect with dinacharya (daily routine)?",
+        "Response": "Awareness of the day connects with dinacharya",
+        "Context": "Aims"
+    },
+    {
+        "Instruction": "What Ayurvedic concept matches Joseph Pearce's view on creativity and fear?",
+        "Response": "Creativity unblocked through balancing fear-based imbalances",
+        "Context": "Opposition"
+    },
+    {
+        "Instruction": "How does Yogi Bhajan's \"emotions as guests\" metaphor guide food choices?",
+        "Response": "Guests metaphor reminds not to identify with emotions",
+        "Context": "Dinacharya"
+    },
+    {
+        "Instruction": "What dosha imbalance might cause excessive doubting per Yogi Bhajan?",
+        "Response": "Excess doubt reflects Vata-driven instability",
+        "Context": "Creativity"
+    },
+    {
+        "Instruction": "How does \"happiness radiates like fragrance\" align with Ayurvedic health markers?",
+        "Response": "Joy as a marker of health, reflecting balanced doshas",
+        "Context": "Emotions"
+    },
+    {
+        "Instruction": "What makes Maharishi's advice about \"naturalness\" particularly Pitta-pacifying?",
+        "Response": "Naturalness calms Pitta\u2019s over-efforting",
+        "Context": "Doubt"
+    },
+    {
+        "Instruction": "How does the opposition warning relate to Ayurvedic conflict resolution?",
+        "Response": "Opposition can create inner turmoil, manage through sattva",
+        "Context": "Joy"
+    },
+    {
+        "Instruction": "What dosha benefits most from Thoreau's \"different drummer\" philosophy?",
+        "Response": "Vata benefits from independence and self-trust",
+        "Context": "Naturalness"
+    },
+    {
+        "Instruction": "How does Yogananda's \"calm mind\" quote reflect meditation's role in digestion?",
+        "Response": "Calm mind aids digestion and reduces mental ama",
+        "Context": "Inner turmoil"
+    },
+    {
+        "Instruction": "What Ayurvedic principle aligns with \"infinity is our home\"?",
+        "Response": "Infinity connects with boundless prana and spirit",
+        "Context": "Independence"
+    },
+    {
+        "Instruction": "Why is intuition emphasized over reason in Ayurvedic diagnosis?",
+        "Response": "Intuition reflects sattvic clarity and deep knowledge",
+        "Context": "Calm"
+    },
+    {
+        "Instruction": "How does \"stillness is the vast spirit\" connect with Ayurvedic sleep science?",
+        "Response": "Stillness supports deep rest and melatonin-like qualities",
+        "Context": "Infinity"
+    },
+    {
+        "Instruction": "What makes Paramahansa's \"originality\" advice particularly Vata-balancing?",
+        "Response": "Originality reflects Vata's creative force when in balance",
+        "Context": "Intuition"
+    },
+    {
+        "Instruction": "How do these quotes collectively represent the Ayurvedic approach to mental health?",
+        "Response": "Quotes reflect holistic approach to body, mind, and spirit",
+        "Context": "Stillness"
+    },
+    {
+        "Instruction": "What dosha-specific wisdom can be extracted from these spiritual quotes?",
+        "Response": "Quotes guide dosha-specific emotional and lifestyle awareness",
+        "Context": "Originality"
+    },
+    {
+        "Instruction": "How might these teachings inform an Ayurvedic cooking philosophy?",
+        "Response": "Teachings support mindful, intentional Ayurvedic cooking",
+        "Context": "Holistic"
+    },
+    {
+        "Instruction": "According to Maharishi Mahesh Yogi, why should one avoid opposing others?",
+        "Response": "Opposing others crushes the tenderness of the feeling level, which is vital for spiritual growth.",
+        "Context": "Opposition"
+    },
+    {
+        "Instruction": "What is the significance of speaking the truth \"delicately\" as mentioned in the text?",
+        "Response": "Speaking the truth delicately ensures feelings are nourished and not harmed.",
+        "Context": "Truthfulness"
+    },
+    {
+        "Instruction": "How does the text describe the importance of feelings in spiritual growth?",
+        "Response": "Feelings are the basis for spiritual holistic growth; nourishing them enriches life.",
+        "Context": "Feelings"
+    },
+    {
+        "Instruction": "What does Henry David Thoreau suggest about individuality in his quote?",
+        "Response": "Thoreau suggests individuality means following one\u2019s own path (\"a different drummer\").",
+        "Context": "Individuality"
+    },
+    {
+        "Instruction": "According to Paramahansa Yogananda, how does a calm mind affect perception?",
+        "Response": "A calm mind allows smooth, quick, and beautiful perception of everything.",
+        "Context": "Perception"
+    },
+    {
+        "Instruction": "What does Yogananda mean by \"We are the very consciousness out of which this universe has been created\"?",
+        "Response": "It means consciousness is the fundamental source of the universe.",
+        "Context": "Consciousness"
+    },
+    {
+        "Instruction": "Explain the metaphor of the \"caravanseval of the body\" in Yogananda's quote.",
+        "Response": "The body is a temporary dwelling (\"caravanseval\") while our true home is infinity.",
+        "Context": "Body"
+    },
+    {
+        "Instruction": "How does Yogananda define originality in one's actions?",
+        "Response": "Originality means not imitating others and doing things well.",
+        "Context": "Originality"
+    },
+    {
+        "Instruction": "What is the Dalai Lama's advice on handling disputes in friendships?",
+        "Response": "Avoid letting small disputes damage great friendships.",
+        "Context": "Friendship"
+    },
+    {
+        "Instruction": "What lesson does the starfish story convey about making a difference?",
+        "Response": "Even small actions (like saving one starfish) make a meaningful difference.",
+        "Context": "Kindness"
+    },
+    {
+        "Instruction": "What are the potential health risks of Sodium Lauryl Sulphate (SLS) in cosmetics?",
+        "Response": "SLS can cause skin irritation, immune damage, cataracts, and hair loss.",
+        "Context": "SLS"
+    },
+    {
+        "Instruction": "How does Propylene Glycol affect the body, and where else is it used besides cosmetics?",
+        "Response": "Propylene Glycol may cause dermatitis, liver/kidney damage, and is used in antifreeze and brake fluid.",
+        "Context": "Propylene"
+    },
+    {
+        "Instruction": "Why is fluoride in toothpaste considered harmful over long-term use?",
+        "Response": "Fluoride accumulates in tissues and is toxic over time.",
+        "Context": "Fluoride"
+    },
+    {
+        "Instruction": "What are the dangers of talc in personal-care products?",
+        "Response": "Talc is chemically similar to asbestos and linked to cancer.",
+        "Context": "Talc"
+    },
+    {
+        "Instruction": "How does formaldehyde exposure impact health?",
+        "Response": "Formaldehyde causes respiratory issues, skin rashes, and dizziness.",
+        "Context": "Formaldehyde"
+    },
+    {
+        "Instruction": "What are the risks associated with DEA and MEA in cosmetics?",
+        "Response": "DEA/MEA can form carcinogenic nitrosamines and irritate skin/eyes.",
+        "Context": "DEA/MEA"
+    },
+    {
+        "Instruction": "Why is toluene considered a neurotoxin, and where is it commonly found?",
+        "Response": "Toluene disrupts the nervous system and is found in nail polish/perfumes.",
+        "Context": "Toluene"
+    },
+    {
+        "Instruction": "What is the suspected link between aluminium in antiperspirants and Alzheimer\u2019s disease?",
+        "Response": "Aluminium may interfere with brain function and is linked to Alzheimer\u2019s.",
+        "Context": "Aluminium"
+    },
+    {
+        "Instruction": "What are the potential dangers of Peg Laureth in cosmetic products?",
+        "Response": "Peg Laureth may contain carcinogenic dioxane and disrupt hormones.",
+        "Context": "PegLaureth"
+    },
+    {
+        "Instruction": "What natural alternatives are suggested for personal-care products?",
+        "Response": "Green People and Young Living offer natural alternatives.",
+        "Context": "Alternatives"
+    },
+    {
+        "Instruction": "According to research, why might sunscreens fail to protect against skin cancer?",
+        "Response": "Sunscreens block UVB but allow prolonged UVA exposure, increasing DNA damage.",
+        "Context": "SunscreenRisk"
+    },
+    {
+        "Instruction": "What is the \"free-radical protection factor\" of sunscreens, and how does it compare to SPF?",
+        "Response": "Free-radical protection factor is 2, far lower than SPF (e.g., 20+).",
+        "Context": "FreeRadicals"
+    },
+    {
+        "Instruction": "How does sunscreen use potentially increase the risk of DNA damage?",
+        "Response": "Sunscreens delay sunburn, leading to overexposure and cumulative damage.",
+        "Context": "DNA"
+    },
+    {
+        "Instruction": "Why is vitamin D important, and how does sunlight exposure affect its production?",
+        "Response": "Sunlight triggers vitamin D synthesis, essential for overall health.",
+        "Context": "VitaminD"
+    },
+    {
+        "Instruction": "What role do vitamins C and E play in protecting the skin from sun damage?",
+        "Response": "Vitamins C and E reduce oxidative stress and skin cancer risk.",
+        "Context": "Antioxidants"
+    },
+    {
+        "Instruction": "How does folic acid relate to skin cancer risk, and which foods are rich in it?",
+        "Response": "Sunlight destroys folic acid; spinach, liver, and beans are rich sources.",
+        "Context": "FolicAcid"
+    },
+    {
+        "Instruction": "What did the 1996 British Medical Journal report conclude about sunscreens and skin cancer?",
+        "Response": "Sunscreens may raise skin cancer risk by extending UVA exposure.",
+        "Context": "BMJReport"
+    },
+    {
+        "Instruction": "Why is sunburn considered a natural defense mechanism?",
+        "Response": "Sunburn signals overexposure, preventing deeper damage.",
+        "Context": "Sunburn"
+    },
+    {
+        "Instruction": "What did Dr. Helen Shaw\u2019s research reveal about office workers and melanoma risk?",
+        "Response": "Office workers had double the melanoma risk compared to outdoor workers.",
+        "Context": "Melanoma"
+    },
+    {
+        "Instruction": "How does artificial lighting potentially weaken the immune system?",
+        "Response": "Artificial light weakens immunity (e.g., fewer colds with UV exposure).",
+        "Context": "Immunity"
+    },
+    {
+        "Instruction": "Name three entry-level Ayurveda books by Deepak Chopra.",
+        "Response": "Perfect Health, Quantum Healing, Perfect Weight.",
+        "Context": "ChopraBooks"
+    },
+    {
+        "Instruction": "Which book by David Frawley focuses on Yoga and Ayurveda?",
+        "Response": "Yoga and Ayurveda.",
+        "Context": "YogaBook"
+    },
+    {
+        "Instruction": "What is the title of Robert Svoboda\u2019s book on Ayurvedic constitution?",
+        "Response": "Prakruti.",
+        "Context": "Prakruti"
+    },
+    {
+        "Instruction": "Which book is recommended for Ayurvedic beauty care?",
+        "Response": "Ayurvedic Beauty Care by Melanie Sachs.",
+        "Context": "BeautyCare"
+    },
+    {
+        "Instruction": "Name two books by Atreya that focus on women\u2019s health.",
+        "Response": "Ayurvedic Healing for Women, A Woman\u2019s Best Medicine.",
+        "Context": "WomenHealth"
+    },
+    {
+        "Instruction": "What is the focus of \"The Ayurveda Encyclopaedia\" by Swami Sada Shiva Tirtha?",
+        "Response": "Comprehensive Ayurvedic knowledge.",
+        "Context": "Encyclopaedia"
+    },
+    {
+        "Instruction": "Which book is described as a \"Textbook of Ayurveda\" and who is its author?",
+        "Response": "Textbook of Ayurveda by Vasant Lad.",
+        "Context": "Textbook"
+    },
+    {
+        "Instruction": "What is the topic of \"Astrology of the Seers\" by David Frawley?",
+        "Response": "Vedic astrology.",
+        "Context": "VedicAstrology"
+    },
+    {
+        "Instruction": "Name two inspirational books by Paramahansa Yogananda.",
+        "Response": "Autobiography of a Yogi, Bhagavad Gita.",
+        "Context": "YoganandaBooks"
+    },
+    {
+        "Instruction": "Which book is recommended for understanding the \"Seven Spiritual Laws of Success\"?",
+        "Response": "By Deepak Chopra.",
+        "Context": "Success"
+    },
+    {
+        "Instruction": "What is the meaning of \"Agni\" in Ayurveda?",
+        "Response": "Digestive fire/enzymatic activity.",
+        "Context": "Agni"
+    },
+    {
+        "Instruction": "Define \"Ama\" and explain its significance in health.",
+        "Response": "Undigested, toxic residue (sticky and white).",
+        "Context": "Ama"
+    },
+    {
+        "Instruction": "What are the three doshas, and which elements compose them?",
+        "Response": "Vata (air/space), Pitta (fire/water), Kapha (water/earth).",
+        "Context": "Doshas"
+    },
+    {
+        "Instruction": "What is \"Ghee,\" and how is it used in Ayurveda?",
+        "Response": "Clarified butter; used in cooking and therapies.",
+        "Context": "Ghee"
+    },
+    {
+        "Instruction": "What does \"Panchakarma\" refer to?",
+        "Response": "Five cleansing actions (e.g., enemas, vomiting).",
+        "Context": "Panchakarma"
+    },
+    {
+        "Instruction": "Explain the term \"Prana\" and its role in the body.",
+        "Response": "Life force governing movement/communication.",
+        "Context": "Prana"
+    },
+    {
+        "Instruction": "What is the purpose of \"Nasya\" therapy?",
+        "Response": "Cleansing sinuses/nasal passages.",
+        "Context": "Nasya"
+    },
+    {
+        "Instruction": "Define \"Rasayana\" and its importance in Ayurveda.",
+        "Response": "Rejuvenation therapy.",
+        "Context": "Rasayana"
+    },
+    {
+        "Instruction": "What are \"Shrotas,\" and why are they significant?",
+        "Response": "Body channels (e.g., circulatory, lymphatic).",
+        "Context": "Shrotas"
+    },
+    {
+        "Instruction": "What is the difference between \"Shamana\" and \"Shodhana\" therapies?",
+        "Response": "Shamana reduces symptoms; Shodhana eliminates toxins.",
+        "Context": "Therapies"
+    },
+    {
+        "Instruction": "What were the psychological effects observed in the study by Schneider et al. (1990)?",
+        "Response": "Reduced distress, anxiety, and depression.",
+        "Context": "Psychology"
+    },
+    {
+        "Instruction": "How did Panchakarma treatments impact cardiovascular risk factors in Sharma et al.\u2019s study (1993)?",
+        "Response": "Lowered lipid peroxide levels post-Panchakarma.",
+        "Context": "CardioHealth"
+    },
+    {
+        "Instruction": "",
+        "Response": "",
+        "Context": "Purification"
+    }
+]

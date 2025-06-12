@@ -1,0 +1,2497 @@
+[
+    {
+        "Instruction": "What are Ayurvedic tips for ear health?",
+        "Response": "Use warm sesame oil drops (karna purana) and avoid loud sounds.",
+        "Context": "ear care"
+    },
+    {
+        "Instruction": "How does Ayurveda support dental health?",
+        "Response": "Oil pulling, neem brushing, and tongue scraping are foundational.",
+        "Context": "oral care"
+    },
+    {
+        "Instruction": "What is the Ayurvedic remedy for mouth ulcers?",
+        "Response": "Apply licorice paste or honey, and avoid spicy foods.",
+        "Context": "mouth ulcers"
+    },
+    {
+        "Instruction": "What is a simple detox for the eyes?",
+        "Response": "Triphala eyewash or rosewater drops cleanse and cool the eyes.",
+        "Context": "eye detox"
+    },
+    {
+        "Instruction": "What herbs are used for epilepsy in Ayurveda?",
+        "Response": "Brahmi, vacha, and jatamansi are calming to the nervous system.",
+        "Context": "epilepsy"
+    },
+    {
+        "Instruction": "How does Ayurveda handle insomnia in elderly?",
+        "Response": "Warm oil massage, nutmeg milk, and strict sleep routines help.",
+        "Context": "elderly sleep"
+    },
+    {
+        "Instruction": "What is useful in Ayurveda for foot pain?",
+        "Response": "Warm ghee massage, epsom salt soak, and rest support healing.",
+        "Context": "foot pain"
+    },
+    {
+        "Instruction": "How does Ayurveda approach viral infections?",
+        "Response": "Support immunity with tulsi, giloy, and proper digestion.",
+        "Context": "viral care"
+    },
+    {
+        "Instruction": "What can support prostate health in Ayurveda?",
+        "Response": "Use gokshura, pumpkin seeds, and avoid excess spicy food.",
+        "Context": "prostate"
+    },
+    {
+        "Instruction": "What are Ayurvedic tips for chronic cough?",
+        "Response": "Vasaka, licorice, and sitopaladi churna are effective.",
+        "Context": "chronic cough"
+    },
+    {
+        "Instruction": "Which herbs are best for urinary tract health?",
+        "Response": "Punarnava, gokshura, and coriander water cleanse the tract.",
+        "Context": "urinary health"
+    },
+    {
+        "Instruction": "What can help poor appetite in children?",
+        "Response": "Chyawanprash, ginger-lime salt, and regular mealtimes help.",
+        "Context": "children digestion"
+    },
+    {
+        "Instruction": "What is the role of meditation in healing?",
+        "Response": "It calms vata, builds ojas, and rewires the mind-body connection.",
+        "Context": "meditation"
+    },
+    {
+        "Instruction": "How does Ayurveda support fertility in women?",
+        "Response": "Shatavari, warm foods, and regular lifestyle improve fertility.",
+        "Context": "female fertility"
+    },
+    {
+        "Instruction": "What are Ayurvedic solutions for frequent urination?",
+        "Response": "Reduce kapha, avoid cold drinks, and use gokshura or punarnava.",
+        "Context": "urination"
+    },
+    {
+        "Instruction": "How is jealousy treated in Ayurveda?",
+        "Response": "Excess pitta is soothed by rose, coconut, and inner reflection.",
+        "Context": "jealousy"
+    },
+    {
+        "Instruction": "What is an Ayurvedic view on procrastination?",
+        "Response": "A vata imbalance; treat with grounding food, oil, and schedule.",
+        "Context": "procrastination"
+    },
+    {
+        "Instruction": "How does Ayurveda help heal past trauma?",
+        "Response": "Daily rhythm, sattvic diet, journaling, and calming herbs support recovery.",
+        "Context": "emotional trauma"
+    },
+    {
+        "Instruction": "What is a solution for cold-induced asthma?",
+        "Response": "Use warm ginger-honey mix and avoid dairy and cold exposure.",
+        "Context": "cold asthma"
+    },
+    {
+        "Instruction": "What helps for blood purification in skin disorders?",
+        "Response": "Manjistha, neem, and a pitta-cleansing diet.",
+        "Context": "skin detox"
+    },
+    {
+        "Instruction": "How to improve stamina post-illness?",
+        "Response": "Ashwagandha, milk, and early sleep rejuvenate strength.",
+        "Context": "recovery"
+    },
+    {
+        "Instruction": "How does Ayurveda prevent burnout in professionals?",
+        "Response": "Routine, rasayanas, and regular screen breaks are essential.",
+        "Context": "burnout prevention"
+    },
+    {
+        "Instruction": "What helps children with anger issues in Ayurveda?",
+        "Response": "Brahmi syrup, play, and early sleep help calm the mind.",
+        "Context": "child emotions"
+    },
+    {
+        "Instruction": "What is used in Ayurveda for dry eyes from screens?",
+        "Response": "Castor oil drops externally and ghee internally nourish dryness.",
+        "Context": "digital strain"
+    },
+    {
+        "Instruction": "How to boost memory in elders?",
+        "Response": "Brahmi, shankhpushpi, and mindful exercises support recall.",
+        "Context": "elderly memory"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to hearing loss?",
+        "Response": "Karna purana with medicated oils and nasya support ear function.",
+        "Context": "hearing loss"
+    },
+    {
+        "Instruction": "Which foods trigger eczema flare-ups?",
+        "Response": "Fermented, spicy, and sour foods aggravate pitta-related eczema.",
+        "Context": "eczema diet"
+    },
+    {
+        "Instruction": "What is the remedy for excessive yawning?",
+        "Response": "Grounding meals, warm drinks, and pranayama control vata.",
+        "Context": "yawning"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view of shyness?",
+        "Response": "Linked to imbalanced vata; confidence grows with grounding rituals.",
+        "Context": "personality"
+    },
+    {
+        "Instruction": "What can reduce dandruff in teens?",
+        "Response": "Neem oil, scalp hygiene, and reducing sugar intake are helpful.",
+        "Context": "teen scalp care"
+    },
+    {
+        "Instruction": "What helps with overthinking according to Ayurveda?",
+        "Response": "Brahmi, oil massage, and proper sleep reduce mental agitation.",
+        "Context": "overthinking"
+    },
+    {
+        "Instruction": "Which dosha imbalance causes heartburn?",
+        "Response": "Pitta dosha leads to acid production and digestive heat.",
+        "Context": "heartburn"
+    },
+    {
+        "Instruction": "What supports mental strength in students?",
+        "Response": "Routine, brahmi, good sleep, and sattvic food aid focus.",
+        "Context": "students"
+    },
+    {
+        "Instruction": "What relieves neck stiffness Ayurvedically?",
+        "Response": "Mahanarayan oil massage and gentle stretching release tension.",
+        "Context": "neck pain"
+    },
+    {
+        "Instruction": "What is useful for PMS-related anger?",
+        "Response": "Shatavari, hibiscus tea, and journaling can calm emotions.",
+        "Context": "PMS anger"
+    },
+    {
+        "Instruction": "What is Ayurveda's solution to sneezing fits?",
+        "Response": "Use black pepper and warm water to clear kapha build-up.",
+        "Context": "sneezing"
+    },
+    {
+        "Instruction": "What helps detox after antibiotics?",
+        "Response": "Triphala, warm water, and digestive herbs rebuild balance.",
+        "Context": "post-antibiotics"
+    },
+    {
+        "Instruction": "What can soothe a burning tongue?",
+        "Response": "Ghee, licorice, and cooling herbs reduce pitta in the mouth.",
+        "Context": "burning tongue"
+    },
+    {
+        "Instruction": "Which rituals support children's immunity?",
+        "Response": "Daily massage, warm foods, and tulsi-honey mix build ojas.",
+        "Context": "child immunity"
+    },
+    {
+        "Instruction": "What reduces cold sensitivity in Ayurveda?",
+        "Response": "Vata-pacifying foods, hot baths, and sesame oil massage help.",
+        "Context": "cold intolerance"
+    },
+    {
+        "Instruction": "What is used in Ayurveda for acne in teens?",
+        "Response": "Neem, manjistha, and a no-sugar, no-spicy diet help clear skin.",
+        "Context": "teen acne"
+    },
+    {
+        "Instruction": "How to balance thyroid using Ayurveda?",
+        "Response": "Kanchanar guggulu, early sleep, and iodine support metabolism.",
+        "Context": "thyroid"
+    },
+    {
+        "Instruction": "What soothes a burning scalp?",
+        "Response": "Apply coconut oil with brahmi or sandalwood infusion.",
+        "Context": "scalp pitta"
+    },
+    {
+        "Instruction": "Which habits increase mental sattva?",
+        "Response": "Silence, service, meditation, and plant-based food increase purity.",
+        "Context": "sattva"
+    },
+    {
+        "Instruction": "How to ease loneliness using Ayurvedic methods?",
+        "Response": "Connect with nature, routine, and warm meals increase grounding.",
+        "Context": "loneliness"
+    },
+    {
+        "Instruction": "How to increase willpower according to Ayurveda?",
+        "Response": "Follow routine, eat light, and practice trataka meditation.",
+        "Context": "willpower"
+    },
+    {
+        "Instruction": "Which daily spice blend supports immunity?",
+        "Response": "Golden milk with turmeric, black pepper, and cinnamon is ideal.",
+        "Context": "immunity tonic"
+    },
+    {
+        "Instruction": "What does Ayurveda suggest for improving lymph flow?",
+        "Response": "Dry brushing (garshana), gentle yoga, and manjistha tea help stimulate lymph.",
+        "Context": "lymphatic system"
+    },
+    {
+        "Instruction": "Which dosha affects speech clarity?",
+        "Response": "Vata governs speech; imbalance may cause stammering or dryness.",
+        "Context": "speech"
+    },
+    {
+        "Instruction": "How to calm heart palpitations using Ayurveda?",
+        "Response": "Practice alternate nostril breathing and use cooling herbs like rose.",
+        "Context": "palpitations"
+    },
+    {
+        "Instruction": "What is an Ayurvedic remedy for post-meal drowsiness?",
+        "Response": "Take light meals, walk 100 steps post-meal, and avoid excess kapha foods.",
+        "Context": "post-meal fatigue"
+    },
+    {
+        "Instruction": "What helps reduce face puffiness in the morning?",
+        "Response": "Splash with cold rose water and apply aloe gel to reduce kapha.",
+        "Context": "morning puffiness"
+    },
+    {
+        "Instruction": "What is Ayurveda,s view on perfectionism?",
+        "Response": "A high pitta trait; cooled with self-compassion and coconut water.",
+        "Context": "perfectionism"
+    },
+    {
+        "Instruction": "What is a traditional detox meal in Ayurveda?",
+        "Response": "Kitchari made with mung dal, cumin, and ghee is light and cleansing.",
+        "Context": "detox meal"
+    },
+    {
+        "Instruction": "Which herb helps balance male hormones?",
+        "Response": "Ashwagandha supports testosterone and overall male vitality.",
+        "Context": "male health"
+    },
+    {
+        "Instruction": "What is an Ayurvedic tip for grounding after travel?",
+        "Response": "Foot massage with warm oil, ginger tea, and a warm meal pacify vata.",
+        "Context": "post-travel care"
+    },
+    {
+        "Instruction": "What can calm skin heat during fever?",
+        "Response": "Sandalwood paste on the forehead and mint tea help lower internal heat.",
+        "Context": "skin heat"
+    },
+    {
+        "Instruction": "Which practices help release emotional toxins?",
+        "Response": "Pranayama, expressive writing, and panchakarma support emotional detox.",
+        "Context": "emotional detox"
+    },
+    {
+        "Instruction": "What reduces eye redness in Ayurveda?",
+        "Response": "Use triphala eyewash and avoid screen time during recovery.",
+        "Context": "eye irritation"
+    },
+    {
+        "Instruction": "What foods are best for recovery after panchakarma?",
+        "Response": "Steamed vegetables, soft rice, and herbal teas aid gradual digestion.",
+        "Context": "post-panchakarma"
+    },
+    {
+        "Instruction": "What is used to manage fear in Ayurveda?",
+        "Response": "Oil massage, grounding meals, and brahmi help stabilize vata.",
+        "Context": "fear"
+    },
+    {
+        "Instruction": "What strengthens the sense of smell?",
+        "Response": "Nasya therapy with medicated oils like anu tailam restores nasal clarity.",
+        "Context": "nasal health"
+    },
+    {
+        "Instruction": "Which ritual prepares you for sound sleep?",
+        "Response": "Foot oiling, nutmeg milk, and a screen-free hour before bed.",
+        "Context": "night ritual"
+    },
+    {
+        "Instruction": "Which herbs are used for mental resilience?",
+        "Response": "Ashwagandha, shankhpushpi, and jatamansi support emotional strength.",
+        "Context": "resilience"
+    },
+    {
+        "Instruction": "What helps maintain voice strength for speakers?",
+        "Response": "Licorice lozenges and ghee with cardamom soothe the throat.",
+        "Context": "voice care"
+    },
+    {
+        "Instruction": "How to support immunity in changing weather?",
+        "Response": "Daily warm drinks, tulsi, and seasonal routines strengthen ojas.",
+        "Context": "weather immunity"
+    },
+    {
+        "Instruction": "What balances oversleeping tendencies?",
+        "Response": "Kapha-reducing lifestyle, earlier bedtimes, and stimulating herbs help.",
+        "Context": "oversleeping"
+    },
+    {
+        "Instruction": "Which dosha imbalance causes irregular menstruation?",
+        "Response": "Vata often disrupts menstrual rhythm; warm oil massage and rest help.",
+        "Context": "irregular periods"
+    },
+    {
+        "Instruction": "How to cool pitta without using food?",
+        "Response": "Apply rose water on skin, wear light clothes, and walk under moonlight.",
+        "Context": "non-food pitta care"
+    },
+    {
+        "Instruction": "What is an Ayurvedic first aid for burns?",
+        "Response": "Apply aloe vera gel with turmeric or ghee to soothe skin.",
+        "Context": "burn care"
+    },
+    {
+        "Instruction": "What is the effect of loud environments in Ayurveda?",
+        "Response": "They aggravate vata and drain ojas; quiet time restores balance.",
+        "Context": "noise"
+    },
+    {
+        "Instruction": "How to handle indecisiveness with Ayurveda?",
+        "Response": "Ground vata using a stable routine and herbs like jatamansi.",
+        "Context": "indecisiveness"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view of sleep talking?",
+        "Response": "It can be a sign of vata/pitta imbalance; treat with calming herbs and rest.",
+        "Context": "sleep disorders"
+    },
+    {
+        "Instruction": "Which practice helps with introversion in imbalance?",
+        "Response": "Sunlight exposure, social sattvic meals, and heart-opening yoga.",
+        "Context": "introversion"
+    },
+    {
+        "Instruction": "What is Ayurveda's role in managing digital overload?",
+        "Response": "Practice eye care, screen fasting, and grounding breathwork daily.",
+        "Context": "digital health"
+    },
+    {
+        "Instruction": "How to ease travel-induced constipation?",
+        "Response": "Take triphala at night and eat moist, vata-pacifying foods.",
+        "Context": "travel constipation"
+    },
+    {
+        "Instruction": "What is used to regulate body temperature naturally?",
+        "Response": "Sandalwood, mint, and lunar energy practices help cool or balance heat.",
+        "Context": "temperature regulation"
+    },
+    {
+        "Instruction": "What is a classic Ayurvedic pick-me-up for fatigue?",
+        "Response": "Warm ginger tea with honey or chyawanprash boosts energy.",
+        "Context": "quick energy"
+    },
+    {
+        "Instruction": "What daily habit sharpens intuition?",
+        "Response": "Meditation, light dinners, and single-tasking increase inner clarity.",
+        "Context": "intuition"
+    },
+    {
+        "Instruction": "How to break mental overactivity?",
+        "Response": "Focus on breath, slow walking, and disconnect from devices.",
+        "Context": "mental reset"
+    },
+    {
+        "Instruction": "What supports children with hyperactivity?",
+        "Response": "Brahmi syrup, warm meals, and reduced screen time improve focus.",
+        "Context": "child behavior"
+    },
+    {
+        "Instruction": "Which teas reduce sugar cravings?",
+        "Response": "Cinnamon, licorice, and fenugreek teas stabilize sweet cravings.",
+        "Context": "sweet craving"
+    },
+    {
+        "Instruction": "What is an Ayurvedic cure for dry nasal passages?",
+        "Response": "Apply nasya oil and inhale warm steam with tulsi or eucalyptus.",
+        "Context": "dry nose"
+    },
+    {
+        "Instruction": "How to deal with lethargy in kapha season?",
+        "Response": "Start the day early, dry brush, and drink spicy herbal tea.",
+        "Context": "kapha season"
+    },
+    {
+        "Instruction": "What helps eliminate brain fog after eating?",
+        "Response": "Sip cumin tea, avoid mixing dairy and meat, and chew food thoroughly.",
+        "Context": "brain fog"
+    },
+    {
+        "Instruction": "What is used for emotional grief in Ayurveda?",
+        "Response": "Rose, tulsi, supportive community, and mantra chanting ease the heart.",
+        "Context": "grief"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on allergies to scents?",
+        "Response": "Scents can aggravate pitta or vata; use gentle aromas like rose or sandalwood.",
+        "Context": "scent sensitivity"
+    },
+    {
+        "Instruction": "How to balance emotional eating habits?",
+        "Response": "Eat on time, favor warm foods, and address emotional triggers with sattvic practices.",
+        "Context": "emotional eating"
+    },
+    {
+        "Instruction": "What helps relieve heaviness in the chest?",
+        "Response": "Use warm ginger tea, light meals, and avoid dairy to reduce kapha.",
+        "Context": "chest heaviness"
+    },
+    {
+        "Instruction": "What are Ayurvedic tips for healthy nails?",
+        "Response": "Eat iron-rich foods, apply castor oil, and avoid biting nails.",
+        "Context": "nail care"
+    },
+    {
+        "Instruction": "What causes tremors in Ayurveda?",
+        "Response": "Vata derangement in the nervous system; use calming herbs and oils.",
+        "Context": "tremors"
+    },
+    {
+        "Instruction": "What is an Ayurvedic remedy for cracked elbows?",
+        "Response": "Apply sesame or ghee with turmeric to heal dry, rough areas.",
+        "Context": "elbow care"
+    },
+    {
+        "Instruction": "What helps improve speech fluency in Ayurveda?",
+        "Response": "Licorice and vacha strengthen the voice and calm vata.",
+        "Context": "speech fluency"
+    },
+    {
+        "Instruction": "What are signs of high ojas in a person?",
+        "Response": "Glowing skin, clarity, calm mind, strong immunity, and joyful presence.",
+        "Context": "ojas signs"
+    },
+    {
+        "Instruction": "Which rituals boost spiritual energy?",
+        "Response": "Japa meditation, sattvic food, and early rising enhance spiritual strength.",
+        "Context": "spirituality"
+    },
+    {
+        "Instruction": "What helps ease jealousy or comparison?",
+        "Response": "Pitta cooling herbs, rose tea, and gratitude journaling.",
+        "Context": "jealousy"
+    },
+    {
+        "Instruction": "What is a good practice for sluggish mornings?",
+        "Response": "Dry brushing, ginger-lemon tea, and sun exposure energize the body.",
+        "Context": "morning energy"
+    },
+    {
+        "Instruction": "How to reduce emotional intensity in relationships?",
+        "Response": "Balance pitta with calming teas, journaling, and space.",
+        "Context": "relationships"
+    },
+    {
+        "Instruction": "What's a natural Ayurvedic bronchodilator?",
+        "Response": "Vasaka and tulsi reduce kapha in the lungs and open airways.",
+        "Context": "bronchial support"
+    },
+    {
+        "Instruction": "What to do when mind feels scattered?",
+        "Response": "Abhyanga, regular meals, and single-tasking help ground vata.",
+        "Context": "mental focus"
+    },
+    {
+        "Instruction": "What supports vision for aging adults?",
+        "Response": "Triphala, blink breaks, and eye palming preserve vision.",
+        "Context": "vision care"
+    },
+    {
+        "Instruction": "What's the remedy for itchy inner ears?",
+        "Response": "Use lukewarm sesame oil drops or gentle nasya therapy.",
+        "Context": "inner ear"
+    },
+    {
+        "Instruction": "What's a quick Ayurvedic detox for the skin?",
+        "Response": "Neem, manjistha, and pitta-friendly meals help clear the skin.",
+        "Context": "skin detox"
+    },
+    {
+        "Instruction": "What can help calm fear of speaking?",
+        "Response": "Use vacha, practice breath control, and build ojas with warm food.",
+        "Context": "public speaking"
+    },
+    {
+        "Instruction": "What helps improve patience with Ayurveda?",
+        "Response": "Rose tea, early dinners, and journaling increase emotional steadiness.",
+        "Context": "patience"
+    },
+    {
+        "Instruction": "What can help ringing in the ears (tinnitus)?",
+        "Response": "Nasya, karna purana, and calming vata through oils may help.",
+        "Context": "tinnitus"
+    },
+    {
+        "Instruction": "What to do after overexposure to sun?",
+        "Response": "Apply aloe, drink rose water, and eat cooling fruits like watermelon.",
+        "Context": "sunburn"
+    },
+    {
+        "Instruction": "What helps control sugar dips throughout the day?",
+        "Response": "Eat small, warm, fiber-rich meals and use cinnamon tea.",
+        "Context": "blood sugar"
+    },
+    {
+        "Instruction": "What relieves anxiety before exams?",
+        "Response": "Brahmi, warm baths, and pranayama stabilize the nervous system.",
+        "Context": "exam stress"
+    },
+    {
+        "Instruction": "What Ayurvedic habits prevent burnout in parents?",
+        "Response": "Daily rituals, time outdoors, and adaptogens like ashwagandha help.",
+        "Context": "parenting stress"
+    },
+    {
+        "Instruction": "What helps soothe sore feet after walking?",
+        "Response": "Soak feet in warm turmeric water, apply ghee or castor oil.",
+        "Context": "foot care"
+    },
+    {
+        "Instruction": "What improves breath quality naturally?",
+        "Response": "Oil pulling with sesame oil and using mint or clove improves freshness.",
+        "Context": "breath hygiene"
+    },
+    {
+        "Instruction": "What causes scalp heat and burning sensation?",
+        "Response": "Pitta aggravation; cool scalp with aloe, brahmi, and hibiscus oil.",
+        "Context": "scalp heat"
+    },
+    {
+        "Instruction": "What ritual can calm evening restlessness?",
+        "Response": "Drink warm nutmeg milk, turn off devices, and do alternate nostril breathing.",
+        "Context": "evening restlessness"
+    },
+    {
+        "Instruction": "What foods keep pitta balanced during exams?",
+        "Response": "Sweet fruits, ghee, coconut water, and light grains help cool excess heat.",
+        "Context": "exam diet"
+    },
+    {
+        "Instruction": "What improves facial skin texture in Ayurveda?",
+        "Response": "Use turmeric, besan (gram flour), and manjistha paste weekly.",
+        "Context": "facial care"
+    },
+    {
+        "Instruction": "What is the Ayurvedic way to refresh during work hours?",
+        "Response": "Stand, stretch, sip warm tea, and look at distant objects every 30 minutes.",
+        "Context": "midday refresh"
+    },
+    {
+        "Instruction": "What herbs calm high pitta emotions?",
+        "Response": "Brahmi, rose, shankhpushpi, and sandalwood ease inner heat.",
+        "Context": "pitta emotions"
+    },
+    {
+        "Instruction": "What is an Ayurvedic solution for restless legs?",
+        "Response": "Massage legs with warm sesame oil and reduce caffeine and vata foods.",
+        "Context": "restless legs"
+    },
+    {
+        "Instruction": "What supports emotional resilience during loss?",
+        "Response": "Rose tea, journaling, and routines that stabilize vata aid emotional strength.",
+        "Context": "grief support"
+    },
+    {
+        "Instruction": "What reduces the effects of excessive screen time?",
+        "Response": "Blinking often, triphala eyewash, and blue-light filtering help restore balance.",
+        "Context": "screen fatigue"
+    },
+    {
+        "Instruction": "What foods support tissue regeneration?",
+        "Response": "Ghee, almond milk, dates, and ashwagandha aid tissue repair.",
+        "Context": "dhatu regeneration"
+    },
+    {
+        "Instruction": "What soothes burning palms or soles?",
+        "Response": "Apply sandalwood paste or coconut oil and reduce pitta foods.",
+        "Context": "palm burning"
+    },
+    {
+        "Instruction": "What calms heart-based anxiety?",
+        "Response": "Arjuna, rose, and meditation stabilize emotional pitta imbalance.",
+        "Context": "heart anxiety"
+    },
+    {
+        "Instruction": "What's a remedy for irritability in hot weather?",
+        "Response": "Cooling herbs like coriander, rose, and fennel soothe pitta.",
+        "Context": "hot weather"
+    },
+    {
+        "Instruction": "How can Ayurveda reduce hyperacidity in teenagers?",
+        "Response": "Avoid fried snacks, use fennel tea, and include aloe juice.",
+        "Context": "teen digestion"
+    },
+    {
+        "Instruction": "What relieves a heavy head or foggy forehead?",
+        "Response": "Sniff dry ginger powder, apply warm cloth, and reduce dairy.",
+        "Context": "heavy head"
+    },
+    {
+        "Instruction": "What can treat recurring cold sores?",
+        "Response": "Licorice, neem, and immune-building foods support healing.",
+        "Context": "cold sores"
+    },
+    {
+        "Instruction": "What prevents fatigue after meals?",
+        "Response": "Chew thoroughly, eat light, and sip cumin-coriander-fennel tea.",
+        "Context": "post-meal fatigue"
+    },
+    {
+        "Instruction": "What can calm racing thoughts at bedtime?",
+        "Response": "Nutmeg milk, warm oil on feet, and screen-free wind-down time.",
+        "Context": "racing thoughts"
+    },
+    {
+        "Instruction": "How to strengthen gums naturally?",
+        "Response": "Massage with sesame oil and brush with neem powder or twig.",
+        "Context": "gum care"
+    },
+    {
+        "Instruction": "What reduces urge to snack between meals?",
+        "Response": "Drink warm water, eat protein-rich meals, and stabilize vata.",
+        "Context": "snacking"
+    },
+    {
+        "Instruction": "What foods build rasa (plasma) tissue?",
+        "Response": "Juicy fruits, warm milk, sweet root vegetables, and ghee nourish rasa.",
+        "Context": "rasa"
+    },
+    {
+        "Instruction": "What helps regulate dry scalp with flakes?",
+        "Response": "Massage with warm coconut or brahmi oil and avoid harsh shampoos.",
+        "Context": "dry scalp"
+    },
+    {
+        "Instruction": "What reduces self-doubt in Ayurvedic psychology?",
+        "Response": "Build ojas with rest, affirmations, and sattvic food.",
+        "Context": "confidence"
+    },
+    {
+        "Instruction": "What aids healing of cracked heels and dry feet?",
+        "Response": "Apply castor oil or ghee at night and wear socks after application.",
+        "Context": "heel care"
+    },
+    {
+        "Instruction": "What is recommended for dry mouth in Ayurveda?",
+        "Response": "Suck clove, sip warm water, and avoid spicy or salty food.",
+        "Context": "dry mouth"
+    },
+    {
+        "Instruction": "What helps with mild vertigo symptoms?",
+        "Response": "Use ginger, practice neck stretches, and avoid sudden head movements.",
+        "Context": "vertigo"
+    },
+    {
+        "Instruction": "What soothes skin itching without rash?",
+        "Response": "Apply aloe vera or coconut oil and take manjistha or neem.",
+        "Context": "skin itch"
+    },
+    {
+        "Instruction": "What supports better posture in daily life?",
+        "Response": "Practice yoga, strengthen core, and avoid slouching after meals.",
+        "Context": "posture"
+    },
+    {
+        "Instruction": "What reduces cravings for salty foods?",
+        "Response": "Balance vata with nourishing meals and address dehydration.",
+        "Context": "salt craving"
+    },
+    {
+        "Instruction": "What herbs help balance emotional extremes?",
+        "Response": "Jatamansi, tulsi, and rose tea stabilize mood swings.",
+        "Context": "emotional balance"
+    },
+    {
+        "Instruction": "What helps maintain healthy menstruation rhythm?",
+        "Response": "Warm sesame oil massage, shatavari, and iron-rich food support balance.",
+        "Context": "menstrual rhythm"
+    },
+    {
+        "Instruction": "How does Ayurveda support lung clarity post-smoke exposure?",
+        "Response": "Tulsi, sitopaladi, and ginger reduce kapha and clear channels.",
+        "Context": "lungs"
+    },
+    {
+        "Instruction": "What is a cleansing morning habit in Ayurveda?",
+        "Response": "Drink warm lemon water, scrape tongue, and eliminate waste on waking.",
+        "Context": "morning detox"
+    },
+    {
+        "Instruction": "What's a healthy habit to reduce neck tension?",
+        "Response": "Do slow neck rotations, oil massage, and reduce screen time.",
+        "Context": "neck stiffness"
+    },
+    {
+        "Instruction": "What helps remove bitterness from the tongue or mouth?",
+        "Response": "Rinse with fennel or licorice tea and balance pitta in diet.",
+        "Context": "mouth bitterness"
+    },
+    {
+        "Instruction": "What practice improves daily rhythm for students?",
+        "Response": "Study at fixed times, take breaks with breathwork, and follow early sleep.",
+        "Context": "student routine"
+    },
+    {
+        "Instruction": "What's an easy home remedy for dry lips?",
+        "Response": "Apply ghee or almond oil before sleep to restore moisture.",
+        "Context": "lip care"
+    },
+    {
+        "Instruction": "What helps manage compulsive behaviors?",
+        "Response": "Routine, journaling, brahmi, and calming teas reduce compulsive urges.",
+        "Context": "compulsions"
+    },
+    {
+        "Instruction": "What to do when you feel emotionally overwhelmed?",
+        "Response": "Take slow breaths, sip rose tea, and reduce sensory input.",
+        "Context": "emotional overwhelm"
+    },
+    {
+        "Instruction": "What boosts oxygenation in the blood naturally?",
+        "Response": "Practice pranayama, walk outdoors, and eat iron-rich greens.",
+        "Context": "blood oxygen"
+    },
+    {
+        "Instruction": "How does Ayurveda explain ringing in ears at night?",
+        "Response": "Often a sign of vata disturbance; apply oil to feet and ears.",
+        "Context": "ear ringing"
+    },
+    {
+        "Instruction": "What supports liver regeneration?",
+        "Response": "Kutki, aloe vera, and reducing processed food intake help restore liver.",
+        "Context": "liver care"
+    },
+    {
+        "Instruction": "What helps reduce fogginess after naps?",
+        "Response": "Wash face with cool water, do a brisk walk, and drink ginger tea.",
+        "Context": "post-nap fog"
+    },
+    {
+        "Instruction": "How does Ayurveda treat cold hands and feet?",
+        "Response": "Warm oil massage, cinnamon tea, and vata-pacifying diet restore warmth.",
+        "Context": "cold extremities"
+    },
+    {
+        "Instruction": "What supports better bladder control in Ayurveda?",
+        "Response": "Strengthen pelvic muscles, use gokshura, and avoid cold liquids.",
+        "Context": "bladder control"
+    },
+    {
+        "Instruction": "What is an Ayurvedic view on excessive guilt?",
+        "Response": "Guilt can reflect excess pitta; balance with compassion and cooling herbs.",
+        "Context": "guilt"
+    },
+    {
+        "Instruction": "What reduces twitching in the body?",
+        "Response": "Ground vata with warm food, ashwagandha, and oil massage.",
+        "Context": "muscle twitching"
+    },
+    {
+        "Instruction": "What practice helps maintain positive self-talk?",
+        "Response": "Daily affirmations, rose tea, and sattvic company build mental strength.",
+        "Context": "affirmations"
+    },
+    {
+        "Instruction": "What supports breast health in Ayurveda?",
+        "Response": "Massage with warm sesame oil, wear loose cotton, and eat nourishing foods.",
+        "Context": "breast care"
+    },
+    {
+        "Instruction": "What's the Ayurvedic approach to dull complexion?",
+        "Response": "Detox with manjistha, drink warm water, and avoid fried food.",
+        "Context": "dull skin"
+    },
+    {
+        "Instruction": "Which foods lighten emotional heaviness?",
+        "Response": "Leafy greens, warm stews, and sattvic foods uplift mood.",
+        "Context": "emotional digestion"
+    },
+    {
+        "Instruction": "What balances seasonal affective disorder (SAD)?",
+        "Response": "Sunlight exposure, warm oil massage, and uplifting herbs like tulsi.",
+        "Context": "seasonal blues"
+    },
+    {
+        "Instruction": "What is Ayurveda's tip for restful long travel?",
+        "Response": "Stay hydrated, eat light, and do gentle stretches at intervals.",
+        "Context": "travel recovery"
+    },
+    {
+        "Instruction": "What reduces nighttime urination?",
+        "Response": "Avoid late fluids, use gokshura, and apply oil on lower abdomen.",
+        "Context": "night urination"
+    },
+    {
+        "Instruction": "How to prepare the body for seasonal change?",
+        "Response": "Do light detox, eat seasonal produce, and adjust daily routine.",
+        "Context": "season transition"
+    },
+    {
+        "Instruction": "What reduces burning sensation during urination?",
+        "Response": "Drink coriander seed water and avoid spicy, sour foods.",
+        "Context": "urinary burning"
+    },
+    {
+        "Instruction": "What supports better memory retention?",
+        "Response": "Brahmi, early bedtime, and routine study practices help memory.",
+        "Context": "memory boost"
+    },
+    {
+        "Instruction": "How does Ayurveda view excessive attachment?",
+        "Response": "Rooted in kapha imbalance; balance with stimulation and detachment.",
+        "Context": "attachment"
+    },
+    {
+        "Instruction": "What reduces burping after meals?",
+        "Response": "Eat slowly, chew thoroughly, and sip warm cumin water.",
+        "Context": "burping"
+    },
+    {
+        "Instruction": "What helps manage hair thinning in women?",
+        "Response": "Bhringraj oil, iron-rich foods, and cooling lifestyle practices.",
+        "Context": "female hair"
+    },
+    {
+        "Instruction": "What supports recovery from a breakup?",
+        "Response": "Rose, journaling, nature walks, and spiritual reading help heal.",
+        "Context": "heartbreak"
+    },
+    {
+        "Instruction": "What prevents menstrual cramps?",
+        "Response": "Warm sesame oil massage and ginger tea with ajwain reduce pain.",
+        "Context": "cramps"
+    },
+    {
+        "Instruction": "What is the Ayurvedic way to clear voice hoarseness?",
+        "Response": "Licorice tea, rest, and avoid cold drinks restore voice.",
+        "Context": "hoarseness"
+    },
+    {
+        "Instruction": "What helps with body odor from stress?",
+        "Response": "Apply rose water, reduce caffeine, and manage pitta through food.",
+        "Context": "stress sweat"
+    },
+    {
+        "Instruction": "What reduces shame or self-criticism mentally?",
+        "Response": "Practice forgiveness, gratitude, and use cooling, ojas-building foods.",
+        "Context": "shame"
+    },
+    {
+        "Instruction": "What improves tongue sensitivity?",
+        "Response": "Rinse with licorice tea, avoid acidic food, and tongue scrape gently.",
+        "Context": "tongue care"
+    },
+    {
+        "Instruction": "What boosts circulation in sedentary workers?",
+        "Response": "Stretch hourly, drink warm water, and apply warming oils on limbs.",
+        "Context": "circulation"
+    },
+    {
+        "Instruction": "What helps eye fatigue from late-night work?",
+        "Response": "Use triphala eyewash, rose compress, and shut eyes every 20 mins.",
+        "Context": "eye fatigue"
+    },
+    {
+        "Instruction": "What supports voice clarity for teachers?",
+        "Response": "Gargle with turmeric salt water, sip licorice tea, and rest the voice.",
+        "Context": "teacher voice"
+    },
+    {
+        "Instruction": "What helps stop obsessive thoughts naturally?",
+        "Response": "Oil massage, brahmi, and alternate nostril breathing reduce mental loops.",
+        "Context": "obsession"
+    },
+    {
+        "Instruction": "What is the Ayurvedic tip for healthy bones?",
+        "Response": "Use sesame, calcium-rich greens, and weight-bearing activity.",
+        "Context": "bone strength"
+    },
+    {
+        "Instruction": "What improves energy levels after lunch?",
+        "Response": "Take a brief walk, sip digestive tea, and avoid napping immediately.",
+        "Context": "afternoon slump"
+    },
+    {
+        "Instruction": "What helps with ringing ears when stressed?",
+        "Response": "Do pranayama, apply oil to temples, and rest in silence.",
+        "Context": "stress tinnitus"
+    },
+    {
+        "Instruction": "What is recommended for nosebleeds in Ayurveda?",
+        "Response": "Apply ghee in nostrils and reduce sun/heat exposure.",
+        "Context": "nosebleeds"
+    },
+    {
+        "Instruction": "What improves warmth and stability during winter?",
+        "Response": "Oil massage, soups, root veggies, and early bedtime balance vata.",
+        "Context": "winter wellness"
+    },
+    {
+        "Instruction": "What clears tongue coating due to ama?",
+        "Response": "Scrape daily and reduce processed, cold, and incompatible foods.",
+        "Context": "tongue ama"
+    },
+    {
+        "Instruction": "What supports adrenal recovery?",
+        "Response": "Ashwagandha, ghee, sleep hygiene, and minimal stimulation aid recovery.",
+        "Context": "adrenal fatigue"
+    },
+    {
+        "Instruction": "What helps with nervous stomach before speaking?",
+        "Response": "Drink warm ginger tea, apply oil to the belly, and use affirmations.",
+        "Context": "nervous gut"
+    },
+    {
+        "Instruction": "What prevents pitta-related nose itching?",
+        "Response": "Use cooling nasya oils and reduce spicy, sour foods.",
+        "Context": "nose itching"
+    },
+    {
+        "Instruction": "What balances emotional sensitivity in children?",
+        "Response": "Give routine, warm food, tulsi tea, and nurturing interaction.",
+        "Context": "sensitive kids"
+    },
+    {
+        "Instruction": "What promotes healthier smartphone use habits?",
+        "Response": "Create a phone-free routine before bed and practice screen breaks.",
+        "Context": "screen habits"
+    },
+    {
+        "Instruction": "What reduces excessive dreams at night?",
+        "Response": "Drink nutmeg milk, reduce stimulation, and pacify vata with oil massage.",
+        "Context": "dream imbalance"
+    },
+    {
+        "Instruction": "What helps reduce cold sensitivity in older adults?",
+        "Response": "Warm sesame oil massage, ginger tea, and vata-balancing meals support warmth.",
+        "Context": "elderly cold"
+    },
+    {
+        "Instruction": "What supports inner calm during social anxiety?",
+        "Response": "Brahmi, rose, grounding food, and journaling calm vata-pitta interaction.",
+        "Context": "social anxiety"
+    },
+    {
+        "Instruction": "What can soothe heated emotions in children?",
+        "Response": "Rose water, cool food, and quiet time reduce pitta flare-ups.",
+        "Context": "child emotions"
+    },
+    {
+        "Instruction": "How to prevent dryness after exposure to wind?",
+        "Response": "Apply oil to joints, drink warm fluids, and wear covering clothes.",
+        "Context": "wind exposure"
+    },
+    {
+        "Instruction": "What is Ayurveda's view on emotional suppression?",
+        "Response": "It creates mental ama and doshic blockage; journaling and counseling are remedies.",
+        "Context": "emotional suppression"
+    },
+    {
+        "Instruction": "What is the best time for taking herbal decoctions?",
+        "Response": "Early morning and before meals on an empty stomach are most effective.",
+        "Context": "herbal timing"
+    },
+    {
+        "Instruction": "Which food combination should be avoided for skin health?",
+        "Response": "Avoid milk with salty, sour, or citrus foods to prevent ama and skin issues.",
+        "Context": "food incompatibility"
+    },
+    {
+        "Instruction": "How can Ayurveda help with fear of failure?",
+        "Response": "Balance vata with structure, affirmations, and grounding herbs like ashwagandha.",
+        "Context": "fear of failure"
+    },
+    {
+        "Instruction": "What practices open the chest in emotional grief?",
+        "Response": "Rose aroma, heart-opening yoga, and warm chest massage aid healing.",
+        "Context": "chest energy"
+    },
+    {
+        "Instruction": "What foods promote mental alertness without overstimulation?",
+        "Response": "Soaked almonds, ghee, brahmi, and warm milk build sattva without agitation.",
+        "Context": "alertness"
+    },
+    {
+        "Instruction": "What helps teens with emotional outbursts?",
+        "Response": "Routine, shatavari or brahmi, and open listening from family help stabilize emotions.",
+        "Context": "teen behavior"
+    },
+    {
+        "Instruction": "What can relieve burning urination without infection?",
+        "Response": "Coriander water, coconut water, and avoiding heat-producing foods reduce pitta.",
+        "Context": "pitta UTI"
+    },
+    {
+        "Instruction": "What ritual improves lymphatic flow each morning?",
+        "Response": "Dry brushing (garshana), oil massage, and light yoga moves lymph.",
+        "Context": "lymph drainage"
+    },
+    {
+        "Instruction": "What helps sensitive teeth and gums Ayurvedically?",
+        "Response": "Use clove oil, triphala mouthwash, and avoid sour fruits.",
+        "Context": "sensitive teeth"
+    },
+    {
+        "Instruction": "What is a sign of healthy agni in Ayurveda?",
+        "Response": "Timely hunger, no bloating, and lightness post-meal are signs of balanced digestion.",
+        "Context": "agni signs"
+    },
+    {
+        "Instruction": "What helps cool an overheated scalp?",
+        "Response": "Apply hibiscus or aloe gel, and use pitta-pacifying herbs like brahmi.",
+        "Context": "scalp cooling"
+    },
+    {
+        "Instruction": "What is a quick morning ritual for stress-prone individuals?",
+        "Response": "Wake before sunrise, drink warm lemon water, and journal with rose tea.",
+        "Context": "morning stress"
+    },
+    {
+        "Instruction": "What reduces shakiness after intense emotions?",
+        "Response": "Warm ginger tea, grounding massage, and rest restore vata balance.",
+        "Context": "emotional vata"
+    },
+    {
+        "Instruction": "How does Ayurveda treat grief-induced insomnia?",
+        "Response": "Rose tea, nutmeg milk, and soothing oil massage on feet help settle the heart-mind.",
+        "Context": "grief insomnia"
+    },
+    {
+        "Instruction": "What balances vata in long-distance travelers?",
+        "Response": "Stick to regular mealtimes, hydrate with warm fluids, and use sesame oil daily.",
+        "Context": "travel vata"
+    },
+    {
+        "Instruction": "What boosts clarity after mental overwhelm?",
+        "Response": "Triphala, brahmi, screen rest, and clean food aid clarity.",
+        "Context": "mental reset"
+    },
+    {
+        "Instruction": "What reduces acidic taste in the mouth?",
+        "Response": "Avoid fermented foods, take coriander tea, and cool pitta with rose or mint.",
+        "Context": "mouth acidity"
+    },
+    {
+        "Instruction": "What is used for voice exhaustion in Ayurveda?",
+        "Response": "Licorice tea, warm ghee with cardamom, and vocal rest heal the voice.",
+        "Context": "vocal strain"
+    },
+    {
+        "Instruction": "What helps reset digestion after food poisoning?",
+        "Response": "Eat rice gruel with cumin, drink ginger water, and take triphala once stable.",
+        "Context": "food poisoning"
+    },
+    {
+        "Instruction": "What calms nerves before performing?",
+        "Response": "Drink tulsi-ginger tea, apply oil to temples, and visualize success.",
+        "Context": "performance nerves"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to mild depression?",
+        "Response": "Build ojas with ashwagandha, regular sleep, and sunlight exposure.",
+        "Context": "mild depression"
+    },
+    {
+        "Instruction": "What's a sattvic activity for clearing mental clutter?",
+        "Response": "Walking in nature, mantra chanting, or mindful journaling refresh the mind.",
+        "Context": "mental clarity"
+    },
+    {
+        "Instruction": "What supports regular elimination naturally?",
+        "Response": "Triphala at night, fiber-rich warm meals, and morning hydration create rhythm.",
+        "Context": "bowel rhythm"
+    },
+    {
+        "Instruction": "What helps control overeating during stress?",
+        "Response": "Chew slowly, sip warm water, and use grounding teas like fennel or tulsi.",
+        "Context": "stress eating"
+    },
+    {
+        "Instruction": "What improves blood flow to the brain in Ayurveda?",
+        "Response": "Use nasya oil, practice pranayama, and massage the crown with brahmi oil.",
+        "Context": "brain circulation"
+    },
+    {
+        "Instruction": "What relieves jaw tension or tightness?",
+        "Response": "Massage with warm oil, chew fennel seeds, and practice deep breathing.",
+        "Context": "jaw tension"
+    },
+    {
+        "Instruction": "What calms short-tempered behavior in children?",
+        "Response": "Reduce sugar and spice, use rose water, and give emotional validation.",
+        "Context": "child temper"
+    },
+    {
+        "Instruction": "What boosts willpower in indecisive individuals?",
+        "Response": "Follow a consistent schedule, use affirmations, and take sattvic food.",
+        "Context": "willpower"
+    },
+    {
+        "Instruction": "What helps stop compulsive social scrolling?",
+        "Response": "Create screen-free hours, do oil massage, and use grounding practices.",
+        "Context": "digital vata"
+    },
+    {
+        "Instruction": "What is a fast-acting remedy for brain fog from overwork?",
+        "Response": "Drink tulsi-ginger tea, stretch, and do 5-minute breathwork.",
+        "Context": "overwork fatigue"
+    },
+    {
+        "Instruction": "What reduces bloating from eating too quickly?",
+        "Response": "Chew food mindfully, drink ginger-fennel water, and pause before meals.",
+        "Context": "fast eating"
+    },
+    {
+        "Instruction": "What helps reduce frustration from interruptions?",
+        "Response": "Use cooling pranayama, rose tea, and practice journaling frustrations.",
+        "Context": "mental pitta"
+    },
+    {
+        "Instruction": "What is the Ayurvedic approach to treating gallstones?",
+        "Response": "Use warm castor oil packs, turmeric, and a fat-free pitta-cleansing diet.",
+        "Context": "gallstones"
+    },
+    {
+        "Instruction": "Which herbs dissolve gallstones naturally?",
+        "Response": "Punarnava, turmeric, and bhringraj support liver detox and gallbladder flow.",
+        "Context": "gallbladder"
+    },
+    {
+        "Instruction": "What home remedy relieves pain from gallstones?",
+        "Response": "Apply warm castor oil pack on the right abdomen and sip dandelion root tea.",
+        "Context": "gallstone pain"
+    },
+    {
+        "Instruction": "What supports liver function to prevent gallstones?",
+        "Response": "Triphala, aloe juice, and coriander help maintain healthy bile flow.",
+        "Context": "liver health"
+    },
+    {
+        "Instruction": "What helps prevent recurrence of gallstones?",
+        "Response": "Avoid fried food, take regular meals, and do yoga poses that stimulate digestion.",
+        "Context": "gallstone prevention"
+    },
+    {
+        "Instruction": "What is Ayurveda's view on kidney stones?",
+        "Response": "Kapha and pitta imbalance cause stones; use diuretic herbs and dietary cleansing.",
+        "Context": "kidney stones"
+    },
+    {
+        "Instruction": "What are home remedies for kidney stones?",
+        "Response": "Drink barley water or watermelon juice and take punarnava to flush stones.",
+        "Context": "renal cleanse"
+    },
+    {
+        "Instruction": "What Ayurvedic formula is used for kidney stone pain?",
+        "Response": "Pashanabheda, gokshura, and varunadi kwath reduce discomfort and clear stones.",
+        "Context": "urinary tract"
+    },
+    {
+        "Instruction": "Which foods reduce stone formation?",
+        "Response": "Avoid spinach, tomato, and excess salt; favor coconut water and barley.",
+        "Context": "stone diet"
+    },
+    {
+        "Instruction": "What relieves urinary burning from stones?",
+        "Response": "Coriander seed water and ghee soothe irritated urinary channels.",
+        "Context": "stone relief"
+    },
+    {
+        "Instruction": "How does Ayurveda treat male infertility?",
+        "Response": "Ashwagandha, kapikacchu, and sesame seeds boost shukra dhatu and vitality.",
+        "Context": "male fertility"
+    },
+    {
+        "Instruction": "What supports ovulation in women naturally?",
+        "Response": "Shatavari, warm oil massage, and lunar cycle alignment support fertility.",
+        "Context": "female infertility"
+    },
+    {
+        "Instruction": "What causes infertility in Ayurveda?",
+        "Response": "Weak agni, vata imbalance, or blocked channels (srotas) disrupt reproductive function.",
+        "Context": "infertility"
+    },
+    {
+        "Instruction": "What improves reproductive fluid (shukra dhatu)?",
+        "Response": "Milk, ghee, almonds, and rejuvenating herbs build healthy shukra.",
+        "Context": "shukra dhatu"
+    },
+    {
+        "Instruction": "What is used to improve libido in Ayurveda?",
+        "Response": "Ashwagandha, saffron milk, and oil massage ignite desire and energy.",
+        "Context": "low libido"
+    },
+    {
+        "Instruction": "What helps urinary incontinence in elderly?",
+        "Response": "Ashwini mudra, gokshura, and tonifying basti therapy strengthen pelvic control.",
+        "Context": "incontinence"
+    },
+    {
+        "Instruction": "What reduces nighttime urinary urgency?",
+        "Response": "Take gokshura, avoid cold drinks, and massage lower abdomen with warm sesame oil.",
+        "Context": "urinary frequency"
+    },
+    {
+        "Instruction": "How to treat burns using Ayurvedic methods?",
+        "Response": "Apply sandalwood paste, aloe vera gel, or ghee for cooling and healing.",
+        "Context": "burns"
+    },
+    {
+        "Instruction": "What relieves bursitis naturally?",
+        "Response": "Apply castor oil with turmeric externally, and reduce inflammation with rest.",
+        "Context": "bursitis"
+    },
+    {
+        "Instruction": "What is Ayurveda's treatment for seasonal depression (SAD)?",
+        "Response": "Use light exposure, grounding oils, and uplifting herbs like tulsi or brahmi.",
+        "Context": "SAD"
+    },
+    {
+        "Instruction": "What are winter-specific Ayurvedic habits?",
+        "Response": "Use sesame oil massage, warm stews, and early bedtime to balance vata.",
+        "Context": "winter ritucharya"
+    },
+    {
+        "Instruction": "How to prepare for summer using Ayurveda?",
+        "Response": "Favor light foods, rose water, and moon bathing to cool pitta.",
+        "Context": "summer routine"
+    },
+    {
+        "Instruction": "What should be avoided in rainy season per Ayurveda?",
+        "Response": "Avoid raw food, dairy, and cold drinks to prevent kapha accumulation.",
+        "Context": "monsoon ritucharya"
+    },
+    {
+        "Instruction": "What food supports balance in autumn season?",
+        "Response": "Cooked grains, ghee, and grounding soups balance rising vata.",
+        "Context": "autumn routine"
+    },
+    {
+        "Instruction": "What is tongue diagnosis in Ayurveda?",
+        "Response": "Coating, cracks, and color reveal agni status, dosha imbalance, or toxins.",
+        "Context": "tongue reading"
+    },
+    {
+        "Instruction": "What is the significance of pulse diagnosis (nadi pariksha)?",
+        "Response": "The pulse reflects dosha dominance, organ health, and emotional states.",
+        "Context": "pulse diagnosis"
+    },
+    {
+        "Instruction": "How does Ayurveda detect ama in the pulse?",
+        "Response": "Sticky, irregular pulse rhythm shows toxin buildup and weak digestion.",
+        "Context": "ama diagnosis"
+    },
+    {
+        "Instruction": "What is nasya therapy used for?",
+        "Response": "Administering herbal oil through the nose to clear mind, sinuses, and prana channels.",
+        "Context": "nasya"
+    },
+    {
+        "Instruction": "What oils are used in nasya?",
+        "Response": "Anu taila and brahmi ghee are common for mental clarity and sinus relief.",
+        "Context": "nasya oil"
+    },
+    {
+        "Instruction": "What is the purpose of rasayana therapy?",
+        "Response": "Rasayana rejuvenates body tissues, strengthens immunity, and promotes longevity.",
+        "Context": "rasayana"
+    },
+    {
+        "Instruction": "What herbs are classified as rasayana?",
+        "Response": "Ashwagandha, amalaki, shatavari, and guduchi rebuild and restore ojas.",
+        "Context": "rasayana herbs"
+    },
+    {
+        "Instruction": "What is shodhana therapy in Ayurveda?",
+        "Response": "It refers to detoxifying the body through five actions (panchakarma).",
+        "Context": "shodhana"
+    },
+    {
+        "Instruction": "What is a classical herbal remedy for high pitta?",
+        "Response": "Avipattikar churna reduces acid, cools blood, and supports liver function.",
+        "Context": "pitta remedy"
+    },
+    {
+        "Instruction": "How to prepare a bitter liver tonic at home?",
+        "Response": "Mix kutki, aloe, and neem juice; take in the morning on an empty stomach.",
+        "Context": "herbal preparation"
+    },
+    {
+        "Instruction": "What dosage is common for triphala powder?",
+        "Response": "1\u20132 teaspoons at night with warm water for bowel regulation.",
+        "Context": "triphala dosage"
+    },
+    {
+        "Instruction": "What is a home remedy for cough with phlegm?",
+        "Response": "Sitopaladi with honey or turmeric milk reduces kapha and soothes the lungs.",
+        "Context": "kapha cough"
+    },
+    {
+        "Instruction": "What helps with excessive gas and bloating?",
+        "Response": "Hingvashtak churna or fennel-cumin tea taken after meals relieves gas.",
+        "Context": "bloating"
+    },
+    {
+        "Instruction": "What is a kitchen remedy for sore throat?",
+        "Response": "Gargle with turmeric-salt water or sip warm licorice tea.",
+        "Context": "sore throat"
+    },
+    {
+        "Instruction": "What supports postpartum recovery in Ayurveda?",
+        "Response": "Use bala oil massage, nourishing foods, and shatavari-based rasayana.",
+        "Context": "postpartum care"
+    },
+    {
+        "Instruction": "What is the best oil for vata-pacifying massage?",
+        "Response": "Warm sesame oil deeply nourishes and calms vata.",
+        "Context": "abhyanga"
+    },
+    {
+        "Instruction": "How is ghee used medicinally in Ayurveda?",
+        "Response": "It carries herbs to deep tissues, improves digestion, and nourishes ojas.",
+        "Context": "medicated ghee"
+    },
+    {
+        "Instruction": "What's the Ayurvedic protocol for fever?",
+        "Response": "Light fast, coriander tea, tulsi decoction, and rest until sweat breaks.",
+        "Context": "fever"
+    },
+    {
+        "Instruction": "What helps pitta-related acne in teenagers?",
+        "Response": "Neem paste, manjistha, and pitta-pacifying diet clear the skin.",
+        "Context": "teen acne"
+    },
+    {
+        "Instruction": "What's the Ayurvedic view on unresolved emotions?",
+        "Response": "Suppressed emotions create energetic blockages and increase mental ama.",
+        "Context": "emotional toxins"
+    },
+    {
+        "Instruction": "What is srotas in Ayurveda?",
+        "Response": "Srotas are bodily channels that transport nutrients, energy, and waste.",
+        "Context": "body channels"
+    },
+    {
+        "Instruction": "What's the Ayurvedic solution for bad breath?",
+        "Response": "Scrape tongue daily, sip warm water, and use clove or cardamom.",
+        "Context": "halitosis"
+    },
+    {
+        "Instruction": "What is the effect of incompatible foods (viruddha ahara)?",
+        "Response": "They create ama, weaken digestion, and may lead to chronic disorders.",
+        "Context": "food incompatibility"
+    },
+    {
+        "Instruction": "What is the Ayurvedic concept of immunity?",
+        "Response": "It is called Vyadhikshamatva, the body's natural ability to resist disease and support health.",
+        "Context": "immunity"
+    },
+    {
+        "Instruction": "What is, Vyadhi-Bala-Virodhitvam?",
+        "Response": "It refers to resisting the severity or progression of disease.",
+        "Context": "immunity concept"
+    },
+    {
+        "Instruction": "What is Vyadhi-Utpada-Pratibandhakatvam?",
+        "Response": "It is the body's ability to prevent disease from occurring.",
+        "Context": "immunity prevention"
+    },
+    {
+        "Instruction": "Which Rasayana herbs improve immunity?",
+        "Response": "Guduchi, Amalaki, Ashwagandha, Shatavari and Haridra are key immune boosters.",
+        "Context": "rasayana"
+    },
+    {
+        "Instruction": "What role does Guduchi play in COVID-19 care?",
+        "Response": "Guduchi acts as an anti-inflammatory, antipyretic, and immuno-modulator.",
+        "Context": "guduchi"
+    },
+    {
+        "Instruction": "Is AYUSH Kwath safe for daily use?",
+        "Response": "Yes, it's made from safe kitchen herbs like tulsi, cinnamon, clove and ginger.",
+        "Context": "ayush kwath"
+    },
+    {
+        "Instruction": "What is the purpose of Pratimarsha Nasya?",
+        "Response": "To prevent viral entry by strengthening nasal mucosa and acting as a bio-barrier.",
+        "Context": "nasya"
+    },
+    {
+        "Instruction": "What is the dose for Anu Taila Nasya?",
+        "Response": "2-3 drops in each nostril once or twice daily.",
+        "Context": "anu taila"
+    },
+    {
+        "Instruction": "What is advised for sore throat in Ayurveda?",
+        "Response": "Gargling with turmeric and salt water or Yashtimadhu decoction.",
+        "Context": "throat care"
+    },
+    {
+        "Instruction": "What does steam inhalation help with?",
+        "Response": "It relieves congestion, prevents viral entry, and supports respiratory health.",
+        "Context": "steam"
+    },
+    {
+        "Instruction": "What is 'Golden Milk' in Ayurveda?",
+        "Response": "Milk with turmeric, used for immunity, respiratory health, and diabetes.",
+        "Context": "turmeric milk"
+    },
+    {
+        "Instruction": "What is the recommended dose for Samshamani Vati?",
+        "Response": "Two tablets twice daily with lukewarm water.",
+        "Context": "samshamani vati"
+    },
+    {
+        "Instruction": "What does Chyawanprash help with during COVID?",
+        "Response": "It boosts immunity, strengthens respiratory and digestive systems.",
+        "Context": "chyawanprash"
+    },
+    {
+        "Instruction": "What is Janapadodhwamsa?",
+        "Response": "Ayurvedic term for epidemics caused by vitiated air, water, season, and land.",
+        "Context": "epidemic"
+    },
+    {
+        "Instruction": "What is the ideal COVID diet in Ayurveda?",
+        "Response": "Light, warm, digestible food with immune-boosting spices like ginger and pepper.",
+        "Context": "covid diet"
+    },
+    {
+        "Instruction": "What is the role of lifestyle in COVID prevention?",
+        "Response": "Waking early, warm water, yoga, and dinacharya strengthen immunity.",
+        "Context": "lifestyle"
+    },
+    {
+        "Instruction": "What is the role of Yoga in COVID management?",
+        "Response": "Yoga reduces stress, enhances lung function, and boosts immunity.",
+        "Context": "yoga"
+    },
+    {
+        "Instruction": "What is recommended post-COVID?",
+        "Response": "Use of Rasayana herbs, Chyawanprash, and lifestyle discipline aid recovery.",
+        "Context": "post covid"
+    },
+    {
+        "Instruction": "What is the protocol for mild COVID in Ayurveda?",
+        "Response": "Use AYUSH Kwath, Samshamani Vati, Nasya, and Rasayana as per guidelines.",
+        "Context": "mild covid"
+    },
+    {
+        "Instruction": "How is Ayurveda integrated in national COVID care?",
+        "Response": "Through the National Clinical Protocol based on Ayurveda & Yoga.",
+        "Context": "national protocol"
+    },
+    {
+        "Instruction": "What are the general preventive tips for COVID?",
+        "Response": "Physical distancing, mask, nasya, steam inhalation, and warm water.",
+        "Context": "covid prevention"
+    },
+    {
+        "Instruction": "How to improve appetite during COVID?",
+        "Response": "Chew ginger with salt 15 - 20 min before meals to stimulate digestion.",
+        "Context": "appetite"
+    },
+    {
+        "Instruction": "What is a simple Ayurvedic meal during COVID?",
+        "Response": "Mung dal soup, rice khichdi, or steamed vegetables with spices.",
+        "Context": "simple food"
+    },
+    {
+        "Instruction": "How does Ashwagandha help in COVID?",
+        "Response": "It reduces anxiety, improves lung health, and boosts immunity.",
+        "Context": "ashwagandha"
+    },
+    {
+        "Instruction": "What is Rasayana therapy?",
+        "Response": "It's rejuvenation therapy for enhancing strength, immunity, and longevity.",
+        "Context": "rasayana therapy"
+    },
+    {
+        "Instruction": "What does Ayurveda advise for mental stress?",
+        "Response": "Use Brahmi, practice meditation, and follow a regular daily routine.",
+        "Context": "stress"
+    },
+    {
+        "Instruction": "Is AYUSH-64 effective in COVID?",
+        "Response": "Yes, it helps control symptoms and supports recovery in mild cases.",
+        "Context": "ayush-64"
+    },
+    {
+        "Instruction": "What is the significance of warm water?",
+        "Response": "It digests ama, prevents spasms, and supports throat protection.",
+        "Context": "warm water"
+    },
+    {
+        "Instruction": "What are signs of weak immunity in Ayurveda?",
+        "Response": "Frequent colds, fatigue, indigestion, and poor tissue strength.",
+        "Context": "weak immunity"
+    },
+    {
+        "Instruction": "Can Chyawanprash be taken daily?",
+        "Response": "Yes, 1 tsp daily in the morning is recommended with lukewarm water or milk.",
+        "Context": "daily chyawanprash"
+    },
+    {
+        "Instruction": "How does Ayurveda view pandemics?",
+        "Response": "As Janapadodhwamsa caused by imbalance in air, water, season and habitat.",
+        "Context": "pandemic view"
+    },
+    {
+        "Instruction": "What is the ideal daily routine (Dinacharya) during COVID?",
+        "Response": "Wake early, nasya, oil massage, yoga, and eat fresh warm meals.",
+        "Context": "covid dinacharya"
+    },
+    {
+        "Instruction": "What oil is best for daily abhyanga?",
+        "Response": "Sesame oil is ideal for regular oil massage to strengthen immunity.",
+        "Context": "abhyanga oil"
+    },
+    {
+        "Instruction": "What helps prevent loss of smell in COVID?",
+        "Response": "Nasya with Anu Taila strengthens olfactory nerves and nasal health.",
+        "Context": "anosmia"
+    },
+    {
+        "Instruction": "What's the benefit of cow's ghee nasya?",
+        "Response": "It nourishes the brain and protects nasal mucosa from infections.",
+        "Context": "ghee nasya"
+    },
+    {
+        "Instruction": "What supports lung health post-COVID?",
+        "Response": "Use of herbs like Vasa, Guduchi, and Pranayama for bronchial strength.",
+        "Context": "lungs"
+    },
+    {
+        "Instruction": "What is AYUSH protocol for post-COVID?",
+        "Response": "Giloy, Ashwagandha, Amla, turmeric milk, and chyawanprash.",
+        "Context": "post covid protocol"
+    },
+    {
+        "Instruction": "What is meant by 'My Health My Responsibility'?",
+        "Response": "Health is self-driven; prevention through Ayurveda is a personal duty.",
+        "Context": "health responsibility"
+    },
+    {
+        "Instruction": "How is Ayurveda cost-effective?",
+        "Response": "It uses kitchen herbs, home remedies, and promotes preventive wellness.",
+        "Context": "affordability"
+    },
+    {
+        "Instruction": "What is the spiritual message of Ayurveda?",
+        "Response": "Swastha means being rooted in self; health includes mental and spiritual wellness.",
+        "Context": "swastha"
+    },
+    {
+        "Instruction": "What is meant by 'Care with Compassion'?",
+        "Response": "Medical care in Ayurveda includes empathy, human touch, and patient empowerment.",
+        "Context": "ayurveda care"
+    },
+    {
+        "Instruction": "Why is kitchen considered first pharmacy?",
+        "Response": "Spices like ginger, turmeric, and cumin offer primary disease prevention.",
+        "Context": "kitchen healing"
+    },
+    {
+        "Instruction": "What is AYUSH-CSIR research about?",
+        "Response": "Joint studies validating Ayurvedic formulations for COVID management.",
+        "Context": "covid research"
+    },
+    {
+        "Instruction": "What are the safety findings on AYUSH meds?",
+        "Response": "No serious adverse effects; safe when used under supervision.",
+        "Context": "safety"
+    },
+    {
+        "Instruction": "What makes Ayurveda holistic?",
+        "Response": "It treats body, mind, and spirit as one, integrating diet, lifestyle and emotion.",
+        "Context": "holistic"
+    },
+    {
+        "Instruction": "What is Loka-Purusha Samya?",
+        "Response": "The belief that the universe and individual are reflections of each other.",
+        "Context": "microcosm"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on diet quantity?",
+        "Response": "Half solids, quarter liquids, and leave a quarter space for digestion.",
+        "Context": "portion control"
+    },
+    {
+        "Instruction": "What does Ayurveda say about meal timing?",
+        "Response": "Food should be eaten during sunlight hours for optimal digestion.",
+        "Context": "meal time"
+    },
+    {
+        "Instruction": "What is the significance of Agni in immunity?",
+        "Response": "Strong digestive fire (Agni) maintains metabolism and supports ojas formation.",
+        "Context": "agni"
+    },
+    {
+        "Instruction": "What weakens Agni according to Ayurveda?",
+        "Response": "Irregular eating, cold foods, excessive stress, and overeating weaken Agni.",
+        "Context": "weak agni"
+    },
+    {
+        "Instruction": "What is Ama in Ayurveda?",
+        "Response": "Ama is the toxic residue of undigested food that weakens immunity and causes disease.",
+        "Context": "ama"
+    },
+    {
+        "Instruction": "What are signs of Ama accumulation?",
+        "Response": "Coated tongue, heaviness, foul breath, and sluggish digestion.",
+        "Context": "ama signs"
+    },
+    {
+        "Instruction": "How does Ayurveda detoxify the body?",
+        "Response": "Through simple fasting, warm water, herbal teas, and panchakarma.",
+        "Context": "detox"
+    },
+    {
+        "Instruction": "What is the use of Panchakarma in post-COVID care?",
+        "Response": "It helps restore strength, eliminate residual toxins, and rebuild immunity.",
+        "Context": "panchakarma"
+    },
+    {
+        "Instruction": "What is Swastha Vritta?",
+        "Response": "Guidelines to maintain health through daily and seasonal routines.",
+        "Context": "swastha vritta"
+    },
+    {
+        "Instruction": "What is Sadvritta?",
+        "Response": "Ethical and moral lifestyle guidelines that support mental and emotional health.",
+        "Context": "sadvritta"
+    },
+    {
+        "Instruction": "What are the six tastes (Shadrasa) in Ayurveda?",
+        "Response": "Sweet, sour, salty, pungent, bitter, and astringent - all affect doshas differently.",
+        "Context": "six tastes"
+    },
+    {
+        "Instruction": "Which taste improves immunity?",
+        "Response": "Sweet and bitter tastes help build ojas and detox the body.",
+        "Context": "immunity taste"
+    },
+    {
+        "Instruction": "What food habits are discouraged during COVID?",
+        "Response": "Cold drinks, processed food, incompatible food combinations, and overeating.",
+        "Context": "diet caution"
+    },
+    {
+        "Instruction": "What are the benefits of Tulsi?",
+        "Response": "It is antimicrobial, expectorant, and promotes respiratory and immune health.",
+        "Context": "tulsi"
+    },
+    {
+        "Instruction": "Why is ginger emphasized in Ayurveda?",
+        "Response": "Ginger improves digestion, clears ama, and boosts circulation.",
+        "Context": "ginger"
+    },
+    {
+        "Instruction": "What can help reduce COVID-related anxiety?",
+        "Response": "Pranayama, ashwagandha, and sattvic diet help calm the nervous system.",
+        "Context": "covid anxiety"
+    },
+    {
+        "Instruction": "What is the role of meditation in healing?",
+        "Response": "It calms vata, reduces cortisol, and supports immunity.",
+        "Context": "meditation"
+    },
+    {
+        "Instruction": "What helps regulate sleep in COVID care?",
+        "Response": "Nutmeg milk, brahmi, and early bedtimes restore natural rhythms.",
+        "Context": "sleep"
+    },
+    {
+        "Instruction": "What is the Ayurvedic view on food compatibility?",
+        "Response": "Some food combinations like milk + salty or fruit + yogurt create toxins (ama).",
+        "Context": "food compatibility"
+    },
+    {
+        "Instruction": "What is the benefit of Turmeric?",
+        "Response": "It is anti-inflammatory, antioxidant, and purifies blood and lungs.",
+        "Context": "turmeric"
+    },
+    {
+        "Instruction": "What are simple yoga poses for COVID recovery?",
+        "Response": "Bhujangasana, Anulom Vilom, Setu Bandhasana support lungs and circulation.",
+        "Context": "covid yoga"
+    },
+    {
+        "Instruction": "What is the significance of Pranayama during illness?",
+        "Response": "It improves lung function, oxygenation, and calms the mind.",
+        "Context": "pranayama"
+    },
+    {
+        "Instruction": "What are the three pillars of health in Ayurveda?",
+        "Response": "Ahara (diet), Nidra (sleep), and Brahmacharya (discipline).",
+        "Context": "health pillars"
+    },
+    {
+        "Instruction": "What time should meals be taken ideally?",
+        "Response": "Lunch at noon is ideal when digestive fire is strongest.",
+        "Context": "meal timing"
+    },
+    {
+        "Instruction": "What is Laghu Ahara?",
+        "Response": "Light, digestible food that maintains agni and prevents ama formation.",
+        "Context": "laghu ahara"
+    },
+    {
+        "Instruction": "What can help with brain fog post-COVID?",
+        "Response": "Brahmi, warm ghee, pranayama, and daily routine rebuild clarity.",
+        "Context": "brain fog"
+    },
+    {
+        "Instruction": "What helps long COVID recovery in Ayurveda?",
+        "Response": "Use rasayana herbs, pranayama, warm food, and regular sleep.",
+        "Context": "long covid"
+    },
+    {
+        "Instruction": "What is an Ayurvedic immunity checklist?",
+        "Response": "Include rasayana herbs, yoga, sattvic food, daily routine, and avoid ama-forming habits.",
+        "Context": "immunity checklist"
+    },
+    {
+        "Instruction": "What food strengthens ojas?",
+        "Response": "Ghee, dates, soaked almonds, milk with turmeric or saffron.",
+        "Context": "ojas food"
+    },
+    {
+        "Instruction": "What weakens ojas?",
+        "Response": "Stress, cold food, overwork, irregular lifestyle, and emotional suppression.",
+        "Context": "ojas depletion"
+    },
+    {
+        "Instruction": "What is the Ayurvedic term for strength or vitality?",
+        "Response": "Bala \u2014 it includes physical strength, mental stamina, and immunity.",
+        "Context": "bala"
+    },
+    {
+        "Instruction": "What is a Rasayana for children?",
+        "Response": "Chyawanprash is safe and effective for improving immunity in kids.",
+        "Context": "child rasayana"
+    },
+    {
+        "Instruction": "Can Ayurveda be used with Allopathy?",
+        "Response": "Yes, when guided by practitioners, Ayurveda complements modern care.",
+        "Context": "integrative care"
+    },
+    {
+        "Instruction": "What precautions are needed with Ayurvedic meds?",
+        "Response": "Always follow dosage, timing, and consult a certified practitioner.",
+        "Context": "ayurvedic safety"
+    },
+    {
+        "Instruction": "What is the impact of stress on immunity?",
+        "Response": "Stress weakens ojas, disrupts digestion, and increases vata.",
+        "Context": "stress and immunity"
+    },
+    {
+        "Instruction": "What is the message of Ayurveda in pandemics?",
+        "Response": "Prevention is better than cure. Daily discipline ensures resilience.",
+        "Context": "prevention"
+    },
+    {
+        "Instruction": "How is Ayurveda people-centric?",
+        "Response": "It empowers individuals to take charge of their well-being holistically.",
+        "Context": "empowerment"
+    },
+    {
+        "Instruction": "What kitchen remedy helps throat irritation?",
+        "Response": "Gargle with turmeric-salt water or drink warm water with ginger and honey.",
+        "Context": "throat remedy"
+    },
+    {
+        "Instruction": "How is Amalaki used during COVID?",
+        "Response": "As a rasayana, it builds ojas, cools pitta, and strengthens lungs.",
+        "Context": "amalaki"
+    },
+    {
+        "Instruction": "What is the preferred drink during COVID?",
+        "Response": "Warm water, decoctions like AYUSH Kwath, and herbal teas like tulsi-ginger.",
+        "Context": "covid drinks"
+    },
+    {
+        "Instruction": "What supports mental clarity during isolation?",
+        "Response": "Daily yoga, fixed routines, sattvic diet, and brahmi or tulsi tea.",
+        "Context": "isolation care"
+    },
+    {
+        "Instruction": "Which yoga helps with breathing post-COVID?",
+        "Response": "Anulom Vilom, Bhramari, and deep belly breathing strengthen lungs.",
+        "Context": "breath recovery"
+    },
+    {
+        "Instruction": "What's the ideal COVID recovery breakfast?",
+        "Response": "Khichdi, warm milk with turmeric, or mung dal soup with spices.",
+        "Context": "covid diet"
+    },
+    {
+        "Instruction": "What improves taste loss in COVID?",
+        "Response": "Ginger, clove chewing, nasya therapy, and patience aid recovery.",
+        "Context": "taste loss"
+    },
+    {
+        "Instruction": "What prevents breathlessness in Ayurveda?",
+        "Response": "Use warm foods, avoid dairy, and practice slow deep breathing with vasa.",
+        "Context": "breathlessness"
+    },
+    {
+        "Instruction": "What's a good post-COVID exercise routine?",
+        "Response": "Start with gentle yoga, stretching, and gradually increase walking.",
+        "Context": "covid rehab"
+    },
+    {
+        "Instruction": "What is the importance of oil pulling during COVID?",
+        "Response": "Oil pulling (Gandusha) helps cleanse oral cavity and supports immune barrier.",
+        "Context": "oil pulling"
+    },
+    {
+        "Instruction": "What oil is used for Gandusha?",
+        "Response": "Sesame or coconut oil is traditionally used for oral immunity support.",
+        "Context": "gandusha oil"
+    },
+    {
+        "Instruction": "What is the Ayurvedic guidance on daily exercise?",
+        "Response": "Mild to moderate daily yoga or walking improves agni and immunity.",
+        "Context": "exercise"
+    },
+    {
+        "Instruction": "What is the role of Brahmi during recovery?",
+        "Response": "Brahmi calms the mind, improves sleep, and enhances cognitive recovery.",
+        "Context": "brahmi"
+    },
+    {
+        "Instruction": "What helps regulate digestion in fever recovery?",
+        "Response": "Warm fluids, cumin tea, and light meals like rice porridge support agni.",
+        "Context": "fever digestion"
+    },
+    {
+        "Instruction": "What is the recommended way to take Trikatu?",
+        "Response": "Trikatu is taken with honey or ghee to improve digestion and clear kapha.",
+        "Context": "trikatu"
+    },
+    {
+        "Instruction": "What improves clarity of speech post-illness?",
+        "Response": "Licorice (Yashtimadhu), ghee, and gargles soothe throat and vocal cords.",
+        "Context": "voice"
+    },
+    {
+        "Instruction": "What is Bhastrika pranayama useful for?",
+        "Response": "It strengthens lungs, boosts circulation, and helps in respiratory recovery.",
+        "Context": "bhastrika"
+    },
+    {
+        "Instruction": "What improves immunity in children naturally?",
+        "Response": "Tulsi, golden milk, oil massage, and chyawanprash build strength.",
+        "Context": "child immunity"
+    },
+    {
+        "Instruction": "What is the role of copper in Ayurveda?",
+        "Response": "Drinking water from a copper vessel balances doshas and improves digestion.",
+        "Context": "copper water"
+    },
+    {
+        "Instruction": "What is the use of Haridra (Turmeric) in infection?",
+        "Response": "It is anti-inflammatory, supports respiratory health, and purifies blood.",
+        "Context": "haridra"
+    },
+    {
+        "Instruction": "What improves mental resilience according to Ayurveda?",
+        "Response": "Daily routine, sattvic diet, herbal support, and mindfulness practices.",
+        "Context": "mental strength"
+    },
+    {
+        "Instruction": "What yoga supports digestive fire?",
+        "Response": "Pawanmuktasana, Vajrasana, and Surya Namaskar kindle agni.",
+        "Context": "digestion yoga"
+    },
+    {
+        "Instruction": "What lifestyle is discouraged during pandemics?",
+        "Response": "Late nights, heavy food, irregular meals, and lack of movement.",
+        "Context": "pandemic habits"
+    },
+    {
+        "Instruction": "What is the difference between Rasayana and Shamana?",
+        "Response": "Rasayana rejuvenates long-term; Shamana manages current symptoms.",
+        "Context": "ayurvedic actions"
+    },
+    {
+        "Instruction": "What helps ease anxiety during isolation?",
+        "Response": "Ashwagandha, brahmi tea, journaling, and breathing practices.",
+        "Context": "isolation anxiety"
+    },
+    {
+        "Instruction": "What is recommended sleep routine post-COVID?",
+        "Response": "Sleep before 10 pm, avoid screens at night, and wake before sunrise.",
+        "Context": "post-covid sleep"
+    },
+    {
+        "Instruction": "What strengthens Prana Vata in COVID care?",
+        "Response": "Breath practices, balanced meals, and nasya with medicated oils support prana.",
+        "Context": "prana vata"
+    },
+    {
+        "Instruction": "What is a typical immunity-boosting decoction?",
+        "Response": "Boil tulsi, cinnamon, black pepper, dry ginger, and raisin in water.",
+        "Context": "immunity decoction"
+    },
+    {
+        "Instruction": "What role does cumin play in digestion?",
+        "Response": "Cumin stimulates agni, relieves gas, and supports absorption.",
+        "Context": "cumin"
+    },
+    {
+        "Instruction": "What is Garshana in Ayurveda?",
+        "Response": "Dry brushing done before bath to improve circulation and lymph flow.",
+        "Context": "garshana"
+    },
+    {
+        "Instruction": "What is the effect of pranayama on emotions?",
+        "Response": "It calms the nervous system, reducing fear, worry, and irritability.",
+        "Context": "pranayama emotion"
+    },
+    {
+        "Instruction": "What can support ojas in post-viral fatigue?",
+        "Response": "Almond milk, saffron, dates, and daily abhyanga restore vitality.",
+        "Context": "ojas recovery"
+    },
+    {
+        "Instruction": "What is the role of Ayurveda in national health?",
+        "Response": "It supports preventive care, public wellness, and sustainable health systems.",
+        "Context": "public health"
+    },
+    {
+        "Instruction": "What herbal ghee supports brain recovery?",
+        "Response": "Brahmi ghee improves cognition and reduces brain fog.",
+        "Context": "brain ghee"
+    },
+    {
+        "Instruction": "What helps people with fear of reinfection?",
+        "Response": "Strengthen immunity, maintain routine, and practice mindfulness and rasayana.",
+        "Context": "fear"
+    },
+    {
+        "Instruction": "What is the best oil for vata pacification?",
+        "Response": "Sesame oil deeply nourishes and grounds vata during illness.",
+        "Context": "vata oil"
+    },
+    {
+        "Instruction": "What improves sense of taste and smell loss?",
+        "Response": "Nasya therapy, ginger chewing, and time help recover sensory function.",
+        "Context": "anosmia"
+    },
+    {
+        "Instruction": "What boosts emotional immunity?",
+        "Response": "Sattvic lifestyle, ethical conduct (sadvritta), and meditation strengthen inner defense.",
+        "Context": "emotional immunity"
+    },
+    {
+        "Instruction": "What is advised for hydration in COVID?",
+        "Response": "Sip warm water with herbs like tulsi, ginger, and fennel throughout the day.",
+        "Context": "hydration"
+    },
+    {
+        "Instruction": "What helps reduce chest tightness naturally?",
+        "Response": "Steam inhalation, vasa decoction, and gentle yoga help release congestion.",
+        "Context": "chest relief"
+    },
+    {
+        "Instruction": "What is the importance of deep sleep for recovery?",
+        "Response": "Sleep builds ojas, heals tissues, and resets immunity post-illness.",
+        "Context": "deep sleep"
+    },
+    {
+        "Instruction": "What are the benefits of Amla during infection?",
+        "Response": "Amla provides vitamin C, cools the body, and rebuilds strength.",
+        "Context": "amla"
+    },
+    {
+        "Instruction": "What improves clarity and decision-making during stress?",
+        "Response": "Brahmi, journaling, regular routine, and quiet reflection.",
+        "Context": "mental clarity"
+    },
+    {
+        "Instruction": "What mantra is suggested for healing?",
+        "Response": "Chanting 'Om' or Mahamrityunjaya Mantra promotes mental peace and energy.",
+        "Context": "mantra"
+    },
+    {
+        "Instruction": "What promotes healing in the elderly after illness?",
+        "Response": "Light meals, rasayana herbs, oil massage, and regular companionship.",
+        "Context": "elderly care"
+    },
+    {
+        "Instruction": "What boosts long-term respiratory resilience?",
+        "Response": "Pranayama, vasa, tulsi, sitopaladi, and avoiding kapha-aggravating foods.",
+        "Context": "respiratory care"
+    },
+    {
+        "Instruction": "What is Swarnaprashana?",
+        "Response": "An immunity-boosting Ayurvedic formulation made from gold, ghee, and honey.",
+        "Context": "swarna prashana"
+    },
+    {
+        "Instruction": "What are the signs of healthy ojas?",
+        "Response": "Radiance, enthusiasm, clear mind, strong immunity, and deep sleep.",
+        "Context": "ojas signs"
+    },
+    {
+        "Instruction": "What is the importance of sun exposure?",
+        "Response": "Sunlight boosts vitamin D, improves mood, and supports immune balance.",
+        "Context": "sunlight"
+    },
+    {
+        "Instruction": "What are satmya habits in Ayurveda?",
+        "Response": "Habits suitable to one's constitution, region, and lifestyle that build health.",
+        "Context": "satmya"
+    },
+    {
+        "Instruction": "What supports calmness during rapid news cycles?",
+        "Response": "Media fasting, pranayama, rose tea, and grounding foods help stabilize emotions.",
+        "Context": "media detox"
+    },
+    {
+        "Instruction": "What ritual promotes mental immunity before sleep?",
+        "Response": "Foot massage with oil, nutmeg milk, and gratitude journaling aid calmness.",
+        "Context": "bedtime immunity"
+    },
+    {
+        "Instruction": "What daily habit enhances lung strength?",
+        "Response": "Practicing Bhramari and Kapalabhati pranayama daily builds respiratory capacity.",
+        "Context": "lung health"
+    },
+    {
+        "Instruction": "What foods are avoided in sore throat?",
+        "Response": "Cold, fried, fermented foods, and dairy should be minimized.",
+        "Context": "sore throat food"
+    },
+    {
+        "Instruction": "What boosts recovery in individuals with fatigue after illness?",
+        "Response": "Use nourishing rasayana herbs like Ashwagandha, Amalaki, and warm ghee-based food.",
+        "Context": "post-illness fatigue"
+    },
+    {
+        "Instruction": "What is the Ayurvedic recommendation for daily hydration?",
+        "Response": "Sip warm water regularly through the day, especially between meals.",
+        "Context": "daily hydration"
+    },
+    {
+        "Instruction": "What reduces morning sluggishness post-COVID?",
+        "Response": "Start the day with warm water, tongue scraping, light yoga, and warm breakfast.",
+        "Context": "morning energy"
+    },
+    {
+        "Instruction": "What is the purpose of AYUSH 64?",
+        "Response": "It is a polyherbal formulation used in managing mild to moderate COVID symptoms.",
+        "Context": "ayush-64"
+    },
+    {
+        "Instruction": "Which dosha imbalance is common in respiratory infections?",
+        "Response": "Kapha and vata imbalance can lead to congestion, cough, and fatigue.",
+        "Context": "respiratory doshas"
+    },
+    {
+        "Instruction": "What helps stabilize emotions during pandemic anxiety?",
+        "Response": "Practice meditation, use Brahmi or Ashwagandha, and follow a sattvic routine.",
+        "Context": "pandemic emotion"
+    },
+    {
+        "Instruction": "What is the ideal way to drink herbal decoctions?",
+        "Response": "Take warm, freshly prepared decoctions on an empty stomach or as advised.",
+        "Context": "herbal intake"
+    },
+    {
+        "Instruction": "What is advised for cough with throat irritation?",
+        "Response": "Warm licorice tea or honey with turmeric can soothe the throat.",
+        "Context": "covid cough"
+    },
+    {
+        "Instruction": "How does Ayurveda view breathlessness?",
+        "Response": "It\u2019s seen as an imbalance in prana vata or kapha blocking respiratory pathways.",
+        "Context": "breath imbalance"
+    },
+    {
+        "Instruction": "What promotes healthy gut flora in Ayurveda?",
+        "Response": "Buttermilk, cumin, and fermented rice water support digestion and gut health.",
+        "Context": "gut health"
+    },
+    {
+        "Instruction": "What helps manage restlessness at night?",
+        "Response": "Apply warm oil to feet, drink nutmeg milk, and avoid late screen time.",
+        "Context": "night restlessness"
+    },
+    {
+        "Instruction": "Which Ayurvedic herb supports bronchial wellness?",
+        "Response": "Vasa is traditionally used for strengthening lungs and clearing congestion.",
+        "Context": "vasa"
+    },
+    {
+        "Instruction": "What reduces fogginess during viral recovery?",
+        "Response": "Use Brahmi, avoid heavy meals, and maintain good hydration and rest.",
+        "Context": "mental fog"
+    },
+    {
+        "Instruction": "What is the benefit of Sitopaladi Churna?",
+        "Response": "It is used to relieve cough, support lung function, and balance kapha.",
+        "Context": "sitopaladi"
+    },
+    {
+        "Instruction": "What is advised in Ayurveda to reduce viral susceptibility?",
+        "Response": "Build ojas with daily routine, proper digestion, and immunity herbs like Guduchi.",
+        "Context": "prevention"
+    },
+    {
+        "Instruction": "What simple meal is good for recovery phase?",
+        "Response": "Khichdi with ghee and cumin supports digestion and energy renewal.",
+        "Context": "recovery food"
+    },
+    {
+        "Instruction": "What role does spiritual wellness play in healing?",
+        "Response": "It calms the mind, strengthens ojas, and promotes overall resilience.",
+        "Context": "spiritual wellness"
+    },
+    {
+        "Instruction": "What supports healthy sleep in teenagers during illness?",
+        "Response": "Warm ghee massage, screen-free time, and early sleep routine help.",
+        "Context": "teen sleep"
+    },
+    {
+        "Instruction": "What is Ayurveda's recommendation for post-fever care?",
+        "Response": "Rasayana, light food, hydration, and rebuilding digestion are key.",
+        "Context": "fever recovery"
+    },
+    {
+        "Instruction": "What is the Ayurvedic term for seasonal disease spread?",
+        "Response": "Janapadodhwamsa refers to mass disease due to environmental imbalance.",
+        "Context": "epidemic"
+    },
+    {
+        "Instruction": "What type of exercise is best after viral infection?",
+        "Response": "Mild yoga, breathing exercises, and walking build strength gradually.",
+        "Context": "post-virus exercise"
+    },
+    {
+        "Instruction": "What is the effect of stress on digestion?",
+        "Response": "Stress disturbs vata, weakens agni, and leads to indigestion and ama formation.",
+        "Context": "stress digestion"
+    },
+    {
+        "Instruction": "What boosts digestion after long illness?",
+        "Response": "Use trikatu, ginger tea, and eat warm, spiced meals at regular times.",
+        "Context": "digestive recovery"
+    },
+    {
+        "Instruction": "What causes weakness of ojas?",
+        "Response": "Excess grief, poor food, irregular lifestyle, and overexertion deplete ojas.",
+        "Context": "ojas weakness"
+    },
+    {
+        "Instruction": "What increases alertness without caffeine?",
+        "Response": "Brahmi, warm water, early rising, and focused breathing.",
+        "Context": "alertness"
+    },
+    {
+        "Instruction": "What reduces emotional exhaustion?",
+        "Response": "Ashwagandha, sattvic meals, consistent sleep, and creative rest.",
+        "Context": "emotional fatigue"
+    },
+    {
+        "Instruction": "What helps children with post-viral lethargy?",
+        "Response": "Light meals, massage with warm oil, and play-based yoga restore energy.",
+        "Context": "child fatigue"
+    },
+    {
+        "Instruction": "What helps joint aches post-fever?",
+        "Response": "Massage with warm castor or sesame oil and drink ginger-turmeric tea.",
+        "Context": "joint pain"
+    },
+    {
+        "Instruction": "What enhances immunity in elders?",
+        "Response": "Chyawanprash, Ashwagandha, Abhyanga, and good sleep maintain ojas.",
+        "Context": "elderly immunity"
+    },
+    {
+        "Instruction": "What is advised for anxiety-related chest tightness?",
+        "Response": "Breath practices, rose tea, and grounding foot massage help release tension.",
+        "Context": "anxiety chest"
+    },
+    {
+        "Instruction": "What herbal drink helps clear sinus?",
+        "Response": "Boil tulsi, ginger, black pepper, and inhale steam for relief.",
+        "Context": "sinus relief"
+    },
+    {
+        "Instruction": "What prevents dryness of nasal mucosa?",
+        "Response": "Anu taila or ghee nasya hydrates and protects nasal tissues.",
+        "Context": "dry nose"
+    },
+    {
+        "Instruction": "What is the impact of overuse of screens?",
+        "Response": "It aggravates vata, weakens ojas, and disrupts mental stability.",
+        "Context": "screen vata"
+    },
+    {
+        "Instruction": "What helps post-COVID muscle weakness?",
+        "Response": "Massage with medicated oil, proper protein intake, and gradual exercise.",
+        "Context": "muscle fatigue"
+    },
+    {
+        "Instruction": "What is the Ayurvedic perspective on chronic fatigue?",
+        "Response": "It's a sign of depleted ojas and agni, needing rasayana and lifestyle reset.",
+        "Context": "chronic fatigue"
+    },
+    {
+        "Instruction": "What reduces pitta-related eye burning?",
+        "Response": "Triphala eyewash, rose water drops, and cooling foods ease discomfort.",
+        "Context": "eye care"
+    },
+    {
+        "Instruction": "What helps calm oversensitivity to noise?",
+        "Response": "Nasya with brahmi, silence periods, and grounding diet help reduce sensory overload.",
+        "Context": "noise sensitivity"
+    },
+    {
+        "Instruction": "What is advised for those with fear of falling ill again?",
+        "Response": "Strengthen inner resilience with daily rituals, prayer, and mindfulness.",
+        "Context": "reinfection fear"
+    },
+    {
+        "Instruction": "What food should be avoided during recovery?",
+        "Response": "Cold, fried, sour, and processed food delay digestive recovery.",
+        "Context": "food caution"
+    },
+    {
+        "Instruction": "What herbal mix helps kapha-induced cough?",
+        "Response": "Trikatu, tulsi, sitopaladi, and honey reduce kapha and soothe lungs.",
+        "Context": "kapha cough"
+    },
+    {
+        "Instruction": "What reduces worry about health in youth?",
+        "Response": "Routine, ashwagandha tea, digital break, and outdoor movement bring balance.",
+        "Context": "youth worry"
+    },
+    {
+        "Instruction": "What improves mental stability during isolation?",
+        "Response": "Sattvic food, digital fasting, brahmi, and light journaling create clarity.",
+        "Context": "mental isolation"
+    },
+    {
+        "Instruction": "What improves daily stamina post-illness?",
+        "Response": "Use chyawanprash, oil massage, and avoid energy-zapping habits like skipping meals.",
+        "Context": "stamina"
+    },
+    {
+        "Instruction": "What is the Ayurvedic remedy for loss of appetite?",
+        "Response": "Ginger-salt paste before meals and small frequent warm meals restore hunger.",
+        "Context": "appetite"
+    },
+    {
+        "Instruction": "What helps prevent COVID reinfection according to Ayurveda?",
+        "Response": "Consistent lifestyle, immunity support, nasya, and rasayana use.",
+        "Context": "reinfection"
+    },
+    {
+        "Instruction": "What supports lung recovery after respiratory infection?",
+        "Response": "Daily pranayama, vasa decoction, tulsi, and abhyanga aid lung healing.",
+        "Context": "lung recovery"
+    },
+    {
+        "Instruction": "What is a good herbal remedy for body ache?",
+        "Response": "Warm ginger or castor oil massage and turmeric milk reduce pain and inflammation.",
+        "Context": "body ache"
+    },
+    {
+        "Instruction": "What is a good way to improve digestion during illness?",
+        "Response": "Take ginger-cumin tea, eat small meals, and avoid snacking between meals.",
+        "Context": "illness digestion"
+    },
+    {
+        "Instruction": "What is a yogic practice to reduce fear and tension?",
+        "Response": "Practice Bhramari pranayama and guided meditation to release emotional blockages.",
+        "Context": "fear relief"
+    },
+    {
+        "Instruction": "What strengthens mental immunity?",
+        "Response": "Daily spiritual practice, sattvic food, and inner reflection build resilience.",
+        "Context": "mental immunity"
+    },
+    {
+        "Instruction": "What improves taste and salivation during COVID?",
+        "Response": "Chew clove or ginger, sip warm herbal tea, and maintain oral hygiene.",
+        "Context": "taste recovery"
+    },
+    {
+        "Instruction": "What helps rebuild strength after fever?",
+        "Response": "Rasayana like ashwagandha, nourishing meals, and early bedtime.",
+        "Context": "fever strength"
+    },
+    {
+        "Instruction": "What is advised for those with dry cough?",
+        "Response": "Licorice tea with honey and ghee softens the throat and calms vata.",
+        "Context": "dry cough"
+    },
+    {
+        "Instruction": "What does Ayurveda say about sneezing frequently?",
+        "Response": "It reflects irritation in nasal passages due to vata or kapha imbalance.",
+        "Context": "sneezing"
+    },
+    {
+        "Instruction": "What helps with nausea during COVID?",
+        "Response": "Ginger-lemon water, fennel seeds, and avoiding heavy food reduce nausea.",
+        "Context": "nausea"
+    },
+    {
+        "Instruction": "What improves immunity for frontline workers?",
+        "Response": "Chyawanprash, Tulsi, meditation, and strong daily routine are essential.",
+        "Context": "frontline care"
+    },
+    {
+        "Instruction": "What food is easiest to digest when recovering?",
+        "Response": "Khichdi with ghee and cumin or rice porridge is gentle and nourishing.",
+        "Context": "easy digestion"
+    },
+    {
+        "Instruction": "What is a simple ayurvedic remedy for congestion?",
+        "Response": "Inhale steam with tulsi and clove or apply warm sesame oil to the chest.",
+        "Context": "congestion"
+    },
+    {
+        "Instruction": "What reduces vata after long screen use?",
+        "Response": "Foot oiling, warm meals, silence, and regulated sleep restore balance.",
+        "Context": "vata from screens"
+    },
+    {
+        "Instruction": "What spice mix boosts digestion and immunity?",
+        "Response": "Trikatu (ginger, black pepper, pippali) taken with honey helps balance kapha.",
+        "Context": "spice immunity"
+    },
+    {
+        "Instruction": "What foods should be minimized during infection?",
+        "Response": "Cold, raw, and dairy-heavy meals should be reduced to prevent kapha buildup.",
+        "Context": "diet restriction"
+    },
+    {
+        "Instruction": "What improves focus after recovery?",
+        "Response": "Use brahmi, reduce overstimulation, and keep a structured daily plan.",
+        "Context": "focus"
+    },
+    {
+        "Instruction": "What is the role of sattva in immunity?",
+        "Response": "A sattvic mind promotes mental clarity, calmness, and inner strength.",
+        "Context": "sattva"
+    },
+    {
+        "Instruction": "What is a good afternoon immunity drink?",
+        "Response": "Warm tulsi-ginger tea with cinnamon keeps kapha in check and boosts energy.",
+        "Context": "immunity tea"
+    },
+    {
+        "Instruction": "What helps prevent relapse after recovery?",
+        "Response": "Regular rasayana, consistent diet, and avoiding ama-forming foods.",
+        "Context": "relapse prevention"
+    },
+    {
+        "Instruction": "What relieves restlessness in children?",
+        "Response": "Daily routine, oil massage, and storytelling soothe their nervous system.",
+        "Context": "child balance"
+    },
+    {
+        "Instruction": "What is the ayurvedic perspective on social withdrawal?",
+        "Response": "It may indicate vata-pitta imbalance and should be supported with grounding practices.",
+        "Context": "social vata"
+    },
+    {
+        "Instruction": "What ritual helps reduce anger during isolation?",
+        "Response": "Apply rose oil to temples, sip cooling teas, and meditate on forgiveness.",
+        "Context": "anger"
+    },
+    {
+        "Instruction": "What helps sore muscles in mild fever?",
+        "Response": "Use turmeric, gentle massage, and warm bath with epsom salt.",
+        "Context": "muscle relief"
+    },
+    {
+        "Instruction": "What improves warmth and confidence?",
+        "Response": "Ashwagandha, cinnamon tea, positive affirmations, and structured goals.",
+        "Context": "confidence"
+    },
+    {
+        "Instruction": "What can be taken before meals to kindle appetite?",
+        "Response": "Ginger with a pinch of rock salt stimulates agni when taken before meals.",
+        "Context": "pre-meal remedy"
+    },
+    {
+        "Instruction": "What should be avoided before sleep for better immunity?",
+        "Response": "Avoid screens, heavy food, caffeine, and intense emotional content.",
+        "Context": "night routine"
+    },
+    {
+        "Instruction": "What boosts cheerfulness naturally?",
+        "Response": "Fresh air, rose tea, sattvic food, and creative expression elevate mood.",
+        "Context": "joy"
+    },
+    {
+        "Instruction": "What is the Ayurvedic remedy for dry skin in winter?",
+        "Response": "Massage with warm sesame oil and drink warm ghee with milk.",
+        "Context": "winter skin"
+    },
+    {
+        "Instruction": "What improves lung elasticity after infection?",
+        "Response": "Deep yogic breathing, Bhastrika, and vasa-based formulations help restore function.",
+        "Context": "lung elasticity"
+    },
+    {
+        "Instruction": "What improves clarity of speech in post-COVID?",
+        "Response": "Licorice, ghee, and voice rest restore vocal energy.",
+        "Context": "voice care"
+    },
+    {
+        "Instruction": "What helps reduce palpitations from anxiety?",
+        "Response": "Brahmi, rose water, slow breathing, and grounding herbs calm the heart.",
+        "Context": "palpitations"
+    },
+    {
+        "Instruction": "What is a spiritual ayurvedic remedy for grief?",
+        "Response": "Chanting mantras, rose oil, and journaling restore emotional balance.",
+        "Context": "grief"
+    },
+    {
+        "Instruction": "What strengthens ojas naturally?",
+        "Response": "Rest, love, trust, ghee, milk, and herbs like amalaki build ojas.",
+        "Context": "build ojas"
+    },
+    {
+        "Instruction": "What practice helps regulate emotional eating?",
+        "Response": "Mindful eating, ginger tea, sattvic food, and regular meals stabilize cravings.",
+        "Context": "eating"
+    },
+    {
+        "Instruction": "What ritual helps balance head heaviness?",
+        "Response": "Inhale eucalyptus steam, apply brahmi oil to scalp, and rest the eyes.",
+        "Context": "head relief"
+    },
+    {
+        "Instruction": "What improves flexibility in body post-sickness?",
+        "Response": "Gentle yoga, warm oil massage, and hydration enhance muscle mobility.",
+        "Context": "body recovery"
+    },
+    {
+        "Instruction": "What supports kid's immunity during school stress?",
+        "Response": "Regular abhyanga, tulsi tea, proper meals, and early sleep.",
+        "Context": "child stress"
+    },
+    {
+        "Instruction": "What helps with chest discomfort from mild infection?",
+        "Response": "Apply castor oil, do light yoga, and take warm tulsi-basil decoction.",
+        "Context": "chest tightness"
+    }
+]

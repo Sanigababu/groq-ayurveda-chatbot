@@ -4,6 +4,12 @@ import streamlit as st
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
 import chromadb
+import sys
+import types
+
+# Prevent Streamlit from inspecting torch.classes
+import torch
+torch.classes = types.SimpleNamespace()
 
 # Load environment variables
 load_dotenv()

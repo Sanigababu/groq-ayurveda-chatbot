@@ -49,7 +49,12 @@ collection = client.get_or_create_collection("chat_chunks")
 # If forced, delete existing collection content
 if FORCE_REBUILD:
     print("⚠️  Force rebuild enabled: Deleting existing documents...")
-    collection.delete()
+    ids = collection.peek()["ids"]
+    if ids:
+        collection.delete(ids=ids)
+        print(f"🧹 Deleted {len(ids)} existing documents.")
+    else:
+        print("📭 Collection is already empty.")
 
 # Check existing documents
 existing = collection.count()

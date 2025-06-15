@@ -1,7 +1,7 @@
 import os
 import json
-import gradio as gr
 import requests
+import streamlit as st
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
 import chromadb
@@ -15,7 +15,7 @@ HEADERS = {
     "Content-Type": "application/json"
 }
 
-# System prompt for Ayurvedic Assistant
+# Ayurvedic assistant system prompt
 prompt_instructions = """
 You are an Ayurvedic Assistant, an expert in traditional Indian medicine and holistic wellness.
 
@@ -33,14 +33,14 @@ Guidelines:
 - Emphasize this is not a replacement for professional medical care.
 """
 
-# Load embedding model
+# Load SentenceTransformer
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Load ChromaDB
 client = chromadb.PersistentClient(path="./chroma_store")
 collection = client.get_or_create_collection("chat_chunks")
 
-# Search function
+# Search top docs
 def search_docs(query: str, top_k: int = 3, max_doc_chars: int = 300):
     query_embedding = model.encode([query])[0]
     results = collection.query(
@@ -50,26 +50,34 @@ def search_docs(query: str, top_k: int = 3, max_doc_chars: int = 300):
     documents = results.get("documents", [[]])[0]
     return [doc[:max_doc_chars] for doc in documents if doc]
 
-# Chat function
-def chat_fn(message, history):
-    # Add user message to history
-    history = history or []
-    history.append(("user", message))
+# Streamlit App
+st.set_page_config(page_title="Ayurvedic Assistant 🌿", layout="wide")
+st.title("🌿 Ayurvedic Assistant")
 
-    # Get context from ChromaDB
-    docs = search_docs(message)
+# Chat history in session state
+if "history" not in st.session_state:
+    st.session_state.history = []
+
+# User input
+user_input = st.chat_input("Ask me anything related to Ayurveda...")
+if user_input:
+    # Store user message
+    st.session_state.history.append({"role": "user", "content": user_input})
+
+    # Retrieve context
+    docs = search_docs(user_input)
     context = "\n".join(docs)[:3000]
 
-    # Build message list for Groq API
+    # Prepare message list
     messages = [{"role": "system", "content": prompt_instructions.strip()}]
-    for role, msg in history:
-        messages.append({"role": role, "content": msg})
+    for entry in st.session_state.history:
+        messages.append(entry)
     messages.insert(1, {
         "role": "system",
         "content": f"Use the following Ayurvedic knowledge base for reference only. Do not quote or reference directly:\n\n{context}"
     })
 
-    # Send to Groq
+    # Call Groq
     try:
         response = requests.post(
             GROQ_API_URL,
@@ -80,9 +88,12 @@ def chat_fn(message, history):
     except Exception as e:
         reply = f"❌ Error: {e}"
 
-    # Add assistant reply to history
-    history.append(("assistant", reply))
-    return reply, history
+    # Store assistant reply
+    st.session_state.history.append({"role": "assistant", "content": reply})
 
-# Interface
-gr.ChatInterface(chat_fn, title="🌿 Ayurvedic Assistant", theme="soft").launch()
+# Display conversation
+for entry in st.session_state.history:
+    if entry["role"] == "user":
+        st.chat_message("user").markdown(entry["content"])
+    else:
+        st.chat_message("assistant").markdown(entry["content"])

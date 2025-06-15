@@ -1,4 +1,6 @@
-gradio
+streamlit
+fastapi
+uvicorn
 requests
 python-dotenv
 chromadb

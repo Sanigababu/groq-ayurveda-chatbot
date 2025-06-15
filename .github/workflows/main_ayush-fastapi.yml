@@ -62,11 +62,11 @@ jobs:
         run: unzip release.zip
 
       - name: 'Deploy to Azure Web App'
-  uses: azure/webapps-deploy@v3
-  id: deploy-to-webapp
-  with:
-    app-name: ayush-fastapi  
-    publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-    package: release.zip
+        uses: azure/webapps-deploy@v3
+        id: deploy-to-webapp
+        with:
+          app-name: ayush-fastapi  
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          package: release.zip
 
 

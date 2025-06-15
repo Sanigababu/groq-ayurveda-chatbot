@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'Ayush-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61DFB096B2A146DDA10740A7DCEABFC1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9B7A5631960430680A7810C4C8FE0E9 }}

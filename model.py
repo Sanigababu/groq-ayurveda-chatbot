@@ -1,5 +1,6 @@
 import os
 import json
+import sys
 from sentence_transformers import SentenceTransformer
 import chromadb
 from chromadb.config import Settings
@@ -7,6 +8,9 @@ from chromadb.config import Settings
 # Setup
 DATA_DIR = "data"
 chunks = []
+
+# Optional CLI flag: --force
+FORCE_REBUILD = "--force" in sys.argv
 
 # Load and parse all JSON and JSONL files
 for filename in os.listdir(DATA_DIR):
@@ -37,15 +41,28 @@ for filename in os.listdir(DATA_DIR):
 print("🔄 Loading model...")
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
+# ChromaDB client and collection
+print("🧠 Connecting to ChromaDB...")
+client = chromadb.PersistentClient(path="./chroma_store")
+collection = client.get_or_create_collection("chat_chunks")
+
+# If forced, delete existing collection content
+if FORCE_REBUILD:
+    print("⚠️  Force rebuild enabled: Deleting existing documents...")
+    collection.delete()
+
+# Check existing documents
+existing = collection.count()
+if existing > 0 and not FORCE_REBUILD:
+    print(f"✅ Skipping embedding — {existing} documents already in collection.")
+    sys.exit(0)
+
 # Embed
 print(f"🔄 Encoding {len(chunks)} chunks...")
 embeddings = model.encode(chunks, batch_size=32, show_progress_bar=True)
 
 # Store in ChromaDB
-print("🧠 Storing in ChromaDB...")
-client = chromadb.PersistentClient(path="./chroma_store")
-collection = client.get_or_create_collection("chat_chunks")
-
+print("💾 Storing in ChromaDB...")
 for i in range(0, len(chunks), 50):
     batch_chunks = chunks[i:i+50]
     batch_embeddings = embeddings[i:i+50]

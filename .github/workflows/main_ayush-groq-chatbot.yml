@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'ayush-groq-chatbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FBF060B3D3E94C9E90937E516C7B674E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA23747D3F7940058F7BBE29F67067D9 }}

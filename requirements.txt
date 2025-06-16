@@ -1,11 +1,6 @@
-streamlit
 fastapi
 uvicorn
 requests
 python-dotenv
-chromadb
-sentence-transformers
-torch
-protobuf==3.20.3
 
 

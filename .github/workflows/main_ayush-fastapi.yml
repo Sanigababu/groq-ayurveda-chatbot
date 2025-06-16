@@ -22,17 +22,12 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-
-      - name: Zip your app for Azure
-        run: |
-          zip -r app.zip . -x "venv/*" ".venv/*" ".git/*" "__pycache__/*"
+      - name: Install dependencies (for testing only)
+        run: pip install -r requirements.txt
 
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v2
         with:
-          app-name: ayush-fastapi-v2  # 🔁 Change to your real app name
+          app-name: ayush-fastapi-v2  # ← Use your actual Azure app name
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-          package: app.zip
+          package: .  # ← Deploy the entire repo (including requirements.txt)

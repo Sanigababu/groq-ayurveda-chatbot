@@ -60,3 +60,6 @@ def chat(chat_req: ChatRequest):
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+@app.get("/health")
+def health():
+    return {"status": "ok"}

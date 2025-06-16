@@ -10,16 +10,16 @@ on:
       - main
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Deploy to Azure Web App
+      - name: Deploy to Azure
         uses: azure/webapps-deploy@v2
         with:
-          app-name: ayush-fastapi-v2  # Use exact app name
+          app-name: ayush-fastapi-v2  # ✅ Use your real Azure app name
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-          package: .  # Deploy entire repo
+          package: .  # ✅ Deploy full folder so Oryx sees requirements.txt

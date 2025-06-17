@@ -4,7 +4,8 @@ requests
 python-dotenv
 sentence-transformers
 chromadb
-torch
+torch==2.2.2+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
 protobuf==3.20.3
 
 

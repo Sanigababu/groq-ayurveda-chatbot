@@ -5,12 +5,14 @@ import traceback
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from dotenv import load_dotenv
-from sentence_transformers import SentenceTransformer
-import chromadb
 
-app = None
+print("🔄 Starting application setup...")
 
 try:
+    from sentence_transformers import SentenceTransformer
+    import chromadb
+    print("✅ Dependencies loaded")
+
     # Load environment variables
     load_dotenv()
     GROQ_API_KEY = os.getenv("GROQ_API_KEY")
@@ -30,12 +32,13 @@ try:
     print("🔁 Loading model...")
     model = SentenceTransformer("all-MiniLM-L6-v2")
 
-    print("🔁 Connecting to ChromaDB...")
+    print("🧠 Connecting to ChromaDB...")
     client = chromadb.PersistentClient(path="./chroma_store")
     collection = client.get_or_create_collection("chat_chunks")
 
     # FastAPI setup
     app = FastAPI()
+    print("🚀 FastAPI App is ready!")
 
     class ChatRequest(BaseModel):
         message: str
@@ -62,6 +65,7 @@ try:
             reply = res.json()["choices"][0]["message"]["content"]
             return {"reply": reply}
         except Exception as e:
+            print("❌ Error while calling Groq API:", e)
             raise HTTPException(status_code=500, detail=str(e))
 
     @app.get("/health")
@@ -69,7 +73,7 @@ try:
         return {"status": "ok"}
 
 except Exception as e:
-    print("❌ Error during FastAPI app startup:")
+    print("❌ Error during startup:")
     traceback.print_exc()
     app = FastAPI()
 
